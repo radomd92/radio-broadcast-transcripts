@@ -1,0 +1,8 @@
+# m h  dom mon dow   command
+00      *       *       *       *       /mnt/radio/scripts/bbc.sh
+00      *       *       *       *       /mnt/radio/scripts/kzoo.sh
+00      *       *       *       *       /mnt/radio/scripts/rdb.sh
+
+01      *       *       *       *       /mnt/radio/scripts/play-bbc.sh
+#01      *       *       *       *       /mnt/radio/scripts/play-rdb.sh
+#01      *       *       *       *       /mnt/radio/scripts/play-kzoo.sh
