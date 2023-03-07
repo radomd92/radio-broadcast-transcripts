@@ -1,0 +1,750 @@
+TRANSCRIPTION: BBC4/2023-02-23-17H00M.MP3
+--------------------------------------------------------------------------------
+ This week they're looking to the stars. That's coming up in a couple of minutes
+here on Radio 4. Last night, investigators say their primary focus is the
+dissident Republican group, the new IRA. Liam Kelly, the chair of the Police
+Federation of Northern Ireland, says the new IRA are dangerous. They've had a
+diminished threat because the security services in conjunction with the PSNI and
+our partners have been able to infiltrate the group and we've had a number of
+successes over the last few years in relation to them but they still have a
+cohort of support and experience and they are obviously posing the threat and
+that manifested itself last night. Official figures show that a record number of
+asylum seekers are waiting for a decision on their case. There are 166,000
+people currently in the backlog. Of those, 110,000 have been waiting more than
+six months. Ambulance handover delays outside hospitals in England have jumped
+to their highest weekly level since early January. A quarter of ambulance
+patients waited at least 30 minutes last week to be transferred to A&E teams. 10
+percent of patients had to wait over an hour. Ukraine's president Volodymyr
+Zelensky has said he would welcome a chance to meet representatives from China.
+Mr Zelensky didn't give any details of how this might happen but he was speaking
+a day after the most senior Chinese diplomat Wang Yiyi visited Russia. Mr Wang
+praised Beijing's relationship with Moscow but also offered to mediate in the
+war with Ukraine. Staff working at the European Commission have been ordered to
+remove the TikTok app from their phones and many other devices which run
+official EU programmes. TikTok, which is owned by the Chinese company ByteDance,
+has faced numerous allegations that it harvests users' data and hands it to the
+Chinese government. BBC News. BBC Inside Science is in half an hour and this
+week they have a focus on Antarctic sea ice. Earlier this week ice coverage hit
+a record-breaking low so we'll hear what this means for the continent and the
+rest of the world. Also we'll find out how underwater microphones are helping
+scientists learn more about the human impact on marine wildlife. We'll join
+Victoria Gill at half past four. But first here on Radio 4 it's time to join
+those infinite monkeys. I'm Robin Inks and I'm Brian Cox and this is a new
+series of The Infinite Monkey Cage. And today we are in Australia again of
+course we're in Australia because as many Australians will know when you kind of
+got a sitcom in Britain that eventually is starting to fall apart and reach the
+end of its life it comes to Australia. So are you being served Tony Hancock,
+love thy neighbour, all of them eventually found themselves here and so do we. I
+wouldn't say we're a sitcom. There's no place for comedy in science that's why
+we work well together actually. Meow, it turns out Schrodinger the cat was
+alive. That was my first and only ad lib of the evening. Which is weird because
+when I hear you talking about physics I think you're making it all up. One of
+the great joys of the southern skies is the view afforded of our galaxy the
+Milky Way. The southern hemisphere points directly towards the galactic centre
+and the rich star clouds of Sagittarius the constellation of the archer. And of
+course that's one of the reasons that we've picked that particular one the
+constellation of the archer because anyone here who is a regular radio fall
+listener knows that anything that involves the everyday story of country folk
+even if it is from an astronomical point of view wins over an audience. And this
+by the way was a joke that Brian suggested that we put in and he said it's
+really going to work and that shows. Both of us are doing heavy lifting but very
+much in different genres here. Does anyone have a clue what the archers is? Yeah
+I see so it just wasn't funny then. You all got all the concepts and older
+background. I think it was because you said archer singly. Yeah I think that's
+one of the problems. It was the singular rather than the archers which suggests
+the everyday story of country folk. I think you find it was your delivery
+initially that destroyed that. But it's not called it's the archer isn't it?
+Yeah I know that's the problem you see this is the issue with doing jokes and
+mixing them with science is because science has to be accurate very often that
+means it wears comedy involves misunderstandings right? Whereas you go a
+misunderstanding I cannot have that that is not the Schwarzschild radius at all.
+But it is if we're going to do the black hole joke. Well we can't do the joke
+then. If you want to talk about science what you've employed is the Schuller
+principle and that's a very specific archer's joke. There was a character called
+Schuller in it for many years. Well I'll tell you what we slowly got a laugh but
+you get a lot of respect you get a lot of respect for being niche. We don't talk
+about the archers in Sydney for an Australian audience. Now you do your next bit
+which is you sounding a bit like Carl Sagan the deeds of heroes and guards in
+the skies. Yep go on. The night sky is a place of beauty and legend the stars
+have always told the stories of origins and endings and the deeds of heroes and
+guards. But what stories do the stars tell us today? What secrets do they reveal
+when we gaze at them not with human eyes but with the telescopes and instruments
+of the 21st century? Today we are at the Powerhouse Museum in Sydney and with us
+to discuss the magic of the southern sky and its stories past present and future
+we are joined by two astrophysicists and the 11th greatest stand-up in the world
+and they are. I'm Kirsten Banks I'm an astrophysicist and science communicator
+and the weirdest thing I've seen in the night sky is while working at Sydney
+observatories a tour guide I saw this really bright light thinking maybe it was
+Venus but it was in the wrong spot so then my undergrad brain went am I seeing a
+star exploding? No it was just a plane. I'm the Vika and I'm a stellar
+astrophysicist and a senior lecturer at Macquarie University. Something in the
+night sky that really touched my heart was the transit of Venus in 2004. Now the
+transit of Venus is very special because it is an event that you know back in
+the 1770s when Captain James Cook came looking for it in the Pacific Ocean he
+didn't really see the transit as well but he did lend up mapping or rather
+discovering Australia. So the transit of Venus helped him sort of spot Australia
+and in my case I was a student back in India in 2004 I saw the transit of Venus
+and I landed up in Australia for my PhD. I'm Ross Noble I'm a stand-up comedian
+and the weirdest thing I've ever seen in the night sky was a strange pulsating
+orb. I was in Wales I won't tell you what I was doing but I was on a Welsh
+mountain in the dark. I was having a wee I'll be honest I was having a wee and
+behind me a strange red orb started pulsating. I looked up thinking it was a UFO
+right it was the red light on top of a wind turbine and every time the blades
+went round it went on and off not a UFO at all. I've redeemed it with the police
+we've told you before. Yes you're right stop urinating on that slide. It's also
+completely inaccurate because it's not in the sky then is it it's on top of a
+wind turbine so it doesn't count. It was bloody high though. Hang on sorry first
+question from a layman's point of view where does the sky begin? I've gotten
+this question on TikTok many many times on TikTok yes sorry it didn't it wasn't
+accompanied with a dance. That's the secret you're gonna dance while you're
+doing your science. Where does the sky because I've got a big ladder. That's a
+good start. I've got a big ladder. When Jimi Hendrix said excuse me well I
+kissed the sky is it possible to do that with a ladder? Well see I would argue
+that the sky starts where Rayleigh scattering happens where we get the blueness
+of the sky and that happens in some kilometers above the ground. How many
+kilometers? Some. Some yes right where the blueness starts. I'm from the
+northeast of England. I didn't see blue sky. Technically that means there's no
+sky. How about anything above the horizon? That could be sky. That's very far
+away though. Yeah you see how difficult it is doing this show. I was hoping we
+were going to deal with the death of stars but I don't think we're really going
+to get beyond the end of the pier are we? Anyway this is our panel. Also by the
+way can I just say to me I was impressed when you were talking about Captain
+Cook and the transit Venus. The difference between when you came here and he did
+is you worked out you hadn't discovered it. That there were people here already
+and you weren't the first. Very true. Yes. Kirsten we'll start off really with
+you grew up under Australian skies and I think for a lot of people they think
+the sky wherever you are in the world is the sky and you'll get roughly the same
+thing and then you come to the southern hemisphere and you discover that this is
+a totally different picture. Oh yes I believe we have the best view of the night
+sky here in Australia and other southern hemisphere countries of course but
+that's because like you said at the start Brian that we have the most privileged
+position where we look directly at the center of the galaxy and there are so
+many stars but also not stars there as well where you can see some really
+interesting patterns within the dusty bands of our Milky Way galaxy. And Davika
+many people listen to this will not have seen the majesty of the southern sky so
+could you take us through some of the highlights that you see? Sure so I grew up
+in the northern hemisphere in the southern parts of India so I was you know very
+familiar with the northern sky and then when I came to Australia the first thing
+I noticed was everything was upside down. This is down under and everything.
+Orion one of all our favorite constellations was upside down and I was like why
+is the hunter upside down and I realized well that's Australia it's just
+different. But you know the southern sky as Kirsten said is just spectacularly
+beautiful though it confuses you in terms of orientation because the other thing
+that you only see in the southern hemisphere is the closest star to our sun
+which is Alpha Centauri. You cannot see this in the northern hemisphere you know
+you have our sun and we're all happily you know enjoying planet earth for as
+long as it lasts. But then there's another star Alpha Centauri so there's a lot
+of new objects that you can't see in the southern hemisphere that you can. Now
+one that you can see in both hemispheres is Andromeda which is the closest
+galactic system and you can see that in the northern hemisphere but for three
+months which is kind of nowish you can see it in the southern hemisphere. So
+there's a spectacular system. It feels to me like if you have if anyone here has
+ever been one of those like universal studio tours I would always pick the wrong
+side of the ride to go on. So Jaws would always be coming out of the water on
+the right hand side when I was sat on the left. The Bates Motel would always be
+on the left hand side if I was on the right and that's kind of what it's like
+being in the northern hemisphere isn't it we're looking right at the Arse end of
+the galaxy and there's a great view down here isn't there I mean that's the
+thing is we see a very different sense of even the potential of the stars. For
+Radio 4 listeners Arse end means outer spiral arm. Arse end was a very popular
+sitcom in the late 1950s. Please welcome Kenneth Horn with Arse End. And a
+lovely suburb of London as well. It's weird isn't it because you said about
+before about Orion being upside down. Yeah upside down and I thought the first
+time I came here and I saw that because that is the one that you notice and you
+think thank god he's got a belt on his trousers. That's all the Australian beer
+that's what it is. And Kirsten it's interesting we refer to Orion because that's
+one of the legends is Orion the hunter but you're a we're a jury woman and so
+you grew up with different stories of the stars so could you take us through
+some of the stories in the sky. I would actually love to share with you one
+about Orion but we call it by a different name in Wiradjuri we call it Byami.
+It's the creator spirit but what's interesting about this is it's the exact same
+stars creating the picture of a man but to Wiradjuri perspective it's the same
+orientation as Orion upside down which seems weird when you first think about it
+like we're on the you know the right side of the world and it should be the
+right way up on this right side of the world but it's not it's upside down and
+that links in to one of the stories where Byami is chasing an emu which we call
+Dinawan and as he's chasing Dinawan the emu he trips over a log and falls flat
+on his face. Not so great for the creator spirit but that is reflected in the
+stars. If you watch Orion or the stars of Orion the stars of Byami setting in
+the western sky he sets head first into the ground just like falling into the
+ground like the story. It's illustrated in the stars. That's really that's
+interesting that you would build the stories around an upside down character.
+And you know that's really good because like he was chasing the emu whereas in
+the northern atmosphere we have an emu that chases people with an old man called
+Rod Hull. I think they're a rich aesthetic. That's astronomy really it's looking
+up at the sky and trying to figure out what's out there so you know different
+cultures looked at it through different times and they interpreted the way they
+saw it. The emu is the only constellation that is not made solely of stars.
+That's right in Wiradjuri we call it Gugoman and if you look for the southern
+cross one of the most iconic constellations in the southern hemisphere in a
+place with very little light pollution you're not going to get it here in Sydney
+unfortunately. But just below the southern cross you have this dark triangle
+shape of dust that we call the Kolsak nebula in western astronomy but it makes
+the head of Gugoman the head of the emu. And as you continue along the sky
+towards the center massive bulge of our galaxy you have this thin band that
+makes a long neck of the emu and then the bulge of the galaxy is the body of the
+emu and its position in the night sky indicates to us as Wiradjuri people when
+is the right time to go looking for emu eggs. So when it's kind of just coming
+up above the horizon after the sun has gone down it kind of looks like an emu
+running along the horizon. So that maps and mirrors down onto the ground that
+the Dinawan, the ground emu are running around looking for a mate. But then
+later in the year as the earth moves further around its path around the sun that
+center of our galaxy rises higher and higher into the sky and then our
+perspective changes again. Instead of it being a body of an emu anymore it's now
+an emu egg in a nest and that tells us that now's the right time to go looking
+for emu eggs. It seems that a lot of first nation astronomy has been ignored
+until more recently and there's a lot more books coming out of this and it seems
+that there was a lot of first nation astronomy was kind of dismissed because it
+was interpreted as being literal as opposed to the fact that's the way we
+remember by having these vivid tales. Absolutely much easier than any textbook.
+To the untrained eye people who aren't astronomers you will look at the sky and
+you see points of light and all those points of light basically look the same.
+So could you take us through the differences that are up there? Right how much
+time do we have for this program? There are many types of stars out there. Have
+you got any plans for Thursday? Or Friday? And as we also know time is an
+illusion possibly a construct so we can ignore it in time. Oh fantastic. So
+let's start at the very beginning. The sun is a star. It's a pretty ordinary
+star. It's currently burning hydrogen in its core, turning it into helium. It's
+a main sequence star. Most of the stars we see in the night sky are in this
+category of main sequence. But eventually when stars like our sun run out of
+that nuclear fuel in their cores the core itself will shrink because it's no
+longer being held up by this pressure of nuclear furnace and it starts to grow
+bigger and bigger and turn into a red giant. And eventually depending on what
+type of star you are you'll go through a different category or a different
+journey of life. If you're more massive you have more mass as a star you will
+live fast, die young, massive stars do it well. And you'll turn into, thank you,
+I'm sometimes funny too. But you have these big red giant stars. There are
+different categories of red giant stars. If you're a red giant branch which is
+like a branch on this graph that we show in astronomy. You have your red clumps
+which are a clump of red stars in the big graph as well. We're really good at
+naming things in astronomy. Is that the technical term a red clump? Yes
+literally called a red clump. That is my entire PhD on the red clump stars. Yes
+that's what you found in the plug after Ed Sheeran's been around. Come on man. I
+love it. The speed you drag it down is incredible. That even had a visualization
+of someone being dragged down as well as you doing that. Yeah it's the best
+because it said I can be funny too. You were like no way I've got an Ed Sheeran
+gag now. Red clumps the best thing I've ever heard. Oh yes. So what is a red
+clump? A red clump star is a type of red giant that is burning helium in its
+core. So it's gotten rid of all the hydrogen. The cores kind of just hung out
+just being helium for a little while while a shell of hydrogen fusion is
+happening outside the core creating more helium that's heavier than hydrogen so
+it's falling down into the core until it gets to a point where it's I believe
+about 1.4 times the mass of our sun and then that helium ignites in what we call
+a helium flash. Again we're really good at naming things in astronomy and then
+when it's burning helium in its core that's a red clump star. And don't feel bad
+by the way just about astronomy is naming things. Look at biology blobfish. All
+that evolution and what you end up being named blobfish. It's not fair is it? I
+must say it's quite accessible though. It looks like a blob. It's a fish. And it
+doesn't look quite like a blob as well. But doesn't the blobfish when it's in
+the water it only blobs when you take it out of the water. Yeah it's very
+disappointing. Yeah and when it's floating it's all right. Yeah it's
+magisterial. It's exactly what you don't want. This is a show about astronomy.
+Stop talking about it. Let's get back to the red clump. Like a star's dead and
+then but you could the light takes so long. I don't need to explain this to you
+but. No Russ I want you to come on. Go ahead and try. You amuse me. Kirsten did
+jokes you. I'm just saying. That would be deeply unsettling if your gran died
+but you could still see the light coming off her. At the funeral you go do you
+want a sandwich. Give it a thousand years I'll be gone. Right can I just say
+you've never looked more confused. I'm just trying to work out how to steer it
+back. I think you've been steering it back all the time. It's absolutely fine.
+Davika your research is based on first of all measuring the composition of
+stars. Could you run through how it is that just from the light a point of light
+in the sky we can understand exactly what that star's made of. So like I said
+before stars have a chemical composition and one of the long standing research
+questions we have is where do the elements in the universe come from. And when I
+mean elements if I take this glass of water it's got hydrogen and oxygen in it.
+The question is where is this hydrogen coming from. Where is this oxygen coming
+from. And like I said not all stars make the elements at the same time. As you
+know Kristen said young stars are just making hydrogen into helium. They're not
+making carbon and so on. So the question that Brian asks me is how do we know.
+So I spend all my day looking at starlight and turning it into rainbows. That's
+my life guys it's beautiful. And the way I do this is I stare at a star and the
+starlight comes to me and I put it through a prism and that prism breaks up this
+white light into the colors of the rainbow. That's what it does right. White
+light through a prism gets broken down to the colors of the rainbow. But now
+imagine my star has helium or neon or argon or whatever the chemical element is.
+When the photon from the core of the star is passing through this element some
+of the energy of the light particle is absorbed by that element. So what happens
+is when I look at my rainbow I either see dark lines because some of the light
+has been absorbed by that particular element. What we can do and this is
+measured in laboratories and through atomic physics we can tell the missing
+lines to great precision where I know when a line is missing I know which
+element it represents. And in some cases the line's not missing or the light
+particle is energized. So the light can either be absorbed by the element or it
+can be energized by the element. And that's going to show up in my spectra as
+what I call an absorption line or an emission line. In my beautiful rainbow it's
+going to be a bright line or a dark line. It's simple. It's so cool with
+studying stars like that. Like we're getting information not from the light that
+they emit but from the light they don't emit. That's right. So basically
+elements have a chemical fingerprint just like you and I. Very very unique. I
+just got this image of you like people walking past your lab and the door's open
+and it's just rainbows flying out the window. Oh she's exploring it in my little
+pony again. It's either astronomy or it's the lucky charms factory. Exactly. I
+can't be sure which. We should put a round up there I think. There's just one
+final question. So I know you're just finishing your PhD. So what is the big
+question that you would hope to answer? The ultimate question is why are we
+here? And to answer that is answering the question of where are the elements in
+the galaxy? And to do that we study the stars and we can study very specific
+types of stars that allow us to do that really really well. That's those red
+clump stars. But the problem with red clump stars they look very similar to
+their red giant branch imposters. We can't use those as effectively to map the
+galaxy. So what I'm trying to do is to distinguish one from the other using
+spectra, using spectroscopy. So your why are we here is a kind of geographical
+question basically. Why are we here? Why are we in this part of a galaxy rather
+than the bigger philosophical question of why are we here? I tend to digest that
+the first one better than the first one. Yeah I'd say you've got a lot more
+chance of success to be quite honest. Philosophy is moving slower than we might
+have hoped. To be equal what about for you? What is the big question you would
+like to hope that we can understand within your working life? I think it's
+really understanding how galaxies evolve with time through the basic building
+blocks which are stars. So the big question is really trying to understand the
+chemical composition of the universe starting from the basic building blocks
+stars. And we don't know a lot of it because of the diversity. It may seem like
+well yeah we know these stars make carbon but there's so many internal
+complexities. If you take a galaxy and you map the chemical composition of it
+it's not going to be a straight line for every element. And even the same group
+of stars some of them will make carbon or some element and some of them will
+decide now I'm not going to show up today and I'm not going to make this
+element. And the question is why? Yeah I think it's such a wonderful picture
+that the galaxy this thing as you said 100 000 light years across is a big
+chemistry set. Yes it is. It's incredibly complicated. That we don't quite
+understand. We understand it by and large but the intricacies of it is what we
+don't understand. See that's the worrying thing though. Anyone here who if they
+were a kid was given a chemistry set. What was the first thing you did? How do I
+make everything explode? Which means that we might not be the people who should
+be responsible for the chemistry set. Don't worry the universe explodes just
+fine by itself. Okay that's good. Did you want to know the question I'm working
+on? I was about to say Ross. Ross has your big question changed from what you've
+heard tonight? No I'm still the same. I'm still working on my big question from
+my in my research is if you were racing centaurs right would you just have them
+racing normally or would you have miniature jockeys on them with horses heads?
+No. Where have you got to so far? To be honest with you I'm finding it hard to
+source the centaurs. Yeah. I'm using regular horses with papillomashy human
+heads. So you're hoping this will be an observational science and not just
+theoretically? Yes to be honest when I when I do it theoretically the people at
+the bus stop move away quickly. To be honest I remember when you had two minor
+tools on a unicycle that was disaster enough wasn't it? Yeah they weren't fun
+with research anymore. The people at the center. The centaur center? The centaur
+center. Is that the central centaur center? That's right yes. What would you...
+No no no Brian don't go further with this don't. Well no I'm intrigued now. If
+one of the two possible outcomes you described were shown to be which one would
+you hope would turn out to be the correct answer? Well I would hope. I would
+hope. I mean obviously you've got to decide do you put a jockey's hat on the
+human head of the centaur? Yes. You know. Technically they've got a horse's body
+but human head so that's the first thing. But that's not an observational
+question that you choose that. Do you choose or do they choose? They've got a
+human brain you know horse's body. Right. Yeah. To be honest I was even more
+excited when you got that cyclops to play darts. The monocular nature of it when
+he does change its ability doesn't it? Yes. Stop deflecting him. This is why
+Brian is the greatest popular scientist because a lot of people who are very
+intelligent would go shut up Ross. Yeah. I'm just trying to pin it down. What
+you have to understand about science is it's just loose we don't know the
+answer. It's okay Ross. What you need to say here is that's beyond the scope of
+this research. Exactly. Then move on. Well anyway we'll be following up on
+Ross's centaur centre research in the next series. We won't. We ask our audience
+a question as well. What is the most improbable thing you would like to be
+discovered deep in the universe? And here says a strawberry seen to a cat. Knock
+knock and the cat replying open the bloody box and find out. Lizzie wants a
+cocktail bar with hot aliens. Is there one of those in Sydney? You know. I think
+that's a cocktail. Can I have two hot aliens? Space cats with laser eyes. You
+know when your eyesight's not very good and you have the laser put in to fix the
+eye? Would that make the cat's eyes better? If they had lasers coming out of the
+eyes would it make the eyes better or worse? You said that's so much like an
+optician. Better or worse? Can I ask you again? Puss in boots. Better or worse?
+Laser cat. Better or worse? John said dark side of the moon on the dark side of
+the moon. Took me a while. He wants to find the Pink Floyd album on the dark
+side of the moon. I keep meaning to ask you this as well. What happens if you
+put a werewolf on the moon? The dark side of the moon isn't dark. No no he's not
+talking about that. If it's on the dark side of the moon it will be perpetually
+human. If it's on the other side of the moon it will be a perpetual lycanthrope.
+But it wouldn't be seeing the moon it would be seeing the sunlight. No no it
+doesn't matter the moon is always going to be full though isn't it? But it is
+because you're going to be on the moon. Can you explain to him why what he's
+doing? No no can I just tell you just so you know even though it's night I'm
+still able to move around and see things. No but I'm just saying that it's not
+night all the time on the dark side of the moon. No no it doesn't have to be
+night to be a werewolf. God you don't know anything about werewolves. Yet
+another enormous gap in your knowledge. No but there's no difference. You said
+it was on one on the dark side of the moon it'd be one thing and on the light
+side of the moon it'd be the other thing but it's not because there's no
+difference to the werewolf. I'm just saying tomorrow you're going to be in your
+lab all rainbows flying around you're not going to be able to concentrate on
+your important work you're always thinking about the moon. Anyway so uh thank
+you very much to everyone next week our guests include four humans and two
+spiders. We have our final show that we're recording Australia and we have an
+orb web spider and a huntsman both of which you're very keen on aren't you
+Brian? I don't like spiders. Love them absolutely love a spider. I'm so looking
+forward to having the spiders on because we had an episode once with a crow and
+you were really annoyed by the crow weren't you because the crow kept walking
+around and giving you a look that showed that it possibly was more intelligent
+than you because it had a little puzzle with this box that had to pull strings
+and it did it and you couldn't. Yeah well the spider does that I'm going to be
+extremely worried. My top tip on the spider that's right because I live in the
+countryside and there's a lot of big ones around and a lot of people they try
+and catch the spiders and flick them out but when you zoom in on a spider you
+know how they've got the hair they've got hairy creature spiders get a bit of
+hair gel or hairspray it doesn't kill them but it sets them. You just pick them
+up put them outside rains on them oh I'm off. There you go with that with your
+rockabilly spiders thank you very much everyone bye bye. John now nice again.
+The Infinite Monkey Cage was presented by Brian Cox and Robin Ince. The producer
+was Caroline Steele and it's a BBC Studios production and all the episodes in
+this series are available now on BBC Sounds. Radio 4's Lent Talks for 2023. Six
+reflective moments taking inspiration from the Lord's Prayer with meditations on
+forgiveness, fatherhood and finding heaven on earth. A collection of personal
+stories from the man who forgave his brother's killers to the writer escaping a
+war zone to facing despair but finding hope. Sharing experiences on faith,
+humanity and how the words of the Lord's Prayer have impacted people's lives.
+Lent Talks begins next Wednesday evening at 8 45 on Radio 4 and BBC Sounds. Now
+on Radio 4 here's Victoria Gill with this week's BBC Inside Science. Hello this
+week we are heading to the bottom of the world because there's some very strange
+and quite disturbing things happening in Antarctica. The impacts of climate
+change on this vast frozen continent are coming to light like never before
+thanks to satellite imaging, submarines, sensor laden robots and just scientists
+with their very insulated boots on the ground. In the last week it was announced
+that there's now less sea ice surrounding the Antarctic continent than at any
+time since the 1970s, a global warming low. And what happens in Antarctica
+doesn't stay in Antarctica. The vast white surface of sea ice reflects the sun's
+rays back into space. And as sea ice expands and contracts it drives ocean
+currents that regulate our whole climate system. It even drives the formation of
+storms. And the biggest source of uncertainty about future sea level rise,
+something that will affect all of us, is just how much of the continent's vast
+landlocked ice sheet will actually melt. It's a huge important and complicated
+climate puzzle. So luckily I have an excellent climate scientist here with me to
+help unpick it. Dr Tamsin Edwards is an expert in modelling climate change
+particularly for ice sheets and glaciers. She also co-presents Radio 4's 39 Ways
+to Save the Planet. Tamsin, thank you very much for joining us. Thanks for
+having me. So I'm going to get right into mine your expertise. We've talked
+about sea ice, we've talked about glaciers and ice sheets, land ice and sea ice,
+quite different things. What's the fundamental difference? The main thing really
+is that we have this floating ice on the surface of the oceans, that's the sea
+ice. So when that melts, because it's floating, it basically doesn't really
+contribute to sea level rise. But it is important, as you said at the top of the
+program, for things like reflecting the sun's rays away and keeping the planet a
+bit cooler up at the poles, up and down at the poles. And then the land ice is
+the ice that's on, well, on the land. So that's what we often call the ice caps.
+Scientists will call them ice sheets for Greenland and Antarctica, they're
+really huge ice caps. And then the glaciers in the mountains. And those are the
+ones that because they're not touching the water and floating in it already,
+when they melt due to climate change, they contribute to sea level rise. But
+what's happening with that glacier ice, with that landlocked ice, because we had
+some new information about Thwaites Glacier in West Antarctica just in the last
+week, didn't we, about its sensitivity to the temperature of the sea? And what
+new clues are we getting there? That's right. Antarctica is a really unique and
+special place in all kinds of ways. If we think about the glaciers around the
+world in the mountains and the Greenland ice sheet up at the top of the planet,
+those sitting on land, they kind of are mostly affected by the temperatures of
+the air. But Antarctica, a lot of it is sitting on bedrock that is underwater.
+So a lot of that ice is touching the oceans and therefore it's sensitive not
+only to what the air temperatures are, but the oceans as well. It isn't just a
+case actually of you warm the planet with the greenhouse gases as we are doing
+and the air temperature goes up and the ocean temperature goes up. There's all
+kinds of extra complications because of how the water currents are circulating
+around and the saltiness of the water and even the ozone layer, the hole in the
+ozone layer kind of contributes to the complexity. So it's a unique place, but
+incredibly complicated to understand. Is it right that we're kind of seeing a
+more linear sort of parallel climate change response in the Arctic? We're seeing
+it warming even faster than we previously thought, but the response to climate
+change in Antarctica has been a little strange and different and varied. That's
+right. What we worry about is once you start to go down these pathways of change
+in Antarctica, those regions can potentially undergo a kind of irreversible
+change. We set the ball rolling down the hill and those glaciers actually just
+keep melting and keep losing ice into the oceans and it becomes very hard to
+stop over hundreds or thousands of years. So that's the thing we're really
+worried about. We don't quite know how far down that path of setting that off we
+are, but if we do, the consequences for sea level rise and coastlines around the
+world are very, very serious. Yeah, and one of the people who is working on the
+ground in Antarctica in that frozen, isolated continent is British Antarctic
+survey scientist Nadia Frontier, who is a marine biologist at Rothera Research
+Station, has the job of diving in the extremely cold Antarctic waters to study
+the effect of climate change on marine life there. Nadia centres this audio
+snippet from a day working at Rothera. Today is Tuesday morning and the sun is
+shining high in the sky and reflecting off the snow like beautiful diamond
+particles. You can hear the sound of it crunching under our feet. I'm helping
+with conducting some long-term monitoring of the South Polar Skewer population,
+which is an oceanic seabird. So they're flying above us just over a beautiful
+ocean expanse of brash ice, so that's lots of bits of broken up, either glacial
+ice or bits of sea ice, but it's just littering the water and giving this
+gorgeous effect of a mosaic. And you can hear we've got the call of an adult
+skewer, which we are slowly approaching. So the beautiful thing about being a
+marine biologist in Antarctica is that you have the opportunity to work and help
+out on quite a variety of different research projects. So what I'm doing right
+now is something more terrestrial, so that's land-based in helping with this
+seabird monitoring. But as a marine biologist here, my main aim is to study the
+benthic community and that's everything that lives on the seafloor, ranging from
+seaweed to invertebrates such as sea cucumbers and anemones. And what I really
+love about being in a small research station is that you have the opportunity to
+help out with so many different projects and it just brings a beautiful
+collaboration and atmosphere that is so crucial for Antarctic science. So on our
+island, Adelaide Island, we are overlooking the West Antarctic Peninsula and
+that is to the south of us a beautiful chain of mountains, but also quite
+frustrating because we can't actually get there. We are separated by the Lebeth
+Fjord system, which is probably about five kilometers wide, so we are detached
+from the mainland, but in this fjord we can see a humpback whale that is
+logging. So logging is a behaviour that whales adopt when they are resting at
+the surface. We get quite a lot of humpback whales here and the polar summer
+starts from November to about February and it's really common to have at least
+five humpback whale sightings a day. And now we have just walked down from the
+Antarctic specially protected area onto a rocky beach, so you should be able to
+hear the sound of waves breaking against small fragments of icebergs. We are
+watching a Weddle seal swim in the water with its head up against the backdrop
+of absolutely huge striking tabular icebergs which are probably about 10 meters
+high. There's also a collection of Adelie penguins on the beach and one of them
+is trying to swim in the snow and behind us we've got a proud fur seal that is
+sitting on a rock. I do feel really lucky being a researcher here in Antarska
+because we have the opportunity to see habitats that first not many people do
+see and that are just absolutely incredible and fragile and it just drives this
+fire in me that the importance of protecting marine ecosystems is so great and
+because there are so few Antarctic researchers the data we collect and the
+projects that we do have even more of a weight. Oh and we've just seen a
+humpback whale logging again at the surface. That was Nadia Frontier in
+Antartica. So Tamsin why is it important we've had so much technological advance
+in our efforts to study Antartica but why is it really important to have people
+working on the ground in research bases there? It's really important, sadly I've
+never been myself. Have you not? That was going to be my next question. All my
+work is really in the kind of maths and computer modelling end of things so
+sadly I've never been an identifier if I ever will. I think it's important
+partly because I don't know if automated technologies could ever cover all of
+the incredible complexity of what scientists are doing. I mean they might drill
+for an ice core and then take it up and analyse it immediately in a laboratory
+in a tent in the field basically and robots and technology and so forth
+obviously break in those incredibly harsh conditions. I remember the project the
+Lake Ellsworth campaign I think it was their hot water boilers that they used to
+melt down water to drill into the ice with hot water. I think they kept
+breaking, they ran out of fuel. You know this is tough stuff you know people are
+hardy and often technology can let us down because of the incredible conditions.
+I think also just scientists need to see these places personally you know that's
+why I'd love to go one day. You want to see really the details what are the the
+crevasses you see in those ice shelves that you're trying to understand in your
+computer model. What are those lakes of meltwater look like over the over the
+ice shelves that might widen those crevasses and lead to that ice shelf breaking
+up. If you're studying you know biology what are those penguins doing you know
+you need to be there right. You can't just do it with satellites or robots. We
+need to see this place to really understand the uniqueness of the environment
+the way that it doesn't look like anywhere else. It's almost like its own planet
+isn't it. To really get that sense of wanting to take care of the place and why
+it's so important to preserve it and keep it pristine. Absolutely. What do you
+think people don't realise about it? I was reading about the ocean current
+circulation and how that impacts the temperatures in the UK and makes the UK
+kind of relatively warmer than places at similar latitudes. The idea of
+Antarctica making the UK a bit warmer seems seems very strange and
+counterintuitive. What have you come across in your work that you think maybe
+people up in northern Europe don't realise about the direct impact of Antarctica
+on our own climate, our weather, our lives? It's a great question. The whole
+world is connected. Antarctica is affected by climate change. The ice that melts
+from the Antarctic ice sheet actually causes more sea level rise around the
+north part of the planet, the North Pole, the near the south, which is an
+extraordinary completely opposite thing to what we think. That's basically
+because of an effect of gravity. So when you lose ice from Antarctica the water
+around it doesn't have such a strong gravitational attraction. So it sinks
+locally close to Antarctica when you lose ice from Antarctica. So that water
+then gets distributed around the global oceans and causes more sea level rise in
+the UK than off the coastline of Antarctica, which is extraordinary and an awful
+thing that people would really hear about. Thank you, Tamsin. We'll be back with
+you. But now Antarctica is absolutely vast as well. More than 13 million square
+kilometres, 50 times the size of the UK. The only way that we can get a view of
+the extent of the sea ice that surrounds it and the whole of the continent is
+from space. Gathering and interpreting all that satellite data is something that
+our next guest, Dr. Rachel Tilling from the Cryospheric Sciences Lab at NASA's
+Goddard Space Flight Centre, knows all about. We can use the satellite data to
+give us the area of the sea ice both in the Arctic up north and in the Antarctic
+down south. Every year we see these news articles about the Arctic and record
+minimum lows, but we don't often see that in the Antarctic because it's a very
+different region. This year we are seeing a record low area in Antarctic sea ice
+extent. It's a very newsworthy result that we're seeing. It's not just about the
+extent, is it? It's about the thickness. If you're looking at the changes in the
+ice overall, can you get that with satellites too? I say it's all about the
+thickness. That's what I do most days because we have this incredible, and it is
+an incredible long-term data set of sea ice extent in the polar regions. But
+that just gives us a two-dimensional picture. It tells us the area of the ice.
+To really know how the ice is changing long-term, we need to be able to measure
+the thickness of the ice as well, which gives us the volume and a much better
+idea of how much loss of ice we're seeing. I can logically see, taking a picture
+from space, you've got this measure of the area. How do you go into the
+thickness with the satellite measurements? It's not a direct measurement. We use
+what we call an altimeter satellite. That's a satellite that sends out a signal,
+either radar or laser, and reflects from a surface and tells you the height of
+that surface. In sea ice-covered regions, it can tell you the height of the ice
+surface, but it also tells you the height of the ocean surface between these big
+blocks of sea ice. You can difference those to know the freeboard. The freeboard
+is just the height of the ice above the ocean. And then we just apply a simple
+equation to transfer that to sea ice thickness. Right. What challenges does
+Antarctica present for you as a scientist in particular? It is much more
+challenging because even though we're using the same theory and it would be very
+fair to assume that what happens in the Arctic also happens in the Antarctic.
+They're both big, cold places. The sea ice in Antarctica is actually very
+different because if you think of the geography of those two regions, the Arctic
+is an ocean that's very much protected by land pretty much all around, whereas
+the Antarctic is a landmass surrounded by ocean. You get a lot more snowfall
+because you've got a lot more evaporation coming off the ocean surrounding the
+ice. That snow cover is what really gives us the problem. It's incredibly thick.
+It's not just a nice uniform depth of snow. You get a lot of layers, a lot of
+deformation. We really need to understand exactly where our instruments are
+reflecting from because we can't just assume that it's reflecting from the ice
+surface, for example, because it may be reflecting from somewhere in that very
+complex snowpack. And at present we don't have the data on ground to help us
+safe ashore where the radar signal is coming from. Right, and such a vast
+constant, such a big place as well with all those layers. The idea that snow is
+a problem in Antarctica is, I guess, quite an intuitive problem. But how
+variable and how complicated and thick can those layers of snow that are sort of
+muddying your signal be? The snow can be incredibly thick. I've been down to
+Antarctica in the Weddle Sea, which is a little sea near the Antarctic
+Peninsula. And I have spent a good day digging through snow pits on Antarctic
+sea ice. And I've dug down and two meters, I've stood in the snow pit, it's been
+towering above my head and I still haven't hit the ice surface yet. So this is
+the thing that really complicates our satellite returns. You dig through a snow
+pit this deep and there's so many different layers, so many places the radar
+signal could be reflecting from. And we have something that's hundreds of
+kilometers up in space and we're trying to figure out where in the snow we're
+actually getting a return from. I spend a lot of my life trying to figure that
+out. So apart from sending Rachel to Antarctica to dig to see where the snow
+ends and the ice starts, how are you getting around that technically? We're also
+doing a lot of airborne campaigns. So the European Space Agency were just down
+in Antarctica flying over the continent but also over the sea ice. And at NASA
+we were up in the Arctic flying over Arctic sea ice. And we essentially put mini
+versions of the instruments that we have on satellites on these planes, whether
+that's a radar or a laser, and fly over and along satellite tracks to get
+measurements not just from the satellite but from these smaller airborne
+instruments that can give us a better idea of what's actually going on in the
+snowpack. That was Rachel Tilling. Now Tamsin, Rachel and her team are looking
+to fill in some of the gaps in our knowledge with this satellite technology.
+Those direct measures all feed in to these models that your focus is on refining
+so that we can get the very best models to show us what is happening to the
+global climate system. How good are those models proving to be and what is your
+work focusing on to make them even more accurate and a sort of more accurate
+forecast of what we're facing? They are really good. You know, they've given us
+the big picture on global warming for many years now. I mean, my particular
+interest actually is trying to put error bars on those predictions. So you don't
+just run your computer model once into the future, you run it many times with
+slightly different kind of settings to see what are the whole range of plausible
+futures, what's the biggest climate change and the smallest climate change that
+we might see, what's the biggest sea level rise and the smallest. That's kind of
+an art in itself. It's a science, it's a mathematical field to understand that
+uncertainty in the future. Then again, the sort of next stage is we don't just
+run those computer models and say, oh well, we'll just believe them and that's
+what it is. They're based on physics and lots of chemistry and biology and
+geology and all this science that we've gathered, but we also test them. So we
+run them, for example, to reproduce the last several decades of change around
+Antarctica. Then we compare that with the data that we've got from satellites
+from the 1970s or the 1990s, sometimes a little bit further back, certainly
+further back. We have lots of data around the planet from ships' voyages and
+weather stations and all sorts and we test them. When we say, well, how well did
+that climate model do in the past? We try to predict the past, if you like, and
+we kind of score them and we only use the best versions of the models to really
+found our predictions for the future. Right. The more data, the better that goes
+into testing and kind of feeding into those models, I suppose. Absolutely. These
+are complex places. But I think one thing I'd maybe like to say is that we still
+need to understand climate change to adapt. We know that we're going to keep
+having more climate change in the future because it's going to be hard to turn
+around our emissions very quickly. So we need to adapt to sea level rise. The
+seas are going to keep rising even if we cut emissions very quickly. We are
+still going to get changes in our weather for years to decades. We need to
+understand what the future will look like as well as cutting the emissions to
+keep to the Paris Agreement targets and so forth, net zero pledges and things.
+So it's no longer about trying to work out the what if the emissions were very
+high or very low, because as a planet, we're aiming for low emissions. But it's
+also about what climate change is still in the pipeline because we're not going
+to be able to stop it immediately because we're still going to be emitting. It's
+going to take some time to turn the ship around. Yeah. Yeah. The detail will
+show us what sort of a world we'll actually be living in in the near term.
+Right. Exactly. Thank you, Tamsin. And finally, with all of that data, we are
+trying to make sense of what's happening in Antarctica. But one polar researcher
+and sound artist has taken a very different approach to understanding the vast
+frozen continent. He's been using recordings captured over years with floating
+microphones. His name's Dr. Geraint Rees-Wittaker and he's composed a novel
+sonic take on how human activity is affecting life in the cold polar seas. Our
+climate reporter Georgina Ranad has been listening. Hello to you, wherever you
+are in the world. What you are about to hear is something that has never been
+heard before. Scientists have conducted the world's first interview with a
+humpback whale community from the Arctic. In this extract from the conversation,
+the whales discuss the impact that industrial scale seismic airgun oil and gas
+surveys has had on them and their homes. The next voices you will hear will be
+those of the whales. The main bombing was continuously in the same area. The
+highway had been hit there badly with a bomb, which I found I had to divert
+again. So frightening. And when they were passing, I heard it come down and
+their home got to direct it. So what you've listened to is a piece I created
+called First Contact. I'm from Swansea, South Wales, which during the Second
+World War was completely flattened really by the bombs. And so I thought, okay,
+what can I do? Use the voices of the people talking about the devastation of
+bombing in Swansea, as if it was the voices of the whales talking about the
+devastation of the impact on airguns having on them. This is Dr Gerundreis
+Whittaker. He's taken underwater sounds recorded in the Arctic and Antarctic and
+turned these little herd noises into immersive compositions about these places
+we don't often think about. For this one, he chose the sound of airguns blasted
+at sea. There are essentially ships that go back and forth for two main
+purposes. One is to look for oil and gas, and then the other is for scientific
+surveys. So even scientists use these ships and what they do, they emit this
+massive impulse of air into the ocean to read what's going on underneath. And so
+immediately when I heard it, it sounded like a war on the environment, a war on
+the ocean. This noise pollution is disrupting marine life. Studies are finding
+it causes a loss of hearing sensitivity, physical injury, and increased stress
+to mammals like whales. Some even stop eating. Whales use sound over long
+distances to communicate, but as scientists record higher levels of human-made
+noise in the oceans, they're finding that animal behavior is being disturbed.
+Due to things like, for example, the winter ice melting, meaning in the Arctic,
+for example, shipping lanes are increasing, the oceans are actually getting
+louder, and we are having a detrimental impact. Geraint, I know you've collected
+quite a few sounds, but how can they actually help us tackle climate change?
+Well, I'll tell you what, Georgina, how about we listen to some of them first.
+For example, this is the Ross seal. This is the Weddle seal. And this next sound
+is a really interesting one. It's the singing ice. So singing ice basically
+happens when the ice contracts and expands due to temperature rising, and it
+creates this noise as the movement of the ice shifts. So we started there with
+almost otherworldly sounds of animals, or that seal call that sounded like a
+dance beat. But the ones I've found really powerful are the sounds you might
+associate with climate change. As we know, scientific papers are telling us that
+the Arctic is warming four times faster than other parts of the world. And when
+I hear the crunching and thunderous cracking, I can really visualize the ice
+breaking and falling into the water. I think it's really important when we talk
+about these issues for things we can never really understand, is using things
+like storytelling and dystopian narratives to put ourselves in that position to
+not only help us to try to think how would it make us feel, but also it kind of
+hopefully draws the audience in as well and puts them in the shoes of the
+whales. Obviously, whales don't wear shoes, but puts in the mindset at least for
+them to start thinking about, you know, how can we imagine the impact of what's
+going on? That was Georgina Ranard and some very unusual polar sounds there.
+Tamzin, what do you think, you know, you deal in the hard data and getting that
+hard data into a form where we can, you know, really use it to work out how the
+world is changing. What do you think of taking that very different approach to,
+you know, where he's heard some sounds and treatments of sounds that I've
+certainly never heard before? It's incredibly important. I absolutely place art
+around science and understanding the world very, very highly. I come from a
+family that has a lot of artists in and we need beauty, we need story, we need
+imagination to really fully understand this planet. We've got some amazing
+schemes where poets and artists can go to the polar regions, there are kind of
+various expeditions that they can go on that come back and, you know, talk about
+these places in ways that move us, that might move us to protect them, that move
+us to understand them better, to think about the bigger picture, to think about
+the long-term future, to think about the long-term past. One of my favourite
+films, probably my favourite film ever, is Werner Herzog's Encounters at the End
+of the World. Fabulous. I think he did go on one of these expeditions funded for
+artists to go. Yeah. And he filmed talking about why scientists need to go, you
+know, why we need to see scientists there. He went and filmed all these
+scientists in Antarctica and it's just the most glorious film. It's not a
+documentary. This is a kind of common misunderstanding that it's a documentary
+about Antarctica and then I think some people get very cross when they think
+it's not, doesn't stick to documentary style, shall we say. I've spoken to a
+couple of Antarctic researchers who weren't a fan of the sort of slightly
+eccentric way in which some of the researchers may have come across in that
+film. I also think that's a wonderful film and a kind of an interesting
+perspective on Antarctica and on that sort of remote field research that you
+don't normally get. I suppose that's what this, you know, sound artist is going
+for as well, a totally different point of view. Absolutely. The point is it's
+not about documenting the kind of banal detail of the day to day. It's about
+finding the deeper truth, you know, it's about constructing the story of
+Antarctica and what it feels like to be there or what it means for humanity to
+be there, to be trying to understand it. So it's not about let's just make a
+video diary. Anyone can make a video diary. What you need is an artist to reveal
+that deeper truth about a place, about our place in Antarctica. Well, Tamzin
+Edwards, you have definitely constructed the story of Antarctica very
+beautifully for us today. I really appreciate your time. Thank you very much for
+joining us. Pleasure. Thank you so much. Well, that is all we have time for this
+week. Inside Science is produced in collaboration with the Open University and
+we will be emerging from the frozen south to be back with you next week. BBC
+Inside Science was presented by Victoria Gill and produced by Emily Burt.
+Continuing our celebration of the centenary of BBC radio drama. The Huntsman now
+purposefully directed his footsteps. Analysing the most groundbreaking plays
+from the vast drama archive. It's intensely physical. It's this room. You can go
+to different places and tell the stories from different points of view. Dramatic
+beats with me, Michael Simmons Roberts. Everything in British storytelling from
+television owes so much to radio drama. On Radio 4 and BBC Sounds. On Saturday
+night at eight. This is BBC Radio 4.
