@@ -1,0 +1,782 @@
+TRANSCRIPTION: BBC4/2023-02-23-10H00M.MP3
+--------------------------------------------------------------------------------
+ From us, remember, tomorrow, Lisa Dusette will be presenting this programme
+from Kiev, and the Archbishop of Canterbury will be doing a special thought for
+the day, as he did a year ago tomorrow, on the morning of the invasion of
+Ukraine. Good morning. BBC News at nine o'clock. The Labour leader, Sir Keir
+Starmer, is launching what he calls five national missions, outlining his plans
+for the UK if Labour wins the next general election. The commitments will be
+announced during a speech in Manchester this morning. The missions include
+pledges to improve the UK's economic growth, make the country a clean energy
+superpower, and reduce health inequalities. On the Today programme, Sir Keir
+denied that the plans lacked detail. The missions are not vague, they are very
+clear, they're ambitious. What sits underneath these missions are the specifics.
+What, then, are you going to do to get this to happen? And so we have the
+specific, I don't know, the columns, if you like, that hold the missions up, and
+then what I'm going to set out this morning in my speech is then, what are the
+first steps along the journey? Police say the dissident Republican group, the
+New IRA, is the main focus of detectives investigating the shooting of an off-
+duty police officer at a sports complex in Omer in County Tyrone last night.
+Detective Chief Inspector John Caldwell is in a critical but stable condition in
+hospital. The government has confirmed plans to establish the first independent
+regulator of men's football in England, the body, which was recommended in a fan
+review last year, will aim to make clubs financially resilient, give fans
+greater input, and have the power to stop clubs joining breakaway leagues. The
+cases of 12,000 asylum seekers are to be fast-tracked by the home office to try
+to fulfil Rishi Sunak's pledge to reduce the backlog of applications by the end
+of the year. Migrants from Afghanistan, Eritrea, Libya, Syria and Yemen will
+have their claims decided on the basis of a questionnaire rather than in person.
+A collection of more than 80,000 items linked to David Bowie have been acquired
+by the Victoria and Albert Museum to be put on public display. Members of the
+public will be able to see the singers' lyrics, sheet music and costumes at the
+newly created David Bowie Centre in East London in two years' time. BBC News.
+This is BBC Radio 4, where, later this morning, we have a special edition of
+From Our Own Correspondent as we approach a year of the war in Ukraine. We'll
+hear personal reflections from the conflict zone and around the world. Oleg
+Heron reports on the everyday danger in the Donbass. In Moscow, Steve Rosenberg
+will tell us about the propaganda fed to Russian citizens, and our US editor,
+Sarah Smith, lets us in on some of the secrecy behind President Biden's surprise
+visit to Kiev. That's all in From Our Own Correspondent at 11 o'clock. And if
+you're in the mood for some music this morning, why not try the classical
+mixtape on BBC Sounds? But now on Radio 4, it's in our time with Melvin Brack.
+Hello. Paul Erdos, 1913 to 1996, is one of the most celebrated mathematicians of
+the 20th century. During his long career, he made a number of impressive
+advances in our understanding of maths and developed whole new fields in the
+subject. Born into a Jewish family in Hungary just before the outbreak of World
+War I, his life was shaped by the rise of fascism in Europe, anti-Semitism and
+the Cold War. His reputation for mathematical problem solving is unrivaled and
+is extraordinary prolific. He produced more than 1,500 papers and collaborated
+with around 500 other academics. He also had an unconventional lifestyle.
+Instead of having a long-term post at one university, he spent much of his life
+travelling around, visiting other mathematicians, often staying for just a few
+days. With me to discuss the career of Paul Erdos are Timothy Goers, Professor
+of Mathematics at the College of France in Paris and fellow Trinity College,
+Cambridge, Andrit Legane, Associate Professor in Mathematics at the University
+of Birmingham and Colver Olyodougall, Professor of Pure Mathematics at the
+University of St Andrews. Colver, would you start by telling us something about
+his early childhood? Sure. He was born to a middle-class family in Budapest in
+March of 1913. Both of his parents were high school teachers. They both taught
+maths and physics, his mother and his father. And on some level, he should have
+been set for a pretty comfortable existence. There were two particularly notable
+aspects of his early childhood though. So the first was that when she went in to
+hospital to give birth to him, his mother already had two girls, he had two
+older sisters, and a wave of scarlet fever went through Budapest while she was
+in hospital. And as he was being born, both of what would have been his elder
+sisters died. So this was a deeply traumatic event for the whole family, as you
+can imagine, and meant that his parents were very, very protective of him for
+all of his childhood after that. By his own admission, he didn't butter his own
+bread until he first arrived at Trinity College at the age of 21. And then the
+second really significant event that happened early in his life was World War I,
+when he broke out and his father went off to fight in the war and was captured
+by the Soviets almost immediately and didn't return for seven years. So he was
+in a very, very intense relationship just with his mother from an early age.
+Then we had an extreme right-wing government who came to power in Hungary. And
+then what happened to him? So his mother had briefly been promoted to head
+mistress by the communist government just before the extremely right-wing one.
+And as a consequence of that, she lost her job as a teacher when they came into
+power. She still managed to make a living. She was tutoring him. But that meant
+she was having to work quite hard going to different tutoring classes. And he
+was left mostly in the care of a governess while she was out working. He said he
+taught himself to count at the age of three by trying to count down the days
+until he could see his mother for the day times again. And then as he went
+through his childhood, various anti-Semitic laws were passed, of which probably
+the most pertinent to him was one called Numerus Clausus, which restricted the
+number of Jewish students at universities to 6%, which was roughly the
+proportion of the population that was Jewish at the time, but was much, much
+less than what had been the proportion of Jews going to university. So it was
+clear from a very early age that it was going to be hard for him to have an
+academic career in Hungary. There are these stories of his prodigious
+intelligence at the age of three, at the age of five. I mean, somebody would
+say, give me a number. And mine would say 45678, and he would cube it. How would
+you make of that? Is that taught or is that inherited? This idea is the clearest
+idea I've come across of some genius just popping up. Or did it just pop up? How
+does that happen? I think it must have just popped up in him. That kind of
+facility with early calculation seems to be randomly distributed around people.
+It's rare. It doesn't necessarily correlate with being good at maths later on,
+but in his case, it most squarely did. He said that because he was left alone by
+his parents so much, he just became obsessed with Numerus as a way of passing
+the time. Andrew, how did he begin to show... Well, we've edged into that, but
+how did he begin to show his mathematical talent so that others besides his
+mother saw it? When his mum's friends came round, he would ask them, how old are
+you? And he would then tell them how many seconds they'd lived for. But then
+really, I guess the big breakthrough was when he was a teenager. So in Hungary,
+they have this lovely culture of journals, so journals for high school children.
+And in them, you'll have mathematical problems stated each month. Then students
+would write in and give what they thought was the solution. And then in the next
+month, the winners, the people that were correct, they would be announced. So at
+that stage, Erdos was one of the most prolific problem solvers in these high
+school journals, along with some other actually very good mathematicians that
+turn up people like Paul Turan as well. So he sort of made a name for himself as
+a problem solver even in his teenage years. He took a first-class degree and his
+PhD at the same time when he was about 17. Yeah, so he went to the University of
+Budapest, aged 17. As you said, he was doing them both simultaneously. And even
+at an early stage, he was doing novel research. So he was often meeting other
+young mathematicians, people like Paul Turan, George Saccares. They were meeting
+in parks or they're going for walks, and they were talking about mathematics,
+bouncing off each other, getting ideas from each other. It was also a very
+significant point in his life, not just in the sort of circle around Budapest,
+but also he made a name for himself in the number theory community. So he...
+Already when he was 17. So he re... well, just a couple of years after that, but
+still during his undergraduate. So he reproved something called Chebychev's
+theorem. And Chebychev's theorem was around since the 19th century, but he gave
+a very elegant and simple and clever proof of this. Thank you very much, Tim.
+Can we have a little more detail about this theorem, Chebychev's theorem, and
+the difference between the old proof and the new proof that Dosh came up with?
+Chebychev's theorem concerns prime numbers. And those are numbers like 2, 3, 5,
+7, 11, which don't have any factors apart from the obvious ones, 1 and
+themselves. So, for example, 9 is not a prime number because it's 3 times 3, but
+11, you can only write it as 1 times 11, and so that is a prime number. If you
+start asking yourself questions like, can you write a formula for the nth
+largest prime number? It seems to be remarkably difficult. In fact, it's
+generally believed now that there is no usable, sensible formula for the nth
+largest prime number. And being? And just being some number, so an arbitrary
+number. So a formula that would tell you for any given integer, like a million
+or a billion, what the millionth largest number is or the billionth largest
+number. It's not believed that such a formula exists. So, instead, what we try
+to do is look a little bit, so we'll stand back a little bit and just ask
+ourselves questions like, roughly, how many primes are there between 1 and any
+given number that you specify? Can you have a formula that just at least
+approximates the number of primes? And Chebychev, what he did was solve a
+problem known as Bertrand's Postulate, which had been posed five years earlier,
+which says that between any number and twice that number, there must be a prime.
+Euclid had already proved millennia earlier that there are infinitely many
+primes. So this is a much more precise result. It says between any number and
+twice that number, there must be a prime, which in particular implies that there
+must be infinitely many primes. But Chebychev's method was in some ways quite
+advanced. You need quite a lot of mathematical expertise to read it. Erdos came
+up with a new proof of Chebychev's theorem, which I've read somewhere. It's
+described as something that, if you've got a maths A level, you can understand
+this proof. There's a word that mathematicians use, which is the word
+elementary. And elementary doesn't mean easy, but it means it's built out of
+easy ingredients. So if you've got the ingredients, if you've got the knowledge
+of an A level student and a bit of patience and willingness to try to understand
+this proof, then you can. Whereas if you try to understand Chebychev's proof,
+you have to have learnt quite a lot more mathematics. Actually, you get a little
+bit more out of Chebychev's argument. You don't just get that there's a prime
+between n and 2n, but you also get a reasonable estimate for how many primes
+there are up to any given number. When I say reasonable, what I mean is you can
+say that it's at least this number and at most twice that number, something like
+that. So it narrows it down to within a factor of 2, as we would say. Do you
+mathematicians do this for the joy of it, like people sing? Are you because it
+has some end use? I would say both. So we do it for the joy of it. But we're
+very fortunate in that quite a lot of what we do does eventually turn out to
+have an end use. And so for that reason, people are prepared to, so to speak,
+subsidise our hobby. Can you give us an end use? This is almost a cliched
+example. Not cliches, welcome. But number theory of which this is an example,
+and factorisation and prime numbers and things, are absolutely essential to the
+method of cryptography that we use in order to be able to do transactions,
+financial transactions, safely online. So that's a very big application of
+mathematics. But there are many, many others. Thank you. Colmer. So he's been to
+university, he's a starter and he's going to do mathematics for the rest of his
+life. And then you came across to Manchester University for four or five years.
+What was that all about? So he'd been invited by a number theorist called Mordel
+to go and work with the group in Manchester. His fame had become quite great by
+this point. Isaiah Schur, who's a wonderful number theorist, had christened him
+the wizard for Budapest for his skill. So it hadn't been so hard for him to find
+a job. Since he was young, his parents had known that he would have to leave
+Hungary. So the state of attacks on the Jewish population there was such that it
+was clear he could never be an academic in Hungary. His mother had suggested
+that maybe they should convert when he was seven. And he had turned to her and
+said, you may do what you like, but I shall stay as I was born, which is a
+statement from a seven year old. It is quite remarkable. So they had made sure
+that he could speak English and French and German as well as Hungarian. And he
+packed his bags and went off via Vienna and briefly stopping in Trinity College,
+Cambridge and on to Manchester. Who did you work with in Manchester that was
+important to him and to them? So so Mordel was his boss in Manchester. He did a
+lot of work with Hardy and Littlewood in Cambridge when he was there. And he
+also started working on what became known later as the Erdos Corado Theorem, but
+for strange reasons, wasn't published until the 1960s. So he started really
+cooking up this this blend of number theory and combinatorics that was to stay
+with him for the rest of his life while he was in Manchester. But it wasn't that
+he only collaborated with people in Manchester. He started working with
+everybody he could. Was this unusual? Yes, I would say so. So most of the
+collaboration. Yes, absolutely. So so most people at the time mostly worked on
+their own, whereas Erdos from a very early age, possibly started by the walks
+that Andrews already mentioned around Budapest with his friends as an
+undergraduate, loved to do maths with other people. He did do maths on his own,
+but he he strongly preferred to work with others. And he would go to Cambridge
+often for the weekend. He was travelling all around Britain, working with
+people. And at the end of three years, it was becoming increasingly clear that
+Hitler was getting more and more dangerous and that he decided he needed to
+leave Europe for good. So after a final visit back to Budapest in the summer of
+1938, he charged back to London, got on the Queen Mary and set sail for the
+Institute for Advanced Studies in Princeton. And did you get anything else out
+of the Manchester experience? That was when he first started getting interested
+in lots of questions about what the numbers look like on average. So Tim's
+already given us the definition of a prime number, which is a number that's only
+divisible by one in itself. He got interested in the question of how many
+different prime numbers divide a given number. So say, for example, 12 is only
+divisible by two and three. Eight is only divisible by two. That's the only
+prime that divides into eight. So that's got a score of one. Whereas if I go for
+30, because that's two times, three times five, that's got a score of three. And
+so he got very interested in the question of not just is number prime and can I
+count the primes, but can I count how many dividers there are of a given number?
+And he proved his first results in that direction while he was in Manchester.
+And it was because of that that and similar results that he was eventually able
+to get the fellowship at the Institute for Advanced Studies, which I should
+mention the pull factor as well as the push factors. It was described as an
+intellectual paradise, the Institute for Advanced Studies in America. Yes, in
+America. So it was only five years old. Einstein was its first professor. There
+were zero students, no teaching responsibilities. One could just go there and do
+mathematics and theoretical physics for one's heart's content. And John von
+Neumann, who's famous for many things, including work on the nuclear bomb and
+game theory and economics, managed to get a fellowship for Erich to go and work.
+And I'd financed him, did it? That financed him for the first year. At the end
+of that first year, for reasons that are unclear, he applied for a renewal and
+wasn't granted it. And Einstein argued strongly for him to get a further job and
+said he had used strong words, the like of which he had not used before to try
+and enable Erich to stay. But somehow he was deemed not the right fit. And there
+were so many Jewish mathematicians coming over. You're many clues to why it
+wasn't the right fit. I mean, he seems to do mathematics all the time with
+mathematicians. And so what was he doing that upset people? I think he was maybe
+a bit wild in some of his behaviour. It's I mean, I never met him. I'm just a
+bit too young to have done so. There's a quote saying that Princeton didn't want
+to keep him because he was uncouth and unconventional. So he was definitely
+unconventional in a sense that he would speak his mind freely. There's stories
+about when he's talking with people. I mean, this is a few days later, but
+talking with people to do with the Manhattan Project in a restaurant, he loudly
+says, oh, how's the A-bomb going? So he's very uncouth in that sense. It's a big
+thing for a man that's intelligent, backed by a person like Einstein to be
+kicked out, isn't it? Or am I? Yeah, of course it is. Yeah. So is there any more
+reasons? I did meet him myself, actually, but he was he was pretty old and I was
+quite young. And by that time, I think he had he'd sort of morphed into a sort
+of eccentric old man, not somebody that one would who would rub anybody up the
+wrong way. It is worth mentioning that the I mean, this is now 1939 and the
+number of Jewish scientists and mathematicians are attempting to get out of
+Europe and into America is very, very high. And that's part of the reason why
+there's such competition for posts. Can you tell us, give us some idea then when
+he gets to America, what does he start to work on? I think he's working on a
+range of things at that stage. So he's interested in something called discrete
+mathematics. What's now? So discrete mathematics is the study of discrete
+mathematical objects. So what's a discrete mathematical object? It's an object
+that in some sense is non-continuous or countable in some sense. So if you look
+at the whole numbers of whole numbers, one, two, three, four, and so on, that is
+countable. You can list the numbers as an ordering of those numbers. It's also
+non-continuous in a sense that the gap between one and two, there's a gap there,
+it's not a continuous thing. So there's a gap between one and two, two and three
+and so on. So he starts getting interested in discrete mathematics. And this is
+a topic which is perhaps a bit unfashionable at the time. He starts getting
+interested in things called graph theory. So the study of networks. He's
+interested in Ramsey theory, which is the study of complete disorder is
+impossible. So he was so driven by mathematics and curious about different
+aspects of mathematics that he was willing to go out there and work on problems
+that maybe weren't as fashionable to other mathematicians. But America suited
+him and yet he had to leave it. So I guess you're now talking about the 1950s.
+Yeah, so it's kind of a bit unfortunate. So he had a temporary position at the
+University of Notre Dame, as the Americans call it. He actually was offered a
+permanent position there, but he turned it down. You know, he he suited the
+nomadic lifestyle. At some stage, he wanted to go to Amsterdam, to a conference
+and they refused him entry back into the US again. Partly, it's just because of
+the time it was, it was the McCarthy of the 1950s where America was just
+suspicious of foreigners, particularly from communist countries. Also, there was
+an FBI file on him. He was walking in Long Island with some other mathematicians
+and they didn't see the no trespassing sign. And they just we were talking about
+math, wandered through to this military transmitter and then they were sort of
+nabbed by the FBI. And it was all cleared up, but, you know, it created an FBI
+file on him. And I think it was just an excuse to get rid of him. So graph
+theory has been mentioned, Tim, can you take it in that direction? Certainly.
+The first thing to say is that there's an unfortunate terminological clash,
+which is that the word graph, as used by most people, means something you plot
+that shows how one thing depends on another. It might be covid cases as a
+function of time or something like that. But we're talking here about when you
+talk about graph theory, it's a completely different meaning and a better word,
+but unfortunately not the word that most people use. The word that Andrew just
+mentioned is the word network. So you can think of a graph as a bunch of points,
+which if you're using the language of networks, you might call nodes. And some
+of the points are joined together by lines, which are known as edges. And that's
+all there is to a graph. A bunch of points, some joined by edges. So you might
+ask, why is that important? And the reason is that it can be, or one reason, is
+that graphs can be used to model a huge number of phenomena, because the points,
+which we call vertices, can represent objects of a certain kind, and the lines
+joining them, the edges, can represent potential relationships between them. So
+to give a few examples, points could represent websites, and you could join two
+points by an edge if there's a link between those two websites. And then you get
+a graph that is somehow modelling, in a certain sense, the structure of the
+Internet. Or points could represent people, and you could join two points by an
+edge if those two people are friends with each other and you get a sort of
+social network modelled by a graph there. And then you also have graphs in pure
+mathematics. For example, if you just take a shape like a cube and you look at
+it, it's got some points, it's got the vertices of the cube, and some of those
+vertices are joined by edges. So a cube is a graph, or can be thought of as a
+graph with eight vertices and 12 edges. So graphs have both an importance for
+modelling real-life phenomena, which it often turns out that you can get a lot
+of insight into the real world phenomena by forgetting all the details except
+this underlying graph. And also they model various purely mathematical
+phenomena. You had problem solver, wasn't he, basically? Erdos was, yes. That
+was what he's maybe mostly remembered for, as a sort of supreme, not just
+problem solver, but also problem poser. He asked a lot of questions. And the
+ones that he particularly liked, he would offer monetary rewards for, which
+varied from something like, you know, $30 all the way up to several thousand
+dollars, depending on how important or difficult he thought the problem was. He
+gave money to so many good causes. He gave away all the money he got, basically.
+And he didn't have much of that. He won the Wolf Prize and then just gave it
+basically... He kept a little bit, as he needed to get from... to his next
+person who he was spending the night with and gave all the rest away. Yeah, it
+was $50,000 and he said he kept 720. Culver, one of the fields of maths that he
+developed, extensive, was Ramsey theory. So, away you go. So... Ramsey theory
+starts with a particular problem, which I'm very fond of, called the party
+problem. And I'll give the first interesting instance of it. As an example now,
+it says, how many guests do you need to have at a party to guarantee that either
+at least three of them all know each other or at least three of them all don't
+know each other? So, how big a party do I have to have if I definitely want
+three friends that can stand in the corner and catch up on gossip, or to find
+three people who've not met before who can be introduced to each other? So, I'm
+going to show you how to see that six people is enough. So, imagine that I'm
+hosting a party and I've invited five friends. But maybe they're not my friends.
+We're interested in maybe them knowing each other or not knowing each other. So,
+these five people, they might know me or not know me. So, there's two
+possibilities and there's five of them. So, at least three of them must fall
+into one of the cases. It's not possible for two of them to not know me and two
+of them to know me. The fifth person has to go somewhere. So, let's assume that
+three of them know me. I'll talk about the other case afterwards. And think
+about those three people. So, maybe the three of you, I guess, at my party and
+you all know me, then maybe two of you know each other. And then the two of you
+plus me make three people that all know each other. And if that's not the case,
+then no two of you know each other. And so, the three of you form three people
+that don't know each other. And so, we managed to do that with six people. If
+I'd said that at least three people didn't know me, we would have swapped
+everything round. That's the first question of Ramsey theory. And that shows
+that six people is enough if I want three to know each other or not. So, I can
+replace that three by any other number. I can say I want a party that's big
+enough for 17 people to all know each other or 17 to not. And Frank Ramsey had
+proved that there always is a big enough party. No matter how many people,
+there's always a big enough party. Now, Erdish came along and firstly found a
+much nicer, simpler, better way of proving that there's always a big enough
+party. And his band on how many people you need at the party was smaller than
+the previously known band. He also was able to show a lower band on how many
+people. So, a party size which is definitely not big enough using some beautiful
+arguments. And essentially took what had been this single loan result and turned
+it into an entire theory of mathematics, which people spend their whole careers
+working on nowadays. Andrew, you want to come in? Yeah. So, one thing I wanted
+to say as well is that Ramsey theory isn't just about graphs and about these
+parties, but actually this phenomenon occurs elsewhere in mathematics. So, Tim
+talked about one of Erdish's, about his open problems. So, one of his most
+famous open problems is the happy ending problem. And this is a problem in
+Ramsey theory. Here, you rather than looking at a party, you've got a collection
+of points that you draw on a piece of paper. So, imagine you draw three points
+on a piece of paper. And as long as they're not in a straight line, well, those
+three points will be the corners of a triangle. Now, what about if I give you
+four points? Well, those four points may not form a four-sided shape because you
+can draw a triangle and then you can plop another point in the middle. And
+that's not a four-sided shape. That's not the corners of a four-sided shape,
+what we call a convex quadrilateral. Actually, you can ask this question more
+generally. How many points do you need to put on a piece of paper such that some
+of those points form your favourite, I don't know, pentagon, your six-sided
+shape, seven-sided shape, and so on. What Erdős and George Sekeres showed is
+actually these... There's always a solution to this problem. In a similar way to
+the party problem, there is a solution. If you put enough points on a piece of
+paper, you're going to get your end-sided shape somewhere in that picture. So,
+this was worked on 80 years ago by Erdős and Sekeres. They actually just asked
+the question of what's the right answer? How small? How many points do you need
+to put on a piece of paper such that as long as no three of them are in a line,
+then somewhere in that, end points will form the corners of an end-sided shape.
+And we don't know the answer even though we don't know the exact answer. We know
+there is some answer, but we don't know exactly what it is. Do you think you
+ever will? Ooh. That's a tough one, because actually, that's a very few problems
+in Ramsey's theory. Do we think that we're going to get a exact solution to?
+This is one where we actually have a reasonably good, it's what we call an
+asymptotic solution. So, as n is large, if we're looking at an end-sided shape,
+where n is large, we have a reasonably good answer to it. But I think probably
+the answer is probably not exactly. Can we go to continue this, Tim, with you?
+We come up with the phrase, the probabilistic method. What's that about and
+what's its significance? Well, I think the easiest way to illustrate that is to
+go back to what Colder was saying about the party problem and the question you
+can ask, how many people do you need in order to guarantee that some fixed
+number, be it 17 or 100 or whatever, either all know each other or all don't
+know each other? If you want to show that you need a lot of people, then you've
+got to come up with some sort of configuration of, or some sort of knowledge
+network, so to speak, or equivalently some graph, that demonstrates that you
+really do need a lot of people. And the difficulty with the problem is that if
+you sit down and try to design this person knows that person, or this person
+doesn't know that person, and so on, it's incredibly difficult to write down a
+specification that demonstrates that you really do need anything like as many
+people as the proof requires. And it genuinely is very, very difficult to design
+this. I just had a brilliant idea, which was, if it's difficult to design it,
+don't design it. What you do instead, well, it's called the probabilistic
+method. What you do instead is you just choose your network entirely at random.
+So for each pair of people, you toss a coin, if it's heads, they know each
+other. If it's tails, they don't know each other. And it turns out that if you
+do that, then you can show that it's extremely likely that you're going to need
+an absolutely huge number of people before you get your specified number that
+either all know each other, or all don't know each other. This is very
+counterintuitive, because you might think that if almost everything works, then
+surely you can just sit down and write down something that will work. But
+unfortunately, the set of things that you can actually describe is a very small
+set. And so you can't sort of rule out that all the ones you can describe happen
+to be the unfortunate ones that don't work. So you know that almost everything
+works. And this phenomenon actually occurs. So what makes it particularly
+important is that it occurred in this one example. But once you've seen this
+example, it just changes the way you think as a mathematician. And then you
+start seeing this phenomenon all over the place. There are many, many situations
+where it's very hard to describe a mathematical object that explicitly that has
+certain properties, but much easier just to show that almost every object has
+those properties. It's a very strange phenomenon, but it's a very important one.
+And where does that lead you? For Erdos, it led to a lot of other solutions to
+problems in graph theory and other areas where they had seemed extremely hard.
+But once you have this idea that perhaps you could just try choosing a random
+object and seeing if that almost always works, they become suddenly much easier.
+Picking up the word random, called the random graph theory, Erdos was into that.
+What did he find that? What did he do with it? So in a series of eight papers
+with Alfred Rennie, who's another Hungarian mathematician, Erdos and Rennie
+invented the field of random graph theory from scratch and proved that it was
+important. So the model that they were imagining, they had two different ones,
+but I'll talk about one in particular, is that you pick some number of vertices
+and you pick a probability. So maybe your probability is a half and you look at
+all the possible pairs of vertices and you put in each edge randomly with
+probability a half and you ask yourself, what can I say about the resulting
+graph? Is it possible, for example, for me to walk along the edges from one
+vertex to any other, or is it going to break into different bits? Am I going to
+be able to colour the vertices with some number of colours such that no two
+vertices sharing an edge are the same colour? And this model of random graphs,
+they proved amazingly precise properties about it, which I think Tim will tell
+us more about in a minute, but it's turned out to be incredibly important for
+lots and lots of real world applications. So for example, during the COVID
+pandemic, one of the models that was used when trying to analyse if household
+bubbling could change over Christmas, if one remembers that dark Christmas, was
+modelling our interactions with each other as a random graph. We're all in
+households of between one and about four people, and then somewhat randomly, we
+know people in other households. And so if somebody in one household gets
+infected, probably everybody in that household gets infected. But if they
+randomly meet with other people, the infection might or might not spread along
+the edges in our graph of knowing and not knowing. And that really does help to
+feed into questions about whether or not we could meet each other. Do you want
+to develop that, Tim? Well, just to say that, I suppose it gives another very
+good example of an application of graph theory. It's another network. So the
+vertices there would be people, and the edges would be something like you've
+joined two people by an edge if they come into close proximity. And sometimes
+you can do something a little bit more. You can attach a weight to an edge. So
+you could say that maybe if two people meet all the time, because they live in
+the same house, you have to attach a high weight, which means it's more likely
+that the disease will transmit. Whereas if they just happen to meet each other
+in a shop while they're buying bread or something, then there'd be an edge, but
+with much lower weight. So this weighted graph is fundamental to the whole area
+of epidemiology. You can get a lot of insight into how a disease spreads just
+from the graph theory. Andrew, he liked to question himself, didn't he? He posed
+a problem for himself to solve, as well as finding problems that had not been
+fully solved at his satisfaction. Yeah, so his mantra was to prove and
+conjecture. So by conjecture, we mean pose open problems. And it wasn't just for
+himself that he would pose problems. What he saw was that it was a duty of a
+mathematician to lay the marker points for other mathematicians to follow and
+say, this is an interesting question. And as Tim mentioned earlier, he would
+often assign money to these problems just to act as a guide. The more the
+problem was worth, the more interested he was in the problem being solved. So
+actually, many of his problems have been solved since he died. One example of
+this is, so we mentioned prime numbers earlier. So one special case of one of
+his conjectures is that in prime numbers, in a set of prime numbers, we know
+there's infinitely many, but inside them, there are arithmetic progressions of
+arbitrary length. So what do I mean by that? I mean, if you take an arithmetic
+progression is you start with some number, and then you have a series of numbers
+whose differences are the same, something like 2, 5, 8, 11, 14. They all differ
+by 3 there. So that was, for example, a special case of one of Eddish's problems
+that was solved about 18, 19 years ago by Green and Tau. So if you've got a set
+of prime numbers, then there's always going to be an arbitrary long arithmetic
+progression. So you can go on forever finding this arithmetic progression. And
+that's quite counterintuitive actually, because as was mentioned earlier, primes
+are kind of sparse. There's infinite many, but they get less and less frequent,
+or the density of them inside the whole numbers is less and less frequent. And
+so to have this regular structure, Eddish was just great at posing problems. And
+I think sometimes he was willing just to take a punt, and he would pose a
+question that was just interesting to him. And sometimes they would pay off, and
+they would leave to lead to fruitful research directions. And sometimes they
+weren't necessarily paying off. But the point was, he was so willing to go out
+there and pose problems, that it's led to new directions emerging in
+mathematics. He's another phrase I only encountered the other day, to him that's
+a threshold, the threshold phenomenon. That's a fascinating phenomenon that he
+observed in his work with Alfred Renyi. Colter mentioned the property of graph,
+it's called a graph connected, if you can get from any vertex in the graph to
+any other vertex by going along a path down some of its edges. They showed that
+if you start with no edges at all, and then you just randomly put in an edge,
+and randomly put in another edge, and randomly put in another edge, and you just
+keep on going like that. And for a long time, the chances that the graph is
+connected, it's almost certain that it won't be connected. Then you get to a
+certain point, the threshold, and just beyond the threshold, it suddenly jumps
+from almost certainly not being connected, to almost certainly being connected.
+The point at which you go from almost certainly not being connected, to almost
+certainly being connected, just jumps extremely fast. And this is called the
+threshold phenomenon. Do you know why that happens? Well, I do, but it's a sort
+of complicated mathematical proof. I think the main thing to say is that this
+phenomenon turns out to be extremely widespread, and it also occurs in physics.
+In statistical physics, it would be known as a phase transition. The graph just
+suddenly goes from having one phase, where it's not connected to another phase,
+where it is connected. There are also many open problems concerning phase
+transitions. When you get a little bit more complicated than the properties that
+Erdos and Reni studied for graphs, you can get problems that are very
+interesting and important. Important for what? For example, there's a phenomenon
+called the self-avoiding walk. That's sort of a random walk in amongst points
+that never visits itself twice. And that can model something like a long piece
+of DNA that can't occupy the same point more than once, understanding various
+structures that occur in chemistry and things like that. So understanding phase
+transitions is very important. It's an interesting area where physicists would
+say that they understand a lot more than mathematicians do, because
+mathematicians are looking for completely rigorous proofs of these phenomena,
+whereas physicists are sort of satisfied with slightly more heuristic arguments,
+let's say. Do we need to say more about randomness in relation to number theory?
+Absolutely. So one of the many fields which Erdos founded, and the one that he
+described himself as being proudest of, is known as probabilistic number theory.
+Now, number theory is about properties of the whole numbers, and the bit of it
+he was most interested in is this question of divisibility by primes that's come
+up a few times before now. And it doesn't seem like randomness should have
+anything to do with it. I mean, the fact that 12 is 2 times 2 times 3 is not
+random. That's set in stone. But together with a Polish mathematician, Mark
+Kacz, they worked out that if, rather than looking at individual numbers and
+asking how many different primes divide a number, they started looking at large
+sets of numbers, say all the numbers up to a million, or all the numbers up to a
+million million, and asked how many primes divided all of them and looked at the
+count, and drew a graph of it, say, not graph in the sense of vertices and
+edges, but graph in the sense of like a bar chart, say, the resulting chart
+winds up looking just like the bell curve histogram that we see across all sorts
+of real world things. So were you to toss a coin a thousand times and record the
+number of heads and tails, and then do it again, and do it again, and do it
+again, and record how many heads you got, on average, you'd expect to get about
+500 heads, but you wouldn't get perfectly 500 heads every time you'd get mostly
+500s and 499s and 501s, slightly fewer 502 and so on, and it would come down in
+that lovely bell shaped curve that I'm sure lots of our listeners have seen in
+many contexts. He discovered that we get a curve like that when we ask about the
+number of prime divisors, and it's kind of incredible. I put my little laptop to
+work coming down yesterday on the train, and asked it to do this count for me
+for all the numbers up to a million, and his formula predicts that the average
+number of prime divisors should be between two and three, bit closer to three
+than two. Now you can't have two and a half prime divisors, of course, so what
+my computer returned to me was that the most common answer was three, and then
+shortly after that was two, and then shortly after that was four, and then
+there's a few primes and powers of primes, and then five and six and seven with
+the smallest numbers, there's only seven numbers less than a million that are
+divisible by seven primes. So even a million, I could see this kind of bell
+curve phenomena beginning, and nobody had thought of mixing probability and
+divisibility by primes like that before, and once you've got the idea of doing
+that, you can ask all sorts of other questions too. Jim, he's seen as more of a
+problem solver than a theory developer, do you agree with that? I do. It's a
+distinction which is more a matter of emphasis than an absolute distinction,
+because if you look at the problems that he posed, once you start thinking about
+them, it may just look like a whole lot of isolated problems, but once you
+actually start thinking about them, you realize that there are difficulties,
+sort of quite deep difficulties associated with the problems, and that in order
+to solve the problems, you're forced to come up with ideas. You suddenly get a
+sense that Erdős, these problems hadn't come out of nowhere, they'd come out of
+some quite deep thought. Nevertheless, it is the case that there is a contrast
+between the way different mathematicians operate, and some would say that what
+they're really trying to do is improve their understanding, and if they improve
+their understanding, then solving problems will be a consequence of that, and
+others, and Erdős is more like the other kind, would say that what they really
+want to do is solve problems. By solving problems, they will improve
+understanding. There was a very nice metaphor of the mathematician Alexander
+Groten-Dijk, who said that he considered the idea of a nut. You want to open a
+nut. Two approaches. One is you get a nutcracker, and you squeeze as hard as you
+can until the nut breaks, and then you've got inside. Groten-Dijk's preferred
+approach was to put the nut into some sort of liquid, and just leave it there
+for a very, very long time until the shell softened, and it opened very easily.
+So Groten-Dijk regarded himself as more of a theory builder, somebody who wants
+his understanding to improve until problems get solved easily, and I think Erdős
+was more of the other kind, where he just wanted to go straight in and directly
+attack problems. Yeah, he had a lovely discussion of the problems he posed
+himself, and he said some of them were like marshmallows, in that they were
+incredibly tasty to solve, but dissolve on your mouth quite quickly afterwards
+and leave not much left, whereas others were like acorns, in that trying to
+solve them could produce the roots of a huge mathematical tree. So I think he
+himself was aware of these different ways problem solving could go. Andrew, can
+you tell us, we're getting towards the end now, what's an Erdős number? Yeah, so
+an Erdős number is a bit of mathematical fun really, we like to measure our
+distance as mathematicians from Erdős, so if you are poor Erdős, you have an
+Erdős number of zero, if you've written a paper with poor Erdős, you have an
+Erdős number of one, if you've written a paper with someone that's written a
+paper with Erdős, you have an Erdős number of two, and so on and so forth. So to
+put in some context, because Erdős had about 500 co-authors, there's about 500
+people with an Erdős number of one, already there's more than 10,000 people with
+an Erdős number of two, and it's not just mathematicians, so Albert Einstein has
+an Erdős number of two, for example. So most mathematicians have an Erdős number
+somewhere between one and five, and actually, you know, it's not that impressive
+to have a small Erdős number, I'd be more impressed with finding someone with an
+Erdős number of 10, a mathematician, because I'd wonder how did they get that
+far removed from Erdős's work. So, each of you, what's your Erdős number, and
+what does it mean, starting with you, Colburn? Well, my PhD supervisor, Peter
+Cameron, collaborated with Erdős, and I have since published with my PhD
+supervisor, so my Erdős number is two. Likewise, I have an Erdős number of two,
+so I worked with a mathematician called Sasho Kostovska, who happened to work
+with Erdős, so that's my Erdős number as well. And mine should be two, because
+my supervisor was a close collaborator of Erdős, but actually, I've never had a
+joint paper with my supervisor, so for a long time it was four, and then a few
+years ago it went down to three. I collaborated with someone who collaborated
+with someone who collaborated with Erdős. It's a cross-question to ask them,
+just as much of an interest, how do you rate him? I think the biggest compliment
+I can make as a discrete mathematician, as a combinatorialist, is that it's very
+hard to work on a problem and not be influenced by Erdős. So, what I'll do when
+I'm approaching a problem is I'll try and do things randomly, I'll do the
+probabilistic method, or think, oh, is there some Ramsey-type behaviour here?
+So, as someone working in his field, I think on a weekly, on a monthly basis,
+I'm influenced by him. So, in that sense, he was incredibly important. Yeah, I
+would say the same. I also work in very much Erdős-style mathematics. You can't
+escape his influence, nor would you want to, because he had such amazing ideas.
+I'd like to, yeah, I mean, echo the previous two remarks, but also say, quite
+apart from his mathematical influence, I think this collaborative style of doing
+mathematics really has changed maths for the good. Most of my research is in
+collaboration with other people. It's made being a mathematician a completely
+different thing from what it might have been before him. And it might have
+tended that way anyway, but his fondness for collaboration, his support of lots
+of female mathematicians who he worked with, and his insistence on beauty in
+mathematics and finding joy in mathematics have really changed it for all of us.
+There was a lovely limerick about him, which I'd love to tell, which he was
+delighted by. So, a conjecture both deep and profound, a search that a circle is
+round, in a paper by Erdős written in Kurdish, a counterexample is found. And
+Erdős was so pleased by this, he tried to publish a paper in Kurdish, but
+unfortunately couldn't find a journal to do so. But that sense of playfulness
+and joy in what we do is a wonderful thing to have left the rest of us. Well,
+that was terrific. Thank you very much. And I'll have to listen to it several
+times, but still, thank you very much. Thanks, Culver, Bernie Dougal, Andrew
+Traglone, and Timothy Gowers. And our studio engineer, Jackie Marjoram, next
+week, Megalith, the stone monument's first built in Britain around 6,000 years
+ago. Thank you for listening. In Our Time with Melvin Bragg is produced by Simon
+Tillison. Continuing our celebration of the centenary of BBC radio drama, the
+Huntsman now purposefully directed his footsteps, analysing the most
+groundbreaking plays from the vast drama archive. It's intensely physical. It's
+this room. You just took your wallet. You can go to different places and tell
+the stories from different points of view. Dramatic beats with me, Michael
+Simmons Roberts. Everything in British storytelling on television owes so much
+to radio drama. On radio four and BBC Sounds. On Saturday night at eight. Now on
+radio four, our book of the week. Today in Catherine Rundle's biography of John
+Dunn, a tricky start to a relationship that fueled some of the most desire-
+filled poetry in the English language. Blake Ritsen reads Super Infinite. Who
+was she? Anne Moore. The very young woman with whom the complicated, furious,
+funny poet was so in love. We know very little. We do not even know how she
+preferred to spell her own name. As with the capriciousness typical of the
+period, she is spelled Anne both with and without an e. It was her second name,
+though, that Dunn played on over and over. As much more loving as Moore said. He
+first met her, the third daughter of Sir George Moore, when she was only about
+14 years old, and he was working as a secretary in Thomas Edgerton's household.
+She had been sent to London to learn the ways of the city and the court, and
+something in her face or manner bludgeoned John Dunn in the heart. Given her
+father's wealth, she was likely to have been fashionable, and her clothes would
+have been good. Stitching the labyrinth needle lace was the rage, and necklines
+were having a moment of extremes, either rising high to the chin, or scooped so
+low they skated close to the nipple. But his poetry never describes her clothes
+or her body. Dunn's metaphors are vivid, wild, evocative and potent, but they
+are strikingly unspecific. It never occurred to him to tell us if she curved at
+the hip, or jutted at the collarbone, or was taller than him. Presumably it was
+not what was important. The hunger and the body itself were what mattered.
+Perhaps to look for Anne in Dunn's verse is to misunderstand what the poems are
+doing. They are not representations of her, but representations of him. Him
+watching her, needing her, inventing for her. They are trumpet blasts across a
+hard land, more than they are portraits. In a valediction of My Name in a Window
+written in 1599, Dunn imagines etching his name with a diamond ring on a window,
+and his lover seeing her own reflection and his name intermingled. Tis much that
+glass should be as all confessing and through shine as I. Tis more that it shows
+thee to thee and clear reflects thee to thine I. But all such rules, love's
+magic can undo. Here you see me, and I am you. Her willingness to defy her
+father was a remarkable thing. She must have had in her a flash of daring in a
+world that insisted on obedience. She could only have met Dunn in secret, and
+secret places were not easy to find. They might have been able to collide under
+the plausible deniability of public spaces, parks, popular walks, church. They
+might have attended events in the evening. Pageants, which could be so crowded
+that silk-clad bodies would press against each other. She took vast risks for
+him, larger than he took for her. Spurred on by desire, or perhaps by Dunn's
+urgent importuning, or by the wild optimism of youth, she risked gossip,
+scandal, and perhaps at the very end, pregnancy. They may well have been lovers
+in the weeks before they wed, hiding behind insouciant faces and very careful
+timing. She gave a great, recklessly romantic leap into the dark. The landing
+was not to be a soft one. Was he worth the sacrifice when she foresaw the
+thousand easier futures that surrounded her? The alternatives would have been
+right in front of her. She could have aimed for a life more like that of her
+cousin by marriage, Elizabeth, who had that year been married off to Baron
+Hastings with all the castles and gardens and wall hangings embroidered with
+unicorns that that involved. What was done that she decided to risk her father's
+wrath in order to share his days, his small income, his bed? If he took her to
+bed like he wrote, if he knew how to render bodily his poetry, then he was worth
+sacrificing all the wall hangings in England for. To read him, to read all of
+his love poems together is to feel yourself change. For his is a passion which
+acknowledges the strangeness you are born with. His best poetry is a triumphant
+call of desire, sincerity, joke, all bound into one. It's there, for instance,
+in a valediction forbidding morning. The lovers are imagined as the two feet of
+a pair of mathematical compasses joined eternally at the base. If they be two,
+they are too so. As stiff twin compasses are two, thy soul, the fixed foot,
+makes no show to move but doth, if the other do. And though it in the centre sit
+yet when the other far doth roam, it leans and hearkens after it, and grows
+erect as it comes home. It is so extravagantly witty and so riotously plays only
+by its own rules. It needed to be clever, because he demands that sex be
+intelligent. It's the poem of a man who has the temerity and invention to see
+the human condition in a piece of metal. It loves the body because done, unlike
+so many of the highbrow poets who went before him, never pretended not to have a
+body, grows erect as it comes home, is upon so obvious it might as well be a
+little sketch of a penis. But it is fundamental to his love poetry that the body
+done imagines isn't just a body. It transforms and becomes simultaneously other
+things, a world, a state, a city, a planetary sweep. The lover looks at the
+woman in the good morrow and sees a world atlas. Where can we find two fitter
+hemispheres without sharp north, without declining west? In to his mistress
+going to bed, the woman's girdle becomes a constellation of stars and her body
+is the entire world. Off with that girdle like heaven's zone blistering, but a
+far fairer world encompassing. And again, my kingdom's safeliest when with one
+man manned. And the man in the sun rising chides the rising sun, declares, She
+all states and all princes I. She becomes the world. Since thy duties be to warm
+the world, that's done in warming us. Shine here to us and thou art everywhere.
+This bed thy centre is, these walls thy sphere. Some of that woman as state,
+woman as world is done working in a tradition, but some of it was personal.
+Dunn's relentless imagination was his single most constant feature. His mind had
+ceaselessness built into it. It was to be throughout his life, a site of new
+images, new theology, new doubts. Even those who disliked his work acknowledged
+that he was a writer who had erupted through the old into the new. But the
+always of that imagination must have been exhausting. For a mind like that, sex,
+real sex, true sex, would allow a singleness to hush the multitudinous mind.
+It's why so much of Dunn's imagery around sex is so totalising. The man and
+woman become one. The woman becomes a state, a country, a planet. Sex for Dunn
+and those like him. Permission for those who watch the world with such feverish
+care to turn one person into the world and to watch only them. It was a
+transforming of his constant seeking for knowledge. To adore and to devour and
+to be devoured is its own kind of focus, a gasp of a different kind of oxygen.
+And so they married. The wedding took place about three weeks before Christmas
+in 1601, according to Dunn. It was very small, no more than five guests. After
+the wedding, Anne returned to her family home, Looseley Park, in the countryside
+with her oblivious father as if nothing had happened, and Dunn went back to his
+lodgings to wait and hope. To hope for what, beyond a good moment to break the
+news, is hard to say. The moment didn't come. So, in the end, on the 2nd
+February, almost two months after the wedding day, he wrote a letter and sent it
+to his father-in-law via the 9th Earl of Northumberland, Henry Percy. It wasn't
+by any reckoning a good letter. Dunn was aiming for both humility and authority.
+He instead succeeded in sounding at once overconfident and mildly unhinged. I
+knew my present estate less than fit for her. I knew, yet I knew not why, that I
+stood not right in your opinion. I knew that to have given any intimation of it
+had been to impossibilitate the whole matter. I know this letter shall find you
+full of passion, but I know no passion can alter your reason and wisdom, to
+which I adventure to commend these particulars, that it is irimediably done. He
+spells it, the O-N-N-E, a fantastically inappropriate pun on his own name, that
+if you incense my lord, you destroy her and me, that it is easy to give us
+happiness, and that my endeavours and industry, if it pleases you to prosper
+them, may soon make me somewhat worthier of her. It's multiple requests rolled
+up in one, daughter and a job and forgiveness. From the point of view of George
+Moore, with his notoriously quick temper and his aspirations to nobility, it was
+a disaster, and might have formed a great alliance, have given him titled in-
+laws with whom to socially machinate. Now she had bound herself to a scribbling
+reprobate without property and with a dead religious traitor for brother. Sir
+George went immediately to Dunn's employer, Thomas Edgerton. Anne was still a
+miner, so Dunn had broken cannon-law. The case went to the city's commissioners.
+Dunn was summarily dismissed from Edgerton's household, and to his bewilderment,
+thrown into the Fleet Prison to await further investigation. The Fleet Prison
+was simultaneously disgusting and expensive. At De A debtor's prison, it didn't
+have the dignity and royal tinge of the tower. It stood on the banks of the
+River Fleet in East London and had a grill looking onto the street through which
+prisoners could beg for arms. Prisons were profit-making enterprises. You paid
+for each turn of the key, paid to have your irons removed, paid for your food
+and lodging. Dunn's brother had died in one prison. Now he was in another, and
+like Henry, he was growing increasingly desperately unwell. On the 11th of
+February, locked in his cell, he wrote a more desperate plea to Sir George. He
+no longer stood upon his pride. And though, perchance, you intend not utter
+destruction. Yet the way through which I fall towards it is so headlong that
+being thus pushed I shall soon be at bottom. I have no refuge but that of mercy
+which I beg of him, my lord, and you. This new, humbler letter asked more to
+think of Anne. Dunn's fall from natural rebellion to abasance was very swift,
+fast enough to overturn his whole understanding of what you could and couldn't
+talk your way around. Sir George sent word in return that he would leave the
+matter up to Edgerton, who ordered that Dunn should be allowed to return to his
+lodgings. He stayed there, under house arrest in dark midwinter, while the
+legality of his marriage to Anne was decided. Dunn's health began to improve,
+but his life was still in chaos. While the High Commission deliberated, he
+continued to send out flocks of letters. Some were to Sir George. In one, he
+reiterated his passion for Anne and begged permission to send a note to her.
+Very slowly, George Moore began to come round. On the 27th of April 1602, the
+Court of Audience declared Dunn's marriage good and sufficient. It was a very
+unambiguous victory. A true and pure marriage, it was declared, had been
+contracted between the said Anne Moore alias Dunn and John Dunn. Dunn was at
+last allowed to take up his wife. Super Infinite by Catherine Rundle was read by
+Blake Ritson, the abridger was Richard Hamilton and the producer Ellen. We are
+making changes to the way BBC live streams are distributed via third-party
+services and platforms, and the BBC stream you are currently listening to will
+stop working by mid-2023. If you are using an internet radio or smart speaker
+and hearing this message, please contact the manufacturer. If you're listening
+on web or mobile, this service is available to stream on BBC Sounds.
