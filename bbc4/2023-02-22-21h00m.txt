@@ -1,56 +1,56 @@
 TRANSCRIPTION: BBC4/2023-02-22-21H00M.MP3
 --------------------------------------------------------------------------------
- 30 on RIDIO 4 and BBC Sounds. BBC News at 8 o'clock. The Defence Secretary, Ben
-Wallace, has said he's pleased Shima Begum has lost her appeal as the decision
-to... her appeal as the decision to strip her of her British citizenship was the
-right one. The 23-year-old left East London when she was 15 to join the Islamic
-State Group. An Immigration Appeals Court found there was credible evidence that
-she had been trafficked to Syria, but it also decided that this did not overrule
-the government's national security concerns. Her lawyers planned to fight the
-ruling. Rugby's Six Nations match between England and Cardiff will now go ahead
-on Saturday after last-ditch talks between some of the players and the
-professional rugby board. The players had threatened to strike because of a
+ 30 on Radio 4 and BBC Sounds. BBC News at 8 o'clock. The Defence Secretary, Ben
+Wallace, has said he's pleased Sharmima Begum has lost her appeal as the
+decision to… her appeal as the decision to strip her of her British citizenship
+was the right one. The 23-year-old left East London when she was 15 to join the
+Islamic State group. An immigration appeals court found there was credible
+evidence that she had been trafficked to Syria, but it also decided that this
+did not overrule the government's national security concerns. Her lawyers plan
+to fight the ruling. Rugby's Six Nations match between England and Cardiff will
+now go ahead on Saturday after last-ditch talks between some of the players and
+the professional rugby board. The players had threatened to strike because of a
 dispute about new contracts. The BBC's rugby correspondent, Chris Jones, says a
 compromise appears to have moved the players away from the brink. The strike
 threat was very real. This was not just a case of brinkmanship and the players
 were always going to back down. They needed concessions. They needed concessions
-over their contracts. They needed concessions over the 60-cap rule, which is the
+over their contracts. They needed concessions over the 60 cap rule, which is the
 rule that means if you haven't won 60 caps, you can't play for Wales. If you
-play your rugby outside Wales, they seem to have reached some agreement with the
-Welsh Rugby Union. But is this just going to be a short-term fix or can the
-powers that be and the players get together and put Welsh Rugby in a good place
+play rugby outside Wales, they seem to have reached some agreement with the
+Welsh Rugby Union, but is this just going to be a short-term fix or can the
+powers that be and the players get together to put Welsh rugby in a good place
 going forward? Palestinian health officials say Israeli forces have killed 10
-people and wounded more than a hundred during a raid in the occupied West Bank.
-A top Palestinian official described it as a massacre. Lancashire's police and
-crime commissioner has asked the College of Policing to carry out an independent
-review of the handling of the Nicola bully case. The force took more than three
+people and wounded more than 100 during a raid in the occupied West Bank. A top
+Palestinian official described it as a massacre. Lancashire's Police and Crime
+Commissioner has asked the College of Policing to carry out an independent
+review of the handling of the Nicola Bully case. The force took more than three
 weeks to find the body of the missing mother of two and was criticised for
 releasing personal details. Andrew Snowden said that there were questions which
 needed answers. And Tesco and Aldi have become the latest big retailers to
-introduce limits on how much fruit and veg customers can buy. Asda and
-Morrison's had already put restrictions in place as extreme weather in Spain and
-North Africa affects harvests of popular items such as tomatoes, peppers and
+introduce limits on how much fruit and veg customers can buy. Asda and Morrisons
+had already put restrictions in place as extreme weather in Spain and North
+Africa affects harvests of popular items such as tomatoes, peppers and
 cucumbers. BBC News. In three quarters of an hour and in the final episode of
-Fourth Thought, Sheila Cook reflects on what she has learned from producing it
-for 11 years. For now on Radio 4, time for The Moral Maze. Live as usual is
+Forethought, Sheila Cook reflects on what she has learned from producing it for
+11 years. For Nile Radio 4, time for the Moral Maze. Live as usual, here's
 Michael Burke. Good evening. It's perhaps slightly strange that the high
 watermark of classical antiquity should be found in Bloomsbury. For that we have
 Lord Elgin to thank and a fat lot of good it did him. He ruined himself. Some
 say rescuing, some say stealing the marbles that bear his name and died all but
-penniless in France where he'd fled to escape his creditors. They might not be
-in the British Museum much longer. By all accounts they could be returned to
-Greece in a complicated kind of permanent loan. The fate of the Elgin marbles is
-just one aspect of the current movement to try to write what are regarded by
-some as historical injustices. The return of artefacts has its own issues of
-cultural ownership, how and where glorious works can be displayed to best
-advantage. The wider call for reparation for past wrongs, slavery for instance,
-is even more difficult. The Church of England has set up a £100 million fund to
-somehow compensate for its shameful involvement with the slave trade. This
-raises all sorts of questions. How far are we responsible for the actions of our
-forebears? Who would qualify for a pay out and why? Where do you stop? As one
-commentator put it, if we have to make reparation for the presumed sins of our
-empire, perhaps we should sue the Italian government for what the Romans did to
-us. Paying for the past, our moral maze tonight, the panel Ash Sarker from the
+penniless in France where he fled to escape his creditors. They might not be in
+the British Museum much longer. By all accounts they could be returned to Greece
+in a complicated kind of permanent loan. The fate of the Elgin marbles is just
+one aspect of the current movement to try to right what are regarded by some as
+historical injustices. The return of artefacts has its own issues of cultural
+ownership, how and where glorious works can be displayed to the best advantage.
+The wider call for reparation for past wrongs, slavery for instance, is even
+more difficult. The Church of England has set up a £100 million fund to somehow
+compensate for its shameful involvement with the slave trade. This raises all
+sorts of questions. How far are we responsible for the actions of our forebears?
+Who would qualify for a payout and why? Where do you stop? As one commentator
+put it, if we have to make reparation for the presumed sins of our empire,
+perhaps we should sue the Italian government for what the Romans did to us.
+Paying for the past, our moral maze tonight. The panel, Ash Sarkar from the
 Navarro Media Group, the feminist author and commentator Ella Whelan, the
 historian Tim Stanley and Matthew Taylor, Chief Executive of the NHS
 Confederation. Ash, where should the marbles be? I think they should be in
@@ -60,7 +60,7 @@ sense to say that ill-gotten wealth can be handed down through the generations,
 but the demand for restitution can't. And I also think that the argument is
 misleadingly presented as being about the sufferings of the past. It's not. It's
 about how the suffering of the past never really went away and how it manifests
-in the injustices of the present. Ella, Ella, we know. On the marbles, I think
+in the injustices of the present. Ella, Ella Whelan? On the marbles, I think
 that there's, you know, I'm going to say that there's a sort of a nice fudge to
 it at the moment, which is that there's, you can see them in situ and you can
 also go to that wonderful institution, the British Museum and see them. I think
@@ -68,550 +68,551 @@ you can get different things from both. But on reparations more broadly, I think
 we're in danger of letting governments off the hook for their ongoing failings
 in the present by looking to the past for the cause and cure of all our ills.
 Matthew, Matthew Taylor? Yeah, I'd send them back to Athens and I'd have very
-good replicas for us to look at in the British Museum. I support the principles
-of restitution and compensation, but I do think they're principles that need to
-be balanced by relevance, practicality and some notion of the public interest.
-Tim Stanley? On the marbles, I'm tempted to quote Ronald Reagan, who when asked
-if America should return the Panama Canal, said, we bought it, we paid for it,
-it's ours. But I recognize that it can be moral and decent to gift, to lend, to
-be charitable and to try to carry out restitution for past sins. But I wonder to
-what extent British museums and British politicians also have a moral obligation
-towards British visitors and British taxpayers. Panel, thanks very much indeed.
-Our first witness is Dan Hicks, who's Professor of Contemporary Archaeology at
-Oxford University, author of The Brutish Museum, on the line now from the Pitt
-Rivers Museum at Oxford, where he's a curator, I think. That's right, is it, not
-a misprint, The Brutish Museum, how so? It is, absolutely, yes, hi. So yes, I
-mean, the book looks at the role of British museums in relation to violence
-under empire, and it really makes a point which we've already heard, which is
-that in some instances, there are situations where empire isn't over. So we have
-to look at objects and look at those instances where a return is asked for in
-terms of what's happening now, and not in terms of seeking to right wrongs from
-the past, but to look at actually how we make our museums, everything that we
-want them to be in the present. Okay, Ella William. What should the requirements
-be for a return? What kind of boxes does an individual or a nation have to take
-to warrant a legitimate repatriation? So I think it's important that you say an
-individual or a nation, because in a lot of cases, we're not speaking here about
-the national museums, we're talking about the fact that objects are, you know,
-around the country, around the UK, and in museums in which actually restitution
-has been a normal part of how we work in museums for a very long time. So in the
-very different historical instances of Holocaust loot, or the return of
-indigenous human remains, the return of items, you know, it is a part of our
-normal work in the museum. Okay, but should, sorry, should we, should anything
-be given, should any claim be taken seriously? Could anyone say actually that's
-looted, or that was stolen, or that was ill gotten, and so give it back? And so
-what we've learned over the years is, is essentially a case by case approach.
-We're talking about millions of objects in our museums, most of which are not
-accessible to the public, these are items hidden away in storerooms, open items
-that, you know, haven't been looked at for over 100 years. And so it's a case by
-case approach, but we have to be open to returning, you know, in some cases. And
-what's, what is the sort of, what's the upshot of that return? Because you know,
-is it just about returning it to the right place? Is it returning it to the
-right person? Because obviously, you know, the Parthenon was built by slaves, do
-we stop at giving it back to Greece? Or do we find the rightful ownership? I
-mean, where's the, where's the moral end point of this process of do-gooding by
-return? Yeah, I don't know if I call it that exactly. This isn't about being
-good. This is about understanding our museums as operating in the contemporary
-world and really wanting our museums to be fit for our times. Yeah. And how
-does, you know, you know, what would you say to the argument that, you know, a
-museum is something that makes accessible the story of human civilizations, you
-know, you know, a kid who's growing up in, you know, not with lots of money to
-travel to different countries can go to the museum, British Museum, take for
-example, and experience that holistic, universal human story. Don't we lose that
-if we give everything back? Aren't you just emptying all the coffers of your own
-workplace? So I think first off from, you know, Ipswich to Manchester to
-Birmingham, Bristol and Edinburgh, we have items that actually nobody can see.
-So a large amount of this is about items that are not in the British Museum. And
-build more museums. And that's only the tip of the iceberg. And it's easy to
-talk, you know, to have a London-centered conversation about this, but
-ultimately it's a national issue. It's also a European issue. And let's remember
-that across Europe, you know, returns are being made in France, Germany and so
-forth in the context of Africa. So this is very much a normal part of our museum
-practice. And I think we actually really have to worry about those who wish to
-turn this into, you know, an issue which is about a culture war or indeed the
-economy of the model. Okay. Tim Stoney? Right. Hang on a second. Come in.
-Professor Hicks, you say others wish to turn it into a culture war issue, but
-your issue with the museum goes well beyond one or two objects being out of
+good replicas for us to look at. Look at in the British Museum. I support the
+principles of restitution and compensation, but I do think they're principles
+that need to be balanced by relevance, practicality and some notion of the
+public interest. Tim Stanley? On the marbles, I'm tempted to quote Ronald
+Reagan, who when asked if America should return the Panama Canal said, we bought
+it, we paid for it, it's ours. But I recognize that it can be moral and decent
+to gift, to lend, to be charitable and to try to carry out restitution for past
+sins. But I wonder to what extent British museums and British politicians also
+have a moral obligation towards British visitors and British taxpayers. Panel,
+thanks very much indeed. Our first witness is Dan Hicks, who's Professor of
+Contemporary Archaeology at Oxford University, author of The Brutish Museum, on
+the line now from the Pitt Rivers Museum at Oxford, where he's a curator, I
+think. That's right, is it, not a misprint, The Brutish Museum, how so? It is
+absolutely, yes. Hi. So yes, I mean, the book looks at the role of museums in
+relation to violence under empire. And it really makes a point which we've
+already heard, which is that in some instances there are situations where empire
+isn't over. So we have to look at objects and look at those instances where a
+return is asked for in terms of what's happening now and not in terms of seeking
+to right wrongs from the past, but to look at actually how we make our museums,
+everything that we want them to be in the present. OK. Ella William. What should
+the requirements be for a return? What kind of boxes does an individual or a
+nation have to tick to warrant a legitimate repatriation? So I think it's
+important that you say an individual or a nation, because in a lot of cases,
+we're not speaking here about the national museums. We're talking about the fact
+that objects are, you know, around the country, around the UK in museums, in
+which actually restitution has been a normal part of how we work in museums for
+a very long time. So in the very different historical instances of Holocaust
+loot or the return of indigenous human remains, the return of items, you know,
+it is a part of our normal work in the museum. OK, but should anything be given?
+Should any claim be taken seriously? Could anyone say actually that's looted or
+that was stolen or that was ill gotten and so give it back? And so what we've
+learned over the years is essentially a case by case approach. We're talking
+about millions of objects in our museums, most of which are not accessible to
+the public. These are items hidden away in storerooms, often items that haven't
+been looked at for over 100 years. And so it's a case by case approach, but we
+have to be open to returning, you know, in some cases. And what's the upshot of
+that return? Because, you know, is it just about returning it to the right
+place? Is it returning it to the right person? Because obviously, you know, the
+Parthenon was built by slaves. Do we stop giving it back to Greece or do we find
+the rightful ownership? I mean, where's the where's the moral end point of this
+process of do gooding by return? Yeah, I don't know if I call it that exactly.
+This isn't about being good. This is about understanding our museums as
+operating in the contemporary world and really wanting our museums to be fit for
+our times. And how does you know, what would you say to the argument that, you
+know, a museum is something that makes accessible the story of human
+civilizations? You know, a kid who's growing up in, you know, not with lots of
+money to travel to different countries can go to the museum, British Museum,
+take, for example, and experience that holistic, universal human story. Don't we
+lose that if we give everything back? Aren't you just emptying all the coffers
+of your own workplace? So I think first off from, you know, Ipswich to
+Manchester to Birmingham, Bristol and Edinburgh, we have items that actually
+nobody can see. So a large amount of this is about items that are not in the
+British Museum. And build more museums. That's only the tip of the iceberg. And
+it's easy to talk, you know, to have a London-centered conversation about this,
+but ultimately it's a national issue. It's also a European issue. And let's
+remember that across Europe, you know, returns are being made in France, Germany
+and so forth in the context of Africa. So this is very much a normal part of our
+museum practice. And I think we actually really have to worry about those who
+wish to turn this into, you know, an issue which is about a culture war or
+indeed an issue only of the moral. Tim Stanley. Hang on a second. Hang on a
+second. Professor Hicks, you say others wish to turn this into a culture war.
+But your issue with the museum goes well beyond one or two objects being out of
 place. I mean, you have said that the Anthropological Museum, which Pitt Rivers
-is an example of, is and I quote, a weapon and a device for the ideology of
+is an example of, is, and I quote, a weapon and a device for the ideology of
 white supremacy to legitimate, extend and naturalize new extremes within
 corporate capitalism. You have a much bigger political take on the museum than
 just it has some objects that are in the wrong place. Well, absolutely, because
-these are legacy institutions. Imagine any other aspect of our art or culture,
-imagine, you know, medicine, any other aspect of our universities where we
-weren't allowed to improve how we act according to our knowledge in the present.
-So I think, you know, actually understanding that the museum is an idea for a
-period of time in its history in the later 19th century, early part of the last
-century was, you know, put to ends which have no place in the present. We see
-that most obviously with the fake racial science, the display of human remains.
-I don't think anyone is arguing that we ought to... No, no, no, no. No, of
-course not. Of course not. Of course not. But the visitors to the museum, the
-visitors to the museum might not share your political outlook. And many people
-who come to a museum expect simply to see beauty and knowledge from around the
-world put on display for them to look at, them to enjoy and process and
-understand as they see fit. Whereas if you take an object away from them, to
-what extent are you letting them down? Do you have a moral obligation to them to
-see the object? This is about anthropology museums and about world culture and
-that idea of world culture and what that means in the present. We've never
-needed something like a world culture museum more in the present to see the
-world and the different ways of your making, your thinking, experiencing the
-world outside of a Eurocentric lens. But that doesn't mean we need to display
-items that were taken with violence, where there is a demand for return and to
-say under no circumstances will we ever return. So this is where we're looking
-at African objects that were taken with violence. OK, let's say we're taken with
-violence many, many years ago in the process of it being taken to somewhere
-else, does the meaning of the object not change? Is the fact that it has been
-kept stored, curated and displayed over time, does that give any claim to
-ownership to the nation that now has it? So in those cases, I think we have to
-underline where we're looking at African objects that were taken with violence,
-how much was actively destroyed and the taking of that object and the cultural
-dispossession that was part of colonial war is something with which we have in
-anthropology museums to work in the present. So we are working with these
-resources in the present. Either we want museums where we put humans first and
-we think about the present and the living present or we have some weird idea
-that the museum is a thing that will never change, that can never be a part of
-our world in the present. And I think that's entirely wrong. I can't imagine any
-other sector where we would make that argument. Professor Hicks, thanks very
-much indeed. Our next witness is Dr Tiffany Jenkins, who's author of How
-Treasures of the Past Ended Up in Museums and Why They Should Stay There. She's
-on the line now. Well, in a sentence, why? Well, I think objects can tell us a
-lot about the lives of past people. The windows really onto the world. And I
-think demands that they are returned for past wrongs turns them into objects of
-apology rather than enlightenment. I think museums and objects can do many
-things, but they can't solve the problems of history. Understood. Matthew
-Taylor. Dr Jenkins, just a thought experiment. I imagine we discovered that most
-of the medieval European exhibits in a popular Argentinian museum were donated
-by a Nazi fugitive from his hoard of items stolen under German occupation from
-European museums. Should we seek to return those objects? I think if you've got
-living relatives, people still alive today. No, this is 90 years ago. No one's
-alive anymore. They were nicked by the Nazis from, I don't know, a Polish
-museum. And they're in an Argentinian museum. Should they be returned to Poland?
-Quite possibly. I'm not against return per se. I just don't think it can go past
-wrong. So it's not the principle of restitution. So whatever. I think if you let
-me, I think you do need to do on a case by case basis and you need to ask where
-is best for the object. So where is it best in terms of truth? Where does it
-tell us a certain story about those past people access, who gets to see it and
-preservation. And my problem is that with this debate, it's become so moralised
-and politicised. We've actually forgotten about the object. It's kind of
-interesting because that's almost exactly what our previous guest said that he
-said we should look at it on a case by case basis, that we shouldn't see it as a
-kind of moral question. So I think I'm understanding that your position is
-you're not opposed to the principle of restitution, but you think it needs to be
-balanced by kind of pragmatism, by some kind of public interest test. Would that
-be right? Very much so. But I think you're probably wrong about Dan Hicks. I
-think his is a moral quest. It's your views I'm interested in. But if we are to
-be pragmatic, public interest, why? Let's take the Rosetta Stone, that's a good
-example. We could use laser printing to make an absolutely perfect copy of it.
-And we could tell the story, as in fact we're doing now at an exhibition about
-how we deciphered it. So what would we actually lose by returning the original
-to Egypt? Well, I think the question was best answered by asking, would you be
-happy to send a replica to Egypt, or would you be happy to send a replica of all
-the marbles to Greece? And no, you wouldn't. There are many things you can do
-with replicas. And I'm quite excited about the possibility. But I think
-ultimately it doesn't answer the question of ownership. And we may be object
-fetishes here. I mean, we love museums, we love objects. So maybe we are. But I
-think people do want to see and hold or touch, not that they're allowed to, the
-real thing. I guess this is the point then, that if we accept the principle of
-restitution, but we say, yes, but it should be reasonable. We shouldn't have to
-make enormous sacrifices. People shouldn't not be able to see things. But if you
-can make good replicas, given that only 3%, as I understand it, of the museum
-collections in the world are currently on show, and there's an enormous amount
-that could be brought out of the cellars, giving these things back, it's not
-going to ruin our museums. It's not going to stop people being able to
-understand the history of things. Some of our most popular exhibits are indeed
-replicas. So why don't we just get on with it? It might be a good idea to talk
-about specifics. So in the case of the Parthenon in the British Museum, I think
-they work very well there in relationship to other cultures. So the Assyrians
-and the Egyptians. You can better understand the specificity of ancient Athens
-that way. Equally in Athens. But how would it be, sorry, just to be clear on
-this, how would it actually be different if they were perfect replicas? What
-would that take away? I don't think anybody wants to see perfect replicas. I
-think you could do something more creative with replicas. So the Parthenon, for
-example, was coloured. It was covered in bling. It looks completely different
-the way we see it today. Maybe you could do that with replicas. But I think
-people still want the staff. Arstalka? Hello, Tiffany. Just help me understand a
-bit better, is your position that great works of art somehow transcend the
-context of their origin and that they kind of belong to the world? I think they
-do both. So the Parthenon, for example, is both specific to ancient Athens. And
-you can see that very well illustrated in the Acropolis Museum. But at some
-point, they do become dislodged and acquire different meanings beyond their
-moment. That's what's so interesting. But I'm thinking about what artefacts of
-great historical importance do. And they kind of provide us an opportunity to
-look for ourselves and look for meaning in the place that we find ourselves.
-Because look, let's say that I see power in a military coup here in the UK, and
-I decide that the Sotunhu mask should be enjoyed by the people of Bangladesh.
-They should get a chance to see it as well. So I'll sign it over permanently to
-the best museum in Dhaka. Would that be OK to dislodge it in that way? I
-wouldn't be against it. I mean, I love the Sotunhu mask. And lots of people be
-very cross. And they see they have a particular relationship to it because it is
-from Britain. I understand that equally. I understand people in Greece who feel
-a particular national relationship to the Parthenon. But I do think, you know,
-why should we just have Greek art in Greece? What about sending it to China or
-Peru or Dhaka, for that matter? But on a permanent basis, to send over the
-Sotunhu mask, you wouldn't think that we were being robbed of some part of our
-history, some way to understand ourselves and our history, that we gained
-something as the English, as the British, from being able to see it whenever we
-want. I love being able to see it whenever I want, whenever I'm in London. But I
-think it does. It could do something different in Dhaka. And it could do
-something of public benefit there. I think Churchill's letters aren't here. And
-Henry VIII's letters to Anne Boleyn aren't here. And I think, I mean, this is
-obviously more literary culture. I think the Codex Bible is in Florence, the
-first Latin Bible from the north of England. Objects do, in a way, they're like
-ambassadors. And I think that's what the Parthenon can be like. It's an
-ambassador for ancient Athens in Bloomsbury. And I hear that point. And I
-understand the principle of loaning objects out and maximizing the number of
-people that can see it. But by keeping, say, the Benin bronzes here, are we not
-robbing people in Benin and Nigeria to understand something of themselves
-through these objects? Well, I am, sort of, the return of some of the Benin
-bronzes to Nigeria. I think there are lots in European and American museums. But
-I do, I am cautious about the current repatriations, because at the moment there
-isn't a safe place for them. It's very likely that the museums that are rapidly
-shoving them out of their collections, you sort of have to ask why they're doing
-that, places like the big rivers. Those objects are likely to end up on the
-private market. And an idea of them people are unlikely to see them. Dr.
-Jenkins, Tiffany Jenkins, thank you very much indeed. Our next witness is
-Chinnie McDonald, who's director of the Theos Think Tank and author of God is
-Not a White Man. We've been talking about artifacts here, but moving on to the
-broader question of reparation. What in a nutshell, because we'll be unpacking
-it in a moment, what's the moral case for this generation of British people
-paying this generation of African, say, or Indians, because of what happened
-centuries ago? Well, I think we tend to over complicate this issue. I think at
-its heart, it's pretty simple. We all have an instinctive understanding of
-fairness and of justice. I've got two little boys. My five-year-old understands
-that if he takes something from someone else that doesn't belong to him, that
-the right thing to do is to give it back. At its heart, it is an instinctive
-understanding. So we tend to over complicate it and try to find ways in which we
-won't do it or we shouldn't do it. But really, it's pretty simple. Do you
-understand that? Pick up on that very interesting example. The point is there,
-individual responsibility. He's got to give it back because he took it. When
-we're talking, however, about great-great-grandparents taking from other great-
-great-grandparents, do we have an immediate responsibility for that? I think
-it's interesting to say that because we also often talk about remembrance. So
-every year, we remember those who died in the war. We say we will remember them.
-We have a connection to the past, to those who have come before us. Now, yes, if
-my son takes something from someone else, it's his individual responsibility.
-But it's not just about the past. It's also about the current, the present, and
-the future. We essentially think that lots of people have an interest in their
-own ancestry. People who watch, who do you think you are? And when they find out
+these are legacy institutions. Imagine any other aspect of our art or culture.
+Imagine medicine, any other aspect of our universities where we weren't allowed
+to improve how we act according to our knowledge in the present. So I think, you
+know, actually understanding that the museum is an idea for a period of time in
+its history, in the later 19th century, early part of the last century was, you
+know, put to ends which have no place in the present. We see that most obviously
+with the fake racial science, the display of human remains. I don't think anyone
+is arguing that we ought to. No, no, no, no, no. Of course, of course not. But
+the visitors to the museum, the visitors to the museum might not share your
+political outlook. And many people who come to a museum expect simply to see
+beauty and knowledge from around the world put on display for them to look at,
+them to enjoy and process and understand as they see fit. Whereas if you take an
+object away from them, to what extent are you letting them down? Do you have a
+moral obligation to them to see the object? This is about anthropology museums
+and about world culture and that idea of world culture and what that means in
+the present. We've never needed something like a world culture museum more in
+the present to see the world and the different ways of making, thinking,
+experiencing the world outside of a Eurocentric lens. But that doesn't mean we
+need to display items that were taken with violence, where there is a demand for
+return and to say under no circumstances will we ever return. So there's a lot
+of where we're going. Can I just say, I have to get another question. If that
+object were taken, even if, okay, let's say it were taken with violence many,
+many years ago, in the process of it being taken to somewhere else, does the
+meaning of that object not change? Is the fact that it has been kept, stored,
+curated and displayed over time, does that give any claim to ownership to the
+nation that now has it? So in those cases, I think we have to underline where
+we're looking at African objects that were taken with violence, how much was
+actively destroyed and the taking of that object and the cultural dispossession
+that was part of colonial war is something with which we have in anthropology
+museums to work in the present. So we are working with these resources in the
+present. Either we want museums where we put humans first and we think about the
+present and the living present, or we have some weird idea that the museum is a
+thing that will never change, that can never be a part of our world in the
+present. And I think that's entirely wrong. I can't imagine any other sector
+where we would make that argument. Professor Hicks, thanks very much indeed. Our
+next witness is Dr Tiffany Jenkins, who's author of How Treasures of the Past
+Ended Up in Museums and Why They Should Stay There. She's on the line now. Well,
+in a sentence, why? Well, I think objects can tell us a lot about the lives of
+past people, their windows really onto the world. And I think demands that they
+are returned for past wrongs turns them into objects of apology rather than
+enlightenment. I think museums and objects can do many things, but they can't
+solve the problems of history. Understood. Matthew Taylor. Dr Jenkins, just a
+thought experiment. I imagine we discovered that most of the medieval European
+exhibits in a popular Argentinian museum were donated by a Nazi fugitive from
+his hoard of items stolen under German occupation from European museums. Should
+we seek to return those objects? I think if you've got living relatives, people
+still alive today. No, this is 90 years ago. No one's alive anymore. They were
+nicked by the Nazis from, I don't know, a Polish museum and they're in an
+Argentinian museum. Should they be returned to Poland? Quite possibly. I'm not
+against return per se. I just don't think it can go past wrong. So it's not the
+principle of restitution. So would I be right in saying- No, not necessarily. I
+think, if you let me, I think you do need to do on a case by case basis and you
+need to ask where is best for the object. So where is it best in terms of truth?
+Where does it tell us a certain story about those past people? Access, who gets
+to see it, and preservation. And my problem is that with this debate, it's
+become so moralized and politicized, we've actually forgotten about the object.
+Well, it's kind of interesting because that's almost exactly what our previous
+guest said, he said we should look at it on a case by case basis, that we
+shouldn't see it as a kind of moral question. So I think I'm understanding that
+your position is you're not opposed to the principle of restitution, but you
+think it needs to be balanced by kind of pragmatism, by some kind of public
+interest test. Would that be right? Very much so. But I think you're probably
+wrong about Dan Hicks. I think his is a moral quest. It's your views I'm
+interested in. But if we are to be pragmatic, public interest, why? Let's take
+the Rosetta Stone, that's a good example. We could use laser printing to make an
+absolutely perfect copy of it. And we could tell the story, as in fact, we're
+doing now in an exhibition about how we deciphered it. So what would we actually
+lose by returning the original to Egypt? Well, I think the question was best
+answered by asking, would you be happy to send a replica to Egypt, or would you
+be happy to send a replica of all the marbles to Greece? And no, you wouldn't.
+There are many things you can do with replicas. And I'm quite excited about the
+possibility. But I think ultimately, it doesn't answer the question of
+ownership. And we may be object fetishists here. I mean, we love museums, we
+love objects. So maybe we are. But I think people do want to see and hold or
+touch, not that they're allowed to, the real thing. I guess this is the point
+then, that if we accept the principle of restitution, but we say, yes, but it
+should be reasonable, we shouldn't have to make enormous sacrifices, people
+shouldn't not be able to see things. But if you can make good replicas, given
+that only 3%, as I understand it, of the museum collections in the world are
+currently on show, and there's an enormous amount that could be brought out of
+the cellars, giving these things back, it's not going to ruin our museums. It's
+not going to stop people being able to understand the history of things. Some of
+our most popular exhibits are indeed replicas. So why don't we just get on with
+it? It might be a good idea to talk about specifics. So in the case of the
+Parthenon in the British Museum, I think they work very well there in
+relationship to other cultures. So the Assyrians and the Egyptians, you can
+better understand the specificity of ancient Athens that way. Equally in
+Athens... But how would it be, sorry, just to be clear on this, how would it
+actually be different if they were perfect replicas? What would that take away?
+I don't think anybody wants to see perfect replicas. I think you could do
+something more creative with replicas. So the Parthenon, for example, was
+coloured, it was covered in bling, it looks completely different to the way we
+see it today. Maybe you could do that with replicas, but I think people still
+want the stuff. Ash Saga? Hello, Tiffany, just help me understand a bit better,
+is your position that great works of art somehow transcend the context of their
+origin and that they kind of belong to the world? I think they do both. So the
+Parthenon, for example, is both specific to ancient Athens, and you can see that
+very well illustrated in the Acropolis Museum. But at some point they do become
+dislodged and acquire different meanings beyond their moment. That's what's so
+interesting. But I'm thinking about what artefacts of great historical
+importance do. And they kind of provide us an opportunity to look for ourselves
+and look for meaning in the place that we find ourselves. Because look, let's
+say that I seize power in a military coup here in the UK, and I decide that the
+Sotunhu mask should be enjoyed by the people of Bangladesh, they should get a
+chance to see it as well. So I sign it over permanently to the best museum in
+Dhaka. Would that be okay to dislodge it in that way? I wouldn't be against it.
+I mean, I love the Sotunhu mask and lots of people be very cross and they say
+they have a particular relationship to it because it is from Britain. I
+understand that equally, I understand people in Greece who feel a particular
+national relationship to the Parthenon. But I do think, you know, why should we
+just have Greek art in Greece? What about sending it to China, Peru or Dhaka for
+that matter? On a permanent basis to send over the Sotunhu mask, you wouldn't
+think that we were being robbed of some part of our history, some way to
+understand ourselves and our history that we gain something as the English, as
+the British from being able to see it whenever we want. I love being able to see
+it whenever I want, whenever I'm in London. But I think it could do something
+different in Dhaka and it could do something of public benefit there. I think
+Churchill's letters aren't here and Henry VIII's letters to Anne Boleyn aren't
+here. And I think, I mean, this is obviously more literary culture, I think the
+Codex Bible is in Florence, the first Latin Bible from the north of England.
+Objects do, in a way, they're like ambassadors. And I think that's what the
+Parthenon can be like. It's an ambassador for ancient Athens and Bloomsbury. I
+hear that point and I understand the principle of loaning objects out and
+maximising the number of people that can see it. But by keeping, say, the Benin
+bronzes here, are we not robbing people in Benin and Nigeria to understand
+something of themselves through these objects? Well, I am for the return of some
+of the Benin bronzes to Nigeria. I think there are lots in European and American
+museums, but I am cautious about the current repatriations because at the moment
+there isn't a safe place for them. And it's very likely that the museums that
+are rapidly shoving them out of their collections, you sort of have to ask why
+they're doing that, places like the Big Rivers, those objects are likely to end
+up on the private market and Nigerian people are unlikely to see them. Dr
+Jenkins, Tiffany Jenkins, thank you very much indeed. Our next witness is Chinny
+MacDonald, who's director of the Theos think tank and author of God is not a
+White Man. We've been talking about artefacts here, but moving on to the broader
+question of reparation, in a nutshell, because we'll be unpacking it in a
+moment, what's the moral case for this generation of British people paying this
+generation of Africans, say, or Indians, because of what happened centuries ago?
+Well, I think we tend to overcomplicate this issue. I think at its heart, it's
+pretty simple. We all have an instinctive understanding of fairness and of
+justice. I've got two little boys, and my five year old understands that if he
+takes something from someone else that doesn't belong to him, that the right
+thing to do is to give it back. At its heart, it is an instinctive
+understanding. So we tend to overcomplicate it and try to find ways in which we
+won't do it or we shouldn't do it. But really, it's pretty simple. Tim Stanley?
+To pick up on that very interesting example, the point is there, individual
+responsibility. He's got to give it back because he took it. When we're talking,
+however, about great, great grandparents taking from other great, great
+grandparents, do we have an immediate responsibility for that? I think it's
+interesting to say that because we also often talk about remembrance. So every
+year, we remember those who died in the war. We say we will remember them. We
+have a connection to the past, to those who have come before us. Now, yes, if my
+son takes something from someone else, it's his individual responsibility. But
+it's not just about the past. It's also about the current, the present, and the
+future. We – it's interesting that lots of people have an interest in their own
+ancestry, people who watch Who Do You Think You Are? And when they find out
 about their ancestors, they feel a connection to that. So I think we do feel
 connected to the past. But you see, you're introducing ancestry here, but we're
-talking here about states and the responsibility of states. Now if, for example,
-someone migrated here from Poland just 10 years ago, why should they with no
-ancestry linked to the British Isles have to, through tax or whatever, pay
-reparations for how the British subjects may have treated someone 200 or 300
-years ago? Well, that's an interesting example because similarly, why should I,
+talking here about states and the responsibility of states. Now, if, for
+example, someone migrated here from Poland just 10 years ago, why should they,
+with no ancestry linked to the British Isles, have to, through tax or whatever,
+pay reparations for how the British subjects may have treated someone 200 or 300
+years ago? Well, that's an interesting example, because similarly, why should I,
 as someone who was born in Nigeria, who has family who were taken from Nigeria
-during the transatlantic slave trade, I paid, my taxes went towards paying off
+during the transatlantic slave trade, I paid – my taxes went towards paying off
 slave owners when the UK government took out the biggest loan in its history in
 1835 to pay off, they said, compensate slave owners for the projected loss of
 earnings. And we were paying that from 1833 until 2015. Right, right. Okay. I
 mean, others would argue that was done in order to make anti-slavery possible,
-that it had to be paid off in order to avoid a conflict or avoid legal action,
-etc, etc. But accepting that, when, where does this potentially stop? So we're
+that it had to be paid off in order to avoid a conflict or to avoid legal
+action, etc, etc. But accepting that, where does this potentially stop? So we're
 taking the example of slavery, obviously, because it's so particularly morally
 stark, but one could argue that, you know, the Romans once ruled Britain, the
-Vikings once raided Britain. How do we stop in terms of responsibility for what
-our societies did in the past? Can we, can I demand reparations from Norway?
-Again, I'd say it's not just about the past, it's about the present. So the
-difference here is that we are talking about countries and nations, particularly
-in the global south, in Africa, in Asia, and Latin America, who are still paying
-the consequences of centuries of colonisation, subjugation, oppression,
-violence, that has consequences for how they live today. So there are
-repercussions to all that has happened over the past centuries. So it's not just
-about the past, it's about the present. And it's also about the future. What
-kind of people do we want to be? Do we want to be those people who say, wasn't
-me? No, thanks. It's got nothing to do with me. Or how might we be people who
-say, there's a wrong that has been done, and how might we be play a part in
-writing it? Ella? To fix those problems in the present, what would reparations
+Vikings once raided Britain. So where does it stop in terms of responsibility
+for what our societies did in the past? Can we demand – can I demand reparations
+from Norway? Again, I'd say it's not just about the past, it's about the
+present. So the difference here is that we are talking about countries and
+nations, particularly in the global south, in Africa, in Asia, in Latin America,
+who are still paying the consequences of centuries of colonisation, subjugation,
+oppression, violence, that has consequences for how they live today. So there
+are repercussions to all that has happened over the past centuries. So it's not
+just about the past, it's about the present. And it's also about the future.
+What kind of people do we want to be? Do we want to be those people who say,
+wasn't me? No, thanks. It's got nothing to do with me? Or how might we be people
+who say, there's a wrong that has been done? And how might we play a part in
+righting it? Ella? To fix those problems in the present, what would reparations
 look like today? It could look like all sorts of things. It could be national
 governments paying to national governments, but I think we can also be a little
 bit more creative about it. So it can be institutions, it can be the Church of
 England has, as was mentioned, put together a hundred million pound fund to in
 some way repair some of the damage that was done, its role in the transatlantic
-slave trade. But there are also kind of interesting examples, Stormzy and his
-bursary for black young people to go to Cambridge. I loved an example of the
-Virginia Theological Seminary in the US that tracked down the descendants of
+slave trade. But there are also kind of, you know, interesting examples, Stormzy
+and his bursary for black young people to go to Cambridge. I love an example of
+the Virginia Theological Seminary in the US that tracked down the descendants of
 those enslaved people who worked at the college, obviously centuries ago, and
-they gave them a thousand pound checks. But they didn't just give them money.
-Obviously, some people said, no, thanks too little too late, but some people
-accepted it. It wasn't just about money, but it was then also about you can have
-this check, but you can also use our library, you can eat for free. It was about
-restoring relationship. So there's all sorts of interesting and creative ways
-that we can do this. There is already a process through which Western nations,
-through their explanation, try to aid nations that are oppressed or struggling
-or developing or however you want to call it. So how would this have been to
-survey it? And how would that how would it be different? Well, it's correct that
-the conversation in international development and philanthropy at the moment is
-about talking about reparations rather than aid, because the idea of
-philanthropy and of aid is this idea that I am. We are benevolent, rich, wealthy
-nations who will give charitably, but actually reparations about saying often
-morally dubious. I mean, it's a very it's very politicized kind of way of
-looking at it. I mean, it often does more for the Western nation than it
-actually does for the Nigerians or the Congolese or whoever are receiving that
-cash or whatever. Well, I'd say good development is kind of decolonizing and it
-works with the communities in those countries to work out how they want to be
-and to kind of develop. Jenny McDonald, thank you very much indeed. Our last
-witness is James Orr, who's associate professor of the philosophy of religion at
-Cambridge University and a member of History Reclaimed, which is a group of
-academics who campaigned against what they see as the abuse of history for
-political purposes. He's on the line from there now. Is that Professor Orr, what
-you think is happening here and the call for reparations to form the colonies or
-the descendants of slaves, an abuse of history for political purposes? I'm not
-sure I would go that far, though I'd certainly disagree with Jean Ayn saying
-that the issue of reparations is a simple one. I think it involves an
-exceptionally complex set of moral problems. It's interesting that the example
-she used is of her son, a case of individual culpability. But I think in the
-case of reparations, we're dealing with a much more complex issue of collective
-moral guilt and harm and even less straightforwardly how collective moral guilt
-and harm persists over time. I don't think anyone would deny that there are
-situations from the recent past where there's a strong case to be made for
-reparations. The obvious example is the 1952 reparations agreement between
-Israel and Germany, where Germany financially compensated the Jewish victims of
-the Holocaust or reparations made by our own government to survivors of the
-Malmauer uprising in the 1950s. But I think the case for reparations gets much
-weaker when one leaves the land of the living, as it were, and resurrects
-horrors from the distant past when one's effectively asking people who could not
-have been guilty of a crime to make atonement to people who couldn't have been
-victims of the crime. Understood. Arshaka. Hello, James. I'm so glad you
-mentioned the land of the living because that's really where I want to begin.
-Have you ever heard of a place called Angola Prison? I think I might have seen
-some articles about it. Yes. I mean, just to catch up our audience, Angola
-Prison is the nickname for Louisiana State Penitentiary. It's the largest
-maximum security prison in the US. 75% of the inmates there are black. And it's
-called Angola because that's the name of the slave plantation that the prison
-was built on top of. So to this day, you can see disproportionately black men in
-a chain gang working for free or very near to free, laboring in the fields,
-guarded by white rifle men on horseback. Does slavery in this context feel like
-a distant past or does it feel like maybe it's invading the land of the living?
-Not at all. I think the case that you point to is a case that's straight from
-the land of the living. There may be analogies that we can draw with slavery in
-the past, but there would only be analogies. What needs to be shown for
-reparations, to make sense, is a clear causal nexus between slavery from the
-past and the slave-like conditions that you draw attention to. And the further
-we get into the past, the harder it becomes, I think, to provide the kind of
-evidential basis for that causal nexus, that you need to command widespread
-public support for a big scheme of reparations. But when you see something like
-that and you see the descendants of enslaved people toiling in very similar
-conditions, do you honestly look at that and go, oh, well, correlation's not
-causation? I do. I look at that and I think that that is a problem that relates
-to policies of incarceration and inappropriate forms of incarceration in the
-present. I think you can't change the past, you can affect the present. And I
-would look at a situation like that and seek solutions not in the distant past,
-but by seeking, and not by seeking reparations, but by demanding that the US
-government or the state government of Louisiana addresses the problem. Matthew
-Taylor. Do you think it's useful to have a sense of national responsibility, for
-example, for our role in some of the most panacious aspects of imperialism? Yes,
-I do. But the question is, how is that responsibility understood? How is it
-acknowledged? But I'm interested, should I feel that as a modern British
-citizen? Should I feel a sense as a citizen of some kind of responsibility?
-Because I think you're saying that I shouldn't, because I didn't do it myself. I
-think there's a difference between an awareness of one's individual moral
-failings and of course an awareness of our role in the collective and our
-attitudes to the past. But the basic principle, I think the basic starting point
-for any analysis of moral culpability, blame and harm should be at the
-individual level and not at the collective level. But as a historian, presumably
-you're happy that we would feel a sense of national pride, I don't know, the
-Magna Carta or the Battle of Britain. So it seems to me that a sense of
-responsibility for what our forebears have done wrong is the flip side of that.
-But should it also be the case that history might teach us that part of the
-reason that we are a rich country, relatively speaking, is because we benefited
-from the exploitation of the resources and the people of our colonies? Yes,
-look, I think the more you look at the phenomenon of slavery through a
-historical lens, the more you realise that what's unique about Britain's role in
-the slave trade and Britain's colonial past is that we were the first empire,
-the first civilisation to not only put a stop to it with the 1807 out, but to
-police the seas and to, in fact, we, through the West Africa, Scotland. No, I
-understand all that. But the point I'm trying to make is this. We benefited part
-of what enabled the industrial revolution and our growth to one of the richest
-countries in the world was because of the exploitation of resources and people
-under colonialism. And therefore, when we look at those countries now seeking to
+they gave them a thousand pound checks, but they didn't just give them money.
+Obviously, some people said, no, thanks, too little, too late, but some people
+accept it. But it wasn't just about money, but it was then also about, you can
+have this check, but you can also use our library, you can eat for free. It was
+about restoring relationship. So there's all sorts of interesting and creative
+ways that we can do this. There is already a process through which Western
+nations, you know, through their explanation, try to aid nations that are
+oppressed or struggling or developing or however you want to call it. So there's
+a process of aid and how would that, how would it be different? Well, it's
+correct that the conversation in international development and philanthropy at
+the moment is about talking about reparations rather than aid, because the idea
+of philanthropy and of aid is this idea that I am, we are benevolent, rich,
+wealthy nations who will give charitably, but actually reparations about
+saying... Often morally dubious. I mean, it's a very, it's very politicized kind
+of way of looking at it. I mean, it often does more for the Western nation than
+it actually does for the Nigerians or the Congolese or whoever are receiving
+that cash or funding or whatever. Well, I'd say good development is kind of
+decolonizing and it works with the communities in those countries to work out
+how they want to be, to kind of develop. Ginny MacDonald, thank you very much
+indeed. Our last witness is James Orr, who's Associate Professor of the
+Philosophy of Religion at Cambridge University and a member of History
+Reclaimed, which is a group of academics who campaign against what they see as
+the abuse of history for political purposes. He's on the line from there now. Is
+that, Professor Orr, what you think is happening here and the call for
+reparations to former colonies or the descendants of slaves, an abuse of history
+for political purposes? I'm not sure I would go that far, though I'd certainly
+disagree with Ginny in saying that the issue of reparations is a simple one. I
+think it involves an exceptionally complex set of moral problems. It's
+interesting that the example she used is of her son, a case of individual
+culpability. But I think in the case of reparations, we're dealing with a much
+more complex issue of collective moral guilt and harm, and even less
+straightforwardly, how collective moral guilt and harm persists over time. I
+don't think anyone would deny that there are situations from the recent past
+where there's a strong case to be made for reparations, an obvious example is
+the 1952 reparations agreement between Israel and Germany, where Germany
+financially compensated the Jewish victims of the Holocaust, or reparations made
+by our own government to survivors of the Mau Mau uprising in the 1950s. But I
+think the case for reparations gets much weaker when one leaves the land of the
+living as it were, and resurrects horrors from the distant past, when one's
+effectively asking people who could not have been guilty of a crime to make
+atonement to people who couldn't have been victims of the crime. Understood.
+Hello, James. I'm so glad you mentioned the land of the living, because that's
+really where I want to begin. Have you ever heard of a place called Angola
+prison? I think I might have seen some articles about it. Yes. I mean, just to
+catch up our audience, Angola prison is the nickname for Louisiana State
+Penitentiary. It's the largest maximum security prison in the US. 75% of the
+inmates there are black. And it's called Angola because that's the name of the
+slave plantation that the prison was built on top of. So to this day, you can
+see disproportionately black men in a chain gang working for free or very near
+to free, laboring in the fields, guarded by white riflemen on horseback. Does
+slavery in this context feel like a distant past? Or does it feel like maybe
+it's invading the land of the living? Not at all. I think the case that you
+point to is a case that's straight from the land of the living. There may be
+analogies that we can draw with slavery in the past, but they would only be
+analogies. What needs to be shown for reparations to make sense is a clear
+causal nexus between slavery from the past and the slave-like conditions that
+you draw attention to. And the further we get into the past, the harder it
+becomes, I think, to provide the kind of evidential basis for that causal nexus
+that you need to command widespread public support for a big scheme of
+reparations. But when you see something like that and you see the descendants of
+enslaved people toiling in very similar conditions, do you honestly look at that
+and go, oh, well, correlation's not causation? I do. I look at that and I think
+that that is a problem that relates to policies of incarceration and
+inappropriate forms of incarceration in the present. I think you can't change
+the past, you can affect the present. And I would look at a situation like that
+and seek solutions not in the distant past, but by seeking reparations, but by
+demanding that the US government or the state government of Louisiana addresses
+the problem. Matthew Taylor? Do you think it's useful to have a sense of
+national responsibility, for example, for our role in some of the most
+pernicious aspects of imperialism? Yes, I do. But the question is, how is that
+responsibility understood? How is it acknowledged? But I'm interested, should I
+feel that as a modern British citizen? Should I feel a sense as a citizen of
+some kind of responsibility? Because I think you're saying that I shouldn't,
+because I didn't do it myself. I think there's a difference between an awareness
+of one's individual moral failings and of course, an awareness of our kind of
+our role in the collective and our attitudes to the past. But the basic
+principle, I think the basic starting point for any analysis of moral
+culpability and blame and harm should be at the individual level and not at the
+collective level. But as a historian, presumably, you're happy that we would
+feel a sense of national pride, I don't know, at the Magna Carta or the Battle
+of Britain. So it seems to me that a sense of responsibility for what our
+forebears have done wrong is the kind of the flip side of that. But is it,
+should it also be the case that history might teach us that part of the reason
+that we are a rich country, relatively speaking, is because we benefited from
+the exploitation of the resources and the people of our colonies? Yes. Look, I
+think if you, I think the more you look at this, the phenomenon of slavery
+through a historical lens, the more you realize that what's unique about
+Britain's role in the slave trade and Britain's colonial past is that we were
+the first empire, the first civilization to not only put a stop to it with the
+1807 Act, but to police the seas and to, in fact, we... No, I understand all of
+that. But the point I'm trying to make is this, we benefited, part of what
+enabled the Industrial Revolution and our growth to one of the richest countries
+in the world was because of the exploitation of resources and people under
+colonialism. And therefore, when we look at those countries now seeking to
 develop, those countries that we exploited, isn't it reasonable that not only we
 feel a sense of responsibility, but also that we might want to express that
 responsibility concretely? Yes, and I think we already do that. We already
 hypothecate 0.7% of our gross national income for foreign aid. There's been a
 lot of debate over that, but that's a significant contribution. And if you look
-back in the 19th century and we've talked already about the 20 million or so
+back in the 19th century, and we've talked already about the 20 million or so
 that was given in the early 1830s to slave owners, of course, that was a
-controversial payment. But those who think that it was the wrong thing to do owe
-an explanation for what the alternative might have been, how we could have
+controversial payment. But those who think that it was the wrong thing to do,
+owe an explanation for what the alternative might have been, how we could have
 brought an end to slavery faster. But if institutions, whether it's the Church
 of England or a university or a gallery or whatever, if they can trace their
-origins, their wealth to the ill-gotten gains, as it were, of slavery or
+origins, their wealth, to the ill gotten gains, as it were, of slavery or
 colonialism, isn't it reasonable that they would say, well, actually, we'll use
-some of that resource to support the museums, the institutions, the churches, or
+some of that resource to support the museums, the institutions, the churches of
 those countries that we exploited? That's the principle. What's wrong with that
 principle? Well, I'm not sure that it's as easy as that. I think there is a real
-difficulty of accurately quantifying both historic harms and inherited harms if
+difficulty of accurately quantifying both historic harms and inherited harms, if
 you assume harms can be inherited. Look, I think the historical work that the
 Church of England commissioned is a really impressive piece of research on this
 front. But I think it makes the mistake, which I think you're making too, of
 measuring historic harm against the financial gain made by the perpetrator from
-the harm. It's very tempting to do that because then you could get a clear basis
-of assessment for any reparation that would otherwise be very hard to establish.
-But it's a mistake because it's not at all clear that quantifying the gain is
-the same as quantifying the harm. There were plenty of companies connected to
-the slave trade, most notoriously the South Sea Company, which failed despite
-exploiting slaves. Using commercial gain to quantify historic injustice, this
-leads to some very odd results. Both would be odd to claim that descendants of
-slaves connected to commercially unsuccessful companies don't deserve
-reparations, but descendants of slaves owned by commercially successful ones do
-deserve them. Professor Orr, thank you very much indeed for joining us this
-evening. Well, panel, we've covered quite a distance. I did think the question
-of returning artefacts would be essentially simpler than the wider question of
-reparations. But I don't think it quite turned out this way. Tim, did you think
-the first witness, Dan Hicks, was going a bit far with his idea of the brutish
-museum that seemed to be, in his view, part of the master plan of a master race
-to continue the empire project and white supremacy and all? I didn't think he
-was open and explicit enough about what he really thinks. I mean, he said, are
-we saying that museums should never change? Well, no one says that. The question
-is, how do they change? And what is the democratic basis for that change? Can it
-be an elite group of curators who have a very specific political view of the
-past? Should they be allowed to radically transform museums? I don't think so.
-He said there's no other sector where anyone would make the argument that things
-shouldn't change. But then again, to most people, when they think of museums,
-they think of the word conservation. They think the idea, in a sense, actually
-is to keep things the same. And there's something slightly odd about inheriting
-a collection that's been built up all over these years and visited and loved by
-people. And starting from the prison principle of saying, OK, how can I give
-bits of this back? There's something odd about this drive, this fanatical drive,
-to hand bits of what Britain has over. And does one not have a moral obligation
-to the people who collected it and the people who love it here? Ash? Well, I
-think one of the things that Dan Hicks was getting at, and I would have liked to
-see more discussion of, is the way in which the museum, as we understand it, is
-deeply bound up with colonialism. It was a way of whitewashing looting. And you
-lend it a kind of cultural authority and a morality by saying, well, we've done
-this to protect it from you savages. I remember actually being at a talk by
-Roger Scruton, who said, well, the British in India, they preserved Sanskrit
-texts from being burned. Then you go, well, being burned by who? The British. So
-I would have liked to see a bit more discussion of that. But it's also, I think,
-there's a superiority which stays here with us, where we go, well, we are the
-responsible custodians of these objects. And you couldn't possibly look at your
-country as a rife with corruption. You couldn't possibly say that you'd protect
-them. One is that I don't think that does give enough credit to the development
-of museum sectors, particularly in Africa over the last couple of decades. And
-then the second thing is, well, isn't the principle of returning stolen goods
-something of an absolute? If I've nicked your telly, you don't have to guarantee
-that you won't smash it in and return it. Not if you did it 500 years ago. Well,
-the argument is so polarised, isn't it? It was like stolen and looted or rescued
-on the other side. There isn't very much room for nuance, like the Parthenon had
-been used as an ammo dump before Lord Elgin arrived. And the kingdom of Benin
-was a pretty unpleasant place where the bronzes came from. Well, I mean, Tiffany
-Jenkins, our second witness, made this and actually links to something that Tim
-said. One of the important points is that objects or pieces of art or statues
-even have a, they don't have a static history. They have a complicated, I'm
-thinking of that statue in Glasgow, is it with the cone on its head? You know,
-the things change, you know, in an important sense, things change in time and in
-context. I just think you couldn't have such a perfect polarisation and
-distinction between Dan Hicks and Tiffany Jenkins. And Professor Hicks talking
-about the fact that, you know, do we put humans first or he didn't want to say
-it or he said, or objects first, was the second part of that sentence. And of
-course, Professor Tiffany Jenkins is coming along and saying, well, actually,
-you know, as an expert in curating or an expert in objects, you have a moral
-responsibility to the thing itself and to situate it in the right place and to
-tell its story properly and to do it justice. And I think that there's, you
-know, her phrase, objects of apology is such a wonderful way of putting it
-because, you know, the moral quest of someone like Hicks has got nothing really
-to do with how best to serve the moral importance of the object. But it's
-actually all about, it sounded like it's all about his white guilt, which is not
-very interesting for people paying the entrance fee to museums. Matthew, on this
-wider question of reparation, there was a lot of emphasis on it's about the
-present as much as the past, which I'm sure you probably agree with. But it
-rests on the idea that these other countries are worse off now because of what
-our ancestors did in the past. Is that, do you think, beyond argument,
-uncontestable? I think, I'm not saying it's beyond argument, but I certainly
-think that any suggestion that somehow there is some kind of point at which we
-can say, well, we're not affected by the past in terms of the benefits and
-privileges that we have or the countries that we exploited are not affected by
-that past. And I don't think that David Orr wanted to deny that. I mean, you
-know, I think what's been interesting to me actually, I seem to be listening to
-a different programme from other people, I think what's been interesting is
-there hasn't been these clear-cut moral distinctions, actually. I think that Dan
-Hicks and Tiffany Jenkins could co-curate an exhibition extremely well because
-they'd both be kind of interested in how you respond to what people want to see.
-And Dan Hicks would say, people don't really want to see things which they
-associate with exploitation now. And Tiffany Jenkins would say, people want to
-see things from around the world, but it should be based upon a cosmopolitan
-view of stuff. And I don't think, as I say, I don't think that James Orr
-disagreed with the notion of it. He said, well, how do we do it? What's the
-right way to do it? And I think that's absolutely right. I think it's
+the harm. And it's very tempting to do that because then you could get a clear
+basis of assessment for any reparation that would otherwise be very hard to
+establish. But it's a mistake because it's not at all clear that quantifying the
+gain is the same as quantifying the harm. There were plenty of companies
+connected to the slave trade, most notoriously the South Sea Company, which
+failed despite exploiting slaves. And using commercial gain to quantify historic
+injustice, this leads to some very odd results. It would be odd to claim that
+descendants of slaves connected to commercially unsuccessful companies don't
+deserve reparations, but descendants of slaves owned by commercially successful
+ones do deserve them. Professor Orr, thank you very much indeed for joining us
+this evening. Well panel, we've covered quite a distance. I did think the
+question of returning artifacts would be essentially simpler than the wider
+question of reparations, but I don't think it quite turned out that way. Tim,
+did you think the first witness, Dan Higgs, was going a bit far with his idea of
+the brutish museum that seemed to be, in his view, kind of part of the master
+plan of a master race to continue the empire project and white supremacy and
+all? I didn't think he was open and explicit enough about what he really thinks.
+He said, are we saying that museums should never change? Well, no one says that.
+The question is, how do they change? And what is the democratic basis for that
+change? Can it be an elite group of curators who have a very specific political
+view of the past? Should they be allowed to radically transform museums? I don't
+think so. He said there's no other sector where anyone would make the argument
+that things shouldn't change. But then again, to most people, when they think of
+museums, they think of the word conservation. They think the idea, in a sense,
+actually is to keep things the same. And there's something slightly odd about
+inheriting a collection that's been built up all over these years and visited
+and loved by people. And starting from the principle of saying, OK, how can I
+give bits of this back? There's something odd about this drive, this fanatical
+drive to hand bits of what Britain has over. And does one not have a moral
+obligation to the people who collected it and the people who love it here? Ash?
+Well, I think one of the things that Dan Hicks was getting at, and I would have
+liked to see more discussion of, is the way in which the museum, as we
+understand it, is deeply bound up with colonialism. It was a way of
+whitewashing, looting, and you lend it a kind of cultural authority and a
+morality by saying, well, we've done this to protect it from you savages. I
+remember actually being at a talk by Roger Scruton, who said, well, you know,
+the British in India, they preserved Sanskrit texts from being burned. Then you
+go, well, being burned by who? The British. So I would have liked to see a bit
+more discussion of that. But it's also, I think, there's a superiority which
+stays here with us, where we go, well, we are the responsible custodians of
+these objects. And you couldn't possibly look at your countries rife with
+corruption. You couldn't possibly say that you'd protect them. One is that I
+don't think that does give enough credit to the development of museum sectors,
+particularly in Africa over the last couple of decades. And then the second
+thing is, well, isn't the principle of returning stolen goods something of an
+absolute? Right? If I've nicked your telly, you don't have to guarantee that you
+won't smash it in when I return it. I mean, it was stolen 20 years ago. The
+argument is so polarised, isn't it? I mean, it was like stolen and looted or
+rescued on the other side. There isn't very much room for nuance. Like the
+Parthenon had been used as an ammo dump before Lord Elgin arrived. And the
+Kingdom of Benin was a pretty unpleasant place where the bronzes came from.
+Well, I mean, the whole, I mean, Tiffany Jenkins, our second witness, made this,
+you know, and actually links to something that Tim said. One of the important
+points is that objects or pieces of art or statues even have a, they don't have
+a static history. They have a complicated, I'm thinking of that statue in
+Glasgow, is it with the cone on its head, you know, the things change, you know,
+in an important sense, things change in time and in context. And I just think
+you couldn't have such a perfect polarisation and distinction between Dan Hicks
+and Tiffany Jenkins. Professor Hicks talking about the fact that, you know, do
+we put humans first or he sort of, he didn't want to say it, or he said, or
+objects first was what he was, you know, the second part of that sentence. And
+of course, Tiffany is, Professor Tiffany Jenkins is coming along and saying,
+well, actually, you know, as an expert in curating or an expert in objects, you
+have a moral responsibility to the thing itself and to situate it in the right
+place and to tell its story properly and to do it justice. And I think that
+there's, you know, her phrase, objects of apology is such a wonderful way of
+putting it because, you know, the moral quest of someone like Hicks has got
+nothing really to do with how best to serve the moral importance of the object.
+But it's actually all about, it sounded like it's all about his white guilt,
+which is not very interesting for people paying the entrance fee to museums.
+Matthew, on this wider question of reparation, there was a lot of emphasis on
+it's about the present as much as the past, which I'm sure you probably agree
+with. But it rests on the idea that these other countries are worse off now
+because of what our ancestors did in the past. Is that, do you think, beyond
+argument, uncontestable? Well, I think, I'm not saying it's beyond argument, but
+I certainly think that any suggestion that somehow there is some kind of point
+at which we can say, well, we're not affected by the past in terms of the
+benefits and privileges that we have or the countries that we exploited are not
+affected by that past. And I don't think that David Orr wanted to deny that. I
+mean, I think what's been interesting to me, actually, I seem to have been
+listening to a different program from other people. I think what's been
+interesting is there hasn't been these clear cut moral distinctions, actually. I
+think that Dan Hicks and Tiffany Jenkins could co-curate an exhibition extremely
+well because they'd both be kind of interested in how you respond to what people
+want to see. And Dan Hicks would say, people don't really want to see things
+which they associate with exploitation now. And Tiffany Jenkins would say,
+people want to see things from around the world, but it should be based upon a
+cosmopolitan view of stuff. And I don't think, as I say, I don't think that
+James Orr disagreed with the notion of it. He said, well, how do we do it?
+What's the right way to, and I think that's absolutely right. I don't think it's
 straightforward, but I absolutely think that the principle applies. Yeah. Tim,
-James Orr had two moral arguments against reparations. It struck me. One was it
+James Orr had two moral arguments against reparations. It struck me. One was, it
 was a question of collective guilt, which he didn't believe in or didn't think
-was morally sound. And also the period of time, they, you know, we weren't the
-perpetrators, they weren't the victims, I suppose, in the short term. No, well,
-moral responsibilities tend to be immediate. They tend to relate to the
-individual. What are they responsible for? What can they do something about? And
-it's difficult when you come to geographic distance. It's even harder when you
-come to centuries of difference between the individual and the events. And given
-that we are then locating the individual within nation states, the notion, as I
-suggested, that someone who, say, migrated 10 years ago, here 10 years ago, is
-responsible for the British state two or 300 years ago, I just find that very,
-very hard to buy. And in fact, I see it as a process of... But Tim, I don't see
-why, because I think, wouldn't you accept the principle that if you come to
-Britain, what you do is you accept that you're British, and part of accepting
-that you're British is you're now associated with the history of Britain. Isn't
-that part of the citizenship deal? Well, let's flip it. It seems to me that the
-other side of this argument is unhealthily obsessed with genetic ancestry. I
-find that really quite strange. Our people keep coming back to, well, of course,
-the English do have a responsibility for this. Whereas this is owned by this
-group of people in this part of the world. It's a terribly unprogressive view of
-history, that culture is located in one location, and a race of people have a
-responsibility for someone. If I may jump in as a child of empire, when my
-grandmother was born, it was as a subject of the British empire. Bangladesh
-didn't exist until 1971. I would not feel that it was inappropriate for my tax
-money, tax money that I pay, to go towards some kind of reparations or
-restitution. And the reason is, is that I have participated in educational
-institutions, have been the beneficiary of wealth which has been passed down
-generationally and kept within British institutions, much of which was extracted
-from the global south over the period of colonialism. That's not about me saying
-I'm responsible, but it's me saying I've benefited from those things. A generous
-gesture, if I may say so, Ash. Indeed. And worthy of you. That's it for this
-week. From our panel, Matthew Taylor, Ella Whelan, Ash Sarkar and Tim Stanley,
-and from me, until the same time, next week. Goodbye. The Moral Maze was chaired
-by Michael Burke and produced by Jonathan Halliwell. You can subscribe to The
-Moral Maze on the BBC Sounds app. In a quarter of an hour here on Radio 4,
-electroconvulsive therapy is one of the most controversial treatments in
-psychiatry, but for some people with severe depression, ECT can be the only
-treatment that works. After the news at nine, Professor Sally Marlowe examines
-who benefits from electroconvulsive therapy in shocking. But now on Radio 4 and
-for the very last time, it's Forethought presented by Ollie Mann. Hello and
-welcome to Forethought. Today's show is a little different because it marks the
-end of this series of talks after a run of 12 years here on Radio 4. Now I've
-presented these programs for the past five years, but producers Giles Edwards
-and Sheila Cook have been involved since the start, finding speakers, working
-with them on their scripts and helping them perfect their mic technique, which
-in lockdown basically meant helping them soundproof their bedrooms. So for this
-farewell episode, Giles is producing and Sheila is our speaker. Hi, Sheila.
-Hello, Ollie. Fancy seeing you here. Absolutely, well, it is very strange to be
-this side of the glass as it were across the table from you, as opposed to
-trying to whisper sweet nothings about where do we go next in your ear. I think
-the thought basically was we can't afford to bring back all our favourite
-speakers, so you're the budget option. So you're just going to bring us some
-best bits in audio form. Take it away. When the controller of Radio 4
-commissioned forethought back in 2011, he wanted a series of talks that would
-give the network something different. A point of view was already well
-established as the weekly essay slot where a small number of high-profile
-writers aired their opinions. Forethought, by contrast, was to be a platform for
-many voices, including people who'd never been published or who'd never
-broadcast before. Each speaker would take part only once and share not just an
-idea, but also the personal experience that shaped it. It was this need to find
-speakers who had a story to tell as well as an interesting idea to put forward
-that led to over a decade of encounters with remarkable people. I've been lucky
-enough to produce 148 out of nearly 400 talks. Each one was different, but
-together they left me with a sense of hope, especially when speakers had
-overcome adversity. One of the first contributors I had the privilege to work
-with was a teacher and headmaster, Dick Moore. Thanks to his job, I knew he'd be
-comfortable speaking in public, but how would he feel about broadcasting the
-details of a family tragedy? I was apprehensive before our first meeting,
-concerned not to intrude on private grief. Dick's son, Barney, had taken his own
-life at the age of 21, after struggling for years with depression. I needn't
-have worried. Dick's openness and his sense of urgency to help other young
-people who were suffering with mental illness made him want to tell Barney's
-story. He'd already started to campaign for greater awareness in schools, and
-his script reflected his understanding of what needed to be done. "'Sticking
-plasters don't work. Bolt-on counsellors and one-off training are but a drop in
-the ocean,' he said. Real progress requires long-term commitment and a genuine
-desire to change the culture. Life's not about waiting for the storms to pass.
-It's about learning to dance in the rain." At the recording of Dick's
+was morally sound. And also the period of time. We weren't the perpetrators.
+They weren't the victims, I suppose, in the shorthand. So moral responsibilities
+tend to be immediate. They tend to relate to the individual. What are they
+responsible for? What can they do something about? And it's difficult when you
+come to geographic distance. It's even harder when you come to centuries of
+difference between the individual and the events. And given that we are then
+locating the individual within nation states, the notion, as I suggested, that
+someone who say migrated 10 years ago, here 10 years ago, is responsible for
+what the British state two or 300 years ago did, I just find that very, very
+hard to buy. And in fact, I see it as a process. But Tim, I don't see why,
+because I think, wouldn't you accept the principle that if you come to Britain,
+what you do is you accept that you're British and part of accepting that you're
+British is you're now associated with the history of Britain. Isn't that part of
+the citizenship deal? Well, let's flip it. It seems to me that the other side of
+this argument is unhealthily obsessed with genetic ancestry. I find that really
+quite strange. How people keep coming back to, well, of course, the English do
+have a responsibility for this. Whereas this is owned by this group of people in
+this part of the world. It's a terribly unprogressive view of history, that
+culture is located in one location and a race of people have a responsibility.
+If I may jump in as a child of empire, when my grandmother was born, it was as a
+subject of the British Empire. Bangladesh didn't exist until 1971. I would not
+feel that it was inappropriate for my tax money, tax money that I pay to go
+towards some kind of reparations or restitution. And the reason is, is that I
+have participated in educational institutions, I've been the beneficiary of
+wealth, which has been passed down generationally and kept within British
+institutions, much of which was extracted from the global south over the period
+of colonialism. That's not about me saying I'm responsible, but it's me saying
+I've benefited from those things. A generous gesture, if I may say so, Ash.
+Indeed. And worthy of you. That's it for this week from our panel, Matthew
+Taylor, Ella Whelan, Ash Sarkar and Tim Stanley, and from me until the same time
+next week. Goodbye. The Moral Maze was chaired by Michael Burke and produced by
+Jonathan Halliwell. You can subscribe to The Moral Maze on the BBC Sounds app.
+In quarter of an hour here on Radio 4, electroconvulsive therapy is one of the
+most controversial treatments in psychiatry. But for some people with severe
+depression, ECT can be the only treatment that works. After the news at nine,
+Professor Sally Marlow examines who benefits from electroconvulsive therapy in
+shocking. But now on Radio 4, and for the very last time, it's Forethought,
+presented by Olly Mann. Hello and welcome to Forethought. Today's show is a
+little different because it marks the end of this series of talks after a run of
+12 years here on Radio 4. Now I've presented these programmes for the past five
+years, but producers Giles Edwards and Sheila Cook have been involved since the
+start, finding speakers, working with them on their scripts and helping them
+perfect their mic technique, which in lockdown basically meant helping them
+soundproof their bedrooms. So for this farewell episode, Giles is producing and
+Sheila is our speaker. Hi Sheila. Hello Olly. Fancy seeing you here. Absolutely.
+Well, it is very strange to be this side of the glass as it were, across the
+table from you as opposed to trying to whisper sweet nothings about where do we
+go next in your ear. I think the thought basically was we can't afford to bring
+back all our favourite speakers, so you're the budget option. So you're just
+going to bring us some best bits in audio form. Take it away. When the
+controller of Radio 4 commissioned Forethought back in 2011, he wanted a series
+of talks that would give the network something different. A point of view was
+already well established as the weekly essay slot where a small number of high
+profile writers aired their opinions. Forethought, by contrast, was to be a
+platform for many voices, including people who'd never been published or who'd
+never broadcast before. Each speaker would take part only once and share not
+just an idea, but also the personal experience that shaped it. It was this need
+to find speakers who had a story to tell as well as an interesting idea to put
+forward that led to over a decade of encounters with remarkable people. I've
+been lucky enough to produce 148 out of nearly 400 talks. Each one was
+different, but together they left me with a sense of hope, especially when
+speakers had overcome adversity. One of the first contributors I had the
+privilege to work with was a teacher and headmaster, Dick Moore. Thanks to his
+job, I knew he'd be comfortable speaking in public, but how would he feel about
+broadcasting the details of a family tragedy? I was apprehensive before our
+first meeting, concerned not to intrude on private grief. Dick's son, Barney,
+had taken his own life at the age of 21, after struggling for years with
+depression. I needn't have worried. Dick's openness and his sense of urgency to
+help other young people who were suffering with mental illness made him want to
+tell Barney's story. He'd already started to campaign for greater awareness in
+schools, and his script reflected his understanding of what needed to be done.
+Sticking plasters don't work. Bolt-on counsellors and one-off training are but a
+drop in the ocean, he said. Real progress requires long-term commitment and a
+genuine desire to change the culture. Life's not about waiting for the storms to
+pass. It's about learning to dance in the rain. At the recording of Dick's
 forethought, in front of a live audience, I could feel the intensity of the
 silence as everyone listened. After the broadcast, the response was huge. People
 called it courageous and required listening for all schools, family and friends
@@ -630,97 +631,96 @@ scraps of paper, which he subsequently turned into a book. Through writing, I
 was able to offload the past, he said, to envision the future and find ways to
 make it happen. He returned to the UK, studied and trained as a drugs and
 alcohol worker, and married his girlfriend. I spoke to him recently for a World
-Service documentary about drugs in prison, and found him still helping others to
+Service documentary about drugs in prison and found him still helping others to
 overcome addiction and rebuild their lives. We used to go on the road with
 forethought before the pandemic struck, often recording at summer festivals for
-their atmosphere and a ready-made audience. At Womad, the World Music and Arts
-Festival, the Syrian musician Maya Yousaf delivered a particularly moving talk.
-She's a virtuoso performer on the Kanun, a 78-stringed Middle Eastern harp. Maya
+their atmosphere and a ready-made audience. At WOMAD, the World Music and Arts
+Festival, the Syrian musician Maya Yousef delivered a particularly moving talk.
+She's a virtuoso performer on the Qanun, a 78-stringed Middle Eastern harp. Maya
 migrated to the UK after the outbreak of war in Syria. Her voice broke with
 emotion as she wondered when she could return to Damascus to see her parents
 again. It was a poignant moment which underscored her idea of using music to
-help refugees. Maya explained how she realised that the Kanun evoked the sound
-of Syria, the sound of home, for people who'd fled their country. So she started
+help refugees. Maya explained how she realised that the Qanun evoked the sound
+of Syria, the sound of home for people who'd fled their country. So she started
 to use her music to help people cope with their sense of dislocation. And she
 developed a work called The Seven Gates of Damascus, especially for displaced
-children. "'To me, the act of playing music is the opposite of death,' said
-Maya. "'It is a life and hope-affirming act. To me, music is my healer and an
-antidote to what is happening, not only in Syria but across the whole world.'"
-Another kind of hopeful message came from speakers who wanted to preserve
-something important from our past or our present way of life. In a fast-changing
-world, they urged us to see what was of value, to guard against its destruction
-by forces outside our control. The cultural historian Travis Elbrough wanted to
-protect public parks as institutions for the people. Andrew Martin argued for
-keeping cash in the face of the advancing tide of electronic banking. Cash
-spared him, he said, from feeling every transaction was monitored, and it also
-acted as an aid to thrift. "'I have become like my dad,' said Andrew, who forty
-years ago would be deflected from a whimsical purchase because it would mean
-breaking into a tenor." And Dr Mark Williams spoke from his experience as a GP
-about the need to preserve the traditional home visit. While he embraced new
-technology and artificial intelligence to improve treatment for his patients, he
-argued that the home visit still played a vital role. The truth is, said Mark,
-that home visits give us the best insights into our patients' real lives. One of
-the most memorable forethought speakers and someone who I felt honoured to work
-with was Amy Golden. After suffering from meningitis as a baby, Amy was left
-severely physically disabled. She can move only her right arm, and she can't
-speak. Amy communicated by pointing to letters on a board. "'I could have a
-board with an electronic voice,' she said, but I like the attention of the other
-person. If you want to know what I want to say, you have to focus on me. You
-can't ignore me or pretend I'm not here. You have to concentrate hard to see
-what I'm saying.' We always get there in the end. We had to work out how to do
-the recording so that Amy could be in her wheelchair, centre stage. The solution
-was for an actor, Rhiannon Needes, to sit alongside Amy, reading her script.
-Rhiannon's sensitivity and the chemistry between her and Amy made it feel as if
-she really was Amy's voice. A composer and director, Craig Christie, who heard
-Amy's forethought in Australia, felt moved to write a musical about her life.
-Amy herself starred in the glorious show called Get On With It, in a tribute to
-her positivity, which I saw on the opening night. As Amy said, I try to get on
-and think of other things. Most days are good. It's not to take things too
-seriously. If you can't laugh, there's no point. I live in the moment. I go with
-the flow. Life is too short. I am happy now, because if I wasn't like I am, I
-wouldn't be who I am. When I first met Adam Morse, I understood why he felt he'd
-found a new power because of his challenging circumstances. It was as if he
-possessed some kind of special aura. At the age of 19, Adam found he was losing
-his sight to a rare eye disease. His ambition at the time was to be a film
-director, and he was determined that this wouldn't stop him. He eventually found
-a backer for his first feature film, despite being registered blind with only
-slight peripheral vision. Adam told the producer, cinematographer and lead actor
-about his disability, but he kept it secret from the rest of the cast and crew.
-He waited until the film was about to be premiered before revealing the truth.
-Everyone was incredulous, whereas Adam had always been confident of his ability
-to direct actors despite his loss of sight. I may not be able to judge physical
-appearance any more, but I can connect onto someone else's frequency to gauge
-how they are feeling, he said. It's as though I'm using my inner eye to look
-into someone's soul. I reflect on the last 11 years as a period of my life that
-reshaped me spiritually. Sometimes our faith is shaken, but I find that the
-universe always gives after it is taken. Adam has since gone on to blaze a trail
-for differently abled filmmakers and actors. Most recently he appears as a
-sighted person in an impressive short film called Suppression. Producing
-Forethought has been a delight because of the chance to meet so many interesting
-and extraordinary people. Two of them are famous, and yet they all have
-remarkable stories to tell. Stories which have left me with a sense of hope.
-Hope for humanity, for its resilience, creativity, imagination and will to make
-things better. Many have faced great challenges in life. Some of their
-experiences have been painful and private, yet they've been willing to share
-their stories in order to communicate their ideas and insights, often calling
-for society to change. At a time when so much in the news seems bleak, it's good
-to remember that our forethoughters are out there. And if we look, their like
-are all around us, quietly making the world a better place. Sheila, thank you
-and thank you for listening. With that we are done. Remember you can check out
-almost every episode we've ever made of Forethought the full archive on BBC
-Sounds. And if you head over to the Forethought podcast now, you'll hear Sheila
-and I chatting a little bit more about our memories of making this show over the
-last 12 years. Sheila Cook was the speaker in Forethought. It was presented by
-Ollie Mann and the producer was Giles Edwards. And you can find that
-conversation and, as Ollie says, the full archive of Forethought now on BBC
-Sounds. It's one of the most controversial treatments in psychiatry, but this
-evening we hear from a woman who says electroconvulsive therapy, or ECT, saved
-her life. Professor Sally Marlowe examines whose benefits from electroconvulsive
-therapy in shocking. That's after the news here on BBC Radio 4. BBC Sounds. If
-you own a smart speaker, did you know you can access a whole world of BBC
-content through it? To get started, just say Open BBC Sounds. Then ask your
-speaker to play whatever you want. You could listen to a music mix like this.
-Play Focus Beats. Or try a new podcast. Play Desert Island Discs. And of course,
-if you want to listen to live radio, you can just say Play Radio 4. Music, radio
-and podcasts, available on most smart speakers. And say Open BBC Sounds
-together.
+children. To me, the act of playing music is the opposite of death, said Maya.
+It is a life and hope affirming act. To me, music is my healer and an antidote
+to what is happening, not only in Syria but across the whole world. Another kind
+of hopeful message came from speakers who wanted to preserve something important
+from our past or our present way of life. In a fast-changing world, they urged
+us to see what was of value, to guard against its destruction by forces outside
+our control. The cultural historian Travis Elbra wanted to protect public parks
+as institutions for the people. Andrew Martin argued for keeping cash in the
+face of the advancing tide of electronic banking. Cash spared him, he said, from
+feeling every transaction was monitored and it also acted as an aid to thrift. I
+have become like my dad, said Andrew, who 40 years ago would be deflected from a
+whimsical purchase because it would mean breaking into a tenor. And Dr Mark
+Williams spoke from his experience as a GP about the need to preserve the
+traditional home visit. While he embraced new technology and artificial
+intelligence to improve treatment for his patients, he argued that the home
+visit still played a vital role. The truth is, said Mark, that home visits give
+us the best insights into our patients' real lives. One of the most memorable
+forethought speakers, and someone who I felt honoured to work with, was Amy
+Golden. After suffering from meningitis as a baby, Amy was left severely
+physically disabled. She can move only her right arm and she can't speak. Amy
+communicated by pointing to letters on a board. I could have a board with an
+electronic voice, she said, but I like the attention of the other person. If you
+want to know what I want to say, you have to focus on me. You can't ignore me or
+pretend I'm not here. You have to concentrate hard to see what I'm saying. And
+we always get there in the end. We had to work out how to do the recording so
+that Amy could be in her wheelchair centre stage. The solution was for an actor,
+Rihanna Needs, to sit alongside Amy, reading her script. Rihanna's sensitivity
+and the chemistry between her and Amy made it feel as if she really was Amy's
+voice. A composer and director, Craig Christie, who heard Amy's forethought in
+Australia, felt moved to write a musical about her life. Amy herself starred in
+the glorious show called Get On With It in a tribute to her positivity, which I
+saw on the opening night. As Amy said, I try to get on and think of other
+things. Most days are good, best not to take things too seriously. If you can't
+laugh, there's no point. I live in the moment, I go with the flow. Life is too
+short. I am happy now because if I wasn't like I am, I wouldn't be who I am.
+When I first met Adam Morse, I understood why he felt he'd found a new power
+because of his challenging circumstances. It was as if he possessed some kind of
+special aura. At the age of 19, Adam found he was losing his sight to a rare eye
+disease. His ambition at the time was to be a film director and he was
+determined that this wouldn't stop him. He eventually found a backer for his
+first feature film, despite being registered blind with only slight peripheral
+vision. Adam told the producer, cinematographer and lead actor about his
+disability, but he kept it secret from the rest of the cast and crew. He waited
+until the film was about to be premiered before revealing the truth. Everyone
+was incredulous, whereas Adam had always been confident of his ability to direct
+actors despite his loss of sight. I may not be able to judge physical appearance
+anymore, but I can connect onto someone else's frequency to gauge how they are
+feeling, he said. It's as though I'm using my inner eye to look into someone's
+soul. I reflect on the last 11 years as a period of my life that reshaped me
+spiritually. Sometimes our faith is shaken, but I find that the universe always
+gives after it is taken. Adam has since gone on to blaze a trail for differently
+abled filmmakers and actors. Most recently he appears as a sighted person in an
+impressive short film called Suppression. Producing Forethought has been a
+delight because of the chance to meet so many interesting and extraordinary
+people. Few of them are famous and yet they all have remarkable stories to tell.
+Stories which have left me with a sense of hope. Hope for humanity, for its
+resilience, creativity, imagination and will to make things better. Many have
+faced great challenges in life. Some of their experiences have been painful and
+private, yet they've been willing to share their stories in order to communicate
+their ideas and insights, often calling for society to change. At a time when so
+much in the news seems bleak, it's good to remember that our forethoughters are
+out there and, if we look, they're like our all around us, quietly making the
+world a better place. Sheila, thank you and thank you for listening. With that
+we are done. Remember you can check out almost every episode we've ever made of
+Forethought, the full archive on BBC Sounds. And if you head over to the
+Forethought podcast now, you'll hear Sheila and I chatting a little bit more
+about our memories of making this show over the last 12 years. Sheila Cook was
+the speaker in Forethought. It was presented by Ollie Mann and the producer was
+Giles Edwards. And you can find that conversation and, as Ollie says, the full
+archive of Forethought now on BBC Sounds. It's one of the most controversial
+treatments in psychiatry, but this evening we hear from a woman who says
+electroconvulsive therapy, or ECT, saved her life. Professor Sally Marlow
+examines who benefits from electroconvulsive therapy in shocking. That's after
+the news here on BBC Radio 4. BBC Sounds. If you own a smart speaker, did you
+know you can access a whole world of BBC content through it? To get started,
+just say, open BBC Sounds. Then ask your speaker to play whatever you want. You
+could listen to a music mix, like this. Play Focus Beats. Or try a new podcast.
+Play Desert Island Discs. And of course, if you want to listen to live radio,
+you can just say, play Radio 4. Music, radio and podcasts, available on most
+smart speakers. Just say, open BBC Sounds today.
