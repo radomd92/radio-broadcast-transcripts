@@ -1,14 +1,14 @@
 TRANSCRIPTION: BBC4/2023-02-22-10H00M.MP3
 --------------------------------------------------------------------------------
- We're in the editorial seats for us from Amal and me. BBC News at nine o'clock.
-The government is meeting officials from the Royal College of Nursing today to
-start what have been described as intensive talks on pay, terms and conditions.
-The union has suspended a planned forty-eight hour strike in England next week.
-The RCN had originally asked for a pay rise of five percent above inflation and
-has since said it would be willing to settle halfway. Pat Cullen is its general
-secretary. I've always said I wouldn't negotiate in public. The Prime Minister
+ We're in the editorial seats for us from Amel and me. Good morning. BBC News at
+nine o'clock. The government is meeting officials from the Royal College of
+Nursing today to start what have been described as intensive talks on pay, terms
+and conditions. The union has suspended a planned 48 hour strike in England next
+week. The RCN had originally asked for a pay rise of 5% above inflation and has
+since said it would be willing to settle half way. Pat Cullen is its General
+Secretary. I've always said I wouldn't negotiate in public. The Prime Minister
 has now got the table prepared. We will be there and we will enter those
-negotiations in good faith and we will make sure that no stone's left unturned
+negotiations in good faith and we will make sure that no stone is left unturned
 to make sure that that fair pay deal is reached as quickly as possible so that
 we can bring a conclusion to these strikes. President Biden will hold talks in
 Poland later with NATO leaders from Eastern Europe to discuss the war in
@@ -18,268 +18,268 @@ and that they were promoting peace and stability. Data from police shows
 paedophiles are starting to use virtual reality headsets to view child abuse
 images. Use of the technology was recorded in eight cases in England and Wales
 in the most recent yearly figures, the first time VR has been specifically
-mentioned. Shamima Begum is due to find out this morning whether she's allowed
+mentioned. Shemeema Begum is due to find out this morning whether she's allowed
 back to the UK. She was 15 when she and two other girls from East London
 travelled to Syria to join the so-called Islamic State in 2015. The Special
-Immigration Appeals Commission will give a written judgment on whether she
-should win back her British citizenship. Sir Tony Blair and Lord Hague are
+Immigration Appeals Commission will give a written judgement on whether she
+should win back her British citizenship. Sir Tony Blair and Lord Haig are
 calling for everyone in the UK to be given a digital ID. The former Prime
-Minister and ex-Conservative leader want a pass incorporating a person's
+Minister and ex-conservative leader want to pass incorporating a person's
 passport, driving licence, tax records, qualifications and right to work. They
-say technology needs to be at the heart of public services. BBC News. This is
-BBC Radio 4. Coming up over on our sister station, Five Live now, Nikki Campbell
-is discussing family estrangement after speaking to the daughter of the man who
-abused him at school. Meanwhile, back here on BBC Radio 4 FM, in half an hour,
-we find out how lifting weights can boost your mood, your heart health, your
-brain and even reverse signs of ageing in your muscles. That's in just one thing
-with Dr Michael Mosley. And today's Woman's Hour investigates why black women
-are more likely to get late cancer diagnoses. Woman's Hour, usual time, just
-after the news at ten. Now though, here's Tim Harford. Hello and welcome to More
-or Less, the grammatical stickler of the statistical world. This week, our inbox
-was overflowing with suggested corrugenda, and not just about the data datums
-thing, although mostly about that. We invite a computational linguist to bring
-the data about data. And we have a corrugendum about nurses' pay. We'll also be
-asking how much money you might raise if you tax rich Welsh people. And are
-there really 13 million menopausal women in the UK? But first, our next story
-begins, as do all good stories, with Justice Secretary Dominic Raab sending a
-tweet. Reoffending rates have fallen by over two percentage points since the
-same period last year, to 23.1%, down from almost 31% in 2009-10. This shows
-that our investment in drug rehab, training in prisons and offender employment,
-is working and helping make our streets safer. That was in October, and the rate
-now is very slightly higher. But overall, reoffending rates are down from around
-30% ten years ago, into the low 20s today. This all sounds like good news, but
-it's also a bit surprising. Historically, reoffending rates don't tend to move
-very much. To get a deeper understanding of what this all means, we spoke to
-Danny Shaw, now an independent policing and crime commentator, but for many
+say technology needs to be at the heart of public services. BBC News This is BBC
+Radio 4. Coming up over on our sister station, 5 Live Now, Nikki Campbell is
+discussing family estrangement after speaking to the daughter of the man who
+abused him at school. Meanwhile back here on BBC Radio 4 FM in half an hour, we
+find out how lifting weights can boost your mood, your heart health, your brain
+and even reverse signs of ageing in your muscles. That's in just one thing with
+Dr. Michael Mosley. And today's Woman's Hour investigates why black women are
+more likely to get late cancer diagnoses. Women's hour, usual time, just after
+the news at 10. Now though, here's Tim Hafford. Hello and welcome to more or
+less the grammatical stickler of the statistical world. This week our inbox was
+overflowing with suggested corregenda, and not just about the data datums thing,
+although mostly about that. We invite a computational linguist to bring the data
+about data, and we have a corregendum about nurses pay. We'll also be asking how
+much money you might raise if you tax rich Welsh people. And are there really 13
+million menopausal women in the UK? But first, our next story begins, as do all
+good stories, with Justice Secretary Dominic Raab sending a tweet. Reoffending
+rates have fallen by over 2 percentage points since the same period last year,
+to 3.1 percent, down from almost 31 percent in 2009-10. This shows that our
+investment in drug rehab, training in prisons and offender employment is working
+and helping make our streets safer. That was in October, and the rate now is
+very slightly higher. But overall reoffending rates are down from around 30
+percent ten years ago into the low 20s today. This all sounds like good news,
+but it's also a bit surprising, historically reoffending rates don't tend to
+move very much. To get a deeper understanding of what this all means, we spoke
+to Danny Shaw, now an independent policing and crime commentator, but for many
 years before that, a home affairs correspondent at the BBC. The reoffending rate
 isn't really the reoffending rate. The reoffending rate is really the proportion
 of people who have been released from prison, or who are sentenced at court to a
-community order or given a fine, who within 12 months of that event, commit
+community order or given a fine, who within 12 months of that event commit
 another offence for which they are convicted or given a caution within that 12
-months or a six-month follow-up period. So, as an example, if you're released
+months or a six month follow-up period. So as an example, if you are released
 from prison and not convicted of a crime, cautioned or given a police warning
-within 18 months, then you encounter someone who is a reoffending success. Of
-course, that doesn't mean all these people are back on the straight and narrow.
+within 18 months, then you counter someone who is a reoffending success. Of
+course, that doesn't mean all these people are back on the straighter narrow.
 Some may be back to their criminal ways, but just haven't been caught. So it's
-not really reoffending, it's really reconviction or recautioning. Really? So,
+not really reoffending, it's really reconviction or re-cautioning. Really? So,
 hmm, I think if the government called it the reconviction rate, I'm not sure
-they would be bragging that it was falling. Well, that's exactly my point. So a
+they would be bragging that it was falling. Well that's exactly my point. So a
 six percentage point drop would be significant if it was really a drop in
-reoffending, but it's actually a drop in reconvictions and recautioning. I
-accept that as a matter of definition, what we are measuring is recautions and
-reconvictions, but do we know that that is because the police and the courts are
-being less effective at getting convictions and or delivering cautions rather
-than because fewer crimes are being committed? Well, I think the first thing to
-say is that the government hasn't presented any evidence, any cause and effect
-evidence to say that the fall in reoffending rates is because of something that
-they are doing in terms of rehabilitation or better schemes in prison or on
-probation. That's the first thing. The second thing is, if you look at some
-separate data from the Home Office, which show the outcomes of offences. So what
-happens to a crime after it's reported and recorded by the police in England and
-Wales? What those figures show is that charge rates, the proportion of crimes
-that result in a suspect being charged or summons to appear in court, have
-plummeted. They have gone down by 10 percentage points from 2014-15, which was a
-year when the figures started to be calculated in a different way, to the latest
-set of figures, which for the 12 months ending in September 2022. So a 10
-percentage point fall from 15.5% to 5.5% crimes resulting in a charge. I mean,
+reoffending, but it's actually a drop in reconvictions and re-cautioning. I
+accept that as a matter of definition, what we are measuring is re-cautions and
+reconvictions, but I mean, do we know that that is because the police and the
+courts are being less effective at getting convictions or delivering cautions
+rather than because fewer crimes are being committed? Well I think the first
+thing to say is that the government hasn't presented any evidence, any cause and
+effect evidence to say that the fall in reoffending rates is because of
+something that they are doing in terms of rehabilitation or better schemes in
+prison or on probation. That's the first thing. The second thing is if you look
+at some separate data from the home office which show the outcomes of offences.
+So what happens to a crime after it's reported and recorded by the police in
+England and Wales, what those figures show is that charge rates, the proportion
+of crimes that result in a suspect being charged or someone's to appear in
+court, have plummeted. They have gone down by 10 percentage points from 2014-15
+which was a year when the figures started to be calculated in a different way to
+the latest set of figures which for the 12 months ending in September 2022. So
+10 percentage point four from 15.5% to 5.5% crimes resulting in a charge. When
 that's a huge fall. It's a huge fall and you can't have a conviction without
 someone being charged. So the conviction rate is going to be even lower. We've
 also seen a significant fall in the proportion of crimes which result in a
-caution, a simple caution, which has gone from 4.6% down to 1% since 2014-15. So
+caution, a simple caution which has gone from 4.6% down to 1% since 2014-15. So
 that's a 3.6 percentage point drop. So if the proportion of crimes that are
 leading to cautions and convictions is falling, then surely that must be having
-an impact on the proportion of offenders who are re-cautioned and re-convicted.
-Just to rephrase those numbers, you've got a situation of eight years ago, out
-of every seven offences committed, one would result in a charge. And now it's
-out of every 20 offences committed, one would result in a charge. I mean, that's
+an impact on the proportion of offenders who are recorsioned and reconvicted. I
+mean just to rephrase those numbers, you've got a situation of eight years ago
+out of every seven offences committed one would result in a charge and now it's
+out of every 20 offences committed one would result in a charge. I mean that's
 just an apocalyptic fall. It's a huge fall and it's a real worry. The well-
 regarded Crime Survey of England and Wales suggests that crime overall is
-falling, as the Ministry of Justice pointed out to us when we approached them
-for comment. But this doesn't change the fact that the number of charges and
-cautions has fallen dramatically, dragging down the charge rate. So why is this
-happening? I think you have to look at the long-term trends. And I think what
-we're seeing, firstly, is that there is a changing mix of offences. And so we're
-actually seeing a record number of sexual offences. The sexual offences are more
-complex in many cases to investigate and to solve. They take longer. I think one
-of the key reasons is that the number of police officers fell dramatically. From
-2010, when it stood at almost 144,000 across England and Wales, to 2019, there
-was a drop of around 21,000 police officers. And that has clearly had an impact
-on the police service's capacity and capability to deal with this volume of
+falling as the Ministry of Justice pointed out to us when we approached them for
+comment. But this doesn't change the fact that the number of charges and
+cautions has fallen dramatically dragging down the charge rate. So why is this
+happening? I think you have to look at the long-term trends and I think what
+we're seeing firstly is that there is a changing mix of offences and so we're
+actually we're seeing a record number of sexual offences and sexual offences are
+more complex in many cases to investigate and to solve they take longer. I think
+one of the key reasons is that the number of police officers fell dramatically
+from 2010 when it stood at almost 144,000 across England and Wales to 2019 there
+was a drop of around 21,000 police officers and that has clearly had an impact
+on the police services capacity and capability to deal with these volume of
 offences and a mix of more complex offences that take longer to investigate and
-solve. It's always been the case that some people will get away with it. And
-it's always been the case that there are probably some crimes that are just
-impossible to solve, or you're just not going to get the resources in place to
-solve every shoplifting or every minor fraud. But to have a charge rate that has
-fallen to 5.5% and a cautioning rate that's down to 1% really just suggests that
-criminals have a licence to get away with it. Our thanks to Danny Shaw. We put
-his points to the Ministry of Justice. They did draw our attention to an
-increase in police officers. Add 20,000 extra police officers, expansion of
-electronic tags and work to get offenders off drugs, off the streets and into
-jobs will help cut re-offending further. Now you may remember Danny Shaw said
-the number of police officers had fallen by 21,000. So you might wonder how
-these figures can both be true. The 21,000 fall was a fall in full-time
-equivalent police officers between 2010 and 2019. That actually happened. The
-20,000 extra police officers was a manifesto pledge in 2019 and it hasn't
-actually happened yet. In the most recent figures from January, the government
-has so far managed to recruit an extra 16,700 police officers. But the Ministry
-of Justice didn't engage with Danny Shaw's argument that falling re-offending
-rates may be a reflection of the police bringing fewer charges and issuing fewer
-cautions. You're listening to More or Less. In mid-January, Radio 4's Any
-Questions came from Newport in Wales. One of the panellists was Vaughan Gething,
-Minister for the Economy of Wales, and he was asked about whether the Welsh
-Government would consider raising taxes to give extra funding to the health
-service in Wales. You talk about 10 years of austerity. Of course the Welsh
-Government does have tax raising powers it could use to raise more money for the
-NHS. Is that something you're considering? Vaughan Gething responded. The
-challenge is that we don't think we can raise enough, fairly enough, to have a
-long-term funding settlement for the service. And some of this is about the pay
+solve. It's always been the case that some people will get away with it and it's
+always been the case that you know there are probably some crimes that are just
+impossible to solve or you're just not going to get the resources in place to
+solve every shoplifting or every minor fraud but to have a charge rate that has
+fallen to five and a half percent and a cautioning rate that's down to one
+percent really just suggests that criminals have a licence to get away with it.
+Our thanks to Danny Shaw. We put his points to the Ministry of Justice. They did
+draw our attention to an increase in police officers. Of 20,000 extra police
+officers, expansion of electronic tags and work to get offenders off drugs, off
+the streets and into jobs will help cut reoffending further. Now you may
+remember Danny Shaw said the number of police officers had fallen by 21,000 so
+you might wonder how these figures can both be true. The 21,000 fall was a fall
+in full-time equivalent police officers between 2010 and 2019. That actually
+happened. The 20,000 extra police officers was a manifesto pledge in 2019 and it
+hasn't actually happened yet. In the most recent figures from January the
+government has so far managed to recruit an extra 16,700 police officers. But
+the Ministry of Justice didn't engage with Danny Shaw's argument that falling
+reoffending rates may be a reflection of the police bringing fewer charges and
+issuing fewer cautions. You're listening to more or less. In mid-January Radio
+4's Any Questions came from Newport in Wales. One of the panellists was Vaughan
+Gething, Minister for the Economy of Wales and he was asked about whether the
+Welsh government would consider raising taxes to give extra funding to the
+health service in Wales. You talk about 10 years of austerity. Of course the
+Welsh government does have tax-raising powers it could use to raise more money
+for the NHS. Is that something you're considering? Vaughan Gething responded.
+The challenge is that we don't think we can raise enough, fairly enough, to have
+a long-term funding settlement for the service and some of this is about the pay
 context. Now that is both about how would we do that. The tax base for higher
-earlies in Wales is actually really small. There are 9,000 higher rate
-taxpayers. You'd have to ask basic tax rate payers, virtually everyone, to pay
+earnings in Wales is actually really small. There are 9,000 higher rate
+taxpayers. You'd have to ask basic tax rate payers virtually everyone to pay
 lots more. Phil Jones from North Wales was listening and was surprised to hear
 only 9,000 people in Wales pay the higher tax rate. He asked us, can this be
-true? Well we asked Nathan Gower, More or Less reporter, and a man whose name
-sounds Welsh, even if he actually isn't. Hi Tim, I should say that I do have a
-Welsh auntie though. Hello Auntie Bev. Focus Nathan, focus. What is going on
-here? OK, prologue. The income tax bands in Wales are the same as in England.
-First, the basic rate. That goes from £12,500 up to £50,000 at a rate of 20%.
-Then there's the higher rate, which goes from £50,000 to £150,000 at a rate of
-40%. Then finally there's the additional rate of tax, which is the top rate of
-tax for those earning £150,000 and above at 45%. That's fairly new, it was
-introduced in 2010, and before that the higher rate actually was the highest
-rate. The Welsh Government has the power to raise whichever of these different
-rates it wants. It could put the basic rate up to 21% for example, or the higher
-rate up to 41. But unlike Scotland, it can't choose the income levels at which
-the different tax rates kick in, giving it less flexibility when raising tax
-revenue. OK, that all makes sense, but what about this claim that there are only
+true? Well we asked Nathan Gower, more or less reporter and a man whose name
+sounds Welsh even if he actually isn't. Hi Tim, I should say that I do have a
+Welsh auntie though. Hello auntie Bev. Focus Nathan, focus. What is going on
+here? OK, prologue. The income tax bans in Wales are the same as in England.
+First the basic rate. That goes from £12,500 up to £50,000 at a rate of 20%.
+Then there's the higher rate which goes from £50,000 to £150,000 at a rate of
+40%. Then finally there's the additional rate of tax which is the top rate of
+tax for those earning £150,000 and above at 45%. That's fairly new. It was
+introduced in 2010 and before that the higher rate actually was the highest
+rate. The Welsh government has the power to raise whichever of these different
+rates it wants. It could put the basic rate up to 21% for example or the higher
+rate up to 41. But unlike Scotland it can't choose the income levels at which
+the different tax rates kick in giving it less flexibility when raising tax
+revenue. OK, that all makes sense but what about this claim that there are only
 9,000 higher rate taxpayers? That sounds very low. Yes, that figure is wrong.
 Vaughan Gething misspoke. He should have said there were 9,000 additional rate
 taxpayers. OK, well, sounds like an honest mistake. These things happen,
-especially since the higher rate isn't actually the top rate of tax anymore, so
-it's a bit of a silly name. But it makes me wonder, Nathan, how many of these
-40p rate or higher rate taxpayers are there in Wales? There are 166,000 higher
-rate taxpayers in Wales. Now, I know what you're going to ask, is that a big
-number? Well, not really. There are 1.5 million people who pay income tax in
-Wales, so that means only 11% of Welsh income taxpayers earn enough to pay the
-higher rate. But if you look at England, then by comparison, 16% of income
-taxpayers are in the higher rate tax bracket. And what about the additional
-rate? Again, Wales has a much smaller proportion. Only 0.6% of Welsh taxpayers
-are in the additional rate bracket, while in England that proportion is over
-three times as large. It's 2%. Wales has proportionally less income to tax than
-England. What this means is that, as Vaughan Gething said, in order to raise a
-substantial sum of extra money for the health service, or anything else, you'd
-need to increase tax for those basic rate taxpayers. In fact, we can put numbers
-on this. Well, I think we should. We tend to be quite pro-numbers in this
-programme, on balance. And there's actually quite a cool website. It's from the
-Welsh Senate, the Welsh Parliament. You can actually play around with the Welsh
-tax numbers and see what happens if you raise tax rates. Oh, Nathan, with your
-big beard and your interactive Welsh tax websites, I knew you were a rebel from
-the moment you walked into the BBC. What can I say? I'm here to shake things up,
-Tim. So, for example, if you theoretically increased the additional rate of tax,
+especially since the higher rate isn't actually the top rate of tax anymore so
+it's a bit of a silly name. But it makes me wonder Nathan, how many of these 40p
+rate or higher rate taxpayers are there in Wales? There are 166,000 higher rate
+taxpayers in Wales. Now I know what you're going to ask, is that a big number?
+Well not really. There are 1.5 million people who pay income tax in Wales so
+that means only 11% of Welsh income taxpayers earn enough to pay the higher
+rate. But if you look at England then by comparison 16% of income taxpayers are
+in the higher rate tax bracket. And what about the additional rate? Again, Wales
+has a much smaller proportion. Only 0.6% of Welsh taxpayers are in the
+additional rate bracket while in England that proportion is over three times as
+large, it's 2%. Wales has proportionately less income to tax than England. What
+this means is that, as Vaughan Gethings said, in order to raise a substantial
+sum of extra money for the health service, or anything else, you'd need to
+increase tax for those basic rate taxpayers. In fact, we can put numbers on
+this. Well, I think we should, we tend to be quite pro numbers in this programme
+on balance. And there's actually quite a cool website. It's from the Welsh
+Senate, the Welsh Parliament. You can actually play around with the Welsh tax
+numbers and see what happens if you raise tax rates. Oh, Nathan, with your big
+beard and your interactive Welsh tax websites. I knew you were a rebel from the
+moment you walked into the BBC. What can I say? I'm here to shake things up,
+Tim. So for example, if you theoretically increased the additional rate of tax,
 that top rate paid by people earning over £150,000, if you increased it by 1p in
-the pound, from 45 to 46p, you'd only raise an extra £8 million in revenue. And
-it's a similar story for the higher rate tax band. Adding 1p in the pound only
-raises £37 million. Right. And how much is the budget for the NHS in Wales?
-About £10 billion a year. Which is £10,000 million. So, £8 million here and £37
-million there. It's not really going to touch the sides. That's right. Any
-substantial increase from income tax would have to come from increasing the
-basic rate of tax. If you raised the basic rate by 1p, you'd bring in an extra
-£219 million. These figures for extra revenue are best-case scenarios, assuming
-people don't change their behaviour in response to the higher tax. Of course,
-whether you're in Wales, England or Scotland, the same broad point applies. If
-you want to raise a lot of money, you've usually got to put up the rate with the
-most taxpayers. Well, thank you, Nathan. And thanks to Harry Thompson from the
-Institute of Welsh Affairs for interrupting his holiday to help with this item.
-Oh no, the more or less mistake siren. And here comes the editor with a piece of
-paper. What have we got here? Hmm. Seems it's about last week's nurses' pay
-item. In that item, we interviewed Mark Pearson of the OECD about how nurses'
-pay compares with other European countries and with average pay in the UK.
-Nurses in Europe, on average, earn about 20% more than their national average
-wage, whereas in the UK, they get pretty much exactly the average. Now, that's
-all true, but we still think it was a mistake to broadcast that claim, which we
-did last Wednesday, because the OECD were comparing means. Best practice when
-comparing salaries is to use the median, that's the middle value. And that's
-because the mean can be, and usually is, skewed by the very high paid. According
-to the Office for National Statistics, median nurses' pay in the UK is £37,000.
-That's 13% above the median wage in the UK, which is £33,000. So why don't the
-OECD use the median for their analysis? Well, they use the mean because that's
-what countries agree to share internationally. The OECD don't have comparable
-data about medians. We received an email recently from a loyal listener who'd
-noticed a suspicious-looking number about how many menopausal women there are in
-the UK. It's one that's reported all over the place. For example, this headline
-in The Guardian. Let's talk menopause, because we are failing 13 million women.
-And it's not just in the media. The number's also on an NHS England webpage
-about menopause in the workplace. It is estimated that there are around 13
-million people who are currently peri- or menopausal in the UK. According to the
-Office for National Statistics, the female population of the UK is around 34
-million. So that would mean that the menopause is affecting over a third of all
-females. Josephine Casley has been looking into this. Hello, Jo. Hello. Yes, I
-have been. And that figure is indeed used a lot. The NHS website does include a
-reference to Wellbeing for Women. That's a charity that works on women's health.
-But when I contacted them, they said that they'd never heard of this figure. But
-I worked out that if you go back to the previous census from 2011 and just count
-up all the female population over 45, you get a bit over 13 million. 13 million,
-the same as the number. So the number does seem plausible, at least. But do all
-women over 45 count as menopausal? Not really, but the definition of menopausal
-actually is quite unclear. Let's start with the definition of the menopause. I
-know you like your classics and it comes from ancient Greek, so maybe you can
-tell me. An ancient Greek test, lovely. So, meno must be to do with the monthly
-cycle, that is periods. Paus must be... Don't tell me, don't tell me. Does it
-mean pause? Only a true classicist would have been able to figure that one out
-correct. So it's a woman's last period. But you won't know it's your final
-period until after it's happened. So I spoke to Professor Mary-Anne Lumsden to
-help me understand some of these definitions. She's CEO of the International
-Federation of Obstetricians and Gynaecologists. It is a curious definition being
-retrospective. And it is one year after the last menstrual period. And so it is
-not possible to be quite certain about menopause until one year has elapsed. The
-menopause then is technically a point in time rather than an interval of time.
-So what's menopausal? Well, I spoke to several experts in this field and there
-was a feeling that the term menopausal is vague and often ill-defined. Once
-you've had the menopause, you become post-menopausal. In this phase, there might
-still be health implications from having gone through the menopause. The acute
-symptoms like hot flushing will usually resolve, but there will be other issues
-that arise from the menopause. OK, so this number of 13 million refers to the
-female population over 45, and that includes post-menopausal women. So we're
-starting to count at 45. Is that a good age to start? Good question. Let's start
-with the average age of the menopause. The mean age of the menopause is 51 in
-the UK, US, Europe. And that means that women will go through the menopause
-between the age of 45 and middle to late 50s. But before the menopause, you have
-the perimenopause, which is the period leading up to the menopause. One of the
-cardinal signs of the perimenopause, of course, are changes in menstrual
-regularity. And these start prior to the menopause setting in, when the cycle
-length often gets less, and then it begins to lengthen. And then this will
-prolong, such that you get very marked irregularity in menses. Different studies
-have different estimates for how long the perimenopause lasts, and it depends a
-bit on how you define it. But around four to eight years seems to be average.
-But symptoms such as hot flushing can go on past the menopause itself and into
-the post-menopausal period. One of the big studies that's looked at this in the
-US is called the SWAN study. That looked at how long women reported hot flushes
-and night sweats for, and found that they occurred for an average of 7.4 years
-in total. Gosh, seven and a half years. That's a long time. It is, and other
-studies have found that to be lower, for example, five years. One reason that
-this study came up with a higher duration of symptoms could be that they had a
-diverse sample. Around a third of the women they studied were African-American.
-And they found that African-American women reported the longest period of hot
-flushes and night sweats, a median of 10 years. So is there any way of working
-out from all of that how many women in the UK might be experiencing these sorts
-of symptoms? Well, there's not a good estimate out there for this, but we can do
-some rough calculations using the ONS's population estimates. If we assume that
-women are perimenopausal for about four years, there could be around 1.9 million
-women experiencing this. If we go for seven years of symptoms, you get around
-3.3 million women. Well, either way, that's well short of 13 million. Exactly,
-but this is pretty rough and all these numbers are averages. Some women
-experience symptoms for much longer, even over a decade, and some women don't
-have any problems at all, their periods just stop. Thank you, both to Josephine
-Cassidy and also to Professor Mary-Anne Lumsden. When I finish an episode of
-More or Less, I get on the train out of London, exchanging the city life of Mus
-Urbanus for the rural habits of Mus Rusticus, so to speak. But last week, as I
-sat contemplating sunset over the meadows, as carefree as Centinatus at his
-plough, the More or Less team brought me grave news. There was unfinished
-business, and reluctantly, I returned to restore order to the suddenly chaotic
-world of data. That's right. Our discussion last week on the Latin roots of the
-word data has thrown the More or Less audience into a frenzy. Should data be
-treated as a plural or a singular word? Is it data are or data is? We had many,
-many impassioned emails sent to moreorless at bbc.co.uk, so many that we felt we
+the pound from 45 to 46p, you'd only raise an extra £8m in revenue. And it's a
+similar story for the higher rate tax band. Adding 1p in the pound only raises
+£37m. Right. And how much is the budget for the NHS in Wales? About £10m a year.
+Which is £10,000m. So £8m here and £37m there. It's not really going to touch
+the sides. That's right. Any substantial increase from income tax would have to
+come from increasing the basic rate of tax. If you raised the basic rate by 1p,
+you'd bring in an extra £219m. These figures for extra revenue are best case
+scenarios, assuming people don't change their behaviour in response to the
+higher tax. Of course, whether you're in Wales, England or Scotland, the same
+broad point applies. If you want to raise a lot of money, you've usually got to
+put up the rate with the most taxpayers. Well, thank you Nathan. And thanks to
+Harry Thompson from the Institute of Welsh Affairs for interrupting his holiday
+to help with this item. Oh no, the more or less mistake siren. And here comes
+the editor with a piece of paper. What have we got here? Seems it's about last
+week's Nurse's Pay item. In that item, we interviewed Mark Pearson of the OECD
+about how Nurse's Pay compares with other European countries and with average
+pay in the UK. Nurse's in Europe, on average, earn about 20% more than their
+national average wage. Whereas in the UK, they get pretty much exactly the
+average. Now that's all true, but we still think it was a mistake to broadcast
+that claim, which we did last Wednesday, because the OECD were comparing means.
+First practice when comparing salaries is to use the median, that's the middle
+value. And that's because the mean can be and usually is skewed by the very high
+paid. According to the Office for National Statistics, median Nurse's Pay in the
+UK is £37,000. That's 13% above the median wage in the UK, which is £33,000. So
+why don't the OECD use the median for their analysis? Well, they use the mean
+because that's what countries agree to share internationally. The OECD don't
+have comparable data about medians. We received an email recently from a loyal
+listener who'd noticed a suspicious looking number about how many menopausal
+women there are in the UK. It's one that's reported all over the place. For
+example, this headline in The Guardian. Let's talk menopause, because we are
+failing 13 million women. And it's not just in the media. The number's also on
+an NHS England webpage about menopause in the workplace. It is estimated that
+there are around 13 million people who are currently peri or menopausal in the
+UK. According to the Office for National Statistics, the female population of
+the UK is around 34 million. So that would mean that the menopause is affecting
+over a third of all females. Josephine Cassley has been looking into this.
+Hello, Jo. Hello. So this is Jo's husband and that figure is indeed used a lot.
+The NHS website does include a reference to Wellbeing for Women. That's a
+charity that works on women's health. But when I contacted them, they said that
+they'd never heard of this figure. But I worked out that if you go back to the
+previous census from 2011 and just count up all the female population over 45,
+you get a bit over 13 million. 13 million, the same as the number. The number
+does seem plausible at least, but do all women over 45 count as menopausal? Not
+really, but the definition of menopausal actually is quite unclear. Let's start
+with the definition of the menopause. I know you like your classics and it comes
+from Ancient Greek, so maybe you can tell me. An Ancient Greek test, lovely. So,
+meno must be to do with a monthly cycle, that is periods. Pause must be... Don't
+tell me, don't tell me. Does it mean pause? Pause. Only a true classicist would
+have been able to figure that one out. Correct. So, it's a woman's last period,
+but you won't know it's your final period until after it's happened. So, I spoke
+to Professor Mary Ann Lumsden to help me understand some of these definitions.
+She's CEO of the International Federation of Obstetricians and Gynecologists. It
+is a curious definition being retrospective and it is one year after the last
+menstrual period and so it is not possible to be quite certain about menopause
+until one year has elapsed. The menopause then is technically a point in time
+rather than an interval of time. So, what's menopausal? Well, I spoke to several
+experts in this field and there was a feeling that the term menopausal is vague
+and often ill-defined. Once you've had the menopause, you become post-
+menopausal. In this phase, there might still be health implications from having
+gone through the menopause. The acute symptoms like hot flushing will usually
+resolve, but there will be other issues that arise from the menopause. Okay, so
+this number of 13 million refers to the female population over 45 and that
+includes post-menopausal women. So, we're starting to count at 45. Is that a
+good age to start? Good question. Let's start with the average age of the
+menopause. The mean age of the menopause is 51 in the UK, US, Europe and that
+means that women will go through the menopause between the age of 45 and middle
+to late 50s. But before the menopause, you have the perimenopause, which is the
+period leading up to the menopause. One of the cardinal signs of the
+perimenopause, of course, the changes in menstrual regularity. And these start
+prior to the menopause setting in when the cycle length often gets less. And
+then it begins to lengthen and then this will prolong such that you get very
+marked irregularity in menses. Different studies have different estimates for
+how long the perimenopause lasts and it depends a bit on how you define it, but
+around four to eight years seems to be average. But symptoms such as hot
+flushing can go on past the menopause itself and into the post-menopausal
+period. One of the big studies that's looked at this in the US is called the
+SWAN study. That looked at how long women reported hot flushes and night sweats
+for and found that they occurred for an average of 7.4 years in total. Gosh,
+seven and a half years. It's a long time. It is and other studies have found
+that to be lower, for example, five years. One reason that this study came up
+with a higher duration of symptoms could be that they had a diverse sample.
+Around a third of the women they studied were African American. And they found
+that African American women reported the longest period of hot flushes and night
+sweats, a median of 10 years. So is there any way of working out from all of
+that? How many women in the UK might be experiencing these sorts of symptoms?
+Well, there's not a good estimate out there for this, but we can do some rough
+calculations using the ONS as population estimates. If we assume that women are
+perimenopause or for about four years, there could be around 1.9 million women
+experiencing this. If we go for seven years of symptoms, you get around 3.3
+million women. Well, either way, that's well short of 13 million. Exactly. But
+this is pretty rough and all these numbers are averages. Some women experience
+symptoms for much longer, even over a decade. And some women don't have any
+problems at all. Their periods just stop. Thank you both to Josephine Cassaly
+and also to Professor Mary Ann Lumsden. When I finish an episode of More or
+Less, I get on the train out of London, exchanging the city life of Mus Urbarnus
+for the rural habits of Mus Rusticus, so to speak. But last week, as I sat
+contemplating sunset over the meadows, as carefree as Cincinnatus at his plough,
+the more or less team brought me grave news. There was unfinished business and
+reluctantly I returned to restore order to the suddenly chaotic world of data.
+That's right. Our discussion last week on the Latin roots of the word data has
+thrown the more or less audience into a frenzy. Should data be treated as a
+plural or a singular word? Is it data are or data is? We had many, many
+impassioned emails sent to More or Less at bbc.co.uk so many that we felt we
 simply had to revisit the topic. Here's just a little taste of our inbox over
 the last week. Words are stupid, words are fun, words can put you on the run.
 Has the BBC told you to change style? Don't. Why should ignorance triumph? I'm
@@ -287,167 +287,171 @@ afraid it often does. Language changes. Get over it. It hit a nerve with me,
 largely because I was taught Latin by a master who obviously regretted his
 choice of career. Perhaps you could think of processed data as mashed potato.
 Potatoes are countable. Mashed potato isn't. Keep up the good work and stick to
-your guns. The FT's should be setting a good example, not debasing our language.
-I still cling to criterion and bacterium. But one listener in particular raised
-a striking point. Well, it just struck me as strange that a segment on
-moreorless wouldn't actually have any data on how the noun data is being used in
-contemporary English. Sorry. That's Dr Beth Mallory, a corpus linguist at the
-Survey of English Usage at University College London. I spoke to her to get an
-expert opinion on modern trends of usage for the word data. First of all, a bit
-of a grammar lesson. If we distinguish between data when it's used as a count
-noun and data when it's used as a mass noun, count nouns are words like been and
-fact, which have singular and plural forms. So, beans, been, fact, facts,
-whereas mass nouns are words like information, energy, air, things like that.
-So, Tim, you said that you think of data as a count noun. So, it's the plural of
-datum. So, it would take a plural verb like are or show. But I think what made
-me get in touch was that I think that for most people, data is a mass noun. So,
-it's always used with a singular. So, it's like, what, like sand? You wouldn't
-say sands. Well, you could say sands if you were in the middle of the poem
-Ozymandias, but generally you would say sand. Exactly. So, yeah, and I think
-something like energy or air would be a good analogy for it. So, that's the
-grammar. What about the data? Okay, so I'm a corpus linguist. Corpus linguistics
-is a methodology that uses large electronic collections of what we call
-naturally occurring language data. We call them corpora. So, the singular is
-corpus, the plural is corpora, which is slightly ironic, another obscure
-Latinate plural for you there. We'll let it pass. And we use these corpora to
-conduct empirical analyses so that we can draw conclusions about how language is
-actually being used in reality. So, you've just got a massive sample of text,
-probably from the internet, right? Or maybe from books, although they're merging
-together these days, aren't they? Yeah, I mean, mostly. So, the kind of really
-big modern corpora tend to be running into the billions. So, the really big ones
-that we can use do tend to be from the web, yeah. And you can figure out how
-often people say data is versus how often people say data are. I suppose I
-should grit my teeth and get you to tell me. What did you find? Yeah, so, I
+your guns. The FT should be setting a good example not to basing our language. I
+still cling to criterion and bacterium. But one listener in particular raised a
+striking point. Well, it just struck me as strange that a segment on More or
+Less wouldn't actually have a good idea. More or Less wouldn't actually have any
+data on how the noun data is being used in contemporary English. Sorry. That's
+Dr Beth Mallory, a corpus linguist at the Survey of English Usage at University
+College London. I spoke to her to get an expert opinion on modern trends of
+usage for the word data. First of all, a bit of a grammar lesson. If we
+distinguish between data when it's used as a count noun and data when it's used
+as a mass noun, count nouns are words like bean and fact, which have singular
+and plural forms. So beans, bean, fact, facts. Whereas mass nouns are words like
+information, energy, air, things like that. So Tim, you said that you think of
+data as a count noun. So it's the plural of datum. So it would take a plural
+verb like are or show. But I think what made me get in touch was that I think
+that for most people, data is a mass noun. So it's always used with a singular.
+So it's like what, like sand? Yeah. You could say sands if you were in the
+middle of the poem Ozymandias, but generally you would say sand. Exactly. So
+yeah. And I think something like energy or air would be a good analogy for it.
+So that's the grammar. What about the data? Okay. So I'm a corpus linguist.
+Corpus linguistics is a methodology that uses large electronic collections of
+what we call naturally occurring language data. We call them corpora. So the
+singular is corpus, the plural is corpora, which is slightly ironic. Another
+obscure Latinate plural for you there. Will let it pass. And we use these
+corpora to conduct empirical analyses so that we can draw conclusions about how
+language is actually being used in reality. So you just got a massive sample of
+text? Yes. And you can use that, right? Or maybe from books, although they're
+merging together these days, aren't they? Yeah. I mean, mostly. So the kind of
+really big modern corpora tend to be running into the billions. So the really
+big ones that we can use do tend to be from the web. Yeah. And you can figure
+out how often people say data is versus how often people say data are. I suppose
+I should grip my teeth and get you to tell me what did you find? Yeah. So I
 mean, across the different corpora that I looked at, it's around 80% data is
 versus 20% data are. And that seems to be replicated across different verbs as
-well. So, things like data shows versus data show. So, 80% are taking the trendy
-view that the Financial Times has just taken. Yes. And 20% are stuck in the mud,
-like me. Interesting. So, I did also have a look at some specialised corpora,
-and data does definitely take a plural verb much more often in genres like
-academia, so in research and in journalistic English. I did find some data on
-this from the 1990s, and there does seem to have been a change since then. So,
-the data I found said that in academic writing, it was 93% plural in the 1990s,
-whereas now it seems to be more like 50-50. What does it tell us that the
-academic corpora has a very different view to the web in general, if anything? I
-think it tells us that this is becoming quite an elite form. So, people with a
-kind of traditional classical education and an understanding of Latin are much
-more likely to use the plural verb with data, and that makes it an elite form.
-Speaking of the elite, of the very best, our loyal listeners have been in touch.
-We have a new corpora to analyse, the More or Less Inbox. They do not see it as
-normal people do. So, two-thirds of people who expressed a preference in our
-inbox voted for data R, and only one-third went for data Is. Of course, this is
-an unusual group, and not only is it loyal listeners, but it's loyal listeners
-who felt that this was the most important thing they could do with their time.
-What do you make of that? Yeah, I mean, I think there are several things going
-on. So, yes, these are people who have been exercised by this segment enough to,
-you know, make note that their preferred usage is the one that's declining. It's
-not necessarily a representative sample of what's going on in the real world, I
-don't think. Yes, I did love one listener email. Not everyone studied Latin to
-know that the Romans used an A for the plural of many words, ending in om,
-bacteria, strata, data, etc. It's time for etymologists to stick those
-irrelevant ancient usages up their bar. That's brilliant. Our thanks to Dr Beth
-Mallory from University College London, and thanks to all the Auscultadores
-Fideles, that's loyal listeners of course, who sent in their ideas. And that's
-all we have time for this week, but please keep those questions and comments
-coming in, even if they're about numbers rather than grammar. They're all
-welcome via more or less at bbc.co.uk. We will be back next week, and until
-then, goodbye. There are simple ways to improve our health, but we're inundated
-with often conflicting advice. So, if you were going to try just one thing to
-improve your mental and physical wellbeing, what should it be? Perhaps the
-martial art of Tai Chi to improve your immune system. Maybe a few nuts to slow
-aging. Or how about cleaning your teeth to give your brain a boost? I'm Dr
-Michael Moseley, and this is Just One Thing, where each episode we'll explore
-one thing you can start doing today to improve your health or life in ways you
-might not expect. Now, just a few more. Today I'm doing something that should,
-in just a few minutes each day, boost my mood, my heart health, even perhaps
-help me live longer. I'm lifting weights. Now, I already do some muscle building
-resistance exercises like press-ups and squats. You can find out more about
-those and the sort of benefits you get from doing them in our episodes on
+well. So things like data shows versus data show. So 80% are taking the trendy
+view that the Financial Times has just taken. Yes. And 20% are stuck in the mud
+like me. Interesting. So I did also have a look at some specialized corpora and
+data does definitely take a plural verb much more often in genres like academia.
+So in research and in journalistic English, I did find some data on this from
+the 1990s. And there does seem to have been a change since then. So the data I
+found said that in academic writing, it was 93% plural in the 1990s. Whereas now
+it seems to be more like 5050. What does it tell us that the academic corpora
+has a very different view to the web in general? If anything. I think it tells
+us that this is becoming quite an elite form. So people with a kind of
+traditional classical education and an understanding of Latin are much more
+likely to use the plural verb with data. And that makes it an elite form.
+Speaking of the elite, the very best of the very best are loyal listeners have
+been in touch. We have a new corpora to analyze the more or less inbox. They do
+not see it as normal people do. So two thirds of people who expressed a
+preference in our inbox voted for data R and only one third went for data is. Of
+course, this is an unusual group. And not only is it loyal listeners, but it's
+loyal listeners who felt that this was the most important thing they could do
+with their time. What do you make of that? Yeah, I mean, I think there are
+several things going on. So, yes, these are people who have been exercised by
+this segment enough to, you know, make note that their preferred usage is the
+one that's declining. It's not necessarily a representative sample of what's
+going on in the real world, I don't think. Yes, I did love one. Listen to email.
+Not everyone studied Latin to know that the Romans used an A for the plural of
+many words ending in om bacteria, strata, data, etc. It's time for etymologists
+to stick those irrelevant ancient usages up their bar. That's brilliant. Our
+thanks to Dr. Beth Mallory from University College London and thanks to all the
+AUS Cultatores Fideles – that's loyal listeners, of course – who sent in their
+ideas. And that's all we have time for this week. But please keep those
+questions and comments coming in, even if they're about numbers, rather than
+grammar. They're all welcome via More or Less at bbc.co.uk. We will be back next
+week. And until then, goodbye. More or Less was presented by Tim Harford and the
+producer was John Bithrie. It's time now on Radio 4 for just one thing, where in
+each episode Dr. Michael Mosley tries out a small idea that could make a big
+difference to your life. This week he's pumping iron. Eight, nine, oh,
+snackering. We would all like some quick and simple ways to improve our health,
+but we're inundated with often conflicting advice. So, if you were going to try
+just one thing to improve your mental and physical wellbeing, what should it be?
+Perhaps the martial art of tai chi to improve your immune system. Maybe a few
+nuts to slow aging. Or how about cleaning your teeth to give your brain a boost?
+I'm Dr. Michael Mosley and this is Just One Thing, where each episode will
+explore one thing you can start doing today to improve your health or life in
+ways you might not expect. Now, just a few more. Today I'm doing something that
+should in just a few minutes each day. Boost my mood. My heart health. Even
+perhaps help me live longer. I'm lifting weights. Now, I already do some muscle
+building resistance exercises like press ups and squats. You can find out more
+about those and the sort of benefits you get from doing them in our episodes on
 intelligent exercises and eccentric exercises, which are both available on BBC
-Sands. God, that's knackering. But I haven't tried using weights before, and I
-had to borrow these from one of my sons. Woo! This is tough. For me, when I
-think of weightlifting, I get this image of bodybuilders pumping huge barbells
-in the gym. And that really is not my style. Right, done. Recent evidence
-suggests that muscle strengthening exercises for only a few minutes a day can
-confer some remarkable health benefits, boosting your immune system and even
-your brain. It is counterintuitive. Just building that brawn can also build your
-brain and protect your white matter. So, how about pumping some iron? I'll be
-speaking to Jenny from Manchester, and I want to see if some strength training
-is just one thing she'd like to try. Hi there, Jenny. Hi, Michael. Good to speak
-to you. Now, what kind of exercise do you normally do? I have to be honest, the
-only exercise I do is housework. So, really no exercise at all apart from day-
-to-day activity. Right. Now, what I'm going to ask you to do is consider
-weightlifting. Have you ever done weightlifting before? I've never done
-weightlifting in my life. What does it conjure up? I'm kind of thinking big,
-strong, muscly men that you see on the Olympics. Yeah, not something I would
-think of for me. Okay. So, what I want you to do is some weight training, and
-you can do it without special equipment, just using your own body weight or
-things you probably already have around in the house. So, I want you to do a
-combination of things. So, one is called the bicep curl, but you're going to be
-holding a big bottle of milk. And then I want you to do some calf raises. That's
-where you hold on to a countertop and you lift yourself up onto your tiptoes.
-And then finally, and this is probably the most challenging, I want you to do
-something called weighted squats. What you need here is you get a rucksack or a
-backpack and you put some books in it, and then you do some squats. And I want
-you to do three sets of these, ten each, and this is going to take, you know,
-maybe ten, maybe 15 minutes a day. So, a bit challenging, but are you up for it?
-Yeah, I'm definitely up for it. I've asked Jenny to do a few minutes of simple
-strength training exercises every day for the next week, and we'll see how she
-gets on. But if you'd like to do something similar, do check with your GP if
-you're starting a new exercise regime or have any previous injuries. That said,
-there are lots of benefits of incorporating a bit of strength training into your
-life. Apart from making you look more toned, building your muscles could help
-you live longer. An American study found that muscle mass is one of the
-strongest predictors of longevity, even more than weight or body mass index.
-Researchers followed 3,600 men and women over the age of 50 for a decade. They
-found that those who had more muscle mass were at a lower risk of death from all
-causes. Lifting weights can also benefit your metabolism, your waistline, and
-even your blood sugars. That's partly because building muscle increases your
-insulin sensitivity, improving your ability to lower your blood sugar levels
-after a meal. It can even enhance your immunity. One study looked at part of the
-immune system's first line of defence, cells that surround and engulf pathogens
-called neutrophils. When researchers compared women who were sedentary with
-those who regularly did resistance training, the latter had far more active
-neutrophils. Strength training may even reverse ageing at a cellular level. In
-one small but fascinating study, scientists asked 14 older people to do strength
-training twice a week for six months, and then compared their muscles to that of
-younger adults. They looked at the parts of the muscle cells that generate
-energy, the mitochondria. Now, normally these wane with age, but the older
-adults who had been doing strength training boosted their mitochondrial function
-to levels similar to those seen in younger men and women. And finally, strength
-training can do good things for your brain power. I'll be talking to an expert
-shortly to find out how and why building your brawn can boost your brain. But
-first, let's see how Jenny is getting on. I'm on day four and finding it really
-helpful. I've been able to do the bicep curls just while I've been watching the
-TV or got a couple of minutes spare. Because you don't need any special
-equipment, I don't need to go anywhere. I don't need to get changed. It's also
-been easier to fit it into a really busy schedule than I'd expected. And I am
-optimistic about completing the task. We'll catch up with Jenny at the end of
-the week. But now to get the lowdown on resistance training, I'm speaking to Dr.
-Teresa Lou Ambrose, who is professor of physical therapy at the University of
-British Columbia in Canada. Hello, Dr. Lou Ambrose. Hello. So what are the
-benefits of strength training? It's most widely known benefits include the
-maintenance of your muscle mass as well as your muscle strength and your bone
-health. And these are actually really important benefits as we age. And by
-maintaining muscle mass, you can also reduce your risk of chronic conditions
-such as type 2 diabetes and heart conditions. And these chronic conditions
-actually do increase your risk for developing cognitive impairment and dementia.
-And so this kind of segues to the benefits of strength training for brain health
-in terms of our cognitive performance. So it's been shown that it can improve
-your memory as well as your more complex cognitive abilities such as decision
-making. And it appears that strength training can also directly impact both your
-brain function and brain structure. OK, that is surprising to most people, I
-would imagine, that pumping iron is good for your brain. Can you tell me about
-your research? So we did two studies. In one study, they were otherwise healthy
-older adults, so age 65 and older. And in another study, we included individuals
-who were also 65 years and older but had pre-existing cognitive impairment. And
-in both studies, we found that strength training had benefits for both the
-cognitive function as well as metrics acquired on neuroimaging. When you talk
-about improvements in cognitive function, what sort of things did you see with
-this group? What we found is that with strength training, people were able to
+Sands. God, snackering. But I haven't tried using weights before and I had to
+borrow these from one of my sons. Whoo, this is tough. For me, when I think of
+weightlifting, I get this image of bodybuilders pumping huge barbells in the
+gym. And that really is not my style. Right, done. Recent evidence suggests that
+muscle strengthening exercises for only a few minutes a day can confer some
+remarkable health benefits, boosting your immune system and even your brain. It
+is counterintuitive, just building that brawn can also build your brain and
+protect your white matter. So how about pumping some iron? I'll be speaking to
+Jenny from Manchester and I want to see if some strength training is just one
+thing she'd like to try. Hi there, Jenny. Hi, Michael. Good to speak to you.
+Now, what kind of exercise do you normally do? I have to be honest. The only
+exercise I do is housework. So really no exercise at all apart from day to day
+activity. Right, now what I'm going to ask you to do is consider weightlifting.
+Have you ever done weightlifting before? I've never done weightlifting in my
+life. What does it conjure up? I'm kind of thinking big, strong, muscly men that
+you see on the Olympics. Yeah, not something I would think of for me. OK, so
+what I want you to do is some weight training and you can do it without special
+equipment just using your own body weight or things you probably already have
+around in the house. So I want you to do a combination of things. So one is
+called a bicep curl, but you're going to be holding a big bottle of milk. And
+then I want you to do some calf raises. That's where you hold onto a countertop
+and you lift yourself up onto your tiptoes. And then finally, and this is
+probably the most challenging, I want you to do something called weighted
+squats. What you need here is you get a rucksack or a backpack and you put some
+books in it and then you do some squats. And I want you to do three sets of
+these, ten each. And this is going to take, you know, maybe 10, maybe 15 minutes
+a day. So a bit challenging, but are you up for it? Yeah, I'm definitely up for
+it. I've asked Jenny to do a few minutes of simple strength training exercises
+every day for the next week. And we'll see how she gets on. But if you'd like to
+do something similar, do check with your GP if you're starting a new exercise
+regime or have any previous injuries. That said, there are lots of benefits of
+incorporating a bit of strength training into your life. Apart from making you
+look more toned, building your muscles could help you live longer. An American
+study found that muscle mass is one of the strongest predictors of longevity,
+even more than weight or body mass index. Researchers followed 3,600 men and
+women over the age of 50 for a decade. They found that those who had more muscle
+mass were at a lower risk of death from all causes. Lifting weights can also
+benefit your metabolism, your waistline and even your blood sugars. That's
+partly because building muscle increases your insulin sensitivity, improving
+your ability to lower your blood sugar levels after a meal. It can even enhance
+your immunity. One study looked at part of the immune system's first line of
+defense, cells that surround and engulf pathogens called neutrophils. When
+researchers compared women who were sedentary with those who regularly did
+resistance training, the latter had far more active neutrophils. Strength
+training may even reverse aging at a cellular level. In one small but
+fascinating study, scientists asked 14 older people to do strength training
+twice a week for six months, and then compared their muscles to that of younger
+adults. They looked at the parts of the muscle cells that generate energy, the
+mitochondria. Now normally these wane with age, but the older adults who had
+been doing strength training boosted their mitochondrial function to levels
+similar to those seen in younger men and women. And finally, strength training
+can do good things for your brain power. I'll be talking to an expert shortly to
+find out how and why building your brawn can boost your brain. But first, let's
+see how Jenny is getting on. I'm on day four and finding it really helpful. I've
+been able to do the bicep curls just while I've been watching the TV or got a
+couple of minutes spare. Because you don't need any special equipment, I don't
+need to go anywhere, I don't need to get changed. It's also been easier to fit
+it into a really busy schedule than I'd expected. And I am optimistic about
+completing the task. We'll catch up with Jenny at the end of the week. But now
+to get the lowdown on resistance training, I'm speaking to Dr. Theresa Lu-
+Ambrez, who is professor of physical therapy at the University of British
+Columbia in Canada. Hello, Dr. Lu-Ambrez. Hello. So what are the benefits of
+strength training? Its most widely known benefits include the maintenance of
+your muscle mass as well as your muscle strength and your bone health. And these
+are actually really important benefits as we age. And by maintaining muscle
+mass, you can also reduce your risk of chronic conditions such as type 2
+diabetes and heart conditions. And these chronic conditions actually do increase
+your risk for developing cognitive impairment and dementia. And so this kind of
+segues to the benefits of strength training for brain health in terms of our
+cognitive performance. So it's been shown that it can improve your memory as
+well as your more complex cognitive abilities such as decision making, and it
+appears that strength training can also directly impact both your brain function
+and brain structure. Okay. That is surprising to most people, I would imagine,
+that pumping iron is good for your brain. Can you tell me about your research?
+So we did two studies. In one study, there were otherwise healthy older adults,
+so age 65 and older. And in another study, we included individuals who were also
+65 years and older but had preexisting cognitive impairment. And in both
+studies, we found that strength training had benefits for both the cognitive
+function as well as metrics acquired on neuroimaging. When you talk about
+improvements in cognitive function, what sort of things did you see with this
+group? What we found is that with strength training, people were able to
 remember things better and specifically what we call associative memory, such
 that today is the first time I've met you, I've seen your face, I know your
-name. My capacity to associate your name with your face in the future is called
+name, my capacity to associate your name with your face in the future is called
 an associative memory capacity. And what we found is that with strength
 training, this particular aspect of memory improves. We also found that with
 strength training, people had better executive functions, meaning that they were
@@ -457,32 +461,32 @@ that you could remember other people's names, who you'd met before better as a
 form of memory test, but also that they made better decisions in everyday life
 in a way. Yes. And did they stick with it? Actually, yes. For one of the studies
 that was for 12 months, so we did train them for 12 months, but then we also
-followed them up for another 12 months. And during that follow-up, we didn't
+followed them up for another 12 months. And during that follow up, we didn't
 offer exercise classes, but more just to monitor how they were doing. And so
 what we did find is that a year after the study, they were more active than when
-they first started the study, and as well, some of the cognitive benefits were
+they first started this study, and as well some of the cognitive benefits were
 retained, which is great news. What do you think is the mechanism? Why do you
 think people who do these strength exercises, it improves their brain function?
-First, I want to acknowledge, I think there's multiple pathways by which
-exercise brings about benefits for cognitive and brain health. But certainly one
-of the main mechanisms there's evidence for is the release of what we call
-neurotrophic factors. And they're kind of like peptides that essentially promote
-the growth of new neurons, the survival of neurons, as well as the
-differentiation of neurons themselves. There's two major types. There is a
-brain-derived neurotrophic factors, as well as insulin growth factor one. But I
-think what's really come to light in the last five years is the role of mild
-kinds. It's a fairly new discovery, and they're essentially specialized hormones
-that are actually produced in muscles and are released when muscles contract.
-Current evidence suggests once they're released, they basically travel
-throughout the body and go to different organs and tissues and jumpstart a
-variety of biochemical processes. But in terms of the brain, what has been shown
-is that when you do engage in exercise, there's particular mild kinds such as
-the cathisbin B that actually is released within the muscle, but crosses the
-blood-brain barrier and enhances neurotrophic factor production such as BDNF.
-OK, so it all ties in. Essentially, you do a workout. As you do that, these mild
-kinds are released. They go into the brain, and then they encourage the brain to
-produce BDNF, brain-derived neurotrophic factor, which as I understand it is
-like a sort of fertilizer for the brain. It helps preserve brain cells.
+First I want to acknowledge, I think there's multiple pathways by which exercise
+brings about benefits for cognitive and brain health. But certainly one of the
+main mechanisms there's evidence for is the release of what we call neurotrophic
+factors. And they're kind of like peptides that essentially promote the growth
+of new neurons. The survival of neurons, as well as the differentiation of
+neurons themselves. There's two major types. There is a brain derived
+neurotrophic factors, as well as insulin growth factor one. But I think what's
+really come to light in the last five years is the role of mild kinds. It's a
+fairly new discovery, and they're essentially specialized hormones that are
+actually produced in muscles and are released when muscles contract. Current
+evidence suggests once they're released, they basically travel throughout the
+body and go to different organs and tissues and jumpstart a variety of
+biochemical processes. But in terms of the brain, what has been shown is that
+when you do engage in exercise, there's particular mild kinds such as the
+cathespin B that actually is released within the muscle, but crosses the blood-
+brain barrier and enhances neurotrophic factor production, such as BDNF. Ah,
+okay. So it all ties in. Essentially, you do a workout. As you do that, these
+mild kinds are released, they go into the brain, and then they encourage the
+brain to produce BDNF, brain-derived neurotrophic factor, which as I understand
+it is like a sort of fertilizer for the brain. It helps preserve brain cells.
 Absolutely. And I think it's a real shift in how we think about how exercise
 impacts the brain as well. Traditionally, we've been very focused on what's
 released in the brain, and we haven't really focused on peripheral mechanisms.
@@ -491,56 +495,56 @@ of how exercise brings about benefits, and again, the role of muscles. I do find
 it fascinating that we're still learning so much about how our muscles interact
 with our brains. Let's check in with Jenny one more time and find out if
 strength training is something she'll carry on with. I have really surprised
-myself. I never imagined doing weights, but actually it's been fantastic. I
+myself, I never imagined doing weights, but actually it's been fantastic. I
 definitely have noticed improvements in that I feel that my posture is better. I
-feel physically better. I feel mentally better. And over the last few days,
-people have told me I'm looking better and I'm definitely going to carry on. I'm
-really glad to hear Jenny has enjoyed her weightlifting week, and I've been
+feel physically better, I feel mentally better, and over the last few days,
+people have told me I'm looking better, and I'm definitely going to carry on.
+I'm really glad to hear Jenny has enjoyed her weightlifting week, and I've been
 doing it all week as well. In fact, I'm doing it right now. Because I'm not a
 complete beginner, I'm actually doing it to failure, which means until I can't
-do it any longer. I think I'm reaching that point now. OK, other arm. I think I
-can feel my forearm and grip getting stronger. So I do think that lifting
-weights is worth it because it simply has so many benefits, from the obvious,
+do it any longer. I think I'm reaching that point now. Okay, other arm. I think
+I can feel my forearm and grip getting stronger. So I do think that lifting
+weights is worth it, because it simply has so many benefits, from the obvious,
 like getting stronger, to the surprising, like enhancing your brain power. So
-there you are. Lift some weights and you could get some big benefits, stronger
-muscles and bones, a healthy heart and immune system, and it could even help you
-live longer. Right, enough. So that's it. It's just one thing you can
+there you are. Lift some weights, and you could get some big benefits, stronger
+muscles and bones, a healthy heart and immune system. And it could even help you
+live longer. Right, enough. So that's it. That's just one thing you can
 incorporate into your daily routine, which really could benefit your body and
 life. If you want to hear more of the series, why not subscribe on BBC Sounds.
-And next week at the same time here in Radio 4, Michael goes nuts. He discovers
+And next week at the same time, here in Radio 4, Michael goes nuts. He discovers
 how eating nuts can give your brain a boost, reduce your waistline, and may even
-slow down your body's ageing process. The Daily Service is starting shortly over
-on Radio 4, 198 Longwave and DAB Digital Radio. It's led today by Father Frankie
-Mulgrew. John Donne is losing his faith in our Book of the Week coming up on
-Radio 4 FM in just a moment. First, though, a very important question from James
-Nochte. Nearly a year on, how can peace be restored in Europe? This will end
+slow down your body's aging process. The Daily Service is starting shortly over
+on Radio 4 198 Longwave and DAB Digital Radio, it's led today by Father Frankie
+Malgrew. John Dunn is losing his faith in our Book of the Week coming up on
+Radio 4 FM in just a moment. First though, a very important question from James
+Noctey. Nearly a year on, how can peace be restored in Europe? This will end
 when there is enough progress on the battlefield by Ukraine. A war that has to
-be won or a broken peace. This is James Nochte, and in Europe and the United
-States, I've been talking to negotiators about the lessons from the past. You've
-had a 70-year armistice in Korea, but what you've not had is 70 years of a
-quiet, calm border. Every war is different, so how might understanding old
-conflict help Ukraine, where both sides speak of nothing but victory? How Wars
-End, on BBC Radio 4, available now on BBC Sounds. Now, time for Catherine
-Rundell's new biography of the Renaissance poet John Donne. Today, The Loss of
-His Brother Henry and The Loss of His Faith. Super Infinite is read by Blake
-Ritson. Donne's pleasure in Lincoln's Inn, in teasing his fellow students, in
-testing the scope of his linguistic virtuosity, lasted roughly a year. It was
-shattered by a double bill of disaster, by persecution and by plague. In 1593,
-cases of plague began to grow exponentially. The theatres were closed, the bear
-baiting was forced to shut, the brothels emptied. In the streets, officials
-wielded three-foot-long martial wands to swat at people who weren't maintaining
-social distancing. William Shakespeare, who across the river was just beginning
-to make his name as a playwright, found his livelihood temporarily overturned,
-swiftly switched to poetry and wrote Venus and Adonis, an epic which abruptly
-made him famous at court. Donne wrote a lament for the city's swagger. Now
-pleasures dearth our city doth possess, Our theatres are filled with emptiness,
-As lank and thin as every street and way, As a woman delivered yesterday. Donne
-had been at Lincoln's Inn for a year when his brother Henry was arrested. Henry
-was John's junior by a year and had followed him after Oxford to Thavy's Inn,
-close by Lincoln's Inn. In the spring of 1593, Henry took a young priest called
+be won or a broken peace. This is James Noctey, and in Europe and the United
+States I've been talking to negotiators about the lessons from the past. You've
+had a 70 year armistice in Korea, but what you've not had is 70 years of a
+quiet, calm border. Every war is different. So how might understanding old
+conflicts help Ukraine where both sides speak of nothing but victory? How wars
+end on BBC Radio 4, available now on BBC Sands. Now time for Catherine Rundle's
+new biography of the Renaissance poet John Dunn. Today the loss of his brother
+Henry and the loss of his faith. Super Infinite is read by Blake Ritson. Dunn's
+pleasure in Lincoln's Inn, in teasing his fellow students in testing the scope
+of his linguistic virtuosity, lasted roughly a year. It was shattered by a
+double bill of disaster, by persecution and by plague. In 1593, cases of plague
+began to grow exponentially. The theatres were closed, the bear baiting was
+forced to shut, the brothels emptied. In the streets, officials wielded three
+foot long martial wands to swat at people who weren't maintaining social
+distancing. William Shakespeare, who across the river was just beginning to make
+his name as a playwright, found his livelihood temporarily overturned, swiftly
+switched to poetry and wrote Venus and Adonis, an epic which abruptly made him
+famous at court. Dunn wrote a lament for the city's swagger. Thou pleasure's
+dearth our city doth possess, our theatres are filled with emptiness, as lank
+and thin as every street and way as a woman delivered yesterday. Dunn had been
+at Lincoln's Inn for a year, when his brother Henry was arrested. Henry was
+John's junior by a year and had followed him after Oxford to Thavies Inn, close
+by Lincoln's Inn. In the spring of 1593, Henry took a young priest called
 William Harrington into his chambers. He planned to hide him from Elizabeth's
-priest-hunters and feed him and care for him in secret. He was still barely more
-than a child, or he would have seen the impossibility of it. Henry's fellow
+priest hunters and feed him and care for him in secret. He was still barely more
+than a child or he would have seen the impossibility of it. Henry's fellow
 scholars would have been all around, eating and working and gossiping. How did
 he expect to get food to him? How did he expect to wash Harrington's clothes, to
 dispose of his waste, to keep friends away? In May, without warning, Henry's
@@ -550,121 +554,124 @@ trained to withstand pain, at first steadfastly denied being involved in the
 Catholic Church. Henry betrayed him. He broke under questioning and admitted
 that Harrington had said he was a priest and did shrive him. To shrive is to
 listen to confession. Henry and Harrington were sent first to the Clink prison
-and then to Newgate. Newgate jail, rebuilt in 1423, was notorious for its dirt
+and then to Newgate. Newgate Jail, rebuilt in 1423, was notorious for its dirt
 and cruelty. By the time Henry was sent there, it was a grotesque place, cold
 and dark and humiliating. Corruption and bribery were accepted as the norm.
-Prisoners were kept in leg-irons and forced to pay for their own board. The
+Prisoners were kept in leg irons and forced to pay for their own board. The
 floor was said to crunch because of the carpet of lice, dead and alive. It was
-from Newgate that Harrington was tried and found guilty of high treason on 18
-February 1594. He was subjected to the death of a traitor. It was reported that
-he was drawn from Newgate to Tyburn and there hanged, cut down alive, struggled
-with the hangman, but was bowled and quartered. Henry never saw his friend leave
-Newgate for the scaffold. The plague was running untrammelled through the cells.
-Dunn did not visit his brother in jail. He delayed a few days. Perhaps he was
-afraid of the plague or perhaps there was nobody who could tell him there was an
-urgency. He may not have known what was happening to the boy with whom he had
-gone, small and alone, to face the older, taller undergraduates of Oxford.
-Within days of arriving in Newgate, Henry was feverish, tortured by buboes. He
-died fast. He was nineteen years old. Dunn barely wrote about his brother's
-death in the letters that we have, but fever and corruption and plague got into
-his writing. Often ill in later life, Dunn was handsome but not strong. Henry's
-death must have made it more terrifying. To have lost his brother to plague
-would have made every one of Dunn's own itches or coughs a terror. Later in
-life, Dunn repeatedly fell ill with what's now thought to have been relapsing
+from Newgate that Harrington was tried and found guilty of high treason on the
+18th of February 1594. He was subjected to the death of a traitor. It was
+reported that he was drawn from Newgate to Tyburn and their hang to cut down
+alive struggled with the hangman but was bowed and quartered. Henry never saw
+his friend leave Newgate for the scaffold. The plague was running untrammeled
+through the cells. Dunn did not visit his brother in jail. He delayed a few
+days. He was afraid of the plague or perhaps there was nobody who could tell him
+there was an urgency. He may not have known what was happening to the boy with
+whom he had gone small and alone to face the older, taller undergraduates of
+Oxford. Within days of arriving in Newgate, Henry was feverish, tortured by
+buboes. He died fast. He was nineteen years old. Dunn barely wrote about his
+brother's death in the letters that we have, but fever and corruption and plague
+got into his writing. Often ill in later life, Dunn was handsome but not strong.
+Henry's death must have made it more terrifying. To have lost his brother to
+plague would have made every one of Dunn's own itches or coughs a terror. Later
+in life, Dunn repeatedly fell ill with what's now thought to have been relapsing
 fever, a tick-borne infection. The symptoms were exactly those of the early
 stages of plague. Each time he felt it rise in him, there would have been the
-question, was it the old familiar fever, or had Henry's contagion come for him?
-There's a kind of imaginative ferocity to Dunn's writing about death after
-Henry, and it grows over time as he loses more and more of the people he loves,
-and their ghosts pile up around him. He becomes a peddler of the grotesque, a
+question, was it the old familiar fever or had Henry's contagion come for him?
+There's a kind of imaginative ferocity to Dunn's writing about death after Henry
+and it grows over time as he loses more and more of the people he loves and
+their ghosts pile up around him. He becomes a peddler of the grotesque, a
 forensic scholar of the entropy of the body. The word decay appears a dozen
-times in his verse, and that old Norse word, rot, is scattered through his work.
-Of an imagined love rival, he writes, In early and long scarceness may he rot.
-In an elegy, he demands of us, Think that thy body rots. He wrote of death, Now
-wantonly he spoils and eats us not, But breaks off friends and lets us piecemeal
+times in his verse and that old Norse word rot is scattered through his work. Of
+an imagined love rival he writes, in early and longs' scarceness may he rot. In
+an elegy he demands of us, think that thy body rots. He wrote of death. Now
+wantonly he spoils and eats us not but breaks off friends and lets us piecemeal
 rot. Between Thomas More's execution in 1535 and Henry's death in 1593, we can
-count eleven members of Dunn's family who died in exile or in prison for their
+count 11 members of Dunn's family who died in exile or in prison for their
 Catholicism. There was some majesty and glory, as with Thomas More, who ended by
 being canonised by the Catholic Church, but also plenty of humiliation and muddy
 uncertainties. Exactly when Dunn turned from Catholicism to Protestantism is the
 central boxing ring of Dunn's studies, how, when and why the young man decided
 to turn away from the rituals and well-loved rites of his childhood. In 1593, at
-Henry's death, Dunn was still Catholic, and when he married, he was not. What
+Henry's death, Dunn was still Catholic and when he married, he was not. What
 happened in between? Is it possible that he licked a finger and held it to the
 political wind and saw that no man could advance while remaining a Catholic?
 It's possible there was never a change of heart, only of expedience, but if the
 conversion was real, there was probably no single burst of light or dark that
-caused it. Like almost everything in our rusty, hinged, slow-moving world, it
-happened in pieces. There was the power of his ambition, and his understanding
+caused it. Like almost everything in our rusty-hinged, slow-moving world, it
+happened in pieces. There was the power of his ambition and his understanding
 that promotion and success would not be compatible with open Catholicism. But
 there would also have been new books and new conversations, drinking with
 Protestants, flirtations with Protestants. There would have been the pull of
-other allegiances over denominational ones, to the monarch, and to the idea of
+other allegiances over denominational ones, to the monarch and to the idea of
 nationhood, which slowly took on the shape of national loyalism and led him
 towards the Church of England. His priorities shifted, realigned, took on new
-shapes. You, too, have experienced time. And what happened to Henry must have
-been part of it. Dunne wrote nothing that explicitly names his brother, in part
+shapes. You too have experienced time. And what happened to Henry must have been
+part of it. John wrote nothing that explicitly names his brother, in part
 because he wrote very little about any of his family. There are far more of his
-words to be found about eagles, dust, the suburb of Mitcham and Tacks, than his
-own mother. But he did write, Grief which did drown me and half quenched by it
-are satric fires which urged me to have writ in scorn of all. In that lack of
-naming you could hear the guilt that must have haunted him. He would have known
-that Henry was sheltering Harrington. It's been suggested Dunne may even have
-helped shelter the man himself, although there's no evidence for it except the
-bond of closeness between the two brothers. The loss shaped him. It seemed to
-clarify his sense of the necessity of seizing control of your own self and own
-fate. He told a friend in a verse letter in the 1590s, Be thine own home and in
-thyself dwell. Henry was dead, and the delight of London was dead, too. By 1596
-Dunne was keen to get away. He was finished with the law and with the life he
-had led. Untrained and inexperienced though he was, Dunne joined a naval
+words to be found about eagles, dust, the suburb of Mitcham and Tax than his own
+mother. But he did write, "'Grief which did drown me and half quenched by it are
+satric fires which urged me to have writ in scorn of all.'" In that lack of
+naming, you could hear the guilt that must have haunted him. He would have known
+that Henry was sheltering Harrington. It has been suggested that John may even
+have helped shelter the man himself, although there is no evidence for it except
+the bond of closeness between the two brothers. The loss shaped him. It seemed
+to clarify his sense of the necessity of seizing control of your own self and
+own fate. He told a friend in a verse letter in the 1590s, "'Be thine own home
+and in thyself dwell.'" Henry was dead, and the delight of London was dead too.
+By 1596, Don was keen to get away. He was finished with the law and with the
+life he had led. Untrained and inexperienced though he was, Don joined a naval
 expedition against Spain. In early June they set out, dressed in their finest
 clothes, silver and lace gleaming, cheered by crowds. Their weapons shone, and
 they were some of the best-equipped men to have departed England's docks for
 many years. The first portion of the expedition was an admiral's dream. After
-just over two weeks the English sailed in sight of Cadiz, where they launched a
+just over two weeks, the English sailed in sight of Cadiz, where they launched a
 cannon attack on the Spanish ships in harbour. It was a great success, but the
-kind of success that was terrible to watch. Dunne wrote in his epigram, Nave
-Arsa, a burnt ship. Out of a fired ship which by no way but drowning could be
-rescued from the flame, some men leaped forth and ever as they came near the
-foe's ships did by their shot decay. So all were lost which in the ship were
-found, they in the sea being burnt, they in the burnt ship drowned. In 1597 he
+kind of success that was terrible to watch. Don wrote in his epigram, "'Nave
+Arse,' a burnt ship. Out of a fired ship which by no way but drowning could be
+rescued from the flames some men leaped forth and ever as they came near the
+foe's ships did by their shot decay. So all were lost, which in the ship were
+found. They in the sea being burnt. They in the burnt ship drowned." In 1597 he
 took part in a second unsuccessful expedition with Walter Raleigh, which
-immediately ran into a violent storm. Dunne wrote that it rained more than if
-the sun had drunk the sea before, and some coffined in their cabins lie, equally
-grieved that they are not dead and yet must die. In chaos they made it back to
-shore. Slowly the ships were repaired, the sailors loitered about in the port
-waiting to begin again, though some thought better of it, found horses and
-galloped home. Dunne was tougher than the boys who went riding home for warm
-fires and clean clothes, but he was underlighted by the way the days were going.
-In late August the fleet prepared to set out again for Spain, but the crew was
-depleted, dirty and sick. The rest of the expedition was chaotic, the ships
-communicated largely by musket fire, and it's difficult to be specific with a
+immediately ran into a violent storm. Don wrote that, "'It rained more than if
+the sun had drunk the sea before.' And some, "'Hoffened in their cabins' lie,
+equally grieved that they are not dead and yet must die.' In chaos they made it
+back to shore. Slowly the ships were repaired, the sailors loitered about in the
+port waiting to begin again though some thought better of it found horses and
+galloped home. Don was tougher than the boys who went riding home for warm fires
+and clean clothes, but he was underlighted by the way the days were going. In
+late August the fleet prepared to set out again for Spain, but the crew was
+depleted, dirty and sick. The rest of the expedition was chaotic. The ships
+communicated largely by musket fire and it's difficult to be specific with a
 musket. The Spanish fleet evaded the English. The English could find no viable
 way to attack it. They seized a few straggling ships but failed to take several
-larger ones. They returned home, rocking and tipping through huge waves, to a
-royal reception as stormy as the weather. Nobody gathered at the dock to cheer.
-Sailors had foot-rot and suppurating wounds. Dunne did not attempt the
-privateering life again. Perhaps, though, voyaging had got into his blood, or
+larger ones. They returned home rocking and tipping through huge waves to a
+royal reception as stormy as the weather. Nobody gathered the dock to cheer.
+Sailors had foot-rocked and separating wounds. Don did not attempt the
+privateering life again. Perhaps though, voyaging had got into his blood or
 perhaps it was always there. His poetry after his sally on the sea is shot
 through with images of exploration, discovery, fresh territory. Oh, my America,
 my new-found land! New-found lands were at the forefront of the Renaissance
 mind, that and maps of lands. The first accurate map of England and Wales,
-Christopher Saxton's Atlas of 1579, became a kind of talisman. Dunne would have
+Christopher Saxton's Atlas of 1579, became a kind of talisman. One would have
 seen it. Years later, near the end of his life, he would imagine himself a
-paper-thin chart. Whilst my physicians by their love are grown cosmographers,
-and I their map who lie flat on this bed. And just as West and East, when the
-map is folded, meet and touch, and become the same, so West, Death, becomes the
-East, Rebirth. As West and East in all flat maps, and I am one, are one, so
-Death doth touch the Resurrection. Before that, though, before he knew about
-pain and fever, there was the thrill of exploration. Dunne's verse insists over
-and over that we approach another body with the same awe with which we would
-step onto unknown earth. In the Good Morrow, from around 1602, he wrote it out,
-step by step instructions. Let sea discoverers to new worlds have gone. Let maps
-to others worlds on worlds have shown. Let us possess one world, each hath one,
-and is one. The master of satire, David Sedaris, is back with his unique blend
-of wit and wisdom. I know that people are now taking pictures of themselves at
-funerals, because when I looked up selfies at funerals, was the third option.
-The humorous laughs at life and himself. I've been studying Japanese, and I'll
-say something to Hugh, I'll say, oh, did you know that this is how you say, and
-he says, we're only going for four days. A new series of Meet David Sedaris
-starts tomorrow evening at 6.30pm.
+paper-thin chart. Whelched my physicians by their love are grown cosmographers
+and I their map who lie flat on this bed. And just as west and east when the map
+is folded meet and touch and become the same, so west, death, becomes the east,
+rebirth. Because west and east in all flat maps and I am one, are one. So death
+doth touch the resurrection. Before that though, before he knew about pain and
+fever, there was the thrill of exploration. Don's verse insists over and over
+that we approach another body with the same awe with which we would step onto
+unknown earth. In The Good Morrow from around 1602, he wrote it out, step by
+step instructions. Let see discoverers to new worlds have gone, let maps to
+others, worlds on worlds have shown, let us possess one world, each earth one
+and is one. Blake Ritson continues reading Super Infinite by Catherine Runtle at
+the same time tomorrow. It was abridged by Richard Hamilton and produced by
+Allegra McElroy. Black women and consent is one topic explored on Momensar after
+the news. The master of satire David Sederis is back with his unique blend of
+wit and wisdom. I know that people are now taking pictures of themselves at
+funerals because when I looked up selfies at funerals was the third option. The
+humorous laughs at life and himself. I've been studying Japanese and I'll say
+something to Hugh, I'll say, oh did you know that this is how you say and he
+says we're only going for four days. A new series of Meet David Sederis starts
+tomorrow evening at 6.

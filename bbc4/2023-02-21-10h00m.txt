@@ -1,531 +1,529 @@
 TRANSCRIPTION: BBC4/2023-02-21-10H00M.MP3
 --------------------------------------------------------------------------------
- Last time a US president spoke to the people in Eastern Europe. Our editors Dan
-McAdam and Josh Tindall with Nick Tomfield and Josh Searle here. The studio
-director George Thomas. Goodbye. BBC News at nine o'clock. The Russian president
-Vladimir Putin is due to give an update in the next few minutes on what he calls
-his special military operation in Ukraine. He'll deliver his annual state of the
-nation address almost a year since he ordered troops into the country. Our
-Russia editor Steve Rosenberg is in Moscow. Based on things that President Putin
-has said, comments that he's made in recent weeks, there won't be any hint of
-remorse or regret or any admission that he made a mistake, a giant
-miscalculation when he launched what he still calls the special military
-operation. Contrition, Putin doesn't do that. Instead, what we're much more
-likely to hear again, I think, is the Kremlin leader trying to justify the
-invasion. President Biden will also give a major speech this afternoon,
-outlining support for Ukraine as part of his three-day visit to Poland. The
-public finances were more than £5 billion in surplus in January. The figures
-from the Office for National Statistics defied predictions from analysts after
-substantial spending on energy support schemes, record debt interest, and one-
-off payments to the EU. Rescuers are searching wreckage after a new earthquake
-hit the Turkish-Syrian border region yesterday evening. It caused widespread
-panic and some already weakened buildings toppled. A baby born in the rubble
-after the earthquakes in Syria earlier this month has been adopted by her aunt
-and uncle. The girl was still connected to her mother by her umbilical cord when
-she was rescued and was the only member of her immediate family to survive. The
-world's biggest trial of a four-day working week has been hailed as a major
-breakthrough, with boosted productivity and a drop in the number of sick days.
-Sixty-one companies across the UK took part in the six-month pilot last year.
-Almost all of them said they wanted to keep the new working pattern. BBC News
-Over on Five Live, Nicky Campbell is going to be discussing the role of
-journalists and social media users surrounding the disappearance of Nicola
-Bully, asking, do we get the media we deserve? And we continue in that vein here
-on Radio 4 later, when Call You and Yours is asking to hear your experiences of
-social media, both good and bad. That's beginning at midday. Now though, on
-Four, we reach for the cosmos with Jim Al-Khalili. Hello and welcome to The Life
-Scientific. Today I'm in the Peerhead building in Cardiff for the Cardiff
-Science Festival and I'm talking to an astrophysicist who grew up just down the
-road from here in Bari. Both her parents left school as soon as they could, but
-she stayed on in education as long as possible, studying for a degree and PhD at
-Cardiff University, where she's now a professor of astrophysics, specialising in
-cosmic dust, those small particles of matter spread out through interstellar
-space. For centuries, cosmic dust was nothing more than a source of irritation
-for most astronomers, because like smog, it prevented them from seeing the
-stars, a bit like the foggy view I saw here across Cardiff Bay when I arrived
-this morning. Now, cosmic dust is challenging some deeply held assumptions about
-the physics of stars, and being able to see through it has revealed a lot more
-of the universe. Professor Hayley Gomez from Cardiff University, welcome to The
-Life Scientific. Thank you, thanks for having me. Well Hayley, I should perhaps
-have introduced you as Hayley Gomez MBE, because in 2018 your work was
-recognised by the Queen. That must have been a nice surprise. Yes, it was
-surreal. I still remember the day I was changing nappies on parental leave. Very
-glamorous. Yeah, very glamorous. And yeah, the letter came and I had to read it
-out to my husband and say, is this a parking ticket or is this something else?
-And it was very strange. And then I suddenly thought, oh, I still got to change
-the nappy. I've got to carry on doing that. It was for services to physics, and
-in particular, all the work you've done to inspire the next generation of
-physicists and astronomers. Which outreach project would you say you're most
-proud of? We did a project called Universe in the Classroom, which I'm really
-proud of because it took physics and astronomy and the excitement of space into
-primary schools. So it kind of looked at talking to very young children, and
-even those children already had ideas about who could be a scientist. So they
-often drew a male scientist, a white scientist, lab coat and glasses. And we
-found that after kind of working with them a little bit and telling them about
-space, they ended up thinking of a wider range of scientists. They drew
-themselves as scientists, or they drew people that were like themselves, which
-was really lovely to see that even though those old fashioned thoughts of
+ Last time a US president spoke to the people in Eastern Europe. Our editors,
+Dan McAdam and Josh Tindall, with Nick, Tom Field and Josh Searle here, the
+studio director, George Thomas. Goodbye. BBC News at nine o'clock. The Russian
+president, Vladimir Putin, is due to give an update in the next few minutes on
+what he calls his special military operation in Ukraine. He'll deliver his
+annual State of the Nation address almost a year since he ordered troops into
+the country. Our Russia editor, Steve Rosenberg, is in Moscow. Based on things
+that President Putin has said, comments that he's made in recent weeks, there
+won't be any hint of remorse or regret or any admission that he made a mistake,
+a giant miscalculation, when he launched what he still calls the special
+military operation. Contrition, Putin doesn't do that. Instead, what we're much
+more likely to hear again, I think, is the Kremlin leader trying to justify the
+invasion. President Biden will also give a major speech this afternoon outlining
+support for Ukraine as part of his three-day visit to Poland. The public
+finances were more than £5 billion in surplus in January. The figures from the
+Office for National Statistics defied predictions from analysts after
+substantial spending on energy support schemes, record debt interest and one-off
+payments to the EU. Rescuers are searching wreckage after a new earthquake hit
+the Turkish-Syrian border region yesterday evening. It caused widespread panic
+and some already weakened buildings toppled. A baby born in the rubble after the
+earthquakes in Syria earlier this month has been adopted by her aunt and uncle.
+The girl was still connected to her mother by her umbilical cord when she was
+rescued and was the only member of her immediate family to survive. The world's
+biggest trial of a four-day working week has been hailed as a major breakthrough
+with boosted productivity and a drop in the number of sick days. 61 companies
+across the UK took part in the sixth month pilot last year. Almost all of them
+said they wanted to keep the new working pattern. BBC News Over on 5 Live, Nicky
+Campbell is going to be discussing the role of journalists and social media
+users surrounding the disappearance of Nicola Bully, asking, do we get the media
+we deserve? And we continue in that vein here on Radio 4 later when Call You and
+Yours is asking to hear your experiences of social media, both good and bad.
+That's beginning at midday. Now though, on 4 we reach for the cosmos with Jim
+Alkalili. Hello and welcome to The Life Scientific. Today I'm in the Pierhead
+building in Cardiff for the Cardiff Science Festival and I'm talking to an
+astrophysicist who grew up just down the road from here in Barrie. Both her
+parents left school as soon as they could, but she stayed on in education as
+long as possible, studying for a degree and PhD at Cardiff University where
+she's now a professor of astrophysics, specialising in cosmic dust, those small
+particles of matter spread out through interstellar space. For centuries, cosmic
+dust was nothing more than a source of irritation for most astronomers because
+like smog, it prevented them from seeing the stars. A bit like the foggy view I
+saw here across Cardiff Bay when I arrived this morning. Now cosmic dust is
+challenging some deeply-held assumptions about the physics of stars and being
+able to see through it has revealed a lot more of the universe. Professor Hailey
+Gomez from Cardiff University, welcome to The Life Scientific. Thank you, thanks
+for having me. Well Hailey, I should perhaps have introduced you as Hailey Gomez
+MBE because in 2018 your work was recognised by the Queen. That must have been a
+nice surprise. Yes, it was surreal. I still remember the day I was changing
+nappies on parental leave. Very glamorous. Yeah, very glamorous and the letter
+came and I had to read it out to my husband and say, is this a parking ticket or
+is this something else? And it was very strange and then I suddenly thought, oh
+I still got to change the nappy. I've got to carry on doing that. It was for
+services to physics and in particular all the work you've done to inspire the
+next generation of physicists and astronomers. Which outreach project would you
+say you're most proud of? We did a project called Universe in the Classroom
+which I'm really proud of because it took physics and astronomy and excitement
+of space into primary schools. So it kind of looked at talking to very young
+children and even those children already had ideas about who could be a
+scientist. So they often drew a male scientist, a white scientist, lab coat and
+glasses and we found that after kind of working with them a little bit and
+telling them about space, they ended up thinking of a wider range of scientists.
+They drew themselves as scientists or they drew people that were like themselves
+which was really lovely to see that even though those old fashioned thoughts of
 science and who could do science at such a young age could actually be turned
-around. So I feel really proud that we managed to do that in Wales. Of course,
+around. So I feel really proud that we managed to do that in Wales. Of course
 you yourself are a shining example of how you don't have to be a certain kind of
-scientist. So Hayley Gomez, let's talk about what got you into astrophysics. You
-grew up in Bury in South Wales, and I understand both your parents were
-unemployed for most of your childhood. Is that right? Yeah, we had a very nice
-childhood, but it was very noisy. There were five of us in a kind of council
-house. And yeah, there was nobody around us that had any desire to go to
-university or even do A-levels. It was kind of, that wasn't the path that
+scientist. So Hayley Gomez let's talk about what got you into astrophysics. You
+grew up in Barrie in South Wales and I understand both your parents were
+unemployed for most of your childhood, is that right? Yeah we had a very nice
+childhood but it was very noisy. There were five of us in a kind of council
+house and yeah there was nobody around us that had any desire to go to
+university or even do A levels. It was kind of that wasn't the path that
 everybody took. Everybody just took the leave school when you can, get a job,
-settle down. But I've always found learning is quite a calming, quiet process.
-And I think part of it was an escape from that kind of loud, chaotic family. My
-producer tells me you spent a lot of time at the local library. Yeah, that's
-right. I had a lot of freedom as a child. So one thing my parents really good at
-is that they would just let me walk down the bottom of the streets, go around
-the corner, local library, and I would sit there all day, every day. And is that
-for the peace and quiet or for the books? Peace and quiet and the books. But I
-love the fact that you could find out anything. So books for me were a huge
-escapism. So it was wonderful. And I remember reading such a wide range. I'd
-read Asterix comics, even though they were in Welsh and I couldn't speak Welsh.
-I would still read them. And then I read lots of stories and I kind of, it
-sounds very cliche, but I stumbled upon a book, which was an encyclopedia of
-space. And I remember opening it and there was this really badly drawn sketch of
-a black hole. And I remember just being caught up in that. How can there be a
-hole in space? How can there be a black hole in the universe? How do they even
-know that exists? And I remember finding that point on, I just thought I need to
-know what's going on here. And that's what, that's, that's been your journey,
-hasn't it? Because you're now a professor of astrophysics. So tell me Hayley
-Gomez, were you a stellar student at school? Oh no. How on earth should I be
-here? No. I liked, I did well in physics and maths. I didn't really enjoy them,
-but I did well in them. So I kind of chose to take them on. I loved learning. So
-I knew I wanted to do A-levels. And you, for your A-levels, you actually had to
-switch schools because you went to an all-girls school. But then to do A-levels,
-you had to go to a boys' school. That's right. It sounds very old fashioned. I
-was in a girls, all-girls comprehensive school and they didn't do physics in the
-girls' school at A-level. And I had to go to the boys' school and, you know,
-walking, walking down the atrium of the boys' school, thousands of boys kind of
-catcalling and wolf whistling and shouting at you, walking through the atrium to
-get to the sixth form room. And there were about 12 girls in this school
-compared to a thousand, over a thousand boys. It's quite, quite tough. So how
-did you cope? I, do you know, I, I didn't cope that well, actually. I, I had
-some very good teachers. I had a maths teacher who really encouraged my, my
-interest in space and a physics teacher who did the same. But I actually, I kind
-of got a part-time job and, and most of my friends were just dropping out of
-school. And I just kind of thought maybe learning isn't my journey. Maybe I
-should just get a full-time job and leave. And, and I didn't, I didn't do very
-well. You'd also left home by this point. That's right. Yes. Yeah. So I'd left
-home by 17. Again, it's the noise and I shared a room with my sister and two
-17-year-old girls sharing a room is just, so yeah, I left home and I had to pay
-bills, you know, so I had part-time jobs. You didn't get high A-level grades.
-No. But you still managed to get into Cardiff University. That's right. So I,
-yeah, I did very badly. I mean, I'm not ashamed to say I had a C and two D's at
-A-level and normally that wouldn't get you into an astronomy degree at
-university, but I only applied to Cardiff because it was the local department.
-And also because I knew some of the research they were doing, I was interested
-in it. And I got, I got accepted after an interview, which was wonderful. They
-let me in, even though I hadn't got the grades expected, but they could see I
-had a passion. And so, yeah, I got in, I somehow scraped in. And since then it's
-been, you know, I've never left. I love it. Was it plain sailing as a, as an
-undergraduate? No, no, no, no. A year one was fine. A year two, I found that I
-actually, I had a letter home from one of, one of my now colleagues, a professor
-in the department, who wrote me a letter home saying, if you don't back up your
-ideas, then we're going to have to kick you out. You know, you're not coming to
-lectures. You're not, you're not doing what you're meant to do. But this was
-because you were working? I was working all night in a petrol station in Bari.
-And so I just didn't go very often to uni and I'm still getting okay grades, but
-I just, I just wasn't going. And when I got that letter, I thought, okay, I
-either now leave or I stay. And if I stay, I have to make it worth my while. And
-I kind of felt a little bit, you know, a professor telling me that I'm not
-turning up to lectures in a letter was quite, quite kind of scary. I thought,
-oh, so I did decide to actually focus on the studies and then, you know, I just
-loved it. Working fewer hours at the petrol station, presumably. Yes,
-absolutely. Yeah. Yeah. A little bit more sleep. Always good. Well, Hayley
-Gomez, after your degree, you stayed on at Cardiff to do a PhD. Was this the
-point when you became interested in cosmic dust? Yes, I had a wonderful PhD
-supervisor called Mike Edmonds. And Mike was kind of had these crazy zany ideas
-where he kind of wanted to challenge the status quo of science. And he said to
-me a very simple question. At the beginning of my PhD, he said, look, everybody
-thinks cosmic dust comes from a star a bit like the sun. And they think that
-this pollutes the universe with dust grains, which can go on to form rocky
-planets and can form life itself. I'm not sure it can. So these were, when you
-say smaller stars like our sun, that when they when they die at the end of their
-lives, they sort of shed their outer layer as they cool. And it's a quite a
-gentle process. But that's what was thought. That was the consensus, the
-textbook description, explanation that that's how dust is formed. Absolutely. So
-these these kind of fading small stars produce all of the dust that we see in
-the universe, produce the building blocks of planets and so on. And he just kind
-of had this idea that they're not that many of those stars, but we find that the
-universe is polluted with a lot of dust. So could it be that we're missing
-something here? So we just made kind of mathematical models and showed that,
-yeah, actually it can account for it a little bit of it, but nowhere near
-enough. So what was the alternative explanation? At the time, we we put forward
-the idea that it could be stars that are very massive. So stars that we know
-when they die, they explode quite violently. There's a supernova. Supernova,
-yeah. So these explosions of huge stars. And we know in that explosion, you get
-a huge amount of material, metals that gets flung out into space. But one thing
-was thought at the time is that that couldn't make dust. Or if it did make dust,
-it would be vaporized because the explosion is very hot. It's not very
-hospitable place for dust grains, little particles of carbon or silicate. So we
-kind of thought, well, OK, nobody believes that dust is formed in these
-supernovas. These big explosions. But actually, if we model it, can they explain
-this shortfall that we have in the dust budget? And they do. They easily explain
-it. You need a little bit of dust per supernova explosion and you can explain
-all the dust you see in galaxies. So this was your PhD work. You wrote up your
-findings in a paper. This is in 2003. Yes. How was that paper received? We had a
-very nasty referees report for that paper, actually. It was very critical. But
-we were able to answer that referees questions and criticisms and it made the
-paper a lot stronger. So I believe actually that that process was really
-helpful. And then we kind of went away and we decided to look at a supernova and
-to see if that's... Because there's a big difference between solving an equation
-and developing a computer model that makes a prediction and actually looking out
-there in space to check. Yes. You need to see it with your own eyes, as it were,
-or with your telescope eyes. So we decided to look at a supernova nearby
-Cassiopeia A and we wrote a paper in Nature to say that, hey, there's a lot of
-dust in this supernova. Maybe our theory is correct and maybe the consensus
-everyone has where dust isn't produced by these stars is absolutely not correct
-or misleading. And that kind of got quite a lot of attention, that paper. I
-mean, not bad for a 24-year-old who'd spent her student years working in a
-petrol station to have a paper in Nature so early in your career. Yeah. I mean,
-the thing is, I was really lucky enough to have such wonderful people to work
-with. So it was not only Mike Edmonds, but also a colleague of mine, Loretta
-Dern, who led that work. And I did the modeling for it to show it would work, it
-would fit everything. But it kind of... Our high became a low quite quickly
-because soon after we published our paper in Nature, a German team published a
-paper where they said we were wrong. And that was quite interesting. It was just
-literally our paper, dust in supernova remnants, and their paper was no dust in
-supernova remnants. Okay, that's quite clear what you mean by that. So what was
-their argument against your prediction? They argued, and I think it's a really
+settle down. But I've always found learning is quite a calming quiet process and
+I think part of it was an escape from that kind of loud, chaotic family. My
+producer tells me you spent a lot of time at the local library. Yeah that's
+right. I had a lot of freedom as a child so one thing my parents were really
+good at is that they would just let me walk down the bottom of the street, go
+around the corner, local library and I would sit there all day, every day. And
+is that for the peace and quiet or for the books? Peace and quiet and the books.
+But I loved the fact that you could find out anything. So books for me were a
+huge escapism. So it was wonderful and I remember reading such a wide range. I'd
+read Asterix comics even though they were in Welsh and I couldn't speak Welsh. I
+would still read them and then I read lots of stories and I kind of, it sounds
+very cliche, but I stumbled upon a book which was an encyclopedia of space. And
+I remember opening it and there was this really badly drawn sketch of a black
+hole and I remember just being caught up in that, how can there be a hole in
+space? How can there be a black hole in the universe? How do they even know that
+exists? And I remember from that point on I just thought I need to know what's
+going on here. And that's been your journey, hasn't it? Because you're now a
+professor of astrophysics. So tell me Hayley Gomez, were you a stellar student
+at school? No. How should I be here? I did well in physics and maths. I didn't
+really enjoy them, but I did well in them. So I kind of chose to take them on. I
+loved learning. So I knew I wanted to do A-levels. And for your A-levels you
+actually had to switch schools because you went to an all-girls school. But then
+to do it, you had to go to a boys school. That's right. It sounds very old
+fashioned. I was in an all-girls comprehensive school and they didn't do physics
+in the girls school at A-level. And I had to go to the boys school and walking
+down the atrium of the boys school, thousands of boys kind of kept calling and
+wolf whistling and shouting at you, walking through the atrium to get to the
+sixth-room room. And there were about 12 girls in this school, over a thousand
+boys. It's quite tough. So how did you cope? Do you know, I didn't cope that
+well, actually. I had some very good teachers. I had a maths teacher who really
+encouraged my interest in space and a physics teacher who did the same. But I
+actually, I kind of got a part-time job and most of my friends were just
+dropping out of school. And I just kind of thought, maybe learning isn't my
+journey. Maybe I should just get a full-time job and leave. And I didn't do very
+well. You'd also left home by this point. That's right, yes. Yeah. So I'd left
+home by 17. Again, it's the noise. And I shared a room with my sister and to
+17-year-old girls sharing a room is just, oh. So yeah, I'd left home and I had
+to pay bills, you know, so I had part-time jobs. You didn't get high A-level
+grades. No. But you still managed to get into Cardiff University. That's right.
+So I, yeah, I did very badly. I mean, I'm not ashamed to say I had a C and two
+Ds at A-level. And normally that wouldn't get you into an astronomy degree at
+university. But I only applied to Cardiff because it was the local department
+and also because I knew some of the research they were doing. I was interested
+in it. And I got accepted after an interview, which was wonderful. They let me
+in even though I hadn't got the grades expected, but they could see I had a
+passion. And so, yeah, I got in. I somehow scraped in. And since then it's been,
+you know, I've never left. I love it. Was it plain sailing as an undergraduate?
+No, no, no. Year one was fine. Year two, I found that I actually had a letter
+home from one of one of my now colleagues, a professor in the department who
+wrote me a letter home saying if you don't back up your ideas, then we're going
+to have to kick you out. You know, you're not coming to lectures. You're not
+you're not doing what you're meant to do. But this was because you were working.
+I was working all night in a petrol station in Barrie. And so I just didn't go
+very often to uni and I'm still getting OK grades, but I just I just wasn't
+going. And when I got that letter, I thought, OK, I either now leave or I stay.
+And if I stay, I have to make it worth my while. And I kind of felt a little
+bit, you know, a professor telling me that I'm not turning up to lectures in a
+letter was quite scary. I thought, oh, so I did decide to actually focus on the
+studies and then, you know, I just loved it. Working for your hours at the
+petrol station. Yes, absolutely. Yeah, yeah. A little bit more sleep. Always
+good. Well, Haley Gomez, after your degree, you stayed on at Cardiff to do a
+PhD. Was this the point when you became interested in cosmic dust? Yes, I had a
+wonderful PhD supervisor called Mike Edmonds. And Mike was kind of had these
+crazy zany ideas where he kind of wanted to challenge the status quo of science.
+And he said to me a very simple question at the beginning of my PhD. He said,
+look, everybody thinks cosmic dust comes from a star a bit like the sun. And
+they think that this pollutes the universe with dust grains, which can go on to
+form rocky planets and can form life itself. I'm not sure it can. So these were,
+when you say smaller stars, like our sun, that when they die at the end of their
+lives, they sort of shed their outer layer as they cool. And it's quite a gentle
+process. But that's what was thought. That was the consensus, the textbook
+description, explanation that that's how dust is formed. Absolutely. So these
+kind of fading small stars produce all of the dust that we see in the universe
+produce the building blocks of planets and so on. And he just kind of had this
+idea that they're not that many of those stars, but we find that the universe is
+polluted with a lot of dust. So could it be that we're missing something here?
+So we just made kind of mathematical models and showed that yeah, actually, it
+can account for it a little bit of it, but nowhere near enough. So what was the
+alternative explanation? At the time, we put forward the idea that it could be
+stars that are very massive. So stars that we know when they die, they explode
+quite violently. Supernova. Supernova, yeah. So these explosions of huge stars.
+And we know in that explosion, you get a huge amount of material, metals that
+gets flung out into space. But one thing was thought at the time is that that
+couldn't make dust. Or if it did make dust, it would be vaporized because the
+explosion is very hot. It's not very hospitable place for dust grains, little
+particles of carbon or silicate. So we kind of thought, well, okay, nobody
+believes that dust is formed in these supernovas, these big explosions. But
+actually, if we model it, can they explain this shortfall that we have in the
+dust budget? And they do they easily explain it, you need a little bit of dust
+per supernova explosion. And you can explain all the dust you see in galaxies.
+So this was your PhD work, you wrote up your findings in a paper, this is in
+2003. Yes. How was that paper received? We had a very nasty referees report for
+that paper, actually, it was very, it was very critical. But we were able to
+answer that referees questions and criticisms and it made the paper a lot
+stronger. So I believe actually that that process was really helpful. And then
+we, we kind of went away and we decided to look at a supernova and to see if
+that's how it is. There's a big difference between solving the equation and
+developing a computer model that makes a prediction and actually looking out
+there in space to check. Yes, you need to you need to see it with your own eyes,
+as it were, or with your telescope eyes. And so we decided to look at a
+supernova nearby Cassipia A, and we wrote a paper in nature to say that, hey,
+there's a lot of dust in this supernova, maybe our theory is correct. And maybe
+the consensus everyone has where dust isn't produced by these stars is
+absolutely not correct, or misleading. And that that kind of got quite a lot of
+attention that paper. I mean, not bad for a 24 year old who'd spent a student
+years working in a petrol station to have a paper in nature so early in your
+career. Yeah, I mean, I, the thing is, I was really lucky enough to have such
+wonderful people to work with. So it was, you know, not only Mike Edmonds, but
+also a colleague of mine, Laura Sedern, who, who led that work. And, you know, I
+did the modeling for it to show it it would work, it would fit everything. But
+it kind of our high became a low quite quickly, because soon after we published
+our paper in nature, German team published a paper where they said we were
+wrong. And that was that was quite interesting. It was just literally our our
+paper dusting supernova remnants and their paper was no dusting. It's supernova
+remnants. Okay, that's quite clear what you mean by that. So what was their
+argument against your your prediction? They argued, and I think it's a really
 good argument, that what we were seeing was not dust in the supernova explosion,
-but dust between us and the supernova explosion. So if you imagine, you look out
-with your telescope, you look for the glow from dust, and you can pick up all
-the dust between you and the supernova. Okay. So they thought it might be a dust
-cloud in the front that just happened to look like it was in the supernova. And
-they made a good point, except the measurements weren't quite right. So we now
-know after other teams have got involved and so on, that actually we were right.
-But at the time, how did it feel then to be shot down? You'd had to argue
-against the referees for your first paper. Now you have this big paper in
-Nature, the most prestigious science journal in the world. And soon after,
-you're told you're wrong. I mean, you must have felt a bit down. Yeah, I kind of
-felt, I don't really care who's right. I care about the science and what it
-shows. I mean, I'd be happy to say it was wrong if it was wrong. So I didn't
-take it too personally. And of course, it must have felt good when you were
-proved correct. Yes, it was very good. So we had a 2009 paper. And since then,
-other groups have also verified that yes, there is a huge amount of dust in the
-supernova. And here you were still in your mid-twenties, mixing it with the
-world's top astrophysicists and astronomers. Clearly, you've made it as a
-scientist now. How did your parents feel? Were they very proud of your
-achievements? Yeah, they're very proud. I don't think they quite understand when
-I'm talking about papers and referees are just, okay, that sounds strange. I
-don't think they quite understand, but they've always been really proud. They
-understand things more like the NBE and things like that. They can kind of grasp
-that more. But yeah, they're very proud of me now. Okay, Heli Gomez, let's talk
-a little bit about the astronomy and how we detect this cosmic dust. Of course,
-everything we know about stars and galaxies, we learn from capturing light from
-telescopes. There's no other way we can learn about the universe. We can't see
-this dust, however, using optical telescopes, visible light, because obviously,
-the light doesn't get through the dust. But we can detect it directly in the
-infrared part of the spectrum, because these dust particles radiate heat. That's
-right. Yeah. Even things that we think of as cold still have heat. Everything
-above absolute zero has heat. And all we need to do to see the heat is use
-infrared cameras or goggles. So we're used to kind of seeing infrared images of
-our houses, maybe, to look at where heat is escaping. The thermal imaging.
-Thermal imaging, yeah. Thermal imaging, infrared cameras. We radiate in the
-infrared. Our heat glows in the infrared. So we had the challenge as a community
-to try and build telescopes that can see this heat from dust grains, see them
-glowing in the infrared. Well, in 2009, the Herschel Space Telescope was
-launched. And that was a huge leap forward, because that's an infrared
-telescope. So that must have made a big difference for how you could see this
-dust. Yeah. We had very little idea of what the infrared universe was like. And
-the reason I say that is because what makes Herschel special is its ability to
-see large bits of the sky, large bits of space. So instead of just looking at
-one small patch, you can map a whole area. So instead of 100 galaxies, you now
-have orders of hundreds of thousands of galaxies. So you're opening a new
-window, really, on the universe. And not only that, but it was able to see
-different infrared colors. So what I mean by that is it didn't just look at one
-type of infrared light. It looked at a huge range of infrared light. And so it
-could capture the glow from very cold dust at minus 250 degrees. And it could
-capture the glow from very hot dust. So you could see all the dust for the first
-time. And it turns out 90% of all the dust in the universe is actually cold. And
-no telescope before Herschel saw that. And of course, it provided a lot of data,
-a lot of work for astronomers around the world. You focused in particular on one
-object in our own Milky Way galaxy, not a distant galaxy, the Crab Nebula. Why
-did you focus on the Crab Nebula? Well, I love the Crab Nebula, and I've always
-loved it. If you imagine the famous image from the Hubble Space Telescope of
-these incredible filaments of gas. This star exploded a thousand years ago in
-our own galaxy. It was seen, thought to be seen with the naked eye. And the
-imagery of it is just incredible, always has been incredible. It was quite an
-accident that I managed to analyze the Herschel observations of this object. It
-was actually the person who was supposed to be leading that work didn't get
-around to it because of other work constraints. And so they asked me to look at
-it. So it was a bit accidental. And I looked at it, and I remember getting the
-data from Herschel. It emails you and says, oh, your space telescope has taken
-your data. You're the first person to see it. You open it, and you just think,
-oh, my gosh, this is the first infrared view of all of the dust in a supernova
-remnant. So it was... So it really is very visual. It's not like you're dealing
-with numbers. It's there. Yeah, yeah, yeah. You literally press a button, and it
-comes from the pipeline from the telescope, and you open it up, and you can see
-the dust in the Crab Nebula at all different temperatures, and you can see where
-it is. And yeah, it was quite a surprise. So what do you do then once you see
-this picture? Well, the first thing I did was think, there's a lot of dust.
-There's a lot more dust there than I'd expect. And there's a lot more dust there
-than anybody would expect. So I made a measurement of how much I thought was
-there. And it's really amazing. People think this is complicated, but it's
-literally year one undergraduate physics. You take the image of the crab in
-different wave bands that Herschel saw, and you put a circle or an aperture
-down, an ellipse down, and you say, how much dust is in this ellipse? And you do
-that in all the different wave bands, and that tells you how much you have to
-make it glow the way that it glows. So black body physics, basically. And I did
-that, and I thought, oh, that's quite a lot. That's a lot of dust. That's
-200,000 worth of rocky planets worth of dust. That's about 200,000 more than
-people expected. And I just presumed I'd got it wrong. So I presumed I'd made
-some mistake. But I mean, this was really confirming the work that you'd done
-over the past how many years. I mean, your PhD work making that prediction that
-supernovae, these large stars explode and produce dust. It was your nature paper
-that then got criticised. Here you were looking at data from this crab nebula,
-the remnants of a supernova. So I mean, you've confirmed what you would hope to
-find. Why were you still doubting it? Because it was such a big number. I
-expected, I hoped to find some dust. I didn't expect to find this much dust. And
+but dust between us and the supernova explosions. If you imagine you look out
+with your telescope, you look for the glow from dust, and it's you you can pick
+up all the dust between you and the supernova. Okay, so they thought it might be
+a dust cloud in the front that just happened to look like it was in the
+supernova. And you know, they made a good point, except the measurements weren't
+quite right. So we now know after other teams have got involved and so on that
+actually the you were right. But at the time, how did it feel then to be to be
+shot down? You'd had to argue against the referees for your first paper. Now you
+have this big paper in nature, the most prestigious science German in the world.
+And soon after they think you're told you're wrong. I mean, it must have felt a
+bit down. Yeah, I kind of felt I don't really care who's right. I care about the
+science and what it shows. I mean, I'd be happy to say it was wrong if it was
+wrong. So I didn't take it too personally. And of course, it must have felt good
+when you were. Yes, correct. Yeah, yes, it was very good. So we had a 2009
+paper. And since then other groups have also verified that yes, there is a huge
+amount of dust in the supernova. And you know, here you were still, you know, in
+your mid 20s, mixing it with the world's top astrophysicists and astronomers.
+Clearly, you've made it as a scientist. How did your parents who were they very
+proud of your achievements? Yeah, they're very proud. I don't think they quite
+understand when I'm talking about papers and referees are just okay, that's that
+sounds strange. I don't think they quite understand, but they've always been
+really proud. They understand things more like the MBE and things like that,
+they can kind of grasp that more. But yeah, they're very proud of me now. Okay,
+Heli Gomis, let's talk a little bit about the astronomy and how we detect this
+cosmic dust. Of course, everything we know about stars and galaxies, we learn
+from capturing light from telescopes, there's no other way we can learn about
+the universe. We can't see this dust, however, using optical telescopes, visible
+light, because obviously, the light doesn't get through the dust. But we can
+detect it directly in the infrared part of the spectrum, because these dust
+particles radiate heat. That's right. Yeah, even things that we think of as cold
+still have heat, everything above absolute zero has heat. And all we need to do
+to see the heat is use infrared cameras or goggles. So we're used to kind of
+seeing infrared images about houses maybe to look at where heat is escaping. The
+thermal imaging. Thermal imaging, yeah, thermal imaging, infrared cameras, we
+radiate in the infrared, our heat glows in the infrared. So we had the challenge
+as a community to try and build telescopes that can see this heat from dust
+grains and see them glowing in the infrared. Well, in 2009, the Herschel Space
+Telescope was launched. And that was a huge leap forward, because that's an
+infrared telescope. So that that must have made a big difference for how you
+could see this dust. Yeah, we had very little idea of what the infrared universe
+was like. And the reason I say that is because what makes Herschel special is
+its ability to see large bits of the sky, large bits of space. So instead of
+just looking at one small patch, you can map a whole area. So instead of 100
+galaxies, you know, have orders of hundreds of thousands of galaxies. So you're
+opening a new window really on the universe. And not only that, but it was able
+to see different infrared colors. So what I mean by that is, it didn't just look
+at one type of infrared light, it looked at a huge range of infrared light. And
+so it could capture the glow from very cold dust at minus 250 degrees. And it
+could capture the glow from very hot dust. So you you could see all the dust for
+the first time. And it turns out 90% of all the dust in the universe is actually
+cold. And no telescope before Herschel saw that. And of course, it provided a
+lot of data, a lot of work for for astronomers around the world. And you focus
+in particular on one object in our own Milky Way galaxy, not a distant galaxy,
+the Crab Nebula. Why did you focus on the Crab Nebula? Well, I love the Crab
+Nebula. And I've always loved it. You know, if you imagine the the image famous
+image from the Hubble Space Telescope of these incredible filaments of gas, this
+star exploded 1000 years ago in our own galaxy, it was seen, thought to be seen
+with the naked eye. And the imagery of it is just incredible, always has been
+incredible. It was quite an accident that I managed to analyze the Herschel
+observations of this object. It was actually the person who was supposed to be
+leading that work didn't get around to it because of other work constraints. And
+so they asked me to look at it. So it was a bit accidental. And I looked at it.
+And I remember getting the data from Herschel you emails you and says, Oh, your
+space telescope has taken your data. You're the first person to see it, you open
+it, and you just think, Oh, my gosh, this is the first infrared view of all of
+the dust in a supernova remnant. So it was so it really is very visual. That's
+not like you're dealing with numbers. It's there. Yeah, yeah, yeah, you
+literally press a button and it comes from the pipeline from the telescope. And
+you open it up and you can see the Crab Nebula, you can see the dust in the Crab
+Nebula, all different temperatures. And you can see where it is. And yeah, it
+was quite a surprise. So so what do you do then once you see this picture? Well,
+first thing I did was think there's a lot of dust. There's a lot more dust there
+than I'd expect. And there's a lot more dust there than anybody would expect. So
+I made a measurement of how much I thought was there. And it's really amazing
+that you know, people think this is complicated, but it's literally year one
+undergraduate physics, you take the image of the crab in different wave bands
+that Herschel saw, and you put a circle or an aperture down and it's down and
+you say, how much does this in this ellipse? And you do that in all the
+different wave bands. And that tells you how much you have to make it glow the
+way that it glows. So blackbody physics basically. And I did that. And I
+thought, Oh, that's quite a lot. That's a lot of dust. That's 200,000 words of
+rocky planets worth of dust. That's about 200,000 more than people expected. And
+I just presumed I'd got it wrong. So I presumed I made some mistake. But I mean,
+this was really confirming the work that you've done over the past, how many
+years I mean, your PhD work, making that prediction that supernovae, these large
+stars, expert and produced dust, it was your your nature paper that then got
+criticized. Here you were looking at data from this crab nebula, the remnant of
+a supernova. So I mean, you've confirmed what you what you would hope to find.
+Why were you still doubting it? Because it was such a big number. You know, I
+expected I hoped to find some dust. I didn't expect to find this much dust. And
 if this is true, and all stars explode like the crab nebula, then, you know,
-we've got loads of dust in the universe and that's great. That solves all our
-problems, but it is different to what the textbooks say. So I asked my
+we've got loads of dust in the universe. And that's great. That solves all our
+problems. But it is different to what the textbooks say. So I asked my
 colleagues to recalculate it blindly. So I gave them the data and said, you do
 whatever it is you do to get the amount of dust and we'll compare it. And they
 got the same answer. And you published this work in 2012. Yes. Has this now
 changed the textbooks description of how dust is made? Somebody needs to write
-this textbook actually, because the original textbook the original textbook has
-not changed. It was in 2003 and it hasn't been updated there. But I am very
+this textbook, actually, because the original text, the original textbook has
+not changed. It was in 2003. And it hasn't been updated there. But I am very
 pleased to see that now papers and publications are now starting to say dust
-comes from stars like our sun and massive star explosions. I guess the moral of
-the tale is if you don't look, you don't find. And also that sometimes
-scientific consensus can be wrong, not always, but sometimes, or to be more
+comes from stars like I'll say, and massive star explosions. I guess the moral
+of the tale is if you don't look, you don't find. And also that sometimes
+scientific consensus can be wrong, nor always, but sometimes, or to be more
 precise, the scientific consensus is often only part of the truth. Yes. And I
 think the lovely thing here is that Herschel opened our eyes, as it were, into
 how rich the infrared universe is. And that allowed us to have a different view
 on things. So we were able to partner that up with the theory and the maths.
-Now, clearly, Hayley, this has been your life. I, as a scientist, as been your
-life, I, as a fellow physicist, find it tremendously exciting. But I suspect
-that there might be people who are thinking, so what? Who cares how much cosmic
-dust there is in the universe? And certainly, why does it matter where it's
-made? Yeah, I think that's a valid question. And what I would say to those
-people is that if, you know, cosmic dust is really important for assisting stars
-forming, it's also important for assisting complex chemistry, things like DNA
-and so on. You kind of need some molecules and dust grains in space to form
-those things. And so it really is a question of the origin of us, of life, and
-the places where life could potentially exist. And the thing about the textbook
-explanation of dust is that would mean the first stars after the Big Bang, you
-would need to wait a billion to 10 billion years before you have those raw
-materials ready for life. Because stars like our sun live so long. Live so long,
-exactly. And it takes such a long time to get to their death phase, their
-stellar death. Stars like the ones that we're looking at, supernovae, they are,
-within 10 million years of the first stars in the universe, you have the
-materials for life. So you're kind of changing the time scales it takes to build
-up those raw materials for life. That's kind of what I would say, it's a
-question of our origin as well as those little rocks in the space between stars.
-I mean, to take a line from Bob Dylan, the answer, my friend, isn't blowing in
-the wind, it's hidden in cosmic dust. Oh, yes, quite. But it is quite something,
-isn't it, to think there's all this cosmic dust out there that we didn't know
-about before and how much we've learnt from it, thanks to work of you and others
-just in the last decade or two. Absolutely. And it seems like a long time ago
-now, 2009 to 2013, but people are still going through the data, the rich data
-that Herschel has taken. And we've been looking at the half a million galaxies
-it discovered that were not seen before, they were seen. That is the other
-thing, isn't it? Not just are we learning how this dust is made, but now that we
-have the instruments that can see the dust, we can sort of see through it. And
-so much of the universe was hidden before. Yes, and I think that what Herschel
-has done is not only show, reveal this part of the universe we didn't see
-before, so we're seeing things that are odd and strange and then need to be
-explained in some way. So, yes, it's completely changed our view, I think, of
-the universe. And what's lovely, you see these pictures, astronomy pictures now
-of, say, a galaxy or supernova, invisible light, and now you can see the same
-thing, but in infrared, and you can put those two together. And it's basically
-giving us a much richer description of the universe than we've had before.
-That's right, yes. And the thing that I always kind of think about is that dust
-grains are so small. You know, we talked about Foggy Day in Cardiff Bay. That's
-what dust is like. It's little tiny particles, a bit like a smoky room or foggy
-room. They're tiny size, they're a tiny mass of a galaxy, and yet they can block
-out 90% of the total starlight of a galaxy. So they profoundly change our view
-of everything. With Herschel, we kind of get that missing puzzle back. It's like
-now suddenly we can see the universe in a bright, sunny day rather than through
-the fog. That's right, exactly. The fog is clearing, yes. The fog is clearing.
-And all this because you and other scientists started to ask questions to
-challenge the consensus and find answers about cosmic dust. Well, now it's time
-for some questions from my audience here in Cardiff. And so if you would like to
-ask Hayley about her life or about her research on cosmic dust, raise your hand
-and we'll get a microphone to you very quickly. And don't be shy. And what are
-you interested in researching next? What are some of your big questions? Oh,
-that's a really good one. I've kind of moved back towards the 2003 work, kind of
-gone full circle there. And we are trying to work out what's making these very
-extreme galaxies that Herschel has discovered, what makes them tick? So we don't
-know why, but they form stars a thousand times faster than our galaxy. So
-something is different in those is it the gas? Is it the more stars form? Is it
-that there's more dust? What's going on? So I kind of want to know, I want to
-pin down why those things are so weird and so extreme and why we don't see them
-in the universe today. I would like to know what would you say to a young
-council estate girl from multiple generations of non-working families who would
-love to be a scientist, but don't have the knowledge to do it, but would love to
-be a scientist, but don't think they can because of where they come from? Well,
-you can. You definitely can. And I feel like not being upset by things that go
-wrong actually has made me push through areas where people might go, you don't
-belong here. I have experiences. And I think you kind of use your hard nuts,
-kind of like, you know, I'm a council girl or I'm a council boy. And you kind of
-go, yeah, I can take it. And you just, you can do it. If you like maths, if you
-like physics, you could be a space scientist. You could be an astronaut. Yeah.
-Hayley Gomez, thank you very much for sharing your life scientific. And thank
-you to my audience here at the Peerhead building in Cardiff. I'm Jamal Khalili.
-My producer was Anna Buckley. And of course, you can listen again on BBC Sounds.
-Thank you. Thank you. Thank you, Jim. An inspiring end to that interview. Now on
-BBC Radio 4, we ask, can playing video games make us better people? In one to
-one. Hello, I'm Ellie Gibson. I'm a comedian. I'm a games journalist, and I've
+Now, clearly, Haley, this has been your life. I, as a fellow physicist, find it
+tremendously exciting. But I suspect that there might be people who are
+thinking, so what? Who cares how much cosmic dust there is in the universe? And
+certainly, why does it matter where it's made? Yeah, I think that's a valid
+question. And what I would say to those people is that if cosmic dust is really
+important for assisting stars forming, it's also important for assisting complex
+chemistry, things like DNA and so on. You kind of need some molecules and dust
+grains in space to form those things. And so it really is a question of the
+origin of us, of life and the places where life could potentially exist. And the
+thing about the textbook explanation of dust is that would mean the first stars
+after the Big Bang, you would need to wait a billion to 10 billion years before
+you have those raw materials ready for life. Because stars like our sun live so
+long. Live so long, exactly. And it takes such a long time to get to their death
+phase, their stellar death. Stars like the ones that we're looking at,
+supernovae, they are within 10 million years of the first stars in the universe,
+you have the materials for life. So you're kind of changing the timescales it
+takes to build up those raw materials for life. And that's kind of what I would
+say, it's a question of our origin as well as those little rocks in the space
+between stars. I mean, to take a line from Bob Dylan, the answer, my friend,
+isn't blowing in the wind. It's hidden in cosmic dust. Oh, yes, great. But it is
+quite something, isn't it, to think there's all this cosmic dust out there that
+we didn't know about before. And how much we've learnt from it, thanks to work
+of you and others just in the last decade or two. Absolutely. And, you know, it
+seems like a long time ago now, 2009 to 2013. But people are still going through
+the data, the rich data that Herschel has taken. And we've been looking at the
+half a million galaxies it discovered that, you know, were not seen before they
+have seen. You see, that is the other thing, isn't it? You know, not just are we
+learning how this dust is made, but now that we have the instruments that can
+see the dust, we can sort of see through it. And so much of the universe was
+hidden before. Yes. And I think that what Herschel has done is not only show,
+reveal this part of the universe we didn't see before. So we're seeing things
+that are odd and strange and then need to be explained in some way. So, yeah,
+it's completely changed our view, I think, of the universe. And what's lovely,
+you see these pictures, astronomy pictures now of, say, a galaxy or supernova,
+invisible light. And now you can see the same thing, but infrared. And you can
+put those two together. And it's basically giving us a much richer description
+of the universe than we've had before. That's right, yes. And the thing that I
+always kind of think about is that dust grains are so small, you know, we talked
+about foggy day in Cardiff Bay. That's what dust is like. It's little tiny
+particles, a bit like a smoky room or foggy room. They are tiny size, they're
+tiny mass of a galaxy. And yet they can block out 90% of the total starlight of
+a galaxy. So they profoundly change our view of everything. With Herschel, we
+kind of get that missing puzzle back. It's like now suddenly we can see the
+universe in a bright sunny day rather than through the fog. That's right,
+exactly. The fog is clearing, yes. And all this because you and other scientists
+started to ask questions to challenge the consensus and find answers about
+cosmic dust. Well, now it's time for some questions from my audience here in
+Cardiff. And so if you would like to ask Hailey about her life or about her
+research on cosmic dust, raise your hand and we'll get a microphone to you very
+quickly and don't be shy. And what are you interested in researching next? What
+are some of your big questions? Oh, that's a really good one. I've kind of moved
+back towards the 2003 work, kind of gone full circle there. And we are trying to
+work out what's making these very extreme galaxies that Herschel has discovered.
+What makes them tick? So we don't know why, but they form stars thousand times
+faster than our galaxy. So something is different in those, is it the gas, is it
+the more stars form, is it that there's more dust, what's going on? So I kind of
+want to know, I want to pin down why those things are so weird and so extreme
+and why we don't see them in the universe today. I would like to know, what
+would you say to a young counsellor state girl from multiple generations of non-
+working families who would love to be a scientist, but don't think they can
+because of where they come from? Well, you can. You definitely can. And I feel
+like not being upset by things that go wrong actually has made me push through
+areas where people might go, you don't belong here. I have had that. I've had
+those experiences. And I think you kind of use your hard notes kind of like, you
+know, I'm a camp council girl or I'm a council boy. And you kind of go, yeah, I
+can take it. And you just, you can do it. If you like maths, if you like
+physics, you could be a space scientist, you could be an astronaut. Yeah. Hayley
+Gomez, thank you very much for sharing your life scientific. And thank you too
+to my audience here at the Pierhead Building in Cardiff. I'm Gemma Khalili, my
+producer was Anna Buckley. And of course, you can listen again on BBC Sounds.
+Thank you. Thank you. Thank you, Jim, an inspiring end to that interview. Now on
+BBC Radio 4, we ask, can playing video games make us better people in one to
+one? Hello, I'm Ellie Gibson. I'm a comedian, I'm a games journalist, and I've
 played video games my whole life. So I'm interested to find out whether that's
 been a complete waste of time or not, basically. So I've come to the Oxford
-Internet Institute to talk to Andrew Przybylski, Professor of Human Behaviour
-and Technology. Hello. I wanted to talk to you about a study that you did into
-video games. And I'm not going to lie to you. I've played video games for pretty
-much all my life, about 40 years. And I've been under the, some would say
+Internet Institute to talk to Andrew Shabilsky, Professor of Human Behaviour and
+Technology. Hello, I wanted to talk to you about a study that you did into video
+games. And I'm not going to lie to you, I've played video games for pretty much
+all my life, so about 40 years. And I've been under the, some would say
 impression, some would say wishful thinking that that's having some sort of
 benefit on me. But your study, as I understand it, and this, again, I'm aware
 headlines often get things wrong. But your study seems to be saying there's no
 benefit to playing video games. Is that right? So our study looked at whether or
-not playing games impacted different aspects of mental well-being. And yeah,
-it's true. At the end of the day, we didn't find, or rather, we found you'd have
-to play an impractically large amount of video games. What do you mean by
+not playing games impacted different aspects of mental well being. And yeah,
+it's true. At the end of the day, we didn't find or rather we found you'd have
+to play in practically large amount of video games. What do you mean by
 practically large? Well, you'd have to ramp up the amount you play from whatever
 you're doing now to about 10 more hours a day, every day. But I guess I just
 want to push back on this idea that you said that you need games to be doing
-something positive for you, for it not to be a waste of time. And I would just
-ask you, what's so terrible if the games are just fun? Well, that's true. What
-makes that a waste? That's true. And I did, in fact, I wrote a column about your
-study. And the first thing I said in the column, just to contradict myself, was
-that it's a shame, isn't it, that games have to justify themselves in a way that
-perhaps TV or films don't? I think we're probably just having this interview in
-the wrong decade. I think that if you go back with different forms of media, you
-can go back quite a bit further than movies. But movies and comic books and
-television, people, experts like me, have always weighed in on how media might
-be impacting people for good and for bad. So if we agree, then, that it's a
-shame that games have to justify themselves, why study them at all? Why bother
-to do this thing to prove whether or not they have an effect? Well, I mean, I
-think that one of the things that really kicked off the public fascination with
-video games, actually, like the first news coverage of video games was back in
-the 70s, before either of us were born. Thank you. And it focused pretty
-dramatically on a story in the New York Times on a game called Death Race 2000.
-So in 1976, there was a very popular arcade game. And when you played this game,
-you're driving a car around to run over goblins, I think. And every time you run
-over a goblin, it becomes a tombstone. And then you have to avoid these
-tombstones whilst killing more goblins. And a psychologist like me, a traffic
-safety specialist, came out of the woodwork, and they expressed a lot of
-concern. And I mean, the goblin rights activists, don't forget, they were
-absolutely furious. They're basically trolls. And they kind of pointed out that
-this game would lead to more careless driving and possibly kill pedestrians. And
-like every one of these stories, at the end of the line, the publisher is
-laughing all the way to the bank because he's just gotten a bunch of free
-advertising from the Times. So I mean, like, I think games got off to a rough
-start in terms of, you know, how they're publicly framed. And the funny thing is
-that, you know, we're about four decades away from that, more than four decades
-away from that. And things haven't really gotten much better scientifically. So
-why I do a study is because it hasn't ever been done properly. So how did you do
-your study then? How did you make sure it was proper? Well, one of the things
-that makes it proper is data. And one of the things that's missing a lot from
-research is actual hard data from games companies themselves. So in the last 10
-or 15 years, actually, games companies have gotten quite good in their own way
-at actually being able to record when you play what you play. Because it's
-useful to them, right? Because then that's marketing data as well, right? Well,
-yeah, I mean, Sell you more stuff. I think so. I think the first thing they're
-kind of curious about is who's playing their games and where do games break?
-Where do players fall off? But yeah, absolutely. That data is very valuable
-commercially, but it's also very valuable in some ways scientifically. So
-instead of just asking people, how much do you play? We went in and we want to
-actually count the time and use that as something to study. Yeah. And were you
-surprised by how many hours people were spending on games? Was it kind of what
-you expected? Well, I mean, we only looked at a few games. We looked at in the
-study, we only looked at seven games, which is really a drop in the bucket. But
-I mean, we were surprised, maybe not, we shouldn't have been by the fact that
-people are pretty crummy at estimating how much time they play games. They tend
-to actually overestimate how much time they spend on games. Well, can we talk
-about kids then specifically? Because that's the big worrying thing, isn't it?
-And I get asked about that all the time. And I say, you know, I played games my
-whole life. I'm not an axe murderer currently, you know, but also when I was
-young, when my brain was still forming and all that, I was playing games that
-sort of basically looked like they were made out of C-facts, do you know what I
-mean? Just little tiny blocks. And the games these days, they are a lot more
-realistic. I would always argue that, well, yeah, but don't let your kids play
-hyper-violent or hyper-realistic violent games in the same way I wouldn't let my
-kids sort of watch a really violent slasher film, do you know what I mean? But
-do you think that's putting too much emphasis on the parents? Is it all about
-the context in which we're playing games? Well, number one, it's really good
-that you've given up the murder. But number two, I mean, like I actually didn't
-play any violent games as a child either. You know, my father was a pacifist.
-You know, he grew up during the Vietnam War era. There's a tension here between
-matters of taste and matters of preference and matters of values and matters of
-science. So it's entirely plausible and entirely defensible to not want your
-kids to see video nasties or content that you find morally or personally
-abhorrent. But this is entirely separable from a scientific question about
-whether or not kind of playing a modern, even quite graphic video game, whether
-or not that actually changes a young person's behavior or encourages them to
-commit actual violence. And so, you know, we've also done studies on this. We
-asked young people basically what they've been playing in the past month. We
-coded those games in terms of their violent contents. And then we actually went
-to the parents themselves and we asked the parents, you know, use this validated
-assessment of, you know, conduct disorder and behavioral aggression. And we
-combine those two sources of data, the kids estimating, us coding, and then the
-parents assessing. And we couldn't find any link in that research either. Well,
-yeah, and I sort of wasn't surprised. And I was pleased that your study didn't
-kind of go, yes, video games will make your children axe murderers or terrible
-social recluses, or it's all awful. But to be honest, I was a bit surprised and
-disappointed that they didn't say, you know, games can have a good effect on us
-because games have been such a huge part of my life. And I've often turned to
-them when I'm feeling sort of lonely or sad. You know, when I was a kid at
-school and I was being bullied, games were like a safe place where I could go.
-And especially for me, because I didn't have online games, they're even safer
-perhaps than they are for kids now. And in the lockdown, I started streaming on
-Twitch because I love travel in the real world and I wasn't able to do that. But
-suddenly I could go not just to like the north of England, but to medieval north
-of England, then I could hack people's heads off. And it was really exciting and
-joyous. So I was really surprised that you don't think there's a positive
-benefit to playing games. Well, I mean, it's not really fair to games, the kinds
-of research that we're doing right now, because really, you're telling me about
-experiences that you have. I'm using my one singular anecdotal experience to
-counteract your entire research study. Exactly right. And I can say, you know,
+something positive for you for it not to be a waste of time. And I would just
+ask you, you know, what's so terrible if the games are just fun? Well, that's
+true. What makes that a waste? That's true. And I did, in fact, I wrote a column
+about your study. And the first thing I said in the column, just to contradict
+myself, was that it's a shame, isn't it, that games have to justify themselves
+in a way that perhaps TV or films don't. I think we're probably just having this
+interview in the wrong decade. I think that if you go back with different forms
+of media, you know, you can go back quite a bit further than movies, but movies
+and comic books and television, you know, people, experts like me have always
+weighed in on how media might be impacting people for good and for bad. So if we
+agree, then, you know, it's a shame that games have to justify themselves. Why
+study them at all? Why bother to do this thing to prove whether or not they have
+an effect? Well, I mean, I think that one of the things that, you know, really
+kicked off the public fascination with video games, actually, like the first
+news coverage of video games was back in the 70s before either of us were born.
+Thank you. And it focused pretty dramatically on a story in the New York Times
+on a game called Death Race 2000. So in 1976, it was a very popular arcade game.
+And when you played this game, you're driving a car around to run over goblins,
+I think. And every time you run over a goblin, it becomes a tombstone. And then
+you have to avoid these tombstones whilst killing more goblins. And a
+psychologist like me, a traffic safety specialist came out of the woodwork, and
+they expressed a lot of concern. And I mean, the Goblin Rites activists. Yeah.
+They were absolutely furious. They were basically trolls. And they kind of
+pointed out that this game would lead to more careless driving and possibly kill
+pedestrians. And like every one of these stories at the end of the line, the
+publisher is laughing all the way to the bank because he's just gotten a bunch
+of free advertising from the Times. So I mean, like, I think games got off to a
+rough start in terms of, you know, how they're publicly framed. And the funny
+thing is that, you know, we're about four decades away from that more than four
+decades away from that. And things haven't really gotten much better
+scientifically. So why I do a study is because it hasn't ever been done
+properly. So how did you do your study then? How did you make sure it was
+proper? Well, one of the things that makes it proper is data. And one of the
+things that's missing a lot from research is actual hard data from games
+companies themselves. So in the last 10 or 15 years, actually, games companies
+have gotten quite good in their own way at actually being able to record when
+you play what you play. Because it's useful to them, right? Because then that's
+marketing data as well, right? Yeah, I mean, sell you more stuff. I think so. I
+think the first thing they're kind of curious about is who's playing their games
+and where do games break? Where do players fall off? But yeah, absolutely. That
+data is very valuable commercially. But it's also very valuable in some ways,
+scientifically. So instead of just asking people, how much do you play, we went
+in and we wanted to actually count the time and use that as something to study.
+Yeah. And were you surprised by how many hours people were spending on games?
+Was it kind of what you expected? Well, I mean, we only looked at a few games.
+In this study, we only looked at seven games, which is really a drop in the
+bucket. But I mean, we were surprised, maybe not. We shouldn't have been by the
+fact that people are pretty crummy at estimating how much time they play games.
+They tend to actually overestimate how much time they spend on games. Well, can
+we talk about kids then specifically? Because that's the big worrying thing,
+isn't it? And I get asked about that all the time. And I say, you know, I played
+games my whole life and I'm not an axe murderer currently, you know, but also
+when I was young and when my brain was still forming and all that, I was playing
+games that sort of basically looked like they were made out of sea facts. Do you
+know what I mean? Just little tiny blocks. And the games these days, they are a
+lot more realistic. I would always argue that, well, yeah, but don't let your
+kids play hyper violent or hyper realistic violent games in the same way. I
+wouldn't let my kids sort of watch a really violent slasher film. Do you know
+what I mean? But do you think that's putting too much emphasis on the parents?
+Is it all about the context in which we're playing games? Well, number one, it's
+really good that you've given up the murder. But number two, I mean, like I
+actually didn't play any violent games as a child either. You know, my father
+was a pacifist. You know, he grew up during the Vietnam War era. There's a
+tension here between matters of taste and matters of preference and matters of
+values and matters of science. So it's entirely plausible and entirely
+defensible to not want your kids to see video nasties or content that you find
+morally or personally abhorrent. But this is entirely separable from a
+scientific question about whether or not kind of playing a modern, even quite
+graphic video game, whether or not that actually changes a young person's
+behavior or encourages them to commit actual violence. And so, you know, we've
+also done studies on this. We asked young people basically what they'd been
+playing in the past month. We coded those games in terms of their violent
+contents. And then we actually went to the parents themselves. And we asked the
+parents, you know, use this validated assessment of, you know, conduct disorder
+and behavioral aggression. And we combined those two sources of data, the kids
+estimating us coding and then the parents assessing. And we couldn't find any
+link in that research either. Well, yeah, and I sort of wasn't surprised and I
+was pleased that your study didn't kind of go, yes, video games will make your
+children acts murderers or terrible social recluses or it's all awful. But to be
+honest with you, I was a bit surprised and disappointed that they didn't say,
+you know, games can have a good effect on us because games have been such a huge
+part of my life. And I've often turned to them when I'm feeling sort of lonely
+or sad, you know, when I was a kid at school and I was being bullied, games were
+like a safe place where I could go. And especially for me, because I didn't have
+online games, they're even safer perhaps than they are for kids now. And in the
+lockdown, I started streaming on Twitch because I love travel in the real world
+and I wasn't able to do that. But suddenly I could go not just to like the north
+of England, but to medieval north of England, then I could have people's heads
+off. And it was really exciting and joyous. So I was really surprised that you
+don't think there's a positive benefit to playing games. Well, I mean, it's not
+really fair to games, the kinds of research that we're doing right now because
+really you're telling me about experiences that you have. That's right. I'm
+using my one singular and exciting experience to counteract your entire day. No,
+no, no. That research study. No, no, exactly right. And I can say, you know,
 some of the most positive experiences that we had as a family during lockdown,
-we're playing games together as well. Those observations are ones that we're
-having with modern games in 2020, 21, 22, 23. I guess I'm going to push back on
-the idea that my own study is a good one. It's good, but it's good for like
-1980. It's good for 1990. Something happens when we panic about every new video
-game or every new online experience or social media platform or whatever, which
-is to say that our attention gets very narrow, we get very focused on something.
-Is it video nasties? Is it addiction? And when scientists kind of go along with
-the panic, when we ride that hype wave, that moral panic, actually, we become
-less creative, we become hyper focused on kind of serving policymakers or
+we're playing games together as well. Those observations are ones that we are
+having with modern games in 2020, 2021, 22, 23. I guess I'm going to push back
+on the idea that my own study is a good one. It's good, but it's good for like
+1980. Oh, it's good for 1990. Something happens when we panic about every new
+video game or every new online experience or social media platform or whatever,
+which is to say that our attention gets very narrow. We get very focused on
+something. Is it video nasties? Is it addiction? And when scientists kind of go
+along with the panic, when we ride that hype wave, that moral panic, actually we
+become less creative. We become hyper focused on kind of serving policymakers or
 serving worried parents exactly what they might want or need, which is a
 university professor telling them to not use games. All right. And that actually
 that has an opportunity cost. That means that actually interesting research
 isn't done. People like me don't learn how to work with data to touch the kinds
 of experiences that you're talking about, which is how exactly do people use
 games to regulate their mood when they're feeling down or feeling isolated or
-feeling lonely? Or how do families actually play games together? And what
-positive effects that might have? Yeah. And I've seen things that you've said
-about context and about games being like a bicycles or trampolines that
-trampolines are really, really dangerous. Kids end up in A&E. I can't remember
-the last time I had to take my son to A&E because he was playing too much Mario
-Kart. Do you know what I mean? So there's that. And it's similar to something I
-think I often say when I'm asked whether I let my kids play games and how much I
-let them play. And I say it's like ice cream. You know, I let my kids have ice
-cream. I don't let them have it for every meal and I don't let them eat a whole
-tub of it at a time. But now I think, actually, is that right? Because, again,
-games are so diverse. And like a bicycle or trampoline is a thing that a kid
-does a thing with and has a specific set of risks and benefits. Whereas a game
-like Minecraft is really like a doll's house or a Lego set where you can do
-infinite things with. It's not the same as those sort of specific objects with
-specific purposes, is it? Yeah. And I think that that it's a matter of degree,
-though. So the behavior that you're describing that you do with your kids and we
-do with ours is called scaffolding, which is that you use some degree of your
-own expertise and your emotional capacity to figure out where your kid is in the
-activity so that you don't just give them a trampoline. You kind of try to
-figure out how coordinated they are and you kind of work around them. It gets
-harder to scaffold different types of digital things and different types of
-games. Actually, I think Minecraft is probably a really easy one because you're
-right, it is a bit like a box of Lego. But there are many other types of
-experiences online and with games where the actual contents of it changes.
-Someone is upgrading your bicycle or your trampoline without the parent knowing.
-And those are the things that are potentially tricky or impossible to scaffold.
-So you're just not going to say it, are you? You're not going to say that
-playing video games makes us better people because that's what I'm really hoping
-for. Well, I'm not sure what makes anyone better people. Well, but let me...
-It's not yoga. Let me phrase it in a slightly more serious manner. So I've read
-some stuff by another professor, Professor Jay McGonigal, who talks about how...
+feeling lonely or how do families actually play games together and what positive
+effects that might have. Yeah. And I've seen things that you've said about
+context and about games being like bicycles or trampolines, that trampolines are
+really, really dangerous. Kids end up in A&E. I can't remember the last time I
+had to take my son to A&E because he was playing too much Mario Kart. Do you
+know what I mean? So there's that. And it's similar to something I think I often
+say when I'm asked whether I let my kids play games and how much I let them
+play. And I say it's like ice cream. I let my kids have ice cream. I don't let
+them have it for every meal and I don't let them eat a whole tub of it at a
+time. But now I think actually, is that right? Because again, games are so
+diverse and like a bicycle or a trampoline is a thing that a kid does a thing
+with and has a specific set of risks and benefits. Whereas a game like Minecraft
+is really like a doll's house or a Lego set where you can do infinite things
+with. It's not the same as those sort of specific objects with specific
+purposes, is it? Yeah. And I think that it's a matter of degree though. So the
+behavior that you're describing that you do with your kids and we do with ours
+is called scaffolding, which is that you use some degree of your own expertise
+and your emotional capacity to figure out where your kid is in the activity so
+that you don't just give them a trampoline. You kind of try to figure out how
+coordinated they are and you kind of work around them. It gets harder to
+scaffold different types of digital things and different types of games.
+Actually, I think Minecraft is probably a really easy one because you're right,
+it is a bit like a box of Lego, but there are many other types of experiences
+online and with games where the actual contents of it changes. Someone is
+upgrading your bicycle or you're trampoline without the parent knowing. And
+those are the things that are potentially tricky or impossible to scaffold. So
+you're just not going to say, oh, you're not going to say that playing video
+games makes us better people because that's what I'm really hoping for. Well,
+I'm not sure what makes anyone better people. Well, let me... It's not yoga. Let
+me phrase it in a slightly more serious manner. So I've read some stuff by
+another professor, Professor Jay McGonagall, who talks about how...
