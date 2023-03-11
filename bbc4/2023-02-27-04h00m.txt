@@ -1,0 +1,695 @@
+TRANSCRIPTION: BBC4/2023-02-27-04H00M.MP3
+--------------------------------------------------------------------------------
+ on and shared this week in Pick of the World. This is the BBC World Service,
+the world's radio station. You're listening to TechTent on the BBC World Service
+with me, Zoe Kleinman. This week, the US Supreme Court hears arguments that big
+tech should be considered publishers of the harmful content others upload onto
+their platforms. It would mean that these major companies that have influence in
+every corner of the world, they would basically be putting the brakes on them to
+say, you need to be a bit more careful about how your products and services
+affect people's lives. Ukraine has thousands of tech workers. We hear how one of
+them has coped with a year of war. Sometimes I sort of feel a sudden anger. I
+sort of have a little breakdown and I start screaming for 30 seconds and then I
+just go back to being calm and sane. And so I'm going to try and drive a jet ski
+without using my hands. A company that's had a brainwave about brainwaves.
+That's all to come after the latest world news. Hello, I'm Neil Nunes with the
+BBC News. Israeli settlers in the occupied West Bank have set fire to
+Palestinian houses, shops and vehicles, killing one Palestinian man. It comes
+after two Israelis were earlier shot dead in the same place. Your land now has
+more details. In the course of the day, there was this attack in Hawara, close
+to Nablus, where two Israeli brothers from a nearby settlement were shot at
+close range. The Israeli military says it's hunting for a Palestinian gunman.
+But there has also been continuing violence there over the past few hours as
+Jewish settlers set fire to Palestinian properties, some with families inside
+who had to be evacuated. There was one Palestinian man who was killed after he
+was shot. Palestinian health officials say that was after settlers and soldiers
+entered into his village. And that is really keeping tensions very high. Tens of
+thousands of people have taken part in protests across Mexico against government
+plans to slash funding for the National Electoral Institute. The largest
+demonstration was in Mexico City. Organisers said that half a million people had
+taken to the streets nationwide. Will Grant has more now in this report. Critics
+of the reform are worried that the bill, approved by the Senate last week, would
+undermine one of the few trusted public institutions in the country and place it
+under presidential influence. Mr López Obrador has dismissed such claims and
+said that the electoral body, called the INE, is in need of complete reform and
+should have its budget cut and its powers curtailed. In a sense, the argument
+over the fate of the INE gets to the heart of the debate over Mr López Obrador's
+presidency. His supporters say he's acting in the interests of the Mexican
+electorate, while his critics see a worrying trend of authoritarianism in the
+key parts of his political agenda. The President of the European Commission,
+Ursula von der Leyen, is to meet the UK Prime Minister Rishi Sunak in Britain on
+Monday. A joint statement said they would work towards finding a solution to the
+dispute on post-Brexit trading arrangements for Northern Ireland. Kezia Adlir
+sent this report from Brussels. For Rishi Sunak, a deal avoids a looming trade
+war with Brussels, the UK's biggest trade partner after the government
+previously threatened to unilaterally override the original Northern Ireland
+agreement. Better relations also open up new possibilities, like UK access to
+the EU's respected Horizon research programme, a financial services agreement
+and improved arrangements with France to stop people smugglers. Brussels,
+meanwhile, yearns for a friendlier post-Brexit era with the UK. Russia's
+invasion of Ukraine has served as a reminder of shared values and priorities.
+World News from the BBC. Exiled Belarusian opposition figures say a Russian
+military plane has been damaged in a sabotage attack inside the country. They
+have attributed the attack to what they call anti-government partisans. BIPOL, a
+grouping of former law enforcers now opposed to the autocratic government of
+Alexander Lukashenko, says it was responsible. The investment bank founded by a
+Chinese billionaire who was reported missing 10 days ago says it is now aware
+that Bao Fan is cooperating in an investigation being carried out by the
+authorities. Shares in the bank China Renaissance plummeted to a record low
+after it said it had been unable to contact Mr Bao. From Monday, the law in
+England and Wales will raise the age at which a person can get married from 16
+to 18. The change is intended to protect vulnerable children from being forced
+to marry. The new rules will make it a crime punishable by up to seven years in
+jail for an adult to facilitate the marriage of anyone under age 18. The change
+will bring England and Wales in line with many other countries. Peisy Mahmood,
+who was married at 16, welcomed the change. I know what it feels like to have
+gone through child marriage and it's not something that I want anyone to go
+through. And the great thing is the day is here now and it means that here in
+England and Wales we have put something in place that protects children from
+going through the same harms that me and my sister went through. Chile will
+deploy troops on Monday to patrol its borders with Peru and Bolivia in an
+attempt to control the entry of undocumented migrants. Military units will be
+posted to the northern regions of Tarapaca, Antofagasta and Arica with powers to
+detain anyone passing through unauthorised border crossings and hand them over
+to local police. The deployment will initially be for 90 days. BBC World News.
+Big drama on this week's TechTent with me Zoe Kleinman. Is the internet as we
+know it about to be reshaped? A lot is riding on the outcome of two Supreme
+Court cases in the US. We'll find out more about them and why this could be a
+big fork in the digital road. We'll also speak to the Ukrainian government about
+how its huge tech sector has coped with and adapted to a year of war. And I have
+a go at controlling virtual reality using only my mind and hear how
+neurotechnology aims to change our lives in the future. At Cogitat we are
+essentially trying to allow people to connect their minds to computers and we
+really want to take the next step in this technology and bring it to the public
+in a way that people haven't seen before. We all know that some of the most
+harmful and hateful content imaginable circulates on big tech social media
+platforms. And though the firms come under pressure to take it down, they're
+generally not legally considered the publishers of that material, which, if it
+appeared on TV or in a newspaper, they might be prosecuted for. In the US that's
+because of a federal law called Section 230, which this week is being challenged
+at the US Supreme Court in two separate but related cases, the first involving
+Google, the second involving Twitter. So how would it reshape the internet
+around the world if the legal protection those firms currently get is
+challenged? I spoke to Dr Mary-Anne Franks, a professor of law and president of
+the Cyber Civil Rights Initiative. A lot of these kinds of cases have come up
+before in other courts and most of those cases have not gotten very far. And
+this is really the first time a case like this that directly asks the question
+of how much immunity these companies should get under federal law. This is the
+first time the Supreme Court said this is a case we want to try to decide. Why
+have the others failed? The others have failed primarily because the lower
+courts, so not the Supreme Court, but the lower courts and multiple
+jurisdictions in the United States have tended to come out the same way on these
+cases by saying these cases are effectively barred by this federal law called
+Section 230, which in essence says you can't hold these intermediaries
+responsible for the speech of other people that might have been posting on the
+platform or communicating on the platform. I've been talking about this for
+years and I have struggled with it for years, that sense that a platform like
+Facebook or Twitter or, you know, any of these networks are not publishers in
+the same way as a traditional publisher is. Because they are publishers, aren't
+they? In all but name, they are publishing content. Well, here's where the,
+well, a lot of the controversies does circulate around what are the right
+analogs to what a social media platform is. Is a social media platform like a
+newspaper? Are they like a bookstore? Are they like a library? And the courts
+have really not wanted to talk too much about what the right analogy is. They've
+instead interpreted this specific law to say, well, whatever they are, we can't
+treat them as if they were publishers. And that's a very awkward way of trying
+to say we can't hold them accountable simply for making accessible to other
+people what someone else said. So if I take someone's speech and I repeat it,
+and that speech is defamatory, if I were just a regular individual in the United
+States, I could be held liable for that. If I'm a newspaper publisher or a book
+publisher and I do the same thing, I can be held liable for that. What section
+230 says is that, but if you're an online or what they call an interactive
+computer service provider, you cannot be held liable because of that. So one
+could say, look, the law does say that there are some protections online that
+you don't get offline and that that's very reasonable. In other words, that very
+punitive rule that says everyone who repeats a libelous statement is going to be
+responsible for that statement as if they were the speaker. Many people,
+including myself would say, you don't want that rule for the internet because
+that would mean every time you tweeted someone else's tweet or you link to
+somebody else's post, if there was something wrong with that post, you would be
+as responsible as the person who originally wrote it. That being said, what the
+courts have done in their very expansive interpretation of this law has been to
+say, not just that is different, but basically anything the social media
+platform does, including knowing exactly what is harmful about the content. And
+instead of taking it down, boosting it, amplifying it, recommending it, giving
+it more chances to make money. And then even when harm does happen, saying it's
+not our responsibility because it's not something that we created. And I think
+there are really strong grounds for saying that that interpretation of you can
+do whatever you want, even if you know that the content is harmful and illegal
+and you never have to face consequences for it. I don't think that's actually
+what the statute says. And in addition to that, we know what the consequences of
+that policy reading would be, which is you're telling big corporations and other
+companies too, but also the big corporations that they can be as reckless as
+they want about the way they design their platforms or services and what they
+allow on their platforms, let them make all the money they want, knowing that
+they'll never be, they'll never be subject to a lawsuit. And that's a really bad
+incentive for those companies. So what happens then if, if the, if Gonzales, the
+Gonzales family does win? What the court could do at this point with Gonzales is
+they could dismiss it as improvidently granted. They could affirm the lower
+court ruling, which would basically just put us back in the status quo. So it's
+back to what Google was already doing. But if you do get a ruling that says,
+well, Google wasn't protected in however narrowly the court wants to define it
+to say section two 30 doesn't actually protect you, you would see some real
+changes. I think on the part of Google. Like what? I mean, how, how would I
+notice Google's nervousness? Well, here's what one might hope at least. And this
+isn't necessarily what would happen because those on Google's side would say
+that if the ruling comes out against Google, terrible things will happen. The
+internet will be censored. Everything will break and no one will ever be able to
+use the internet again. That is one version of what could happen. And I think
+it's highly unlikely, or you could actually have Google get worried. We might be
+found accountable in some cases. And so we are going to be more careful. We
+might have more stringent terms and policies around things like terrorist
+content, or we might decide that we're not going to let people just upload
+videos without any kind of verifications about what the video contains or who's
+actually uploading it. They might want to change some, uh, some aspects of how
+their algorithms do sorting or what they recommend. I think there's many people
+who would say it would be wonderful if these companies would actually take a
+little bit more care about the way they design their platforms and about how
+they respond to abuse and harassment and terrorism and any number of things. So
+one, I think the salutary effect of a ruling that says section two 30 isn't as
+big as you think it is, is that there would be more alignment between the way
+that other countries may think about competing values and the way that us-based
+companies have done. So it would actually seem that lowering that threshold,
+restricting that scope of immunity somewhat would be really good for the rest of
+the world too, because it would mean that these major companies that have
+influence in every corner of the world, that they would basically be putting the
+brakes on them to say, you need to be a bit more careful about how your products
+and services affect people's lives. It's now been one year since Russia invaded
+Ukraine. Thousands of Ukrainian soldiers and civilians have been killed and many
+more people have been displaced. Russian bombs and missiles have wrought havoc
+targeting key parts of the country's infrastructure as well as homes and
+offices. The country has a large tech sector with an estimated 160,000 IT
+professionals and 4,000 companies and links to some of the biggest tech firms in
+the world. How have they all coped with and adapted to 12 months of war? A year
+ago, shortly after the invasion began, we heard from one of those tech workers,
+Olesiv Ripa, who works for the Ukrainian software development company Intelyas.
+This is what she told us then. It was the morning of 21st of February and I woke
+up from my husband hugging me and saying like, please, please wake up. It all
+started right now after like two weeks of war. I spent most of my time at the
+computer because, well, I cannot sleep anyway. And when the sirens go off, I
+just take my phone with me to the bomb shelter and I continue the phone calls,
+the chats with my colleagues from there. The thing that I keep myself busy is
+really helping to withstand all the mayhem. I cannot explain how it works. I
+cannot tell you how does the mind cope with all this pressure. I know that it
+does turn off the constant flood of thoughts and anxiety and worries about my
+friends who stayed in Kiev and Kharkiv. The work just shuts it down and it sort
+of reminds me about the time before war. Ola, that was 12 months ago when we
+last spoke to you. How do you feel listening to that now? Well, I do sound
+terrified at that time. So I didn't think I was that scared because at that time
+I was like, you know, pretty occupied with tons of thoughts of how it would be,
+how would my friends be, how would everything be. And now after 12 months of
+war, I feel like, you know, more accustomed to the situation. So I kind of know
+how it goes. I know where all of my friends are. I know where is my family and
+we all know what to do to keep ourselves safe. And I don't think we are that
+scared anymore. So yeah, it has changed a lot. And how are you working
+practically? How are you doing it? Well, I have my laptop. I work remotely.
+Well, I don't know. I just open my laptop and I work. How do you have the
+internet? Are you using Starlink? No, actually, we have a better connection
+right now. So the power outages are not that often right now. So when we have
+the electricity at home, we have the internet. So it's fine so far. But yeah, I
+have a backup plan just in case. What's your backup plan? We have co-workings
+here that are pretty close to the bomb shelters. There are the power stations
+and the Starlinks and a safe place to go just in case. And do you see any signs
+of things improving? About war, you mean? Yes, I suppose I do mean about the war
+or just about day to day life. I can't say that the life is improving because,
+you know, we can't make actual plans or, I don't know, travel or, I don't know,
+feel safe all the time. So I cannot say that the things are improving, but they
+are less scary than it was like 12 months ago. So I think it's a kind of
+improvement. Yeah, but like we live day to day. This is not life. This is sort
+of existing mostly. Are you all right mentally? Are you all right? Do you feel
+emotionally strong? I feel calm most of the time, but sometimes I sort of feel
+sudden anger about such small things that I couldn't even expect. So I sort of
+have a little breakdown and I start screaming for 30 seconds and then I just go
+back to being calm and sane. So it sort of changed, but I don't know whether
+it's OK or not, but this is how it is right now. Joining me now is Alex
+Bornyakov, Ukraine's Deputy Minister for Digital Transformation. Alex, we heard
+there one tech worker's experience of coping with a year of war. How would you
+say the tech sector as a whole has adapted? Well, sometimes I even can't find
+the right words, but I think it's fantastic. You know, when this all started to
+happen, I was really upset because actually Ukrainian tech sector was caught on
+the top of its, I don't know, rising all the time in the history of independent
+Ukraine. Their gross digits year over year were like 35-45%. And when the war
+unleashed, I immediately realized that it's not going to be good and it's not
+going to end well for IT industry with so many risks and so many bad outcomes.
+But eventually, they even managed to grow 6% year over year. And this is
+absolutely fantastic. That is something to be very proud of. I'm surprised to
+hear you say that, to be honest. I wasn't expecting that. You know what, I was
+also not expecting, as I mentioned before, I thought that the whole industry as
+a whole is going to fall and we'll be in a recession. But it didn't happen. Do
+you think that the tech sector particularly lends itself to things like remote
+working? You know, people are used to not necessarily being in the office all
+the time. And it doesn't seem that work stopped. Yeah, I think that is one of
+two factors, two major factors that actually helped it to grow. So, the recent
+years with COVID made organizations learn very important lessons that helped
+them in times of war. They were just recovering from COVID, getting back to
+offices, but they had this experience how to work remotely, how to distribute
+people and still remain effective operations. And I mentioned this, one of the
+key factors is that the majority of Ukrainian IT has clients outside Ukraine.
+So, they were not affected by the war. Do you think that the experience of
+living and working during a war is going to influence the Ukraine tech sector in
+years to come? Do you think it will have some sort of legacy? Well, totally and
+absolutely from an operational standpoint. I don't think they will come back to
+big offices and one huge location in the close future. Also, it's already
+obvious that a lot of companies from Ukraine migrated to different countries and
+they have offices in Europe, in America, in some of the Asia, as well as
+Ukraine. So, they will be like more international after the war than before the
+war. Finally this week, I've said a few strange things while doing this job.
+Thank you for pointing them all out. But few have been weirder than this. So,
+I'm going to try and drive a jet ski without using my hands, just by thinking.
+Here's me attempting to control a virtual reality jet ski with my mind.
+Normally, you'd do it by squeezing paddles with your hands. But what I was doing
+there was trying out a prototype headset created by a company called Cogitat
+that monitors your brain activity and translates motor signals into actions. In
+this case, driving that VR jet ski just by thinking about it. As I found out,
+it's a bit tricky. So, what do I do? Just think about… Well, you can try
+thinking, imagining the same person… Think about squeezing my hands? Yeah, it's
+just the first time you've done it. So, if I now think about closing my hands.
+So, this is so strange. I'm trying to think about moving, closing my hands
+without actually closing them. And there you go. Cogitat is one of a number of
+neurotech companies. You might have heard of one of them called Neuralink set up
+by friend of the programme Elon Musk, trying to create a direct interface
+between brains and computers. After my mind control jet ski demonstration, I
+spoke to the founders of Cogitat, Dimitris Adamos and first of all, Alan Ponaia.
+At Cogitat, we are essentially trying to allow people to connect their minds to
+computers. And we really want to take the next step in this technology and bring
+it to the public in a way that people haven't seen before. I've just had a go at
+this and it is quite extraordinary to see your actions happening on screen just
+because you're thinking about them and not because you're doing them. But it's
+kind of a bit freaky as well, Dimitris. Is it? This specific part of the
+technology is in the space of active brain computer interface, which means that
+the user has to think of something and that is decoded. Think of a movement and
+that being decoded into an action. So if you don't choose to interact with the
+system, nothing happens. And everybody's brainwaves are different and they're
+also different depending on what else is going on in the day, aren't they? Yes,
+that brings the main challenge here. That there are so many underlying processes
+and that everyone's brain activity is different during the day, across months.
+And of course, it's the anatomical difference of each one's skull that all of
+these are sources of variability that we have to face to tackle this problem. I
+mean, I just had a go with the game, Alan, but there are some serious
+applications for this, aren't there? Yes, we've just got an Innovate UK grant to
+explore using this for stroke rehabilitation. And one of the main aspects which
+we're quite excited about is that when a person has had a stroke and they can't
+move their arm, they're very demotivated to partake in rehabilitation. But our
+technology will allow them to imagine moving their hand and seeing a hand move
+on the screen, which we believe will motivate them to start their course of
+physiotherapy. And we're not necessarily looking at this being far ahead in the
+future, are we? So our plan is to have a working prototype within the next six
+to 12 months. I think when you think about the brain-computer interfaces, the
+company that springs to mind, of course, is Neuralink, not surprisingly, because
+it's run by somebody who likes attention, Elon Musk. But what he and that
+company are working on is very different to what you're doing. How so, Alan? So
+Neuralink are mainly based on an invasive technology which requires an
+operation. We're focusing on decoding brainwaves from wearable devices. And the
+reason for that is because we believe that it could be more applicable to the
+larger market. We believe that we can incorporate it into VR and AR technology
+to allow people to control movement within those environments. And also, it
+allows us to collect a lot more data without having to operate on multiple
+people. So ultimately, your plan is to work with a hardware maker, someone maybe
+like Meta or HTC or one of the big brands, to incorporate your tech into what
+they're offering. How might that work? So our tech involves a number of EEG
+electrodes. We think the minimum amount we require is around six. So six
+electrodes around the motor cortex could be added to any hardware device, and
+then that could be used to control the device. Somebody would be able to
+interact with VR environments just by using their thoughts. Are you excited by
+that? I think we've met a lot of patients who've had strokes and their
+interaction with these new technologies such as VR, they are really excited
+about it. And we have met many people who are very keen to be involved with this
+project because they do see a massive potential for it. I've got one more
+question before I go. Tell me about how you beat the US Army. So we were
+involved in a competition called NeurIPS, which was a competition designed for
+machine learning. Essentially, as we have discussed, EEG changes in an
+individual at different times of day and from individual to individual. And the
+competition was looking really at how a company can find the common patterns
+within all of the noise. We went up against over 100 labs around the world. We
+came number one. US Army labs were also entered into this competition and they
+were placed second. How did that feel? Difficult to find words. As working with
+the young talented team that you met, every day is a new day and our journey so
+far was fascinating. What I remember is, you know, after the celebration that we
+had with the team, I told them that we could have some time off. So the prize
+was a holiday. Nobody wanted that. Nobody wanted the time off. We were working
+on the next day because we had different goals. I mean, it's really fascinating
+for us and everyone is enjoying this journey. Dimitris Adamas and Alan Parnia
+are there. Unlike them, we will be taking some time off here at Tech10, but
+we'll be back with another edition next week. The BBC News Machine, however,
+never sleeps. Follow our latest work on the website at bbc.com slash technology
+on Twitter at BBC Tech and me at ZSK. This is the BBC World Service meeting the
+Vietnam War veterans who left America and retired to the country they fought in.
+Fifty years ago, on the 29th of March, all American forces will be withdrawn
+from South Vietnam. Today, a small group of U.S. veterans, now in their 70s,
+have returned to live there permanently. I was expecting people to hate me when
+I came back. People welcomed me like I had just left the day before. I am Nga
+Pham, and I'll be finding out why they choose to retire in Vietnam. You're
+ashamed of what you've seen and what you did. I say this is the only thing that
+makes sense, me living in Vietnam. I came back to fight the war. I kind of
+explain it as when you're a little kid, you've got a monster under the bed. I
+had to look under the bed, and the monster wasn't there. No place like NAMM. At
+bbcworldservice.com slash documentaries. Next on the BBC World Service, what
+happens if Ukraine runs out of ammunition in the war with Russia? A letter of
+anger and frustration to Turkey's leaders after the earthquakes there. And the
+young African farmers sharing their success stories on social media. I delve
+into the stories that got you listening and talking this week. That's with me,
+Anna Doble, in Pick of the World, after the news. BBC News with Neil Nunes.
+Palestinian homes, businesses and cars have been set ablaze in the occupied West
+Bank, and a Palestinian man has been shot dead nearby, as Israeli settlers
+rioted. They were reacting to the earlier killing of two Jewish brothers in the
+same village. Tens of thousands of protesters have marched on the Presidential
+Palace in Mexico in protest at a planned reform of the country's electoral body.
+The measure would close the agency's local offices and slash its annual budget.
+Exiled Belarusian opposition figures say a Russian military plane has been
+damaged in a sabotage attack inside the country. They say anti-government
+partisans carried out the attack. The investment bank, founded by a Chinese
+billionaire who was reported missing 10 days ago, says it's now aware that Bao
+Fan is cooperating in an investigation being carried out by the authorities.
+Shares in China Renaissance Bank had plummeted after it was unable to contact
+Mr. Bao. The President of the European Commission is to meet the British Prime
+Minister near London later today. Ursula von der Leyen and Rishi Sunak said they
+would work together to resolve the dispute on post-Brexit trading arrangements
+for Northern Ireland. The Brazilian authorities say 64 people are known to have
+died in last week's flood and landslides in the state of Sao Paulo, where a
+month's worth of rain fell in 24 hours. An Australian firm has bought the
+defunct battery-making company Britishvolt, which collapsed last month.
+Britishvolt had plans to build a $4.8 billion battery plant in Northern England.
+England and Wales have raised the legal age at which a person can get married,
+from 16 to 18. The change makes it a criminal offence to facilitate the marriage
+of anyone younger than this. The law is intended to protect vulnerable children.
+BBC News. That dark night, one year ago, the world was literally at the time
+bracing for the fall of Kiev. Seems like a lot longer ago than a year, but think
+back to that year. Perhaps even the end of Ukraine. You know, one year later,
+Kiev stands. And Ukraine stands. Democracy stands. The Americans stand with you.
+And the world stands with you. Hello and welcome to Pick of the World, where I'm
+looking at the stories from our BBC World Service programmes and podcasts that
+most got your attention online over the last few days. I'm Anna Doble, the
+digital editor, and it's your activity that decides what I talk about and who I
+talk to. I want to know what makes you stop to listen and then sometimes to also
+add your voice. This week, it's growing anger at why the earthquake in Turkey
+was quite so destructive. I'll also be hearing from entrepreneurs in South
+Africa to find out what it takes to succeed with a farming startup. We go first,
+though, to Ukraine, where Russia's invasion is now one year old and there are
+growing concerns about ammunition supplies. As you heard there during his visit
+to the country this week, America's President Biden said Western support for
+Ukraine would not fail. Phillips Payson O'Brien is Professor of Strategic
+Studies at the University of St Andrews in the UK, and he's been chatting with
+NewsHour's Julian Marshall. We know that they've been using ammunition at a
+huge, catastrophic rate. That's what war does. That's also, by the way, for the
+Russians. Russian artillery fire is way down from the summer because they've
+used up a huge amount of their stocks. So both Russia and Ukraine have basically
+been firing massive amounts of artillery for eight, nine months now. The
+Russians even longer. The Ukrainians have one problem, that they also have a
+range of different systems. So the Ukrainians have to juggle different artillery
+and tank ammunition considerations. So they have different artillery stocks for
+different equipment. A lot of them will be suffering. It might be actually that
+they're running out of the old Russian Soviet ammunition more than anything
+else, but they will certainly be under real strain and they need to be careful
+because they, one, want to save up some stuff, have enough stocks to go on the
+offensive in a few months, but they also don't want the Russians to press ahead
+too far now if indeed the Russians are having an offensive. So the Russians have
+the ability to manufacture more ammunition, but the Ukrainians don't. Yeah, I
+mean, one, Russia has a homegrown ammunition manufacturing capacity. We don't
+really know how large it is. We assume that they had such large stocks, that
+wouldn't be a major issue. Or a lot of people said earlier in the war that
+Russia had many years of ammunition stocks and so that people weren't looking at
+production capacity. But right now it's clear Russia didn't have the ammunition
+stocks that was assumed that they had. So Russia is now going to have to ramp up
+its production and we'll see whether they can do that. I mean, the big change in
+artillery fire in the last seven months has not been for Ukraine. It's been the
+decline of Russian ammunition fire. They've gone from 60,000 rounds a day, I
+think to 20,000 rounds. But can Ukraine manufacture its own ammunition? I think
+they're setting up production capacities to manufacture some, but they won't be
+able to manufacture anything near like they need. They're going to have to get
+that from NATO countries. And this story got your attention online this week
+with Russia's President Putin also making a speech, but to say that Ukraine had
+started the war. I jumped on a call with James Waterhouse, the BBC's Ukraine
+correspondent, who's been covering the war since day one. I started by asking
+him what the landmark moment really means to Ukrainians. I think to me, the
+anniversary for so many Ukrainians is more of a symbol of survival in the sense
+that few predicted Volodymyr Zelensky would still be in power days after Russia
+launched its full scale invasion. And where he appeared with Joe Biden this week
+along that sort of stretch of cobbled road towards St Michael's Cathedral.
+Twelve months ago, it was full of people signing up to be issued with an
+automatic rifle who are volunteering to fight. And these people were very
+nervous. They were dangerous to be around because they were pointing AK-47s
+everywhere. And then there were people frantically skidding around corners just
+trying to get out. There was black smoke on the horizon. There was just real,
+real panic and visceral trauma. So with all the pomp and ceremony of this week,
+it is a marker and it's an important marker to people. But attentions swiftly
+turned to, but what next? You know, how are we going to prevail? Because no one
+is thinking that Russia is going to disappear any time soon and no one is
+writing Russia off, despite the, you know, certainly here in Kiev, despite the
+real anger and hatred they feel towards Moscow because of everything they've
+gone through. Yeah. These anniversaries do give us an opportunity to take stock
+around the world and of course in Ukraine. Is there a feeling of frustration
+though that the social media world, the wider world only looks back through the
+window when there's a key date on the calendar? Usually I'd agree with you,
+Anna, but I think in the case of the war in Ukraine, it is in the country's
+interest to keep this conflict in the public eye. You could see President
+Zelensky was just beaming ear to ear and, you know, his cabinet, they were made
+up that President Biden agreed to this trip and there'd been some planning. It
+wasn't confirmed until the Sunday, but for President Biden to be inside the
+Mariinsky Palace and to walk the streets of Kiev, it was a huge deal. And when
+you speak to people, that's all they kind of care about. It's saying, look, you
+know, this is a show of unity, unlike any other, because there's been like a
+treadmill of official visitors and they're all welcomed and pledges of support
+are announced and everything else. But the leader of the free world is a level
+up. Let's talk about social media, because you yourself, since the war began,
+you've been really active on Twitter and quite often to correct misinformation,
+disinformation. First of all, how have you felt social media for your own
+journalism has played a part, but also how are people generally sharing new
+information and which of the platforms that really make a difference? You know,
+there was a moment in Zaporizhia last September where we were down there doing
+some filming and it sits north of quite an active part of the front line on the
+Dnipro River. And we just heard, I was sat in there with my cameraman, Matt
+Goddard, and we just heard this jet go overhead and we looked at each other. We
+were working and then we suddenly went, oh, got a jet, because there's a no fly
+zone. So if you're hearing something flying overhead, something's happening. But
+almost immediately we looked on Telegram and the Ukrainian defence ministry had
+said, don't worry, we're just doing military stuff. Words to that effect. You
+know, so the communication is extraordinary where in real time you learn about
+what is happening and where, but you do have to take it with a pinch of salt. So
+in terms of official channels, social media has been priceless in the sense that
+you get all the different military commands chipping in, you get overnight
+addresses from President Zelensky and all the different government departments.
+So you can kind of collate this, but both sides are trying to mislead each
+other. So when you talk about military losses or gains or whatever else, it's
+not always going to be the clearest picture, but it has been good in that sense,
+both collate, but also be more considered in our storytelling. So when I tweet,
+for example, I try and kind of surmise or give it a little bit more of analysis
+of the situation. I remember during the heat of the invasion, I was doing almost
+like emoji, not in a comedy sense, but sort of emoji updates, just trying to put
+flags of the nations involved, everything else just to make it digestible
+because the pace of the story was moving at such a fast rate. But now it's, I
+think I'm in a much more considered phase because the pace hasn't let up, but
+audiences are getting tired. You know, it's hard to keep pace with this story.
+So we need to be a bit more kind of targeted in what we say and also explain why
+it matters. So the most common question we get on Facebook around anything we
+post on Ukraine is when will it end? What's the timescale? Now we're at this
+year anniversary. It's the hardest question to answer I know, but what is your
+feeling? I think there are three paths that we could well be heading down. And
+with the sad caveat that all signs are pointing to a war that could go into the
+years. The first path is an outright victory for either side. So either Ukraine
+fully repels Russia or Russia takes the whole of the Eastern Donbass region,
+consolidates, doubles down, calls for peace and somehow peace is agreed. The
+second is some kind of peace deal where in the absence of a clear victory
+looking likely for either side, which I think is looking the case at the moment,
+the calls for peace will only get louder. You've seen political division in the
+US, you've seen claims China is getting involved to call for peace at the
+moment. Those calls will only get louder. And then so you get to the issue of
+where is the concession? There could be a scenario where Ukraine gives up
+Crimea. But what Ukraine keeps saying is that that's a non-starter because if we
+give up territory, it both makes us weaker and Russia will just do it again
+because we're talking about a nine year war here. And then the third path is
+just outright attrition because Russia is no stranger to it. They can just keep
+fighting, they can keep disrupting Ukraine. Ukraine will never give up. That is
+clear. So you just have this active war zone spanning along a land corridor from
+the south to the east of Ukraine for the foreseeable future. So those are the
+paths to me at the moment. This is a war which changes month by month. I
+remember with the last summer, it felt like Russia was really starting to make
+gains again. Then we had the counter offensives in the autumn and we thought,
+oh, Ukraine could actually do this. And here we are now with Russia's trying to
+seize the initiative in the spring. So it changes. But those to me are the three
+paths. If you're living in Turkey, the construction industry is part of your
+daily life. Excavators, shovels, dumpers and graders populate our roads every
+day. People allocated their savings to property developers after a similarly
+deadly quake in 1999 to ensure they lived in safe homes. Over the past
+fortnight, we learned they had been fooling us. Our captains of industry who
+made their fortunes from the construction craze were nowhere to be seen, for it
+seemed there was no profit to be made from rescuing the dead. In the first two
+days of the quake, there was a feeling of being forsaken in cities like
+Iskanderun, my father's hometown, where just a few rescue teams arrived on
+Monday. On the state-controlled media, the earthquake was stripped of its
+political and social context on debate programs. It was the same inadequacy,
+ineptitude and unpreparedness we saw in the 1999 earthquake recurred in front of
+our eyes. There was a feeling of inevitability here. And our leaders talked
+about fate's plans. This is the challenge that awaits us now as a nation in the
+upcoming days of rebuilding southern Turkey. We'll have to ensure that those who
+have profited from our tragedy end up paying the heaviest possible price. And
+the politicians who empowered them will no longer be able to do so. That was
+Turkish writer and essayist Kaya Genç who recorded this very moving and angry
+audio letter for our weekend program. The deadly earthquakes have now claimed an
+estimated 50,000 lives in both Turkey and Syria. And the letter was the subject
+of our top tweet this week, reaching 300,000 Twitter accounts. Meanwhile this
+digital video that I'm watching at the moment is about a Turkish town Erzin that
+suffered very little damage. When we shared it on Facebook it was quickly viewed
+100,000 times. And lots of you keen to know why the town has been more resilient
+than other places. In the video we hear from the local mayor who says careful
+builders, many more single story dwellings and strict construction rules could
+be the answer to that question. In the comments on this one lots of you are
+calling the mayor, Okes Elmasoglu, a hero. Way in the US left us this on the BBC
+World Service Facebook page. A difficult challenge for an honest building
+official anywhere in the world. And the poor trusting people who occupy these
+structures pay the horrible price. So much for industry being self-policing. And
+yes, structures can be made safe, but it would mean banning construction in
+certain high-risk seismic zones or prohibitively expensive building designs.
+Okay this next story got into 100,000 of your Facebook feeds this week and for
+very positive reasons. Farming in Africa is getting a makeover as younger
+entrepreneurs share their success stories on social media. 28-year-old Maletsiri
+Magodi is one of those we hear from. She's chatting to Africa Daily's Alan
+Kisuja. My farm is about two hectares and I'm currently planting spinach and
+pumpkin. Two hectares of land is about five acres, which is about five football
+fields. And that is how much land you're growing spinach on? Yeah, I'm doing it
+bit by bit. So I haven't planted the whole land because of shortage of water and
+tractors. So I'm using a hoe to plant. So I haven't planted the whole space.
+Because that would be a lot of land, five acres, five football fields of land is
+plenty. And you're saying that you're using a hoe to do that? Yes. Alone? No, I
+have someone who's helping me and my family also. They assist on weekends when
+they are off. Wow. And so tell me a little bit about that dynamic. How did you
+arrive at the decision to grow those two crops? I've decided on growing spinach
+simply because it's one of the easiest crops to plant. And secondly, with
+harvesting spinach, you can harvest more than three to four times on one plant.
+So that's why I decided on that. And with pumpkin, it doesn't really depend on
+water daily. So we're depending on rainwater when it comes to the pumpkin. And
+what sort of money are you making from this stuff? It's not really a lot of
+money that I'm making because of planting on small portions, but I'm hoping to
+go bigger as time goes on. So is this what you do full time? No, I do it on
+weekends because I've got a seven to four job that I'm also doing. That's
+interesting because a lot of people struggle to make money, real money from
+agribusiness, right? So is that the reason why you're not doing it real time
+because it hasn't gotten to a place where you can rely on it completely? Yeah,
+it hasn't gotten really to that far, but I'm hoping that one day I'll be able to
+plant my whole two hectares. Courage, way to go. Amen. This got some really nice
+Facebook responses from you. And here's Chris in Australia. Hi, I'm Chris from
+rural Victoria. If the young folk involved in these enterprises think about the
+major fixed costs of agriculture and the key choke points, they'll realise that
+collective action, and I don't mean collectivisation, will drive their
+businesses further and faster. Good on them, they, for having a red hot go.
+Please join the conversation on this story and others by finding us at BBC World
+Service on Facebook, Twitter, YouTube or on Instagram. If you're a TikToker,
+have a look for us at BBC News and do sign up for our weekly BBC World Service
+newsletter. It'll help you stay up to date on all our new podcasts and
+programmes. You can find details of how to subscribe for free on our website at
+bbcworldservice.com. Thank you very much for listening and thank you for your
+clicks, comments and reactions. The presenter was me, Anna Doble, and the
+producer was Elizabeth Foster. It's time to hear what you think of the BBC World
+Service in Over To You. This week, World Questions is the programme that puts a
+country's people at the very heart of the debate, and a recent edition looked at
+the social challenges being faced by the people of Iceland. The show's series
+producer answers listeners' comments and reveals behind-the-scenes secrets of
+how it's made. I'm Rajan Datta, and this is Over To You. So, it's a show that's
+all about tackling pressing questions in countries around the world. Host Johnny
+Diamond and the team were recently in Iceland's capital, Reykjavik, with a
+public audience and panel of leading politicians and commentators to debate the
+big issues facing this ancient democracy. Let us go to our first question, and
+it comes from Payal Shah. Payal? Well, it's been said that the Icelandic labour
+market needs a lot of immigrants in order to make... Hello, Over To You. This is
+John Fehlauer in San Antonio, Texas. I thought the segment was interesting, with
+a good discussion from various points of view presented by the panel. The
+moderator did a good job occasionally exploring the question or response, and
+probing the questioner when he thought that would help. As I am unfamiliar with
+Icelandic names, it was also helpful to me that the moderator occasionally
+mentioned the segment of society represented by the panellists he called on, so
+I could better understand the context of their answer. The mayor says the
+parliament should be acting on this, you're in the parliament, you're foreign
+minister. Why are you allowing whaling to continue when clearly people... I was
+struck by the fact that many of the issues facing Iceland are the same ones we
+have here in the US. Immigration, inflation... Culture change, even though the
+details are different. Iceland has a population much smaller than even San
+Antonio's, which makes their problems and possible solutions much more personal.
+I do hope that Iceland and other countries find ways to keep their cultures
+unique. One listener's view there. And I'm joined now by World Questions series
+producer, Charlie Taylor. Hello, Charlie. Hi, Roger. Let me bring in our
+listener, Gilbert Banda from Lusaka in Zambia. Gilbert, hello. Hello, how are
+you? Very well, thank you. Tell me what you think about World Questions. I would
+like one day to have this programme in one of the African countries. Well,
+that's something that we're going to ask Charlie in a moment. But you've got
+three questions, haven't you, to ask Charlie. Fire ahead with one. My first
+question is, how locations such as Iceland are chosen? Well, we choose countries
+for a variety of different reasons and we try and vary where we go. So we hit
+different regions, different peoples, different continents. It was Iceland this
+month and next month we'll be in Iraq. So we're going from a very developed
+democracy to a democracy which is still developing. The reason we picked Iceland
+is because when you focus on a smaller country, sometimes you can see the sort
+of microcosm of the big issues that other countries see and you can see them
+more clearly and plainly. And I think that was beautifully illustrated by John
+Flauer from the US, who left his voice message when he was talking about the
+threats to culture, which is obviously felt in Iceland because they're a country
+of 400,000 and they want to protect their language. What about Gilbert's point?
+Have you been to Zambia, for example, his home country? I haven't been to
+Zambia, but we have been and perhaps, well, Gilbert could tell me whether or not
+it would be a good place for us to go, but we have been to several African
+countries, many in sub-Saharan Africa, Kenya, Botswana, Ethiopia, South Africa.
+And of course, you get very different debates in different countries, but we get
+a really good, strong response from our audience there. Do you think, Gilbert,
+would Zambia be a good place where we could have a free and open debate in your
+country, in Lusaka, perhaps? I would love to have this programme here in Lusaka.
+It will be the first time, I guess, and I can't wait to have it one day here.
+OK, you're going to be in the audience, I hope, Gilbert. Let's go to your second
+question. What is the criteria for the panel selection? That's a really good
+question. There are lots of different criteria. What we're trying to do is to
+balance the panel, so have different voices there, different opinions, different
+genders, different ages sometimes, different ethnicities, depending on the
+country we're in. It's great for people to have the opportunity to speak truth
+to power, for people to come and make their points directly to the person whose
+responsibility it is to serve them. And that is part of the ethos of World
+Questions. So if we can have somebody senior who will come and stand up and
+present their opinions and meet the challenges and the opportunities of speaking
+to a live audience, that's brilliant. So Gilbert, tell me your third and final
+question. How do you select the audience? That is a great question because we
+don't select the audience. They select themselves. So what we do, and it's
+difficult because, you know, you want to have a free and open audience and our
+audience, we always think of the audience as being the fifth panelist. So we
+have four people on the stage and one voice in the room, which is the audience.
+So it's important that they're not biased. So we advertise widely on social
+media to everybody of whatever background, political interest or social economic
+background. And then they choose. So it's the people who select themselves. So
+it's a self-selecting audience. OK, Gilbert. So the challenge is down for you to
+basically send Charlie an idea for the panel, who would be on the panel in your
+view, and a list of issues and questions. And then you can do most of Charlie's
+work for him and set up the programme in Zambia. I can't wait to have this kind
+of a programme here in Zambia. Thank you for having me on the programme. I
+really appreciate for your time and thank you for answering my questions. We
+really appreciate you. And thank you so much for listening to the programme.
+Gilbert Banda in Lusaka in Zambia. Thank you very much indeed. Charlie Taylor,
+thank you very much indeed for coming in. Thank you, Rajan. Next, and we need
+your help. Discovery is coming to the end of a six-part series called Bad Blood,
+in which Adam Rutherford looks into the often controversial story of eugenics.
+This is the story of an idea, a powerful and troubling idea, which is born in a
+Victorian quest for a better society, but reaches a horrifying climax in the
+death camps of Nazi Germany. This is the story of eugenics, its dark history and
+its troubling present. Now next week, we hope to have the show's production team
+with us in the studio to answer your questions and comments about how this
+series was made. And we'd like to put to them your questions and feedback. So do
+please get in touch. Contact details in a moment. But first, here are some
+examples of the comments we've already had. This is Deborah Shaw. It's such a
+well-researched series on eugenics and traces its history from Britain to the US
+and Nazi Germany. A difficult task for Adam Rutherford and programme makers is
+the exposition and dismantling of these dangerous ideas of men who are in some
+cases still revered. I am Ngugi Mwoneki from Nairobi, Kenya. The recent Bad
+Blood series on BBC Discovery must be personally one of the most captivating,
+well-researched and expertly delivered series of all time. This is Melanie
+Lenihan in the United States. I think the Discovery series Bad Blood would be a
+very worthy teaching tool to understand the history and the dangers of eugenics.
+This is Stephanie Bigot. What I found most disturbing about the recent Bad Blood
+series on eugenics was that one small bit of scientific knowledge on how genes
+work was misused over the span of 200 years to justify carrying out crimes
+against other people. Email overtoyou at bbc.co.uk or you can tweet at Overtoyou
+BBC. And with that, it's time to bid you farewell. I'm Rajan Datta, the producer
+is Howard Channon and we'll be back with more of your feedback at the same time
+next week. This is the BBC World Service with the invention of Russia. We're
+telling the story of the largest country in the world. In episode three of the
+series, Catherine the Great comes to power when her husband is murdered. She was
+very involved in the coup but not necessarily. We are making changes to the way
+BBC live streams are distributed via third party services and platforms and the
+BBC stream you are currently listening to will stop working by mid 2023. If you
+are using an internet radio or smart speaker and hearing this message, please
+contact the manufacturer. If you're listening on web or mobile, this service is
+available to stream on BBC sounds....adapted screenplay, what it means to be
+nominated and what it took to get there. The newsroom is next.
