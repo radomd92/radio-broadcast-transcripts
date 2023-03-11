@@ -1,0 +1,759 @@
+TRANSCRIPTION: BBC4/2023-02-28-10H00M.MP3
+--------------------------------------------------------------------------------
+ Rishi Sunak, it'll be on BBC Sound soon. That's it. Bye-bye. BBC News at nine
+o'clock. Rishi Sunak is visiting Northern Ireland after reaching a new deal with
+the EU over post-Brexit trading arrangements. The leader of the Democratic
+Unionist Party, Sir Geoffrey Donaldson, has issued a cautious welcome to the so-
+called Windsor Framework, but said he and his colleagues would study the legal
+text before deciding whether to support it. Speaking on the Today programme, the
+Prime Minister described the deal as a huge step forward for Northern Ireland.
+I've spent a lot of time listening to unionist communities from Northern
+Ireland, and indeed all parties that I've engaged with, because this is about
+everybody, and I have taken the time to understand their concerns. I'm confident
+that the Windsor Framework addresses those concerns, but I also respect that
+everybody, including unionist representatives of all parties, will need the time
+and the space to consider the detail. Police are urgently searching for a baby
+belonging to a couple arrested in Brighton last night after they disappeared for
+several weeks. Officers had been looking for Constance Martin and Mark Gordon
+since their car broke down in Greater Manchester at the start of January. Their
+child is yet to be found. Days of strike action by teachers across the UK start
+today as part of an ongoing row over pay. Members of the National Education
+Union are walking out in large parts of Northern England, along with teachers in
+the Educational Institute of Scotland. Other parts of England and Wales will be
+affected over the next two days. Experts have warned that government efforts to
+make air travel net zero by 2050 are under threat due to a lack of viable
+alternatives to jet fuel. A report by the Royal Society concluded that none of
+the four main greener options currently available would be able to replace the
+jet fuel used in the UK. Westminster's cricketers have lost the second test in
+New Zealand by just one run. They started the final day chasing a target of 258
+to win, which would have been a record after enforcing the follow-on. But the
+home side bowled England out for 256. BBC News. And over on BBC5 Live Now, Nicky
+Campbell is taking calls on that new deal between the EU and the UK and asking,
+is Brexit done at last? Over on BBC Radio 4, as politicians in Westminster,
+Stormont and Brussels grapple with the staggering complexities of trade and
+peace in Northern Ireland, we'll be visiting one of the most potent symbols of
+the Troubles, the Milltown Cemetery in West Belfast, where numerous prominent
+Republicans are buried, Bobby Sands among them, and which was the scene of those
+horrific murders carried out by the loyalist Michael Stone back in 1988. Author
+Peter Ross pays a visit and explores what the place says about sacrifice,
+martyrdom, conflict and peace. That's in A Tomb with a View at 9.45. But now
+it's time for The Life Scientific. Here's Jim Al-Khalili. My guest today is a
+man whose area of expertise has been in exceptionally high demand in recent
+years. How do our immune systems defeat viruses? In particular, how do those
+killer T cells, a type of white blood cell that searches for and destroys
+infected cells, know when to launch an attack? Danny Altman became interested in
+immunology when he was at university and has spent most of his career trying to
+answer one question. How do our killer T cells know if a cell has been infected?
+He studies the genetic basis of our immune response to a vast range of
+pathogens, from anthrax to the Zika virus. And yes, when Covid hit, he turned
+his attention to SARS-CoV-2. His lab at Imperial College London remained open
+throughout the pandemic, and Danny was a regular on radio, TV and social media,
+helping us all to understand the workings of our immune systems a little better.
+He's one of many scientists who have helped us to understand how our immune
+systems were responding to the threat posed by Covid, and is also one of a much
+smaller group of scientists who have been studying long Covid. Why do some
+people suffer debilitating consequences for so long after they've been infected?
+Professor Danny Altman, welcome to Life Scientific. Thank you very much. Now, as
+I just mentioned, your expertise has been in exceptionally high demand recently.
+We all like to be useful, if we can, particularly as scientists, but has it felt
+like a huge responsibility for you these past few years? I think the build-up to
+it was very strange because, you know, as scientists, we exist in our own silos,
+and really we've spent decades building up this knowledge and thinking and
+thinking and thinking about how T-cells recognise things and how one could
+design vaccines, and when the heat is on and all that knowledge got stress-
+tested, it kind of paid off and meant something, and that does feel meaningful
+and good. And looking back of your career today, we do know so much more about
+T-cells now and how they work than we did back in the 80s. Do you think research
+in this area can continue to progress at such a rapid rate? Totally, totally.
+You know, immunology, the field I'm in, has delivered and delivered over the
+last few decades, and I see that continuing. You know, there are plenty of
+autoimmune diseases that we don't deal with well enough, plenty of infectious
+diseases that we don't vaccinate against well enough, plenty of cancers that are
+still too inaccessible, and all of those things are up for grabs. OK, Danny
+Altman, before we delve into the intricacies of the immune system, I'd like to
+get to know you a little bit more. You grew up in North London in the 60s and
+had quite a sheltered childhood, I believe. Yeah, you know, I guess we all have
+strange childhoods, don't we? But mine was, my parents were Holocaust survivors
+in North West London, so, you know, a very kind of sheltered house where
+everybody we knew came from similar kind of backgrounds, you know, very much the
+kind of family where, you know, you ate Wiener schnitzel and apple strudel, not
+roast beef in Yorkshire. Because, say, your parents came over when they were
+young, your father came over on the Kindertransport when he was just nine years
+old. He was on the Kindertransport as a nine-year-old, having lost his parents,
+and my mother on liberation from Auschwitz. So, you know, quite an unusual
+family in a way. Yeah, and how aware were you about that traumatic past that
+your parents had experienced? In some ways, you know, it was everywhere,
+because, you know, it was their past and their story and our family's story, and
+these photos and paintings on the wall of relatives who I'd never known who had
+this kind of sort of mythical property, because I didn't know any of my
+grandparents. And on the other hand, you know, we just kind of got on with it,
+didn't we? Yes, that's the life, you know. But did you feel any sense of maybe
+of pressure to make the most, for example, of educational opportunities that
+maybe had been denied your parents? Yes, in some ways. First of all, you know, I
+think lurking in the background, there was a certain sort of element of
+bitterness is probably too strong a word, but some kind of loss in my parents
+that my mother had wanted to study, my father had wanted to study. Years later,
+when I went through his papers after he died a few years back, I found a sad
+little note from his social worker saying, the British taxpayer has invested
+quite enough money in Hans's education, and I suggest he not be allowed to stay
+at school beyond 16. And he was a very bright man, and that was very hard for
+him. So, yes, a little bit that, you know, when I think about all those lives
+that were ended and dreams that were crushed, I did sort of feel like you've got
+to kind of go out there and just do something. And how about your mother? I
+mean, you say she survived Auschwitz. Well, again, you know, a very bright lady
+who'd missed her entire education. Of course. None whatsoever. Yeah. But for
+them, it was kind of double-edged, yes? So on the one hand, obviously that kind
+of Jewish pride, and on the other hand, slight kind of befuddled bemusement,
+like what is it he does? What's his job? So academically, you were successful.
+What did you study at university? So initially, I studied basic science. I
+became a biochemist, but very early on, loved immunology. The turning point for
+me was, you know, probably I was aged, God, 19? And a friend said, this chap,
+Rolf Zinkernagel, is coming to speak in London. He'd gone to win the Nobel Prize
+10 years later for describing these things called T-cells and how they recognise
+infection. And so we decided to go and hear him. And really from that moment on,
+I was kind of on Team T-cells. T-cells, this is the type of white blood cell
+that swings into action when we get infected, circulating our bloodstream,
+seeking out and destroying infected cells. I mean, how much was known back then
+when you attended that lecture? Rolf Zinkernagel was starting to unravel it, but
+it was kind of a mystery. So I guess after the pandemic, I think lots of people
+became experts in antibodies and have it on board that antibodies float around
+in your blood and recognise proteins like spike, which shouldn't be there. And
+T-cells are the other half of the immune system, and to my mind, much kind of
+cleverer. And in those days, it was a complete mystery what they recognised or
+how they did it. And that was the kind of steep learning curve of those years.
+And was it the mystery, the fact that we didn't understand them, that really
+excited you? Yes, totally. You know, this was a fast-moving field, and people
+would stand up at conferences and have big rows about it, about their different
+models and different understanding. And it was before the days that molecular
+biology had really kicked in. So we had the ideas, but we didn't really have the
+toolkit to address them. So, you know, a lot of outrage, a lot of hand-waving, a
+lot of disputes, a lot of philosophising until the tools came on board. Well, on
+graduating in 1980, you went off to Bristol University to do a PhD precisely on
+how T-cells control a particular disease, the herpes virus, after which you were
+awarded a fellowship to work at the Weizmann Institute in Israel. This was in
+the mid-80s, when papers on T-cells were coming out thick and fast. Did it feel
+exciting to be working in such a fast-moving field? It felt terribly exciting.
+It was great stuff. And by the mid-1980s, I'd come back to London to what was
+then Imperial Cancer Research Fund. And that's the time when immunology really
+entered a new age, because molecular biology came in. We could stop hand-waving
+and drawing bubble diagrams and cartoons and actually clone things and sequence
+things and be serious scientists like everybody else and work out what our
+pathways were. So from the time that I was a postdoc, a big driver was to
+understand these things called HLA molecules. So to rewind a little bit, the HLA
+molecules are the genes that we have. They're terribly variable between people,
+but we're all different in our HLA molecules. And the way that I was thought
+about them historically is there are immune response genes. And this
+communication between these HLA molecules and the T-cells, telling them this is
+the real focus of your research, isn't it? It's the focus of my research has
+been very boringly for my entire life. You know, I feel like school friends of
+mine and college friends pursued exciting careers where they went here, there
+and everywhere and changed directions. I've kind of worked on the same molecules
+for my entire life and adored it and had great fun. But also, thank goodness for
+the rest of us. So I mean, basically, so the T-cells are these killer drones
+floating around, seeking out and destroying these infected cells. The HLA
+molecules encoded by these genes, they are the military intelligence. They tell
+the T-cells what to do. Exactly that. They're sitting on the surface of your
+white blood cells. They're sampling the environment all the time, binding little
+bits of protein into their groove. And based on the intelligence of what's in
+that groove, they're saying, oh, you're OK. You're just a normal bit of skin
+sequence. You're a normal bit of muscle sequence. You're not OK. You're a bit of
+an Ebola virus sequence. So let me get this straight. All the cells that make up
+our body tissue, so skin, muscle, organs and so on, have this molecule on the
+outer surface that raises a flag, and it's telling the T-cells who are ready to
+attack, yep, come and get my cell, it's infected. Yeah, good way of putting it.
+So they're sampling the environment all the time. Most of the stuff, quite
+innocuous, don't respond to it. Don't say we're infected. Don't raise the alarm.
+And then suddenly there's a bit of COVID spike or something there, and they're
+saying, come and get this. Right. And they're also telling them what the cell is
+infected with. They're saying what the cell is infected with. And lots of
+intelligent information going into the T-cell. What kind of response do we need?
+How angry do you need to be? What kind of chemicals do you need to make? You
+know, really intelligent communication. It's military communication. We sort of
+endowed these cells and molecules with some sort of sentient intelligence, but
+it is just really so clever. It's glorious. I mean, let me try you on a metaphor
+that comes from my colleague, Benny, where he describes it like this to
+students. He says, imagine that the government have decided that they're going
+to monitor all the cars coming into London because they know that the baddies
+tend to drive the red minis. The red cars are the viruses. In this analogy, yes.
+The red cars are the viruses. And the baddies are quite sneaky. So sometimes
+they'll put a spoiler on the mini or change its color or put different wing
+mirrors on, and then it's harder to catch them. So that's why you need your
+other bit of the immune system, the other half, which are the T-cells, which to
+me are even more intelligent, because instead of just photographing the overall
+shape of the minis, they're saying, well, if they try and sneak some different
+version of it in, what we'll do is we'll crunch the minis down to its bare
+components and look at its spark plugs and its door handles and its wing
+mirrors, and that way we'll never be conned because we'll always know whether it
+was the part of a red mini or not. And that's the T-cells recognizing bits of
+viruses and bacteria. So even the most altered and souped up and pimped up red
+mini will still have components that the T-cells will recognize. Totally. It's
+gorgeous. You can't hide from us. I mean, it is incredible when you think about
+it, just how many different viruses and bacteria the T-cells are able to
+recognize and destroy. I think the point I try and get across is that to be a
+mammal living on planet Earth is a really dangerous business. The chances of
+survival are really, really poor. There are so many scary things around us, the
+ones you know and the millions that you don't know, where as genomics gets
+better and better, we're sequencing new viruses and fungi and bacteria all the
+time. And to be a species living on planet Earth, you need a good immune system
+that can deal with all of those. So the immune system is a really fantastically
+complex beast and genetically very highly programmed to get us through that.
+Many of us think quite a lot about our immune system and how to boost it through
+lifestyle changes or diets or taking supplements. But perhaps we don't probably
+quite appreciate just how different we all are in our ability to fight specific
+diseases. Yes, I think so. Obviously, among the many, many questions I get asked
+by journalists during the pandemic were certainly questions about lifestyle and
+diet and supplements and things. And I guess at the end of the day, if I was
+asked how to have a really good protective immune system, it would be pick the
+right parents, ideally genetically diverse parents and be moderately well
+nourished. And that's the best you can do. And then hope you've got the right
+genes. So my ability to fight a particular disease is not going to be the same
+as yours. Totally different. Right. Yeah, totally different. So, you know, one
+of the things that I do when I teach students is I'll introduce the subject by
+saying hands up if you know your star sign. And everybody will put their hands
+up and shout out Capricorn, Gemini, whatever. And then I'll say hands up if you
+know your HLA type. And nobody except for me in the room will put their hands
+up. And it seems bonkers to me that you would think it was valuable in life to
+know whether you were Virgo or Gemini and not know whether you were going to be
+more prone to making a good or bad response to your Covid vaccine or more likely
+or less likely to get MS. I mean, you know, surely that's quite important to
+know. OK, so how then do I find out about mine? I know, for example, I've got a
+blood condition, beta thalassemia, from one of my parents, Middle Eastern
+background. Yeah, yeah, yeah. You know, which is down to a defective gene. How
+do I find out what other diseases I may or may not be susceptible to? Well,
+obviously, what you need to do is get your DNA sequenced. A kind of sneaky and
+kind of communally useful way to do that would be to register as a bone marrow
+donor, which is, you know, quite a sort of selfless, useful thing to do. And you
+get to know your HLA type. Right. I'm on it. So, Danny, maybe you can explain
+what you do all day in the lab. Well, nowadays, I probably don't do very much in
+the lab that's useful. But I think one of the things that sometimes makes me
+feel very old when I speak to PhD students today is that today their lives are
+very technology driven and computer driven. And they will do an experiment that
+may be cost 20,000 pounds worth of reagents and equipments. It generated 100,000
+lines of data and they could essentially sit at home for the next month
+analyzing it and decoding it and working out the big data. And then we could
+write a paper about it together. When I was their age, we were we were manual
+laborers. It was all about how many hours you could spend in the lab pouring
+your gels, culturing your cells, pouring your sequencing plates. And it was very
+common to work a 70, 80, 100 hour week because it was labor intensive manual
+labor. Yes. Yeah. And I was spent looking down microscopes, looking down
+microscopes. So it's one of my most common expressions in those days was you've
+got to get your eye in. What did get your eye in mean? It meant get to know and
+love your cells. How do they look? Are they happy? Are they unhappy? Are they
+activated? Are they not activated? Are they responding? It was your life. So you
+could actually look under the microscope and see T cells interacting with
+infected cells? I can still close my eyes and see an angry activated T cell.
+Yes. It's a kind of sort of bulging teardrop and sitting there ready to do all
+its stuff. So it's battleground. It's warfare. It's great stuff. And when you
+use words like it's warfare, it really is down at the molecular scale. It's
+really exciting stuff. Yeah. Yeah. A lot of people think of us as scientists all
+need to be good at maths and good at problem solving. But being good with words
+is also very important, isn't it? I think there are there are many different
+kinds of scientists. Yeah. And partly that's beautiful because it means you can
+bring different things to the party. And partly it's kind of threatening because
+it means you can never overcome your imposter syndrome, because there's always
+somebody out there who's got a far bigger skill set than you have in something
+or other. So in my case, it's the fact that I'm barely numerate and the others
+in the room, you know, are doing crunching lines and lines of coding. Well, you
+say you're barely numerate, but my producer tells me you're into 19th century
+classics. So, yeah. So whatever I lack in numbers, I possibly make up for in
+words. So for my entire adult life, my my mindfulness, if you like, has been to
+read 19th century classics in the bath from 5 to 6 a.m. And every day, every
+single day of my life. So, you know, so I'm apart from being good on HLA and T
+cells, I'm pretty good on Tolstoy and Dostoevsky and Dickens and Hardy and
+Trollope and things like that. And one of the things I do like about words and
+narratives and things is, oh, you know, the idea that sometimes I think you just
+have to ask a good question, do a good experiment and tell a good story about
+what you found that's new. Yeah, I think that applies to all science. And even,
+you know, you're solving difficult mathematical problems. If you can't explain
+it, if you can't add the narrative that makes other people understand it, then,
+you know, what's the point? I hope so. You know, I think I think it's important.
+So it was it was drummed into me when I was at the Weizmann with with Irene
+Cohen, who would sit with me writing papers over a bottle of malt whiskey. And
+we'd fight over every adjective. And, you know, nowadays I sort of fight with
+people over coding and pathways and computer algorithms and things. And in those
+days, we'd fight with a copy of Rogers Thesaurus about, you know, which
+adjective or adverb to use. And the idea was to try and write something
+beautiful and compelling and interesting. And that seemed still seems kind of
+fair to me. Yeah. You know, I have my favorite scientists and it's not just
+their discoveries. It's because I love the way they write. Yeah. Yeah,
+absolutely. Now, Danny, during this time in the 80s, when you're working full
+time in the lab, 12 hour days and so on, you wrote a very important paper in
+Nature in 1989. How big a moment was that for you? Well, I think for any
+scientist, the first Nature paper moment is a big moment. Yeah. It's like
+whatever it is, you know, getting your first BAFTA or Oscar or Booker Prize or
+whatever it is. It suddenly means that you've done something right and people
+have noticed you. And in that particular case, it was decoding some of the use
+of these HLA molecules by being able to clone the genes and put them into cells
+and show what they did and be a bit reductionist about it. And the telephone in
+the lab starts ringing and people from other countries and other continents are
+saying, you know, do you want to come and be interviewed for a tenure track
+position or come and speak to us? And suddenly the job feels a bit exciting.
+Yes. You've made it. You've made a big splash. A little bit for a few years. And
+of course, that paper, the 1989 paper, you say the phone was ringing and
+suddenly you were in demand. That then meant that you were traveling the world
+talking to scientists. Yeah. You know, I think I think the joy of the job we do
+is that you're part of this international community and I can pick up the phone
+or the email or go on a plane to friends and colleagues in countries in every
+continent of the world. And we share a world. And that's a that's a wonderful
+thing about the job. It really is. And that's what's interesting about your
+work, isn't it, Danny, that because you work on our immune response to all sorts
+of diseases, you're not like, you know, there's a lot of scientists who will
+specialise in Ebola or Zika for you or any infectious disease where pathogen
+enters the body and our immune system has to develop a response to it. That's
+that's your area. I think it's it's my focus, obviously, is these HLA and T cell
+interactions. So that's been my driver all through my career. And yet I've
+applied it to many, many different autoimmune diseases, cancers, infectious
+diseases. And over the years, that's been something quite confusing to my
+colleagues who thought perhaps I was a bit dilettante. You know, why is it, you
+know, Altman one year he was really keen on anthrax and then a few years later
+he was really keen on MS and then a few years after that he was keen on Zika
+virus. What's the matter with him? And the answer is I was always thinking about
+the same thing, how the T cells get turned on and what turns them on and what
+they recognise. I was just applying it in different contexts, often in different
+countries. Yeah. Presumably, if you try to understand a military intelligence
+system, you need to test it out in all sorts of different battle environments.
+Totally, totally. Yeah. Yeah. OK, so there you were travelling the world,
+studying our immune response to all sorts of infectious diseases when bang, a
+totally new virus arrives on the scene, SARS-CoV-2. Did you immediately drop
+what you were doing to get to work on this or did you, like most of the rest of
+us, just have this moment of confusion about, you know, just not knowing what to
+do next? Yeah, well, you know, our lab, like all the labs at Imperial College,
+we were closed down when lockdown happened. But you were allowed to gradually
+reopen your labs if you worked on on Covid. So I run a lab with my wife,
+Rosemary, who's also an immunologist and respiratory doctor. So it was very
+natural territory for us that we would start to apply our toolkit to Covid and
+start to build up some collaborations and start to do stuff on it. So we really
+became a kind of seven days a week Covid lab, both working within the UK and
+collaborating with lots of other countries that were having a very bad Covid
+experience. Well, you've been working on Covid and in particular long Covid ever
+since. When did you first realise that that long Covid might be a thing? Yeah,
+so I do feel that long Covid is really important. And, you know, the idea that
+there's a kind of persistent trail of disability that comes after your acute
+Covid infection for perhaps 10% of everybody on planet Earth who's ever had
+Covid, which is hundreds of millions of people. Yeah. And so it does feel like a
+big deal to me. And it kind of came upon me quite early on. So if you think back
+to what, March and April 2020, when people who had friends in England were
+seeing their first ever cases or their first ever friends who were affected. And
+I had friends talking to me, one of my best friends, saying there's something
+weird here because, you know, I can hardly walk around the block anymore. And I
+used to kind of go off on my bicycle and I can't anymore. What's going on? And
+it did sound to me like a thing and a real thing. And it was immediately
+slightly familiar to me in terms of consequences of viral infection, because
+part of the day job immediately before Covid had been travelling to Brazil,
+where we were rather keen on another virus called chikungunya. And so
+chikungunya is one of the viruses you catch when mosquitoes nip you, a bit like
+dengue or Zika or one of those things. But in the case of chikungunya, you get
+your rash and your malaise and your fever. But then for quite a high proportion
+of people, they won't recover. And for months or years afterwards, they have a
+kind of almost autoimmune like arthritis. So it felt to me almost like one of
+those kind of cases. Right. So, I mean, clearly certain viruses can have that
+sort of long term effect. But when we think about long Covid, you say you really
+believe there's something here. But are there medical colleagues of yours that
+are still not convinced by long Covid that maybe they think your time is better
+spent doing something else? Oh, totally. So I think there are people who think
+that I'm sort of way off piste worrying about long Covid and spending a lot of
+my research time working on long Covid and perhaps wonder, oh, you know, whether
+it's psychological and whether people are having us on. And those kind of
+attitudes worry me and make me angry because I do think this is an enormous
+health care challenge. If it's as big as most of us think it is, then we've
+created a medical problem for ourselves and a medical caseload as large again as
+the whole of rheumatology or the whole of heart disease. That's going to have
+enormous consequences for people's lives, for the workforce, for NHS spending,
+doctor numbers, you know, you name it. So we're kind of obligated, I feel, to
+take it seriously. Well, certainly, you know, if there are millions of people
+who are ill for months and months and months after being infected, you know, we
+have to. So you are probably best placed to be able to answer this. What do you
+think is going on? So the picture that I'd paint at the moment, it's like a lot
+of Covid, isn't it? We've worked so fast and discovered so much at pace that you
+feel you know a lot. And yet it's kind of scattergun of sort of facts here or
+there. So if you ask me to draw the textbook pathway, I'd be hard placed to do
+it. So I recently wrote a book on long Covid with a patient called Jez Medinger,
+and he's got a very good analogy for describing it. He says the state of
+knowledge at the moment is you've got one of those thousand piece jigsaws and
+you feel like you've done very well. But actually, you've put in place the easy
+pieces around the edge and you know, you're bluffing about whether it's going to
+look like a horse or a steam train, you don't really know yet. So we've got the
+pieces around the edge. And at this stage, long Covid, it's sort of a catch all
+for what could be many different things. It's an umbrella, almost certainly for
+more than one thing, which includes clotting abnormalities and inflammatory
+abnormalities and possibly autoimmunity and possibly viral persistence. The idea
+that people might not quite clear their Covid. There's lots of ideas in there,
+but hard to put them all together. So all similarish symptoms, but maybe
+different causes. Yeah, yeah. And which of the causes do you think might be the
+most likely that's leading to this persistence? Oh, well, I mean, to stick my
+neck out before we finish the research and say which is most likely, it's trying
+to guess the jigsaw puzzle before we build it. So, you know, all hypotheses on
+the table. So the jigsaw puzzle still is far from complete. And I know this is
+an impossible question to answer because scientific discoveries don't follow a
+predictable path. They always surprise us. But is it ridiculous to think that
+there might be some effective treatment that that jigsaw puzzle will start to
+take form, say, in the next five, 10 years? Or at least there may be a
+diagnostic test of some sort. Yeah, totally. So the people with long Covid are a
+very engaged and desperate and vocal group. And when I meet up with them either
+in real life or on social media, they feel that we're taking our time and
+dragging our feet. And where are the treatments? And you must know what they
+are. Why are you withholding them? And at that stage, I come across as a
+professor, slow and boring and say, you know, we could have a hypothesis and
+we've got to test things out and randomize control trials and work out what what
+works. Otherwise, we're wasting our time and energy and maybe doing dangerous
+things, you know. And yet, if I look at all the dreams we've had during the
+length of my career to deliver on immunology and all the crazy things we used to
+write in grant applications in the 80s and 90s, they've all come true and
+they've all delivered. And there are amazing therapies for autoimmune diseases
+and for cancers and things. So if you ask me, you know, do I have faith that
+we'll deliver on this one as well? By we, I don't mean me. I mean, all of us as
+a group. You know, totally. Absolutely. Professor Danny Altman, thank you very
+much for sharing a Life Scientific. Pleasure. The Life Scientific was presented
+by Jim Al-Khalili and produced by Anna Buckley. Now on Reading 4, it's one to
+one. Hi, I'm Susie Rack. I'm a women's football writer for The Guardian and
+author. In a previous life, long before I had ever realized that football
+journalism was even an option available to me, I dreamt of being an architect. A
+love of buildings and their impact developed when I was eight years old and a
+student teacher had my class designing and making models of our dream homes. I
+had spent all my life till then in our little two bedroom council flat in
+Hoxton. Used to broken lifts and pistained stairwells and suddenly the world of
+design and its potential was open up to me. I went on to study architecture at
+university and then pivoted to my long term love of sport. My guest today is
+Joanne Marsden, who grew up on the Park Hill Estate in Sheffield, which was
+labelled a utopian housing scheme in the 1950s and built to create a new
+community for families with streets in the sky. Spaces outside each home that
+were wide enough for a milk float to do doorstep deliveries and people to
+congregate and play in. So, Joanne, you still live in Sheffield, but you've
+joined us in London for this record because you're down here for something else.
+What is that? I'm down here to see a play called Standing on the Sky's Edge,
+which is about Park Hill flats. Am I right in thinking you've seen it for the
+eighth time? It'll be eighth time, yeah. And what is it that has resonated so
+much with you? It just takes me back to when I were younger. It feels as though
+somebody's wrote my life, jumbled it all up and then thrown it on stage. And
+it's about three families over 60 years living in the same flat. So you've got
+your first family that comes in that's a working class family. And then you've
+got another family that's refugees. Although I weren't a refugee being mixed
+race back in the 70s, there weren't many black families around. So I can relate
+to the black families and how they talk to them like they can't understand
+English in play, because people used to do that to us. And then the third family
+is a middle class woman that's moved from London. She's had a break up with her
+relationship and she's come to start a life in Sheffield. And that's what's
+happening now to Park Hill now. They've been redeveloped. There's a lot of
+people coming from all different areas, you know, from different parts of the
+country. So tell me a little bit about where you grew up. Like, what was the
+flat you're in like? I mean, mine, I was in the fourth floor of quite a low
+rise. Like, what was yours like? I was born on there in my nan's back bedroom
+and she was on eight flights up. And then we lived on third storey. So three
+landings. We had a two bedroom. There were three daughters and then my mum and
+my stepdad. So there were five of us living in a two bedroom flat. It was nice.
+It was nice enough. It was cosy. It was warm. But what resonates with me with
+what you said about every time you went in lift, it really smelt away. But it
+didn't put you off using them to be fair. We used to get ourselves stuck in
+lifters kids and sitting there for hours playing cards and having a sneaky
+cigarette and stuff like that. When the lift was broken as well. It was just the
+worst thing in the world, having to climb up all the stairs. I just remember
+that. I think the thing that gets a bit lost about council estates and the way
+they're talked about in the media a lot nowadays is the sense of community that
+they bring. What was it like for you living there? Every day we had something
+that we could do because although it were a block of flats, we had quite a lot
+of grassed areas. There were loads and loads of kids to play with. So there were
+always something to do. We had two school yards where we used to play football.
+Even between me and boys, I was one of the best players. But like when I was at
+school, girls couldn't play in a football team. So I used to play when they were
+training because I used to play in out lads. They set up a surprise for me and
+it would go down to Sheffield United football ground. That were closest they
+ever got to a football pitch. That's amazing. Yeah, that's when I was growing up
+on my estate. We weren't too far from Highbury. So everyone would leave windows
+open on match days and you could just about hear the roar of the crowd from the
+stadium. But then also you'd hear all the people celebrating on the estate as
+well. And it was like a big thing whenever there was a big match. Everyone
+around was watching it together almost like you were all on the sofa. Almost in
+the same living room, which was quite cool. But similarly, we overlooked a
+little play park in the center of the estate. So parents didn't have to go down
+with their kids. They could just look out the window or look on the balcony and
+see their kids down in the playground. They were okay. There were no roads to
+cross. It was part of the estate. And I used to go down and just kick the ball
+against the wall for just hours at a time. Just trying to hit the same brick to
+practice my skill and accuracy. And just loved it. Loved the freedom and trust
+to be able to just go down and feel very safe as well. Because a lot of the
+issues and ideas that are put out about estates is that they're not safe. But
+when you're part of that community, you do feel very safe. It's like everybody
+watches out for everybody. You've lived a few other places beyond Park Hill,
+particularly when the regeneration started and stuff. How much did it make you
+look at Park Hill's design and the way the spaces were created for you? Well, I
+moved out in 2006 and it was another council house that I moved into. But it was
+in a really nice area, Sheffield. And I never got to know my neighbors. There
+was never anything going on. It was just so different. And with Park Hill, I
+think because there were a thousand properties in such a short area, they made
+use of the space that were around Park Hill. So every little space allowed you
+to be creative and play outdoor games. I think feeling part of something, you
+always felt like you belonged. Obviously, there are certain connotations with
+living on council estates. What for you were the negative aspects about living
+on Park Hill? People were scared to come on Park Hill if they didn't live on
+Park Hill because of what they'd read in newspapers. And it just weren't like
+that. I'd come home at one or two o'clock in the morning. And as soon as I got
+on Park Hill, I felt safe. Because I knew there'd be somebody looking out for me
+if something were to happen, no one ever did. But it had a really bad
+reputation. Yeah, I've always felt very, very defensive of council estates
+whenever they're brought up linked to crime and negativity. I mean, you get
+crime in every area and it may well be higher in certain areas than others. But
+I think there's reasons beyond the council estate for that. Like poverty is
+higher in the area, that there's a lack of investment, that education doesn't
+necessarily stand up in the way that it should. And give kids opportunities when
+they're coming from more difficult grounds and areas. There's so many reasons
+why they have bad reputations. But I also think it's a bit of an ideological
+thing too, right? When the ruling ideology is that everyone should own their own
+homes and that's why you get the broken lifts for weeks and weeks on end. Yeah,
+I was part of a young mums group and we tried to fundraise. We wanted money for
+stairways to repair windows because our flats were becoming damp. And we felt
+that they'd engineered it for it to be run down so that they could move
+everybody out and redevelop it. Because it were a prime area and that's what we
+thought, run up to this regeneration. And then when we all moved out, they said
+that we could actually move back. But then they ran out of money and it took a
+lot longer than they'd planned to redevelop it. And then everybody that had
+moved out had settled in the new communities. I was so unhappy me where I lived
+because like you say, everybody sells you this dream to go and find an affluent
+area, get yourself a car, buy yourself a house. And I got the most beautiful
+house. Honestly, it's a listed house, but it was freezing. There were no
+community. If I got out of a taxi at night to go home, it was so spooky in front
+garden. I used to make a taxi drive away and watch me walk into the front door.
+I just didn't feel safe at all. It's ironic, isn't it? When, you know, the
+council housing is generally treated as like a dangerous place to be. And you
+feel more safe on the estate than you do in the nicer area of Sheffield. But
+it's because when your community gets disparaged so much, there's a real
+distrust there of people coming to watch or walking through, isn't there? That
+you don't get if you're part of it and part of the community that's there. That
+feeling, like you said, being free, being able to play out, feeling safe. I used
+to love Sundays where we used to have Salvation Army, you know, playing on a
+Sunday and we'd all throw money over. And then all you could smell was Sunday
+dinners cooking. And I think unless you've experienced that way of life, you'll
+never understand it. Yeah, no, I feel very similarly. The feeling of going up
+and down the balcony in front of the doors on our roller skates and stuff. And
+being shouted at by the old lady at the end who gets annoyed at the noise. And
+like, I own my own home now, but it's not the same. We're settled, but I don't
+feel the same sense of community. That's same as Pork Hill now. It's not same
+and I don't think they can ever make it same. They'll never be able to replicate
+it. Because we all grew up as kids, you know, from being really young together.
+Whereas the people now that live on Pork Hill, they've come from all different
+areas. But I still feel safe and it still feels like home. Do you think you
+romanticised what it was like to grow up there or was it just as good? Oh no, it
+was good. The community, honestly, you didn't want for now, you know, all right,
+we were working class and we didn't have a lot of money. But we always went on
+holiday. We always went on day trips. We always had shoes. We had everything
+really to make you happy, I suppose. I felt as though I belonged there because
+my nan and I were one of the first people. Everybody knew my nan and I because
+she was a stand-up landing and stop all the kids and make them have a chat with
+you. And my grandad, he worked in Boiler House. So my grandad, everybody knew my
+grandad as well because he worked down there. When I had my own kids, we all
+used to get ironing boards out on a Sunday night when we'd put kids to bed. And
+then we'd all get us ironing boards out on landing and start doing us ironing,
+you know, and just chat and have a coffee or whatever. Everybody helped
+everybody. Everybody looked after each other. Yeah, it was the same on our
+estate. So two doors along was my oldest friend. She was the same age as me. But
+I remember when their third sister was born, they stayed at ours and we had a
+sleepover. And likewise, they were Lebanese. I'd go to their flat and eat the
+most amazing Lebanese food. And then they'd send me back with a little
+tupperware for my mum. It's like having a bit of an extended family on your
+doorstep. It's just a much wider group, isn't it, that comes towards you? I used
+to have set days, you know, where like Sunday I'd go to my nan on Sunday dinner.
+Monday I used to go to another friend's call, Maxine, and her mum used to do
+bubble and squeak. You know, I loved her mum's bubble and squeak. So I had like
+set days where I'd have something planned, you know. I think that's why I like
+coming to London because it's so busy and every day you can plan something
+different. Am I right in thinking that you wanted to study architecture at one
+point? Oh yeah. I applied when my kids were in nursery, yeah, and I got a place
+but I couldn't get childcare for kids. So I managed to do two semesters and then
+I ended up dropping out. Was the inspiration the experience of Park Hill and
+like what that had done for you in your life and your community? Yeah, because I
+always wondered why they built Park Hill the shape that they built it, you know,
+like in an S shape. I could never understand and I always wondered what were
+thinking behind it. I think the design of the estate was very much tied to a big
+architect, very famous, called Le Corbusier, who designed a lot of buildings and
+developed this idea of streets in the sky and having all of these communal
+spaces. And the really famous building he built in Marseille called Unité de
+Habitation was, it had streets where you had nurseries and grocers within the
+block. And there was like a little communal swimming pool on top and things like
+that. And I think it was based on that. Do you think that that worked? Did that
+enhance it? Because you had the pub and there were shops and stuff weren't there
+as part of it? Yeah, we had all shops. You didn't have to go into town for
+anything. And then we had a juniors and infants school and a nursery. So it were
+only when you got to 12 that you had to actually come off estate to go to
+another school. How do you think it's shaped you as a person? I like helping
+people. An example, do you know when I'd moved off Park Hill, this new estate
+that we moved on to, they moved all different families in. It was an estate
+built for families and all kids. They'd come from all different parts of
+Sheffield. So they were constantly fighting. Parents were constantly coming out
+and arguing with each other. So I set up a little bike club because I love
+cycling as well. So I thought, God, if I can get all kids a bike, I can start
+taking them on bike rides. And then if I can get some cohesion with kids, we can
+start building a community. Eventually, I'd got all kids coming around with a
+bike. Some kids had got brand new bikes. Some kids had not got bikes. So I asked
+bin men, do you know if you see any scrap bikes while you're going around, can
+you throw them on my back garden? And we started doing a little project where we
+built every kid on estate a bike. And that's what we did every Tuesday. I'd do a
+big pan of chips for kids, get newspaper, game a corner chips. I'd get a big
+bottle of dilute pop and we'd start fixing each other's bikes. And that's how I
+started building a community. And I think that's what I learned from being
+brought up on Pork Hill. That if we share and everybody's got, then nobody goes
+without. And it stayed with me. If I can help somebody, I'll help them. Thank
+you so much. Anything to do with Pork Hill, I'm happy to talk about. So thank
+you for inviting me. One to one was presented by Susie Rack and produced by
+Caitlin Hobbs. On BBC Radio 4, we are all a unique accumulation of our own
+unique experiences and knowledge. The poet, Lem Sissay, looks at uniqueness.
+Rainfall like applause is utterly unique every time it happens. Reflecting on
+the occasions he's stood out. In a room full of graduates, people without
+degrees can sometimes get defensive about it. Not me! Lem Sissay is the one and
+only. He'll like an aw. Starting this Friday morning at 11.30 on Radio 4 and BBC
+Sounds. Now on Radio 4, our Book of the Week. As he tours Britain's graveyards,
+the journalist Peter Ross reaches Belfast. Where he finds a heady and
+controversial blend of sacrifice and martyrdom among the stones. A Tomb With a
+View is read by Andy Clark. Belfast. Easter Sunday. It was high noon and the
+crowds had gathered for the parades. Three separate Republican marches were
+setting off at different times from different junctions on the Falls Road. In
+each case, the destination was the same. Milltown Cemetery, where the fallen
+would be honoured with speeches in silence, bowed heads and unbowed hearts.
+These annual processions commemorate the Easter Rising of 1916, the armed
+rebellion against British rule. They honour too the so-called Patriot Dead.
+These include not only the rebels of 1916, but also members of paramilitary
+groups who would more commonly be described as terrorists. If anyone was under
+the illusion that the deaths being remembered belonged to a dark history now
+past, or that Ireland's political violence was over, what happened three nights
+before would have provided a stinging corrective. A police search for firearms
+and explosives on Derry's Craigan estate led to a riot. Petro-bombs were thrown,
+and at 11pm a masked gunman opened fire on police lines. Lyra McKee, a young
+journalist covering the unrest, was shot. She was taken to hospital, where she
+died. The new IRA admitted responsibility. Here was yet another life lost before
+it had properly begun. All those callow ghosts. I grew up on the UK mainland and
+followed the troubles through the lens of the BBC, so there was something
+bewildering and unsettling about watching this Easter Sunday parade in Belfast,
+where armed rebels were celebrated and mourned. What unsettles is the seduction.
+There's a dark romance to these ideas of sacrifice and martyrdom. They colour
+Belfast like some hidden pigment. It's in those murals, Loyalist and Republican,
+which brighten the gable ends of houses. It's in every drop of blood spilled on
+these streets. Irish republicanism has been described as a death cult. Whether
+or not that's fair, it's certain that the dead help keep the movement alive. In
+1915, the revolutionary leader Patrick Pearce gave a famous oration in which he
+argued that from the graves of patriot men and women spring living nations. He
+ended with an attack on the British state. They've left us our Finian dead, and
+while Ireland holds these graves, Ireland unfree will never be at peace. Those
+words are carved into granite at one end of the Republican plot in Milltown
+Cemetery. This area is the destination of the largest of the Easter parades.
+It's regarded by some as a sacred site. The plot holds the remains of 77
+Republicans, most of them members of the Provisional IRA who were killed during
+active service. Bobby Sands is one of three hunger strikers who died in the Mays
+prison in 1981. They're all here. Milltown is a striking place, rich in Catholic
+iconography. Entering through a grand sandstone arch, the visitor soon passes
+the marble monument above the grave of John Burke, a shipping magnate who died
+in 1922. It shows Mary and Mary Magdalene lamenting the crucifixion. The dirt of
+almost a century has turned Christ and his mother a sooty grey, but the
+Magdalene has somehow remained white and pure. These figures are everywhere in
+Milltown. On one of the newer graves, someone had placed a statuette of the
+Virgin next to a bar of Fry's chocolate cream. I'd come here the day before the
+parades to speak with Joe Austin. He's the chair of the National Graves
+Association in Belfast, the organisation which cares for the graves and
+monuments of those who've died in the cause. Austin is a veteran Republican
+activist. He's been a member of Sinn Féin for almost 50 years. It's sometimes
+said that a cemetery can tell the story of a city. For Austin, Milltown tells
+the story of a struggle. For Republicans, the honouring of the dead is very,
+very important, he explained. Graveyards reflect the memory of those who died,
+but they also reflect why they died, what they died for. The people buried here
+aren't just names for us, he said. There's 77 buried in this particular plot. I
+would know every one of them. I would know their families. I would know the
+circumstances in which they died. These are people I've come through struggle
+with. The Gibraltar Three, Maraid Farrell, Sean Savage and Dan McCann, are
+buried together. Executed by SAS, says a marker, 6th March 1988. According to
+Austin, what you have to understand is not only how they died, but how they
+lived. They lived as active, committed IRA volunteers, he said. They knew what
+they were doing. Would they be seen then as heroes, I asked. Yes, he replied.
+Everybody who lies in these plots is a fallen hero to the community they come
+from. There's no equivocation about it. I asked Austin whether the huge death
+toll of the Troubles was worth it. Well, he said, that's like asking someone who
+was involved in the D-Day landing if it was worth it. Many would find those
+comparisons repulsive. Similarly, most people outside West Belfast would
+probably find it hard to accept the description of IRA members as heroes. The
+first burials in the Republican plot took place in the summer of 1972, and the
+last in 1996. To be laid to rest there, it's necessary to have died as a result
+of some form of violence in the cause, whether in a shootout or through the slow
+suicide of hunger strike. The dead lie on either side of a central path around
+40 feet long. No funerals have taken place since the Good Friday Agreement
+established an imperfect peace. The flowers and flags and headstones, at a
+certain point, run out. Our greatest ambition, Austin had told me, is that no
+one else is ever buried here. Nevertheless, the space for future burials
+remains. Soil for a bitter crop. It's perhaps the most toxic 15 feet of land in
+the whole of Northern Ireland. Gunmen's graves as yet unfilled. The oldest
+burial ground in Belfast is Friars Bush. It's hidden behind a high wall and open
+only by appointment. A peaceful two acres, a little overgrown. It first appeared
+in the historic record in 1570, but it's likely much older. This is where
+Belfast's Catholics were buried before Milltown was built. Indeed, the whole
+reason for Milltown's existence was because Friars Bush became full to
+overflowing. The graveyard's secluded location made it suitable for the secret
+celebration of Mass during the late 17th and 18th centuries, when Catholics were
+discriminated against and persecuted. In 1869, with the opening of Milltown,
+Friars Bush closed. From that point, only families who already had burial rights
+were allowed to be interred in the graveyard. The painter Paul Henry, who grew
+up in the area, recalled in his memoirs that by the 1880s it was a rarity to see
+a funeral. He recalled his childhood impressions with a Dickensian eye. I often
+saw, he wrote, the old caretaker of the burial ground, a hunchback with a face
+deeply marked with smallpox. Sometimes on a dark night I would hear the rusty
+old gate clanging in the wind. And after nightfall, when no light shone from the
+tiny window, it was the house of the dead. Tom Hartley, the former Lord Mayor,
+is an authority on Belfast's graveyards. As a Catholic, his family, including
+his parents and younger brother, are buried in Milltown. He has an interesting
+take on death and the rituals we've developed to formalise it. For tens of
+thousands of years, he said, human beings have been burying our dead. We're part
+of an experience that's ancient and it's so obvious that we fail to see it. He
+believes we've come to regard burial and funerals as mundane. We don't
+appreciate the importance of these acts to our civilisation. Somewhere, tens of
+thousands of years ago, he says, somebody somewhere decided they would bury
+their dead. And in doing that, they unfolded a whole series of human changes. He
+believes our ideas of history and art, our sense of place, even the development
+of emotions such as grief, have emerged from how we treat our dead. His thinking
+was formed, I suspect, when he was still a boy, not yet five. When someone in
+the neighbourhood died, word would go round. A black bow tied on the front door
+was a sign of a wake house. Hartley and his pals would gather outside until one
+of them worked up the courage to knock. Mrs, they would ask, can we see the
+dead? Invited in, they would troop up the stairs. The corpse would be laid out
+on the bed. He remembers, with a child's eye view, that you would see the feet
+first. There was a sense of stopped clocks, stilled air. The room would be heavy
+with that aroma of candles. A circle of children around the bed. They weren't
+being morbid. This was common. It was a very important mechanism in the
+community, says Hartley. Even though you might be frightened and pushed up the
+stairs by the ten kids behind, you saw a dead person. I think it's fundamental
+to coming to terms with the idea that someday you die. Belfast, Easter
+Wednesday, 2019. The Church of Ireland Cathedral. It was high noon and crowds
+had gathered outside for the funeral of Lyra McKee. A reward of up to £10,000
+had been offered for information leading to the conviction of those responsible
+for her killing. But today wasn't about justice, or its coarse cousin, revenge.
+The people had come to celebrate and mourn. Inside, the chairs were filling up.
+One of McKee's friends laid out yellow scarves with black stripes. Mourners had
+been invited to wear clothes which reflected her love of Harry Potter. Yellow
+and black, the Hufflepuff colours, represent wheat and soil. Across the aisle
+from me, a young man wore an I Stand With Lyra T-shirt. A little to my right was
+Father Joseph Gormley, the priest who'd anointed McKee in hospital. I'd seen him
+on the news, calling for the Easter parade through Derry to be cancelled. The
+cathedral doors opened and a cold air blew. People turned with pale faces. The
+coffin was beautiful, as these things go, carved with Celtic knotwork and a
+cross. But there was no masking the horror, the brute physical fact of it. Lyra
+was 29 when she died. No age at all. She'd been a late developer. In her early
+school days, she'd struggled with reading and required extra support. But later
+she became precocious. There were journalism awards and a book deal. A bright
+future, everyone said. There was a sense, listening to the service, that what
+had happened was not only murder, but also theft. A thing of value had been
+stolen from the world. One couldn't help thinking, as her story was told, of all
+the stories she would never tell now. She was buried at a quarter to four on a
+hazy afternoon. Once the grave diggers had done their work and the mourners
+gone, the only sound was birdsong. The grave was covered in floral tributes. One
+card read, Words fail me. That felt about right. We carve words on stone to
+remember our dead. Their names and dates and some blandly appropriate text.
+There's a formality and finality to the conventions of headstones which takes
+all the mess of grief and loss and reduces it to something which can be said
+with hammer and chisel. A beloved wife of, sadly missed by. But that wee card
+with its admission of the limits of language felt real. Perhaps these are the
+truths we should engrave in straight lines and elegant fonts. Words fail me. I
+don't know how I'm going to get through this. I will never be the same again.
+Lyra McKee lies in a corner of Carn Money Cemetery, north of Belfast. She's
+wearing a flower in her hair. A Tomb With A View by Peter Ross was abridged by
+Anna Magnusson. The producer is Aileen McCready. This year as part of Red Nose
+Day you could win an iconic BBC treasure. We are making changes to the way BBC
+live streams are distributed via third party services and platforms and the BBC
+stream you are currently listening to will stop working by mid 2023. If you are
+using an internet radio or smart speaker and hearing this message, please
+contact the manufacturer. If you're listening on web or mobile, this service is
+available to stream on BBC Sounds. Red Nose Day. We'll find the terms and
+conditions and privacy notice. You must be 18 or over to enter. The giveaway
+closes at 11.59pm.
