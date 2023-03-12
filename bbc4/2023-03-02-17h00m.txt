@@ -1,0 +1,691 @@
+TRANSCRIPTION: BBC4/2023-03-02-17H00M.MP3
+--------------------------------------------------------------------------------
+ Rethinking music on Radio 4 and BBC Sounds starts on Tuesday morning at 11.30.
+BBC News at four o'clock. The inquiry into the Manchester Arena bombing has
+found that MI5 missed a significant opportunity to take action that might have
+prevented the attack. 22 people were killed in the blast after a concert by the
+singer Ariana Grande in 2017. The report also found that the bomber, Salman
+Abedi, probably received assistance in the plot from someone in Libya, a finding
+which contradicts an assessment made by the security service. Caroline Currie's
+19-year-old son Liam died in the attack. MI5 to the associates of the attacker,
+we will always believe that you all played a part in the murder of our children.
+We will spend the rest of our lives trying to protect our boys because as we
+found out through this process, once you leave the safety of your home, you are
+on your own. Officers who recovered the body of a baby in woodland in Brighton
+yesterday say they believe the newborn may have been dead for some time. A post-
+mortem examination has yet to be carried out. The parents, Constance Martin and
+Martin Gordon, are being held on suspicion of gross negligence manslaughter.
+Boris Johnson has warned he will find it very difficult to vote for Rishi
+Sunak's new Brexit deal because, in his words, this is not about the UK taking
+back control. Delivering a speech in central London, the former Prime Minister
+said there was no point withdrawing from the EU unless things were done
+differently. The former Health Secretary, Matt Hancock, has accused a journalist
+of a massive betrayal and breach of trust after she leaked texts he sent during
+the Covid pandemic. The journalist, Isabel Oakeshott, confirmed she'd broken a
+non-disclosure agreement she signed before helping Mr Hancock write a memoir but
+said had acted in the national interest. The pulp bassist, Steve Mackey, has
+died in hospital at the age of 56. The musician from Sheffield played on hits
+including Common People and Disco 2000 after joining the band in 1989. His wife
+Katie described him as her brilliant beautiful husband and said she was
+devastated to have to say goodbye. BBC News. The leak of a number of Matt
+Hancock's WhatsApp messages has raised questions over decisions around Covid
+testing in care homes. In half an hour we'll hear from one science writer who's
+followed the relationship between government and its scientific advisors
+throughout the pandemic and he'll tell us why he believes there needs to be more
+transparency and openness around the advice offered to government. This and more
+in BBC Inside Science at 4.30. But now Radio 4, creepy crawly time, we're
+heading down under for the last time with the Infinite Monkey Cage. Hello I'm
+Brian Cox. I'm Robin Ince. And this is the Infinite Monkey Web, our final
+Australian show for now. Actually, it might be our final show ever because
+there's a high chance things will go horribly wrong. There's not a high chance,
+right, this is fantastic, it's my favourite thing of actually seeing Brian
+scared of something. Because he's not normally scared, right, as you know Brian
+is an adventurer, he's the kind of person, you know, who likes going fast, he
+likes flying high, likes getting drunk in South American Amazonian jungles with
+pirates and you probably know a lot of that was not kept in the show for various
+reasons. It was edited out that bit. Yeah, alcohol, criminality and then it went
+really crazy didn't it when you started putting on that eye patch. But anyway,
+so we have now found that there is one Achilles heel that Brian has and of
+course it's a lovely Achilles heel I should say, it's much smoother than mine,
+it's a beautiful heel. He works that heel out, it is a muscular heel but
+nevertheless it is his Achilles heel and that heel is the Achilles heel of
+spiders. I'm not a fan. Today we are exploring the reality of spiders. Should we
+be scared of spiders or should they be scared of us? How many species of spiders
+are there? How do they behave in the wild and how do we study spiders in their
+natural habitat? And of course most importantly, will a bite from an irradiated
+spider really give you superpowers but at the same time lead to thwarted teenage
+love? We're not doing that. We should do that. I think now the Infinite Monkey
+Cage has reached the point where it needs to be part of the Marvel Universe.
+Benedict Cumberbatch can play you, he'd be good, Benedict Cumberbatch would be a
+good you and I could be played by a piece of sponge. In a cardigan. Today we're
+joined by three humans and several spiders. We'll let the spiders introduce
+themselves later on but our humans are a professor of ecology, a professor of
+ecological behaviour and a cake expert who has studied the psychology of Kylie
+Minogue. And they are? Oh, hello, hi. I'm Mariella Herberstein, I am a
+behavioural ecologist, evolutionary biologist at Macquarie University. I have
+personal fears and professional fears. My personal fear, swimming in the sea in
+Sydney is of course sharks. Professionally I think I have to watch out in
+fieldwork, particularly for snakes and crocodiles when we go up north and it is
+often a difficult job to explain to my colleagues and also my students that the
+crocodiles are really everywhere and they have to watch out. I'm Dieter
+Hockelaar from the University of Sydney, I'm an ecologist. I study insects and
+spiders and bats and birds and plants and humans in cities. I'm interested in
+how nature survives and even thrives in cities. In terms of animals I'm scared
+of, I'm actually – the saltwater crocodiles are the things that probably scare
+me the most. You know, they're one of those few animals that if they kill you
+they're actually doing it deliberately because they think you're food. They
+actually look at us and say, yeah, yeah, I could eat that. And yeah, so
+saltwater crocodiles, it's very hard to go near a puddle after you've been up in
+the top end for a while. I'm Claire Hooper, I'm a comedian and as of about ten
+seconds ago my most feared animal is a crocodile. Never occurred to me before
+but I'll be taking that home with me tonight. And this is our panel. Now what
+worries me is that you said, you know, they look at us and they see food. My
+anxiety would not be that I would be eaten by a saltwater crocodile but it would
+reject me. Send you back? Yeah. No, there's another swimmer over there whose
+legs look more delicious. Your eczema's rather put me off. The eczema's made of
+36 different herbs and spices. Anyway. Yeah, it's funny you should say that.
+There's a crocwise program in the top end of the Northern Territory and the
+basic advice to locals, you know, is basically try not to look like crocodile
+food. Stay away from the water, put your fish or clean your fish near the water.
+It's actually reasonably straightforward to avoid being eaten. Is there a way
+of, I mean, when you say don't look like crocodile food, is there also some
+cosplay that we can do? You can but it won't help with the crocodile thing. I
+can bring it back to her. Mariella, how many species of spiders are there? So
+right now we've probably identified about 50,000 worldwide. 50? 50, yes. So
+they're quite diverse, lots of them. Australia is magnificent for spiders.
+There's lots of them. They're colourful, they're large, they're everywhere. It's
+a dream. What are the smallest spiders? What are the largest spiders? Most
+venomous spiders? Okay. Alright, spider Olympics. All spiders are venomous. The
+question is how does the venom affect you, your species, humans, and you
+personally? So the bad news is we all individually could have anaphylactic shock
+to the protein, so similar to bees, so some of us would react really badly to a
+spider bite. In Australia, there are really only two species that are associated
+with death, the funnel-web spider, and there you really have to go and get a
+vaccine. But the last death was in 1978 or something like this. Since then we
+have anti-vaccines everywhere. And the good thing is you won't miss it, the
+bite. It's very, very painful, so you won't overlook. You won't go, oh, I missed
+that and I'm going to die. But... It's nothing nice to hear a scientist say, the
+good news is it's agony from the outset. It really is. Very, very painful. And
+the second one is redback spiders, and that's not absolutely deadly. The venom
+is a chemical that interferes with heart rate and breathing. People that have
+problems with the heart or small kids or very old people, they may get into
+trouble. But healthy people, young people, it's a bit like COVID, isn't it? They
+are also very, very painful, yes, painful. But redback spiders are lovely. They
+really are lovely, lovely, lovely spiders, very gentle. You said you were bitten
+in thumb by what spider was that? Can you tell us a little bit about the
+experience? For the radio viewers, Heather is demonstrating her thumb. So I was
+in the field and I was looking at a spider that's toiled a leaf in the web. And
+Sydneysiders may have seen this is a web and in the middle is a toiled leaf. And
+I was looking for males that cohabit with female in the leaf. And so I was
+breaking open the leaf. So there was a female in there, but not the male. And I
+looked away and then the females, very upset with me, jumped on my left thumb
+and bit my thumb. And it was an immediate pain, like a bee sting. And then I
+could feel the venom move up my arm, this painful pull up my arm to about my
+armpit. And then it stopped. And so, you know, I did the usual field adult
+report for the university. That's not the medical advice if you get bitten by a
+spider. It's not the first thing you do, is it? Fill out the report. I still
+have, and I'm happy to show everyone who's interested, a scar on my thumb from
+this bite from many, many years ago. And it was the only bite I've ever had
+throughout my entire career working with spiders. See, now we've opened up this
+scene from Jaws. Dieter, it's your chance to say what scar you've got. Mine are
+mainly emotional, but I think, you know, when Mariella mentioned that, I thought
+the chill that went down my spine was the paperwork. There's always been, I
+think since Billy Connolly particularly did a routine about funnel webs, that
+seemed to make him, but there was this, when people come here for the first
+time, this perpetual sense of kind of anxiety around. Does any of that actually
+exist when you live here? Robin, foreigners coming here are so afraid of the
+deadly spiders. The people that live here are just afraid of foreigners coming
+here. I don't know if this is everyone's experience, but growing up, my father
+made sure we weren't afraid of spiders by, you know, if there was a huntsman in
+the corner of our bedroom, he would get rid of it, but he put it on his arm and
+he'd let us look close up. We didn't generally accept it on our own arms, but I
+really appreciate that he did that because now in my household, I'm the person
+that takes the spider out. There has to be one in every house. You don't always
+want the job, but if no one else will do it. So yeah, I'm not afraid of spiders.
+Somehow though, I haven't been able to pass that onto my own kids. I now have
+two little kids who are terrified of spiders, which either means I have not
+shown them enough or I've shown them too many. I'm not sure. Oh, Dita, I just, I
+mean, I may regret asking you this, but we're inside right now in a big venue
+with like a couple of hundred people. How many spiders are close to us right
+now? People have actually tried to estimate how many spiders exist per square
+metre in the wild. I mean, this is Googling I did. It was on Wikipedia, so I
+think it's true. People are talking about in the wild, you've got hundreds of
+spiders per square metre because you know, they're not all big and there's a lot
+of them that are living in vertical as well, but there's probably about 80 per
+row. I'm just kidding. I made that up. Do you know what? Right. You're allowed
+to. Claire was saying that due to the spider bravery gene being possibly a
+recessive one, her children don't have it. And I just wondered, what do we know
+about why people seem to have, I would say it is an irrational fear because it's
+very rarely because someone has actually got a story of, you know, and that's
+how I lost my arm or whatever, you know, because in the UK there aren't deadly
+spiders. And yet if a spider, you know, is in a bath or something like that,
+there will always be people who are kind of screaming or jumping up on chairs.
+So I think there's sort of two types of explanations. Probably sort of the in
+between. One is there is an evolutionary basis for it. The fear of spiders and
+snakes because they can be dangerous for humans. And the other one is really a
+social hypothesis where, Claire, you try really hard with your kids to be calm,
+but they may have observed other children, other adults freaking out about
+spiders and they just pick it up like this and just perpetuate it. So I can't
+dismiss the fact that there could be a selective benefit and evolutionary basis
+that it is good to be a bit startled by snakes and by spiders. But I think that
+most of the behaviour we see is really copying other people. And is there a
+component of the fact that they have a strange body plan? They're very, very
+different to us. Could you outline the basic body plan just briefly of a spider?
+You talked about the segments and the... just describe a spider. Me or Claire?
+Claire, you start and then Dieter, you come in when you feel it might be
+necessary or not. That's a real good test, isn't it? No, you start. At least say
+something about the little legs or whatever. I'll clear up any of your messes
+afterwards. Thank you, Claire. Well, the biggest split is probably the front
+bit, the head and the second part, which is sort of an abdomen or opistoma.
+Essentially, basically, I've got a lot of the legs and the eyes are all in the
+front part and the abdomen, which is there for storing a lot of the food and the
+fat and producing the silk is in the second part. They've got a couple of
+different sets of mouth parts that starts off with a pair of pretty bitey
+choppers or... I can see Mariella twitching. Calissa, yeah. Bitey choppers.
+Yeah, they've got... the next thing is probably a thing called pedipalps and
+they're really fascinating. So if you ever see a spider with what looks like a
+sort of a leg with two big sort of boxing gloves on it, it's going to be a male
+because they're adapted for him to help transverse them. And then they've got
+the eight legs and that's sort of the main part of the first part of the body.
+Can I ask a question? And I'm not proud, but somebody has to. If a spider has
+eight legs and eight eyes, how many penises does it have? Two. I knew it was
+worth asking. It's zero and two. They don't have a penis. They have a genital
+opening. They ejaculate the sperm out of the genital opening onto a web. So
+males build a tiny little sperm web. They ejaculate onto the sperm web and then
+they dip their little pedipalps, their first pair of legs, into the droplet of
+sperm. They take up the sperm into their legs. Then they search for a female.
+Then they insert one of their little legs into the female genital opening. They
+ejaculate again. If they're lucky, they get to do it again with the other leg.
+Hang on a minute. Just to check that I've got the order right. They ejaculate
+and then they find a female. Yes. And then it's the left leg in and the left leg
+out. Once they shake it all about, little spiderlings everywhere. It's
+absolutely fine. And then after all that, they get eaten. So in many species,
+he's eaten maybe even after the first mating already and after the first
+copulation, he's already eaten. Some of the families, he also breaks off bits of
+his bits that get stuck inside the female and it prevents other males from
+accessing that opening. Wow. He plugs the hole. Yes. And that's what it's
+called. It's called genital plugging. So that's the official term. Well done,
+Claire. Cool. Well, I've got some big ideas to take home now. Do you think if
+the spider waited until she'd just eaten, he might get away with it? Do you know
+what, like, is she eating him because she's hungry or? No, because they're tiny.
+They're just an hors d'oeuvre. Just a little snack. So they're not substantive.
+So it's not about satiation, not about hunger, although hungry females are quite
+grumpy. I like to tell my husband he's just an entree. So this is my favourite
+thing is watching Brian try to recover from this. I'm thoroughly enjoying that.
+To bring it back to this. So why? Why then? Why do they do it? There's different
+stories for different species. So it's not a universal explanation. In red-
+backed spiders, males encouraged to be cannibalised. When the male inserts one
+of his little legs, he somersaults into the mouth parts of the female. And only
+then does she start nibbling on him. If he doesn't do the somersault, she
+doesn't eat him. And the advantage to the male is if she eats him, she prefers
+his sperm over the sperm of another male and fertilises her eggs with his sperm.
+We have some spiders, actually. We have some samples. Well, they're not samples.
+They're living spiders. Oh, that is actually not in a box. Hang on. Brian, do
+you want to swap seats? Yes, actually. I've been assured. To be fair, Brian, it
+is in a box. It's just that the box is not fully closed. So we have a very large
+spider in a very large web. That's not large. To me, it's large. I'm sorry. I
+came over all crocodile dundee there, but that's not a large spider. So this is
+a St Andrew's cross spider. This particular one is from Queensland, which we
+collected whilst looking out for crocodiles with great care. And she's built an
+orb web inside a frame that we have in the lab. So this is how we get a three-
+dimensional frame. It's about 10 centimetres wide and 30 by 30 centimetres in
+width and in length. And the moment she builds the web, she's actually quite
+happy on the web. And you can see she's quite calm and so on. I've also brought
+a male. He's tiny. He's very much smaller than her. I'm just going to put him
+here at the bottom of the web. We'll see what he does, whether he'll start
+climbing up on the web and start courting. It is a bit late for them, so maybe
+he will, maybe he won't. Sometimes it's just better to watch a TV show and go to
+sleep, isn't it? Well he's now come out of his jar and he's having a look around
+and he's got sensors in his legs so he can taste the silk and it gives him
+information about the female. And if he's interested, he'll move into the web
+and into the hub with the female. He'll nibble her legs a little bit, court her,
+create some vibrations and maybe... And then will he do all the things that you
+described? What is his fate if he does that? I think a 50% chance that he'll
+survive the first meeting. Good odds. It feels really sinister to watch. I get
+paid for that. Literally, they pay me to watch them. I'm serious. I mean, nobody
+ever told me that was a career option when I was a child. So what species was
+that again? So the species is called agaiope. They're beautiful. They have a
+stripy back, yellow and white stripes, very gentle spiders, never bitten me. So
+I've worked with them for many years. You had that just under the table you're
+sat at there. And has she remained in exactly that position? How certain can you
+be? So she will remain there until the lights go off and she... Whoever is in
+charge. I've got 50 pounds over there. Let's see how much we've got over there.
+When she rebuilds her web, which is sort of at night or early morning, that's
+when she starts moving around and that's where she explores and she'll come out
+of the cage, of course, and she'll find... Dieter said, you know, they're good
+at finding spots. And so she may just, you know, come out of the cage and find
+another spot. Well, it's not exactly a cage, is it? You've brought some other
+spiders as well. We'll keep you updated for the listeners at home on what the
+fate of that chap... I brought some huntsman spiders. So yeah. So who's a fan?
+Let's find out. Who loves huntsman? Who's a little bit more edgy with the
+huntsman? That's good overall. I think they're very much accepted. Yes. There
+are two types. There are solitary huntsman. They don't like to hang out with
+other huntsman. And then there's social ones and they form little social bonds,
+groups and hang out together. They hunt together. They sit on the bark together.
+I read recently, if a huntsman bites you, you are meant to... Hang on, let me
+get the phrasing right. Remain calm to stop the spread of venom. And I thought
+that that was a very ambitious suggestion. I have to be honest, you know,
+huntsman, they are pretty... They spook me as well because they're so erratic in
+their movements. Sorry, they're erratic in their movements? Yeah, yeah, yeah.
+They're just the scuttlers. To describe a huntsman. So these are, what, about
+the size of my thumb in total, I would say. But how large can a huntsman get? So
+these are juveniles. They're about maybe five to six, seven centimetres long.
+The adults can get quite big, maybe a span of 20 centimetres. And the females,
+really big, big, big bottoms. Like really nice and fat. Lots of eggs inside. And
+then she of course lays a cocoon and then she'll hang on to the cocoon and the
+little babies hatch. And then they stay with mum. They stay with mum for weeks.
+The social ones never leave mum. The solitary ones eventually go away and leave
+mum. Do all spiders molt? Because I only found this out really recently that
+they... Do all of them... So they don't grow, they just shed a skin and then
+they're bigger? I just... When I think about trying to wriggle out of a tight
+pair of pants and then imagine that pair of pants has eight legs, I'm just...
+How do they get out of those eight trousers and they're bigger? Four trousers,
+isn't it? Yeah. Sorry, of course. That's why we have him here. He is very good
+at maths. So they can only grow by molting. So because they have an exoskeleton,
+a hard shell on the outside, so... Forget the pants, it's on. So what has
+happened here? So the male has moved up the web and he's now in the hub of the
+female. So she's not aggressive at this stage. She's... Oh, hang on, there was a
+twitch. Yeah, that's him. He's twitching. All the under 12s must leave. And he's
+going to do a few vibrations. He's going to tug a little bit on the silk.
+Mariela, can I please be the godparent of the babies? Yes. 300 little eggs.
+That's quite a... So, well, you need to do a kind of a sports commentary on
+this. Yes. I'm happy to do it. It may take a few hours. Are you okay with that?
+Have we got enough drinks at the bar for that? So we were talking about the
+exoskeleton. How do they get it off and how are they bigger when it's off? So
+there's a chemical reaction that softens the exoskeleton from the inside out.
+And so you get a crack in the exoskeleton. What's under the exoskeleton is quite
+soft. And so they kind of slowly just pull themselves out. They're still
+suspended on a piece of silk. And then they're super, super soft. But then they
+use the hydraulics to expand. That's the growth. And then they wait in this
+expanded state. So you can really see them just stretch out the legs. And then
+the exoskeleton hardens. And that's when they've stretched their legs. Have you
+watched that? Yes, yes, yes. How long does it take? Oh, it does take a while.
+Yeah. Life as a spider is, I think, pretty crap. A lot of things are trying to
+eat you all the time. Mariela just mentioned that she's going to have 300
+babies. But you can guarantee that an overwhelming majority of her kids aren't
+going to make it. Love me, the spider. Sorry. Mariela hasn't had her genital
+plugging yet tonight. I'm so sorry. Cut that, please. That won't make the
+podcast. I'm so sorry. Nacy, if we cut the earlier bit, that's going to be a
+really interesting one. Hang me out to dry. I just wanted to ask a bit about the
+ecological niche that spiders inhabit. Because we hear about, for example, you
+often hear it said, well, wasps. We could do without wasps. They're pollinators,
+for example, that the world without wasps would be a much worse world. In terms
+of spiders, what ecological niche are they operating within? They're predators
+and they're voracious predators, particularly of a lot of other insects. One of
+the reasons I think so many of you were supportive of the huntsman is you know
+that they're in your homes happily chomping on the cockroaches you might not
+want to have at home. The reason we want to keep these things is they really
+enrich our lives. I think that's one of the things that's really important.
+These animals do an enormous amount. You're pollinators, you're parasitoids,
+you're spiders, and they're going about their business doing it. But this notion
+of people saying, kill it with fire and stuff like that, I'm a big fan of live
+and let live. Our spiders have clearly got a reputation for being deadly when
+they haven't killed that many people. It means that we should really celebrate
+them a little bit more, I reckon. How's it going over there? We'll have a quick
+last report. I think he's changed his mind. He's just sitting there. Very wise.
+He's not feeling it. No. It's his choice. She's not going to do anything at the
+moment. She's sat in the middle of the web. She's going to stay there. Yeah. So
+it's his choice to proceed. He spins a mating thread and suspends himself and
+then strings the mating thread, not unlike a guitar. And then it is her choice
+to move on to the mating thread. And she has to hang at a particular angle,
+otherwise his legs won't reach. And then he'll take a run up and insert a leg. I
+was looking to Claire for a comment and you seem speechless. As if there's
+anything I can say off the back of that, except, wow, that's a long birds in the
+bees chat for those spider kids. Thank you very much to our fantastic panel
+there, Marilla Herbstein, Dieter Hockerley and Claire Hooper. We asked our
+audience a question too, and it was what makes you jump most if you found it in
+the bath? So what would make you jump most if you found it in the bath? Petros
+just started with my ex-wife. Though I like the way you've spelled ex there,
+with just one, not ex, just ex, to suggest that again, still in the Marvel
+universe there. Gordon, Gordon said Robin in Sea Winds Sea Spider. Someone had
+to do it. Very good. Schrodinger's cat wearing one of Robin's cardigans. It's
+delivery, Brian, it's delivery. I mean, let's go back again to your delivery.
+Show Brian how to deliver. Oh, that, okay, that's a bit too much pressure. Also,
+there is certainly more value in a joke when it hasn't been heard before, but
+I'll give it a go. What would make you jump most if you found it in your bath?
+Schrodinger's cat wearing one of Robin's cardigans. Yeah, yeah, see. You'll
+notice there was a tonal change there, Brian. Your perpetual uh just didn't sell
+it. My teenage son, who'd be least expected to be there. So thank you very much
+for those. Thank you very much. This is the last show for the time being that
+we're doing in Australia, and I hope we're going to be back to do more shows
+here. You've been a fantastic audience and brilliant panels as well. And we
+don't actually know at the time of recording, we don't know what next week's
+episode is going to be, but we do know that it won't be about nature because
+Brian gets very cross, don't you, if we do too many things about living things
+because you don't understand them. So it'll be some cold, cold, indifferent bit
+of the universe. Claire, have you got... No, I was just going to say, imagine if
+Brian Cox spun a web, it would be a perfect grid. And with that, goodbye.
+Goodbye. And the Infinite Monkey Cage was, as always, presented by Brian Cox and
+Robin Innes. The producer was Caroline Steele, and it's a BBC Studios
+production, and all the episodes from this series of The Infinite Monkey Cage
+are available on BBC Sounds right now. Welcome to the Spark. When we're in the
+midst of it, we're going to make decisions that are different than the decisions
+that we would make if we were looking from the outside in. Bold thinking for a
+better world. We struggle to recognise or remember that these inequalities come
+from somewhere. That sense of human connection can save a life. I'm Helen Lewis
+with a new series of close-up conversations. More big thinkers with big ideas
+bidding to change our world and hearing some of the personal reasons behind
+them. Probably one of the best decisions I've ever made in my life was making
+that step. The Spark starts next Tuesday morning at 11 on Radio 4 and BBC
+Sounds. Now Radio 4, here's Victoria Gill with this week's BBC Inside Science.
+Hello. This week we are once again trying to work out how the COVID-19 pandemic
+actually started. And critically, how can we unpick the scientific evidence from
+the political blame game? And we're weighing in on an attempt to measure the
+mass of all the wild mammals on planet Earth, as well as asking why on earth
+scientists have done that. But first, COVID is in the headlines again. Not one
+journalist worth their salt would sit on a cache of information in such an
+important matter, such a historic matter. This is our plan. First and foremost,
+from the start, we've focused on the need to control the spread of infection in
+social care settings. Former Health Minister Matt Hancock has been accused of
+ignoring scientific advice from Chief Medical Officer Chris Whitty to test
+everyone entering a care home for COVID-19. We all saw how the tragedy of COVID
+affected care home residents who were particularly vulnerable. Mr. Hancock has
+denied the claims that came to light amid a leak to the Daily Telegraph of
+thousands of WhatsApp messages. Now we're not going to get into the who said or
+WhatsAppped what, but focus on what this whole saga shows us about the role in
+government of scientific advisors. Can their expert input simply be ignored?
+Well, someone who has been looking at that issue and what it can teach us about
+the response to the pandemic is science writer Phil Ball, who is a co-author of
+a scientific paper looking at this very issue. Phil, first of all, have you seen
+these now infamous WhatsApp messages? A hundred thousand of them, apparently.
+Yes, I've read them all. They're incredible. No, I mean, who knows what is going
+to be amongst them? No, I mean, of course, no one apart from some folks at the
+Telegraph have seen them all. So, you know, we've yet to see what they contain.
+But I noticed you were tweeting about the wider theme of what this says about
+scientific advice and the role of scientific advisors and and particularly the
+kind of conspicuous silence of Chris Whitty in response to this. So on that
+point, what do you think this shows us about that role and how kind of open and
+transparent scientific advice to the government can be? Well, this to me is a
+big part of the issue, certainly in terms of that initial debate about what
+Chris Whitty advised Matt Hancock about testing in care homes and what Matt
+Hancock then did. It seemed that that immediately was the thing that jumped out
+about that. And we've heard nothing about that. You know, in all this debate,
+the people we've heard nothing from so far in the media are the scientific
+advisors like Whitty. And that to me speaks volumes. My interpretation of that
+is that Chris Whitty and, you know, presumably Patrick Valance and the other
+scientific advisors are taking the view that because they in particular are
+civil servants, their responsibility has been to provide objective advice to the
+government and to support the government. And so it's not for them to sort of
+leap into the fray and start saying, well, I said this and you didn't do that.
+And I think that's quite proper. The point seems to come down to the Telegraph
+is suggesting that Matt Hancock disregarded Whitty's advice on testing in care
+homes for some reasons, perhaps to do with politically motivated agenda. Hancock
+has responded by saying, no, I made the decision that I did because I was told
+in another meeting that there was insufficient testing capacity. Now, presumably
+Chris Whitty knows the answer to that. And if he is taking the view that it's
+not proper in his position to intervene, I fully understand that. But I think
+one of the key considerations here has to be the right, the absolute right of
+the very many people who lost loved ones and relatives in care homes because of
+this situation. They have a right to know why the decisions that were made were
+made, what was the basis for them. And so, you know, it seems to me a situation
+where we do need to hear from the scientists what the situation was. There
+doesn't have to be any judgment about the, I mean, the politicians like Matt
+Hancock, of course, have the right to disregard scientific advice if that's what
+happened. And if they have some reason to think that it's only one part of the
+equation. But if that's so, we need to know why that was. And we need to know
+what the scientific advice was. You know, is it the case that there was a
+shortcoming in testing? And if so, then the question falls on that. Why was
+there this shortcoming? Why wasn't there greater preparation made earlier on
+when we saw what was coming? These are things that the scientific advisors would
+be able to help with. And it seems to me entirely proper and in fact, important
+and necessary to have that input. And if we have a situation where the
+scientific advisory system to government that we have prevents them from
+clarifying in that way, then there is a problem with that system that needs to
+be discussed. How do you think that the relationship of scientific advisors to
+leaders and to the public can be helpfully amended so that we do this better? I
+think it needs to be made more explicit that transparency is crucial, that the
+scientific advisors have the right and perhaps the duty to sometimes address the
+public directly, not to contradict what ministers are doing, but simply to lay
+out the scientific advice to them directly. But also that it needs to be made
+more clear for the advisors themselves what their latitude and what their
+responsibilities are. I think part of the problem here is that it seems it's
+been left to Chris Witty and Patrick Valance and others to try to figure out
+what they can and can't say. And I think that puts them in an invidious position
+that perhaps has left them erring on the side of caution. If it were made
+explicit what they can and can't say, they wouldn't have to be wrestling with
+those decisions. Now, the question of how this whole terrible pandemic started,
+where the virus that causes Covid-19 came from, is back in the headlines again
+too. Because the director of the FBI, Christopher Wray, told Fox News this week
+that the origins of the pandemic are most likely a potential lab incident. But
+the FBI has not published any evidence they've seen that backs up this new
+conclusion. So we seem to have another political firestorm that doesn't actually
+tell us anything else about the origin of the virus itself. So we want to unpick
+what the science does tell us. Let's have a quick look at what we do know. The
+lab leak or lab incident theory that the FBI director was referring to centres
+on the Wuhan Institute of Virology, a research centre that studies viruses in
+the Chinese city where the first human cases of Covid-19 were detected. Jane Kui
+is the only science journalist to have been inside the institute in recent
+years. She visited several times and even went on a bat virus sampling mission
+with the scientists there. Jane is a former microbiologist herself and as she
+told us last year, she was rather unimpressed with the lab. It's quite ordinary.
+It's just the same as any molecular biology labs everywhere. They have collected
+over 20,000 samples from bats in the past 18 years. I didn't really realise
+actually how difficult it is to get live coronaviruses out of bats. After 18
+years of really hard work, the team managed to isolate only three coronaviruses.
+There are lots of misreportings about those 20,000 bat samples. I read articles
+saying that they have 20,000 bat viruses. 20,000, that is truly scary. I would
+really worry about if they're working on 20,000 viruses or even 2,000 viruses,
+how can they know that none of the 20,000 viruses are responsible for the
+pandemic? But they actually only have three virus isolate. And also they have
+created another three viruses based on the genomic sequences, use synthetic
+biology. So they have six live viruses, all close relatives of the SARS virus,
+the original SARS virus. Jane Kui there. And to clarify, those virus samples
+she's talking about were related to the first SARS virus outbreak, the virus
+that spread in 2002 and 2003, not the SARS-CoV-2 virus that caused the pandemic.
+So what conclusions have scientists reached about how the virus that causes
+COVID-19 found its way into humans? We called on virologist Marion Koopmans,
+who's one of the members of the World Health Organization team that first
+visited China to investigate the origin of the pandemic. While that mission was
+heavily criticised for not having enough access or independence from Chinese
+handlers, they did manage to produce an epidemiological map showing how and from
+where the virus first spread in the city of Wuhan. First, though, what did she
+think about the FBI chief's pronouncement on the lab leak theory? Well, I tried
+to find if there was any new information, and I couldn't find that. So when I,
+yeah, when that was clear, I must say that was a deep sigh. Because of course,
+we've heard this before. It is important. It does remain an important question.
+What exactly happened? How did this pandemic start? But I think having these
+statements, which is not the first time, but without providing evidence that
+people can look at, that scientists can look at, that WHO can look at, I think
+it's increasingly difficult to know what to think of it. What do we know now? In
+terms of the clues, the biological clues that we have about where the first
+human case came from, how this all emerges, what more do we know? So an
+important new finding was a publication that came out somewhere in June or July
+after our visit, that had surveyed what types of animals could be found on
+markets in Wuhan. And they documented up until end of November 2019, that they
+had seen a range of wild animals and farmed wild animals. So wild caught, wild
+animals and farmed wild animals. And that included several species that we know
+are susceptible to the virus. So that was a new finding. We actually have a clip
+of Eddie Holmes, one of the scientists that led the study into where the
+samples, the positive samples were clustering. My colleague, Roland Pease, spoke
+to Eddie Holmes about that study when it was published. So what happened was in
+early January 2020, once the outbreak started, they closed it down and the
+health officials went in and they swabbed surfaces. They swabbed drains and door
+handles and tables and cages, it turned out, and things like feather-removal
+machines for birds, poultry. They swabbed all these and they tested them for the
+virus, for SARS-CoV-2. What we then managed to get a hold of was then a map of
+where those positive hits for the virus were in the market. So then you
+basically plot them on to each store. And what we see, the cases are very
+strongly associated with the west side of the market, very strongly concentrated
+to the southwestern corner of the market. That's of huge significance because
+that's where the wildlife were. And in fact, when I went to that market in 2014,
+I took photographs of some of the animals there. And I took particularly raccoon
+dogs because I knew that raccoon dogs were implicated in the emergence of SARS-
+CoV-1 back in 2002, 2003. I took those exactly in the southwestern corner of the
+market. And that's where most of these positive samples were actually found. Was
+that where the China CDC were doing most of their swabbing? In other words, are
+you just seeing where the swabs were taken? Lots of our statistical analyses try
+to account for these sampling biases and there are sampling biases in there. But
+I think we managed to account for that. So I think there really is a hot spot in
+that southwestern corner. The main thing, Rowan, I think most of all, is that
+there was one store that they got five positive swabs from. One of them was
+inside a cage, a metal cage. Lo and behold, that was exactly the store that I
+photographed the raccoon dog in in 2014, the very same one. The missing pieces
+of that puzzle, a bat testing positive for a virus that matches exactly or
+another intermediate species that might have been in that market, we've not got
+that exact match, that kind of that missing link. Do you think those pieces of
+the puzzle could be filled in? Will we ever get to the answer of, you know, what
+was the origin of this outbreak? If the closest virus is indeed from bats, I
+think that's still possible, that we would eventually find the right bat cave
+where that original virus came from. The question is, where would you look? And
+in our initial recommendations, we had said the best way of going forward would
+be to backtrack all the trade routes from the animals that were introduced on
+the markets and go to the places where they were farmed or caught and start your
+sampling there. As scientists, it's not a case of wanting to kind of shut down
+different hypotheses, but we've seen the lab leak theory is the thing that's in
+the headlines again, being directly pointed to by a very powerful figure in the
+United States, the director of the FBI. What evidence is there of a lab leak? I
+mean, it's still a hypothesis that's on the table while we don't know how this
+started, isn't it? It is. And it is also very difficult to prove a negative.
+Right. So and that's why I must honestly say I'm a little bit annoyed if they
+keep saying this without sharing the evidence with an organization that can
+actually follow up with it. It doesn't have to be open or public, but there's
+ways of sharing information confidentially with the WHO and then they can
+compare the information and say, hmm, there's something to it or not. I really
+think that's the process that needs to happen, because if not, this discussion
+is just not going anywhere. With all of the evidence that you've seen and
+everything that we've learned over the last three years, what do you think
+happened in late 2019 at the start of this outbreak? What do you think is the
+most likely scenario? To me, the most likely still is that an uninfected animal
+somehow entered the market chain. That was not in the month of December. That
+was before that, because the virus circulation started earlier. So it was in the
+period when wild animals were documented on the market. So my best guess would
+be one of those farmed wild animals, maybe with a temporary outbreak. We know
+that, for instance, on mink farms that have been infected in Europe, we see the
+virus burn through. So after a while, you don't find the virus anymore. So that
+could have happened on, let's say, a raccoon farm somewhere in China. Do you
+think we'll ever answer the question categorically, how did this start? So there
+has been additional bat screening work and there's been interesting findings
+from bats outside of China in Southeast Asia that also were quite closely
+related and also had the capacity to directly bind to human cells. So that's
+been found. I think the most likely piece of the puzzle would be that even
+closer viruses are found in bat surveys at some point in time, that really, if
+you put them into a phylogenetic analysis together with all the viruses that we
+know, that that really would be the closest ancestor and that not with a big
+time window in between. That's, I think, still possible. So if you look at all
+the different animal species that could be involved and then look at what
+samples of which animals have been tested, that clearly is not enough to rule
+out an infection route of a farmed wild animal species. So that's still
+possible. I think by now I'm more thinking of that it's been a temporary pass
+through some kind of intermediate host. And the reason why I'm saying that is if
+it was still circulating, let's say, in raccoon farms, raccoon dog farms, I
+would think we would have seen new sparks, new introductions into people from
+that. So we would have seen new outbreaks in China during its lockdown and its
+closed borders with viruses that were very much like the original strain in
+Wuhan. And we haven't seen that. Marion Koopmans from Erasmus University in
+Rotterdam there. And we also heard from Eddie Holmes from the University of
+Sydney. But now for a lighter topic, helium. What is here, it's about 100 tonnes
+of equipment. Within the vertical part, the heat exchangers. In the horizontal
+part, the expansion turbines. So basically this is a very big fridge. It is
+exactly a very big fridge. Yes. Costing as well some money. Yes. And how much
+helium do you look after here? In total for the LHC, we will have a bit more
+than 120 tonnes of helium. About 10% of the European market per year. So would
+that fill a swimming pool? I mean, not that you'd necessarily want to, but is it
+that sort of amount? In liquid form, I've got to think a bit. So we have 400,000
+litres of liquid helium. If the swimming pool is 10 by 20, by an average of two
+metres, that's 400 cubic metres. So it's 1,000 of reasonable size swimming pool.
+1,000 swimming pools. Yes. That, to put it scientifically, is a lot of helium.
+And scientists at the University of Oxford say they've uncovered a new way to
+help pinpoint hidden helium gas fields and avert what they've called a global
+supply crisis. Because helium is in relatively short supply and it's extremely
+useful, as earth scientist Dr Anran Chang told me. Helium is actually called
+inert gas. It's part of the noble gases. And in Chinese, we actually call them
+lazy gas. So all those names are actually describing the same properties that
+they do not involve in chemical reactions. So they are a perfect choice for
+filling gas. And also they are very small in their size. So they are the second
+on the periodic table. They're perfect to penetrate through tiny leaks, tiny
+areas. Therefore, they're perfect for leak checking. And most importantly, they
+have the lowest boiling point that we know so far, which is four Kelvin. That is
+minus 269 degrees C. That means we can actually manipulate helium to achieve
+that temperature relatively quite easily with the current technology. And
+because of all these properties, they are widely used in a range of
+applications, but behind the scene. So for example, medical applications like
+MRI. They're also used in industrial production of fiber optics and
+semiconductor. And also very important scientific researches of superconductors
+and the very famous Large Hadron Collider. And also some rocket engines uses
+helium to fuel the empty space left by few combustions to control the pressure.
+In that medical setting, in MRI, in that manufacturing setting, what is it about
+those properties? How is helium put to use and why does it need to be helium?
+MRI in particular, it is using this low temperature that it can achieve. So the
+temperature, the cooling ability of helium is actually widely used. Right. So
+it's much more than balloons. But we are facing something of a crisis of supply.
+What's happening in the world at the moment that has caused that? So helium is
+actually all found by accident. So during the drilling of hydrocarbons like gas
+and oil, when there is successful drilling of oil and gas system, then people
+would probably just test what it is in there as well and find that there is
+enough helium to actually generate economically favorable byproducts. And then
+helium is produced. But that had been enough to supply the market in the past.
+But currently, as you can imagine, the global development just increased the
+demand of helium quite a lot. So our lab, who is actually trying to find helium,
+we received a letter before Christmas stating that as a non-crucial user, we are
+restricted with our helium supply and we're still restricted at the moment. So
+our lab manager is very cautious. We check our helium tank every day to make
+sure that there's no people in the lab secretly filling a birthday balloon or
+something. Tempting. Essentially, you're figuring out where to find it on
+purpose. What are you looking for? What provides those clues about where these
+sort of reservoirs of helium could be? So in our model, we have helium and
+nitrogen. The associated nitrogen produced both from this crystalline basement.
+So the crystalline basement is a dense rock from mantle to the near surface. And
+they are millions or billions years old and likely to be more than 30 to 40
+kilometers thick. So they're basically a good kitchen and a storage room for
+helium and nitrogen. And then they are both produced and they are then dissolved
+in the water in this tiny pores between the crystals. And they will slowly
+migrate up to the sediments that lay over the basement. It's like layered cakes.
+So there are sponge cakes, which you can imagine they have like bigger pore
+spaces and helium and nitrogen just can travel through this quite easily. And
+there might be things like brownie cake layers. And then this helium and
+nitrogen just takes a little while to transport through. And then there's the
+solid icing units, which is just very hard. And they pretty much just slow down
+the helium and nitrogen transport significantly. So to find the helium
+reservoir, we need to have a right combination of these different layers, their
+deposition time. And if that is right, we might accumulate large amount of
+helium and nitrogen in the deepest unit or units. And finally, we want to end
+today's program with a scientific countdown because we can reveal to you the
+world's top five wild mammals in terms of their collective mass. That's right.
+Scientists have measured the collective weight of Earth's wild mammals. So here
+it is the top five. In at number five, weighing in at a collective 500,000 tons,
+it's mule deer. Just in front at number four at 600,000 tons, it's Eastern gray
+kangaroos. With just half a million individuals weighing in at an extraordinary
+1.3 million tons. At number three, it's the African savannah elephant. At number
+two, it's wild boar, 1.9 million tons. But outweighing all those at number one,
+it is not even close. With a total mass of 2.7 million tons, it's white tail
+deer. Sorry, as a science journalist, I do have to live my countdown DJing dream
+where I can. And the other enthusiastic voice you heard there announcing the
+number one heaviest wild mammal species was Ron Milo from the Weizmann Institute
+of Science in Israel. He is a quantitative biologist and I spoke to him and his
+colleague Leo Greenspoon, who led this study. So all the wild land mammals
+combined, all the elephants and all the deer, all the giraffes, all the rodents
+and bats all together sum up to about 20 megatons, 20 million tons, whereas the
+domesticated are at 600 million tons. So that means 30 times more. If you look,
+for example, at cows, you know, the far outweigh all of the other wild animals
+by far. And Leo, what surprised you? What numbers really jumped out at you when
+you did this study? I think if you would have asked me before approaching the
+study, I probably would have guessed the top five were to be elephants,
+giraffes, maybe tigers, other things I know from children's book that I read
+growing up. Definitely not something along the lines of a few deer species. So
+the most surprising thing to me were how much of an impact we also have on wild
+mammals. And most of the ones that contribute most to the total biomass of wild
+land mammals are ones that kind of enjoy our presence. We also hunt them
+sometimes, but they also go into our backyards and eat some of our leftovers and
+eat some of the stuff we put in our bins. And I found that very surprising. The
+fact that humans became so abundant and dominant on the earth means that the
+type of mammals that enjoy our presence, for example, coming and eating from our
+backyard, are also the ones that are now number one in the chart of wild
+mammals. And this is now a different type of wild. This is a wild that's really
+in a strong relationship with humans. Presumably, in terms of biomass of mammals
+on earth, we're probably number one by a long stretch. Is that right? Do we know
+how much we outweigh the biomass of wild mammals, the humans? We weigh about 400
+megatons in comparison to the 20 megatons of all wild land mammals. So we
+outweigh all of the other wild land mammals by about 20 fold. Ron Milo and Lior
+Greenspoon there, taking a new measure of life on our planet. And that's all we
+have time for this week. BBC Inside Science is produced in collaboration with
+the Open University and we'll be counting down the days, all seven of them,
+until we're back with you, weighing up more of the science that's shaping our
+view of the world. BBC Inside Science was presented by Victoria Gill and
+produced by Julian Siddle. Evan Davis will be live in Birmingham with the PM
+programme next. The Patch on BBC Radio 4. We are making changes to the way BBC
+live streams are distributed via third party services and platforms and the BBC
+stream you are currently listening to will stop working by mid 2023. If you are
+using an internet radio or smart speaker and hearing this message, please
+contact the manufacturer. If you're listening on web or mobile, this service is
+available to stream on BBC Sounds. And BBC Sounds starts next Wednesday morning
+at nine. This is BBC Radio 4.
