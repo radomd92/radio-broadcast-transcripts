@@ -1,0 +1,684 @@
+TRANSCRIPTION: BBC4/2023-03-01-10H00M.MP3
+--------------------------------------------------------------------------------
+ Tora Gardner, the studio director, was Nathan Chamberlain. Have a very good
+day. Tim Harford's up after the news. BBC News at nine o'clock. The former
+health secretary, Matt Hancock, has described as categorically untrue a
+newspaper report about his handling of coronavirus testing in care homes in
+England at the height of the pandemic in 2020. Daily Telegraph, which has
+obtained huge volumes of WhatsApp messages sent and received by Mr Hancock,
+claims they show he chose not to follow advice from senior medical officials who
+wanted all residents going into homes swabbed. A health minister at the time,
+Lord Bethel, says tests had to be prioritised because numbers were limited.
+Speaking on the Today programme, he accused the Telegraph of selective
+reporting. This is the flaw in this whole debate. We only have a few scrappy,
+gossipy WhatsApps. Business was done very formally, with meeting notes, with
+policy recommendations, with a box. That is how the machinery government works.
+And we don't have that in front of us. And that's why this partial glimpse into
+the decision making is so unfortunate, because it gives a misleading impression.
+Survivors of the worst rail crash in Greece for several decades have described a
+nightmarish 10 seconds when their train hit an oncoming freight service at high
+speed. At least 32 people were killed in the accident between the city of Athens
+and Thessaloniki. Dozens more have been injured. Rishi Sunak has told
+Conservative backbenchers that there's no pressure for an instant answer from
+the Democratic Unionist Party, as it considers the government's new deal with
+the EU on post-Brexit trading arrangements for Northern Ireland. The prime
+minister said the DUP should be given time and space to evaluate the agreement.
+It's been broadly welcomed at Westminster, but criticised by Boris Johnson's
+former Brexit negotiator Lord Frost, who questioned whether any fundamental
+changes had been secured. Police have spent a second night combing through land
+in and around Brighton looking for a missing baby. The child's parents,
+Constance Martin and Mark Gordon, were arrested on Monday after going missing
+for weeks and are being questioned on suspicion of gross negligence
+manslaughter. Detectives accept the child may have come to harm. The Nationwide
+Building Society says UK house prices fell by 1.1% in the year to February, as
+higher mortgage rates and living costs made homes less affordable. It's the
+first annual decline since the middle of 2020. The average property price stood
+last month at around £257,500. British scientists say artificial intelligence
+technology they're developing could improve the way transplant organs are
+selected. An algorithm will make the assessment on the basis of photographs.
+Currently, surgeons must evaluate the organ themselves. BBC News. This is BBC
+Radio 4. Good morning. Our attention is going to be on numbers and nuts over the
+next 40 minutes or so. But if that sounds a little bit too challenging for this
+time in the morning, there are 22 different half-hour classical mixtapes on BBC
+Sounds right now, which should be enough to keep you going until 10 o'clock
+tonight. On the other hand, if you are in the mood for numbers and nuts, you're
+in the right place. Nuts with Dr Michael Moseley in half an hour. Numbers with
+Tim Harford right now. Hello, and welcome to More or Less, your steadfast guide
+to the most bewildering numbers. This week, I know how much five grams of sugar
+is, but is five grams of cocaine a lot? Curious listeners are asking for a
+friend. How much of our rivers and countryside is openly available to anyone to
+swim, paddle, or stroll? New figures have recently been released about deaths in
+England and Wales. Is the long period of chronic excess mortality finally over?
+But first, something has gone viral, which is bad if it's a virus, but
+apparently it's good if it's a tweet, although we prefer our viral tweets to be
+true. So let's take a look at this one. It says, Why is there such a vast
+difference in average energy costs? And then it lists 11 countries, most of them
+in the EU, and each with a sum in euros. France and Belgium are both 650 euros.
+Spain is 620. Germany, Denmark, the Netherlands, Austria, and Norway are all
+somewhere around 550 euros. Finland is 476. Poland is 174. And the UK is at the
+bottom of the list with a number way higher than any of the other countries,
+2,960 euros. It's more than four times the number for Belgium and France, the
+next most expensive countries. Now, it's not at all clear what these numbers are
+supposed to represent, except that the question is about energy costs, so
+something, something energy bills. What is the tweet actually claiming? And are
+we really paying that much more for our energy bills than other countries in
+Europe? Reporter Josephine Casley is with me. Hello, Jo. Hello. And Jo, you've
+been trying to work out where this comes from. I have. But first, in terms of
+who's been sharing it, academics, activists, even Tim Burgess of the Charlatans
+and a Labour MP. And it's been used to blame all the things that people like to
+blame for things. So Brexit, green policies, the government, and of course, the
+BBC for not covering it. Well, we're covering it now. But who posted it
+originally? Well, that's not really clear. Variants of this tweet have been
+going around since December. The earliest one that I found is from mid-December.
+It's a map of northern Europe with numbers on most of the countries. And the
+post reads, comparative energy prices, what's going on? So the numbers from the
+viral tweet were taken from that map? I think so, although not all of them match
+exactly. For instance, Spain isn't on the map at all, but it is in the tweet.
+And there seem to be some possible copy and paste errors. But honestly, that's
+the least of the problems with this. So that map had a watermark on it for EPEX
+spot, which is a clue as to where this comes from. Because EPEX spot is a
+wholesale electricity market, meaning that it's a place where energy suppliers
+and producers go to buy and sell electricity. Now, I asked EPEX spot, and they
+told me that this is indeed their data. But it's not what we pay as consumers.
+It's what big energy suppliers paid for electricity. And the numbers in question
+were taken from the wholesale prices in one particular hour in the early evening
+of December 12. If you keep up to date with energy sector trade publications,
+you'll know that that was a wildly expensive hour for the UK because of a killer
+combination of cold weather and not enough wind. So these numbers are from one
+hour. It's a particularly expensive hour for the UK. And they're from the
+wholesale market, where energy companies buy the electricity they sell to us,
+rather than the prices we actually pay. Exactly. So in summary, that tweet was
+total rubbish. OK, well, let's bin that and move on. Do we have any more
+reliable sources that can tell us how the UK's electricity bills compare to
+other countries in Europe? This is really tricky. There's no definitive up-to-
+date list of prices and bills out there. But one of the best sources that we do
+have, which is publicly available, is a project called HEPI, which is funded by
+the Austrian and Hungarian governments. It's good to see those two getting back
+together, I think. So they publish monthly figures on the tariffs that are
+available if you switch provider on the first day of the month. They get the
+information from price comparison sites, energy companies, and regulators. And
+they take account of measures like price caps, although they don't take account
+of social tariffs that are targeted at particular groups. They look at the
+prices in capital cities. But they say that this is usually representative of a
+country as a whole. For the UK, Northern Ireland has a separate energy market.
+So the figures only apply for England, Wales, and Scotland. So this reflects the
+tariffs available, but not necessarily what people are actually paying. Yes,
+that's right. I spoke to Raffaella Gregoriu, who is HEPI's data analysis
+manager, about how Great Britain compares to other European countries for its
+electricity prices. It used to be higher during summer in July and August 2022.
+It used to be the most expensive country. But the price has been reduced since
+then. In general, the price ranking of the countries is very unstable during the
+crisis, which was obviously not the case before the beginning of the crisis. So
+in the summer, Great Britain had the most expensive electricity prices according
+to HEPI's data, which covers the 27 countries in the EU, plus another six
+European countries. Right, but since then, the energy price guarantee has been
+brought in in Great Britain. Yes, so since then, we're no longer the most
+expensive. I asked Raffaella to talk me through their more recent data. As of
+January 2023, Great Britain is the 15th in the row in the ranking in terms of
+expensiveness, following Italy, Germany, Denmark, and Ireland. If you take an
+average for 2022, we're the third most expensive after Denmark and Italy. Which
+is a long way from what that viral tweet implied, which is that Great Britain
+was four times more expensive than any other country in Europe. Still,
+electricity isn't cheap here, it seems. No, it isn't. But electricity isn't the
+only component of energy bills. Gas is another important factor. So if we look
+at gas tariffs for January this year, we are... Let me count quickly. It is 1,
+2, 3, 4, 5, 6, 7, 8, 15th. So around the middle, given that we have 33
+countries. That's January this year. If we look back at the average for all of
+last year, we're also 15th most expensive out of 33 for domestic gas tariffs.
+Now, HEPI doesn't include one-off cash refunds and discounts in their headline
+figures because it makes comparing countries harder, like the 400-pound discount
+that we got here. But they have done a bit of analysis on this. And when they
+take refunds into account, for electricity, Great Britain moves further towards
+the cheaper end of the ranking. Everything we've talked about so far has been in
+cash terms. Can we look at it relative to how much people earn? Yes. So HEPI do
+look at it another way as well, which is to estimate gas and electricity bills
+as a proportion of disposable income. The most expensive one, as average 2022
+price, is Portugal. Then it is Norway, Bulgaria, Denmark, Greece, Cyprus, Italy,
+Spain. And then it is Great Britain. And this is for electricity market. So
+we're ninth out of 33 countries for electricity. But according to HEPI's data,
+our gas bills as a share of disposable income are below the EU average. So to
+summarise, that tweet was nonsense. Electricity here isn't four times more
+expensive than the next most expensive country. And neither is gas. According to
+HEPI's data, in cash terms, Great Britain does have more expensive electricity
+than most countries in Europe, but not all. For gas, it's the 15th most
+expensive out of 33. But if your yardstick is how much we spend out of our
+disposable income, it looks a bit cheaper. Still above the EU average for
+electricity, but below the average for gas. Thank you, Josephine. And thank you
+to Raffaella Gregoriu. A few weeks ago, we speculated that the state of the NHS
+might become the theme of this series. And despite a strong showing by Latin
+grammar, we were right. In our first episode, we looked closely at two issues.
+The first was a high number of what's called excess deaths in the UK. For the
+second half of 2022, 26,000 more deaths were recorded than we would expect in
+the last half of a normal year. That's 9% more deaths than is usual. The second
+was how many avoidable deaths might be associated with the increasing struggles
+in the NHS, which were particularly evident in data showing extremely long waits
+for treatment at accident and emergency departments. Both of these issues were
+looking bad when we came on air in early January. Excess deaths were rising, and
+December had seen dire performance data in the NHS as it tried to deal with
+large flu and COVID waves. But since the middle of January, it looks as if
+things have started to improve. In recent weeks, excess deaths have been
+declining. And after some truly shocking figures from December, waits for
+emergency NHS treatment have been shorter. So have we turned a corner? We
+decided to go back to the person who first helped us make sense of this data,
+Stuart MacDonald, friend of the programme and an actuary at LCP Analytics. I
+asked him to remind us how bad the end of 2022 really was, starting with data
+from England. So through 2022, we had this fairly consistent pattern of excess
+deaths from around Easter onwards and a slow burn problem, not particularly eye
+catching, a few percent of excess week after week after week. And then that
+situation got really very bad as we got through mid-December, and some of the
+factors we've discussed started to play out. We were seeing thousands of excess
+deaths arise each week. And what's happened to excess deaths in January? So
+January started very badly indeed, with thousands of excess deaths in each of
+the first three weeks, between 3,000 and 4,000. Since then, the situation has
+improved significantly. Excess deaths falling week on week. And in the very
+latest week, just published by the ONS, deaths actually below the normal level.
+And this data for excess deaths, that's describing the situation in England and
+Wales. What about Scotland and Northern Ireland? That's right. The numbers that
+we've talked about so far are for England and Wales. The picture actually is
+very similar for Scotland and Northern Ireland. So significant peak in excess
+deaths in late December, early January, and improving markedly over the last few
+weeks. And between 3,000 and 4,000 excess deaths a week, and this is bad. I
+think it's worth making a comparison to some of the worst weeks of the pandemic,
+where I think we had excess deaths of around 10,000 a week. So it's not as bad
+as that. But these were really acute crises. And the fact that we're even in the
+same ballpark is worrying. But you're saying that excess deaths are now, well,
+they've gone away. So we're now actually below the baseline. So have we got
+through this phase of chronic excess deaths then? Can we put all that behind us?
+Well, I can't say with absolute certainty. But I'm afraid I remain fairly
+pessimistic. If we look at the baseline that we're comparing to, then this is
+the time of year when flu seasons normally occur. So our flu spike and COVID
+spike fell in December. Whichever baseline we use, there is an assumption that
+flu season would be happening around now. So the baseline is essentially
+inflated. And the actual is benefiting from the fact that A, we're not having
+flu at the moment. And B, we've just had it. And so some of the deaths that
+would normally be happening now have been accelerated. So just to be clear what
+we're saying here, normally when we make these comparisons, we're making them to
+a baseline. And that baseline in February normally has flu in it, a lot of flu
+deaths. And we don't have so many flu deaths right now because, well, because
+we've already had them. In December, we had them in early January. So if I
+understand what you're saying, that rather flattering comparison is masking the
+fact that there actually still is an underlying chronic problem. We're just not
+able to see it in the excess death figures at the moment. I think that's exactly
+right. And what I would expect to see happen, it's always dangerous to make
+predictions. But over the next few weeks, I would expect a similar pattern of
+little to no excess, maybe even negative excess. But as we push beyond the point
+where flu seasons tend to occur as we get into April and beyond, I think there's
+a very real possibility that we see a similar pattern to last year, where the
+number of deaths expected each week, according to the baseline, falls away. But
+actual deaths observed stay at these relatively elevated levels, winter levels,
+and we see a return of the excess. Our thanks to actuary Stuart MacDonald. We're
+outdoorsy types here at More or Less. We love anything from strolling along a
+country lane to kayaking down the whitewater rapids on the river. And it seems
+like our loyal listeners take a keen interest too. I'm just watching the first
+episode of Grace and Perry's Full English, where someone states that we only
+have free access to 8% of the countryside and 3% of the rivers. Is that
+accurate, please? Heather. Dear Tim, whilst listening to One to One with Matthew
+Paris yesterday, I heard the interviewee state that we, the public, only have
+access to 3% of British rivers. This seems a very low number, unless I misheard.
+Is this correct, as I have never had any problems walking near them? A loyal
+listener, Steve Hynde. Our Right to Roam correspondent, John Bithrey, is here.
+Hello, John. Hello, Tim. Yes, let's wade into this. Both our listeners are
+referring to interviews with a chap called Nick Hayes, who's campaigned for a
+long time for more public access to Britain's countryside and waterways. Now, if
+we take the issue of access to the countryside first, the 8% figure Nick Hayes
+mentioned refers to the amount of land in England where we have what are called
+open access rights. That means places where we can do things like walk, run,
+climb, watch birds, watch other people watch birds, and enjoy a few other gentle
+pursuits without having to stick to particular paths. In general, we're talking
+about mountainous areas, moors, heaths, and common land, as well as parts of the
+glorious English coastline. A lot of this open access is laid down in law in the
+Countryside and Rights of Way Act 2000, often known as the Right to Roam Act. So
+this is separate to our ability to walk along footpaths and other public rights
+of way? Yes, that's right. We have an extensive network of footpaths and
+bridleways enabling public access to private land. But in general, you have to
+stick to the footpath unless you want landowners with pitchforks coming after
+you. Pitchforks? I'm not sure that's the tool of choice these days, John. But
+both of us are talking like city folk right now. So the 8% of land in England
+where we have this open access, where is it? Well, a lot of it is concentrated
+in the north of England in national parks, such as the Lake District, the
+Yorkshire Dales, and the North York Moors. The Glorious Peak District is in the
+heart of the country. But then further south, the national parks are out on or
+near coastal areas. For example, the Broads, the New Forest, and Exmoor. Then
+there's Dartmoor, which was recently at the centre of a pretty high profile row
+over wild camping, something that's not automatically permitted under the Right
+to Roam law, but was an assumed right on Dartmoor until a recent ruling in the
+High Court. So we like to ask whether a number is a big number on, more or less.
+Is 8% a big number in this context? In terms of sheer area, 8% of England is
+about 4,000 square miles. 4,000 square miles, that's half the size of Wales. It
+is indeed, Tim. But depending on where you live, you might have to travel quite
+some way to reach a really large open stretch of countryside where you can
+ramble at will. Things are better in Wales, where 22% of the countryside is open
+access. Campaigners for greater access, and there are a lot of them about, also
+point to Scotland, where the right to roam is far broader. People can access the
+vast majority of land with far fewer restrictions. In Northern Ireland, there
+isn't a defined right to roam in law, and rights of access are generally much
+more dependent on what individual landowners are happy to allow. Let's move on
+to the second question then, and this issue of rivers. Do we have free access to
+only 3% of rivers? Well, this is arguably the trickier figure, Tim. I asked
+around about the source of this 3% figure, and several lines of inquiry led me
+back to the organisation British Canoeing, which, as the name might suggest,
+promotes that most fun of all the fun paddle sports. I gave British Canoeing a
+call and asked them how they'd come up with that 3% figure, and they said they'd
+got it from a report on access to waterways for recreational purposes that was
+written back in 2000 by academics at the University of Brighton. But what's the
+3% figure referring to? It's 3.47%, to be exact, and that's the proportion of
+non-tidal stretches of rivers in England that have what's called a statutory
+right of navigation. Now, that is one where a public body, such as the
+Environment Agency or the Canal and River Trust, have designated under law
+stretches of rivers or canals which can be used by the public for activities
+such as boating, canoeing or swimming. So what on earth's going on with the
+other 97% of stretches of river in England? Well, this is where the water's
+muddy, Tim. Campaigners argue that all of our major rivers have a public right
+of navigation as an ancient right, regardless of what any public body might say
+today. So people can exercise these rights to do all the activities currently
+officially restricted to particular sections. They also argue there are rights
+in what's known as common law to swim or canoe in rivers if that's happened for
+a long time without objection by landowners. And in a more practical sense,
+there are lots of places where landowners have given permission or at least not
+objected to swimmers, canoeists, and others using the waters. And then there are
+also those who argue that if you can walk to or along a river, then you also
+have the right to access the water itself. But a lot of this is pretty
+theoretical and not tested in law. And then there are the tidal stretches of
+river in England, and they don't feature in this calculation at all. Yes, that's
+right. And I've had trouble getting a figure for tidal sections of rivers. But
+we're looking at many hundreds of miles of stretches of tidal rivers in England.
+In general, they do have a statutory right of navigation. But even then, there
+are restrictions. For example, since 2012, you need permission from the powers
+that be to swim in the Thames in central London. Apparently, we have David
+Walliams to thank for that. Damn you, Walliams. I wouldn't be too harsh on him,
+Tim. He swam down pretty much the whole of the Thames for charity and then spent
+the next day throwing up. Sounds like access isn't the only problem with our
+rivers. But overall, John, this all sounds a bit unclear. It is. I think we can
+safely say that the 3% figure is at the very lowest end of how we define access
+to rivers in England. But coming up with a more accurate figure for what's going
+on in every stretch of England's 36,000 miles of river is a very tricky task
+because of all the legal and practical issues involved. Thank you, John. And
+thanks also to the aptly named Ben Seal from British Canoeing and solicitor
+Nathan Wilmot from the Outdoor Swimming Society. You're listening to More or
+Less. A couple of weeks ago, Jared O'Mara, formerly the Labour MP for Sheffield
+Hallam, was found guilty of fraudulently claiming £24,000 in expenses. The money
+was stolen to pay for Mr. O'Mara's cocaine habit. Reportedly, he was taking five
+grams a day. This led to the following exchange on Twitter. I can't help but
+notice how many media types are referring to Jared O'Mara's five gram a day
+cocaine habit. As if everyone has the frame of reference to understand whether
+that's a lot or a little. It's the Tim Harford rule of data communication.
+Explain what the number means and if it's a big number. Looking forward to the
+next More or Less, explaining what's a reasonable level of cocaine consumption.
+Our editor, Richard Vardin, saw this exchange on Twitter and thought it would be
+a wonderful idea for the programme, which might surprise you if you don't know
+our editor. Normally, at this moment, I'd be joined by our cocaine correspondent
+or our class A reporter. But funnily enough, we've had no applications for these
+roles. Nobody on the team wanted to embellish their CV with this story. So we've
+instead had to turn to an expert. OK, so my name is Harry Shapiro. I'm the
+director of Drugwise, which is an online drug information service. I have to say
+I am a loyal listener. Well, welcome to More or Less. I'm hoping you're going to
+be able to supply me with some information about Jared O'Mara's drug habits
+because I have to say I am clueless. So it was reported during his trial that at
+one stage he was using up to five grams of cocaine a day. Now, I know from
+measuring salt and sugar, that's about a teaspoon. I've got no idea whether it's
+a lot of cocaine. Is it a lot of cocaine, five grams a day? Yeah. I mean, I
+think if you spoke to also to anyone in the drug treatment services, you see
+people, and most people, I think, would agree that five grams a day is at the
+top end of daily cocaine use. I mean, there are lots of sort of caveats around
+all of this, as you might expect. So when we talk about five grams a day, do we
+really mean every single day? Because people go on cocaine binges, and then they
+have a rest and all the rest of it. But if you're just looking at pure quantity,
+yes. I would put that under the heading of heavy use. Heavy use, but not
+completely implausible. It is conceivable that someone might. Oh, yes. Yes, yes,
+absolutely. Yeah, totally feasible. I'm curious, do we know how much the typical
+cocaine user does regularly use? Well, at the risk of being facetious, it's how
+long is a line of code. It just depends. I mean, I've been experimenting with
+flour. Yeah. What's this about flour? What have you been doing there? Oh, right.
+No, I just tried to, you know, I think TS Eliot talked about measuring life out
+in coffee spoons. But I was just having a look at what five grams of flour
+actually looks like. And it's about a couple of level teaspoons. It doesn't
+actually look that much of anything. But you are dealing with a powerful drug,
+so it is a lot. So if you break down five grams into lines, you're looking at
+0.1 to 0.2 grams per line. So five grams works out at something like 25 to 50
+lines of cocaine a day. So if you did take five grams of cocaine a day, every
+day, what shape are you going to be in after a few weeks or months or years?
+What's it going to do to you? Well, apart from any physical risk attached to
+that, so you could eat at that sort of level, you could easily have a stroke or
+heart attack. From the mental health point of view, your mental health would be
+deteriorating. You'd become very anxious and ultimately quite paranoid and
+pretty much impossible to live with or to work with, because you literally would
+be all over the place. Thanks to Harry Shapiro of Drugwise. And if you can think
+of a stranger topic about which to ask, is that a big number? Well, let us know.
+There's a new drama on BBC One and iPlayer. It's called The Gold. Gold like
+that, you can't control it. And if you can't handle it, then it will find its
+way to someone who can. The show's about the Brinks Matt robbery in 1983, when
+six men broke into the Brinks Matt depot near Heathrow Airport. Inside, they
+discovered 6,800 ingots of gold, collectively weighing three tons. And that was
+worth 26 million pounds at the time. If you're wondering if that's a big number,
+it is. We're looking for six robbers and three tons of gold. Money like that
+will end up in surprising places with surprising people. And the show comes with
+a big claim, which pops up on the screen at the beginning. If you've bought gold
+jewellery in Britain since 1984, it's likely to contain traces of Brinks Matt
+gold. As much as I'd like to believe that, something we know on More or Less is
+that all numerical claims that glitter are not gold. So I asked Rob Eastaway,
+all-round maths whiz and author of Maths on the Back of an Envelope, to help us
+work out if this is in any way plausible. Let's round that up and be generous
+and say there's a million gold rings gone into circulation. Now, the thing is,
+how many people have bought jewellery since 1983, 84? And I would reckon the
+majority of adults, for one reason or another, might well have acquired a gold
+bit of jewellery. I mean, that gold was not all turned into jewellery, surely.
+Gold gets turned into lots of things, from electronics, lots of Indian
+electronics, to fillings, gold teeth, I gather, are still quite popular. Is that
+jewellery? But actually, did it stay in the UK? I mean, whether innocently or
+guiltily, it will have leaked out of the UK to other people. I'm going to leave
+Rob Eastaway with that dramatic cliffhanger. If you want to hear the full story,
+you'll have to wait until Saturday, when it will be released on BBC Sounds and
+in our podcast, because that's all we have time for this week, and indeed, this
+series. You can, of course, subscribe to our weekly podcast on BBC Sounds or
+elsewhere, and you can send us your questions and comments to give us something
+to think about before our return, when the weather's a bit warmer. Our email
+address is moreorlessatbbc.co.uk. Until next time, goodbye. More or Less was
+presented by Tim Harford. The producer was John Bithrey. Our Book of the Week,
+in a quarter of an hour, explores graveyards around the country, rooting out the
+stories of tombstones. This morning, it focuses on the work of the Commonwealth
+War Graves Commission, A Tomb with a View, is by Peter Ross. And you can hear
+the next instalment straight after Dr Michael Moseley has crushed some nuts. Mm.
+We would all like some quick and simple ways to improve our health, but we're
+inundated with often conflicting advice. So, if you were going to try just one
+thing to improve your mental and physical wellbeing, what should it be? Perhaps
+the martial art of tai chi to improve your immune system. Maybe a few nuts to
+slow aging. Or how about cleaning your teeth to give your brain a boost? I'm Dr
+Michael Moseley, and this is Just One Thing, where each episode, we'll explore
+one thing you can start doing today to improve your health or life in ways you
+might not expect. So, it is mid-afternoon, and I am craving chocolate, or
+perhaps a biscuit. But instead, I'm going for a protein-packed snack that can
+protect my heart, may stave off cancer, and give my brain a boost. I am cracking
+out the nuts. I've got some walnuts here. Mm, these are delicious, particularly
+when you get them fresh out of the shell. Now, nuts often get a bad press
+because they are high in fat, and they can cause life-threatening allergies,
+which is why they're rightly banned from places like schools and nurseries. But
+if, like me, you're able to eat nuts, this is definitely one thing you should
+start doing today. Mm. Now, these are amazing little nutritional powerhouses.
+When we eat them, we get lots of fiber, and importantly, compounds called
+polyphenols, which feed our gut bacteria and can reduce inflammation. Eating
+nuts has even been linked to a longer life. They give you lots of good fats, and
+we'll discuss some surprising new research on how nuts can trim your waistline
+and even boost your brain power. First, though, I'm going to chat with Emma, who
+is a journalist from Surrey. Let's see if a handful of nuts a day is just one
+thing she can fit into her diet. Hi, Emma. Hi, Mike. Confessions time. Are you a
+snacker? Yes, I definitely am. I'm a bit of a chocoholic. Anything involving
+chocolate, even if it's chocolate-covered rice cakes or chocolate buttons. I can
+feel my mouth salivating. I'm a huge fan. Do you have them in the house? I try
+and avoid it, but inevitably, if I've got a big deadline, I'll nip off to the
+shops to get something sweet. My eating habits are not as healthy as they should
+be, and I tend to crash in terms of energy levels quite regularly through the
+day. I think I'm relying too much on sugar. Okay, so, Emma, I'm going to ask you
+to do a hard thing. I'm going to ask you to put aside your regular snacks and
+have a small handful of nuts a day. So it's about 30 grams if you want to weigh
+them out. This is a substitute. This is not in addition. I'll do my best. This
+could be a breakthrough for me. I've asked Emma to swap her usual sweet treats
+for a handful of nuts every day for a week. We'll see if she's cracked it later
+this week. The nutty thing, botanically speaking, is that most of the nuts we
+like to eat aren't actually nuts, which are defined as a dry fruit with a single
+seed encased in a hard shell. Based on this definition, chestnuts and hazelnuts
+are true nuts, while almonds and cashews are classified as drupes. They have a
+fleshy outer layer. Whether they are true nuts or drupes, they are still packed
+full of good things, like unsaturated fats, fibre and protein, as well as a
+number of compounds with antioxidant and anti-inflammatory properties, all of
+which are good for you. So good, they may even slow the ageing process at the
+cellular level by preserving our telomeres. These are the protective caps at the
+ends of your chromosomes. As we get older, the telomeres gradually shrink.
+Eventually, they get too short to do their job and our cells can't function
+properly. The longer those caps are, the younger your DNA is. And several
+studies have found a link between eating nuts and retaining the length of these
+telomeres. As well as keeping your telomeres in good shape, eating nuts may
+reduce your risk of a whole range of diseases, including cancer, diabetes and
+heart disease. A five-year Spanish intervention study involving over 7,000 older
+adults found that the group who were asked to eat nuts more than three times a
+week were over 40% less likely to die from cancer and 55% less likely from heart
+disease, compared to the control group who didn't. And that was after
+controlling for other lifestyle factors, like alcohol consumption, physical
+activity and smoking. Those are some big numbers, and you don't need to go nuts.
+A handful a day is plenty. One thing that puts people off nuts is the fact that
+some are about 70% fat. But it's unsaturated fats, the sort that can actually
+benefit your heart health. A massive study involving more than 300,000 people
+found that eating more nuts is associated with reduced weight gain over a five-
+year period, as well as a lower risk of becoming overweight or obese. And do
+bear in mind, the human brain is about 60% fat. Our brains need fat to work
+well. New research shows that eating nuts can actually give your thinking skills
+a boost. How? Well, we'll crack into that with an expert in a moment. But first,
+let's find out how Emma is getting on. So this is day four of my nut snack
+adventure. I'm really enjoying it so far. I weigh out my nuts in the morning.
+I've been eating them generally at around 11 o'clock, so as a morning snack. I
+do find them quite good to munch on. I have been finding nuts quite satisfying.
+Yeah, so midway through, and we'll keep going to the end of the week. It sounds
+like Emma has found it easy to swap out her sugary treats for nutty snacks, so
+I'm keen to see if she sticks with it. But first, let's choose some nutty fat
+with Dr Ziyan Tan from the School of Exercise and Nutrition Sciences at Deakin
+University in Australia. Hello there. Hi, Michael. How are you? Very good,
+thanks. Now, I can understand why nuts are good for my diet, but tell me why
+they are good for my brain. They are good for our cognitive function. So this
+was based on a study that we published recently in 2021. We compared the nut
+intake and cognitive function of over 1,800 older adults in America. We found
+that older adults who consume nuts, about 15 to 30 grams per day, perform
+significantly better in terms of their short-term memory, fluency, processing
+speed, and also attention. Right, and 15 to 30 grams, that was enough to produce
+these changes in their cognitive skills. Why do you think that nuts are good for
+the brain? In one study, they found that including nuts into the diet can
+actually improve the brain reactivity. They also found that the small blood
+vessels in the brain actually have higher elasticity, so meaning that there's
+better blood flow into the brain, potentially explaining the benefits. And are
+some types of nuts better than others? In terms of nuts, they all have very
+similar kind of nutrient profile. So they are all high in protein, they are all
+high in unsaturated fats, which are healthy. So, for example, if we are talking
+about cardiovascular health, we see the benefits coming from almonds, we see the
+benefits coming from peanuts, we see the benefits coming from walnuts and other
+nuts as well. So there's no reason to believe that one nut is better than
+another. Right, that's interesting, because I always thought that peanuts were
+an almost inferior type of nut. Now, one of the ideas that has been around for a
+long time is that eating nuts is likely to help you put on weight because
+they're so full of fat and protein. And yet your research suggests that's not
+the case. That is correct. If we look at the body of research out there, the
+body of evidence, they all seem to suggest consistently that including nuts into
+the diet doesn't really have much effect on your body weight. In fact, those
+with higher nut intake tend to have lower body weight or lower body fat. So
+many, many studies have repeatedly shown that incorporating nuts into the diet
+doesn't make you gain weight. So why might that be? There are a number of
+potential explanations for that phenomenon. We don't absorb all the fat or all
+the energy from nuts when we consume them. That's the first reason. The second
+reason is that when we eat nuts, we feel fuller and consequently we adjust our
+diet in the next meal. The third reason being there are some studies showing
+that nut consumption can actually increase how energy is burned in the body when
+we consume nuts. Nuts must be one of the tougher foods that modern humans eat.
+So I am assuming there's something about the structure, which means we don't
+actually absorb quite as much of the fat that's in the nut while at the same
+time getting all those benefits that come with the fibre. So if we look at the
+structure of nuts under the microscope, we would see something like boxes. So
+imagine if you have thousands of shoe boxes put together and within each box you
+have fat inside. So in order to access the fat in those shoe boxes, we would
+have to go in and break all the shoe boxes. When we chew the nuts, we break the
+boxes, we release the fat, but in the process, not all boxes are being broken.
+Hence, there's still about 20% of fat left in the boxes that are not accessible
+by the body. Right. Now, I have been using nuts as a snack. Rather than reach
+for a chocolate bar, I tend to eat a small handful of nuts. I have tried to go
+for unsalted, healthy nuts, if you like. I have to say, I found salted nuts more
+addictive. So probably the challenge with nuts is stopping, isn't it? Small
+handful, fine. Large bowlful, not fine. That's correct. So even though we do see
+a lot of benefits coming from nuts, we don't recommend people to go nuts about
+eating nuts. We do want people to maintain at a level of about 15 to 30 grams
+per day. The one thing that I can say on that is that a lot of the beneficial
+compounds are found on the skin of the nuts. So when you prepare your nuts,
+whether it's in cooking or in baking or consuming them on its own, make sure
+that you consume the skin of the nuts together with the nuts in order to get all
+the nutrients or the beneficial compounds coming from nuts. So that's the
+science. Now let's check in one more time with Emma to see if she's enjoyed her
+nutty week. So it's the end of my nut challenge week and I've really enjoyed it,
+actually. I've had them in the morning with some yoghurt, which was lovely. I
+think it did help regulate my meal times a bit better. I've definitely found I'm
+eating less chocolate. I think my energy levels have improved. I'm not crushing
+so much during the day, which is great. So yes, I'm going to try and continue. I
+am pleased to hear that Emma has gone nuts for nuts. And as promised, I've been
+doing the challenge all week too. I have been snacking on nuts quite a bit, as
+well as incorporating more nuts into my meals. So today I'm making an apple
+hazelnut salad. As you can hear, I've been slicing the apples and I've got a
+packet of hazelnuts here. I'm just going to sort of scatter them around a bit
+and grab a few as well. Nibbling on nuts has really given me a boost. It's also
+helped me stay away from those mid-afternoon biscuits. I am definitely going to
+be sticking to a nuttier diet. So why don't you give it a go as well? Your
+brain, heart and even your waistline might thank you for it. So that's it. It's
+just one thing you can incorporate into your daily routine, which really could
+benefit your body and life. If you want to hear more of the series, why not
+subscribe on BBC Sounds? And next week at the same time, Michael wants to spice
+up your life, boost your brain, reduce your pain and improve your mood with
+turmeric. And in just a moment on Radio 4 Longwave, you can hear The Daily
+Service. Here on FM, we have the next instalment of our Book of the Week, A Tomb
+With A View by Peter Ross. The Patch on BBC Radio 4. One producer. What was
+amazing to me as an outsider was how normal all this was. One random generated
+postcode. So I've got to press that? Press that button and a story unfolding
+there you wouldn't otherwise know about. What do you sell then? Everything and
+anything. Unheard stories from across the UK. What do you do after being a
+prison officer? The Patch on Radio 4 and BBC Sounds starts next Wednesday
+morning at 9. Well, now on Radio 4, the Book of the Week. As he tours Britain's
+graveyards, the writer Peter Ross confronts war, bravery and remembrance in the
+company of the Commonwealth War Graves Commission. Andy Clarke reads from A Tomb
+With A View. It's known as the Green Isle, but as the boat approached over Lost
+Sheel, I could see it was fringed with red. Encircled by ruins, their berries
+bright in the late summer sun. The farmer put in at the stone jetty and we
+walked up onto the island. This is the way the coffins come. Could one analyse a
+footprint and identify grief in its tread? St Finan's Isle, or Ellen Ionin, to
+give this place its formal names, would be the place to do it. We were
+fortunate. Our business was not the solemn duty of a burial, and the heaviest
+thing to carry was a large drum of water for cleaning headstones. I was
+accompanying Robert Ross from the Commonwealth War Graves Commission as he went
+about his work. The CWGC looks after 170,000 graves in the UK. 21,000 or so are
+in Scotland. Over the next five days, Robert would visit, clean and maintain 27
+graves, covering Moydart, the Ardnamurchan Peninsula and the Hebridean island of
+Egg. He'd make five crossings by ferry, plus short hops in a wee boat to and
+from this island. One of the reasons war graves are so scattered in Scotland is
+because of air crashes and ships being sunk. Casualties were buried as close as
+possible to where they washed ashore. That could mean a tiny graveyard on a tiny
+island. The Commonwealth War Graves Commission has to plan how to visit and mark
+and then maintain that site. It's chaos colliding with order. The organisation
+was established by Fabian Ware during the First World War. Ware was a former
+editor of the Morning Post. Too old for active service at 45, he led a volunteer
+ambulance unit in France. In October 1914, when inspecting wooden crosses in a
+makeshift cemetery, he was struck by the thought of a better, more lasting way
+to mark the graves of the fallen. His two central ideas were that the dead
+should be treated equally, regardless of rank or station, and that the
+headstones should be permanent. Crucial, too, was his belief that bodies
+shouldn't be repatriated to the countries they'd come from. They should remain
+buried where they fell, beside the men they'd fought with. This was
+controversial. Understandably, families very often wanted their loved ones
+brought home when possible. But there was a certain poetry in it which embodied
+Rupert Brooke's famous line, If I should die, think only this of me, that
+there's some corner of a foreign field that is forever England. Forever
+Scotland, too, of course, and Wales and Australia and India and the rest. Today,
+there are almost 1.7 million Commonwealth war graves and memorials in 153
+countries. They're in every continent except Antarctica. And there are two on
+the Green Isle. Private Mary MacDonald and Dougal Grant. Most members of the
+British Armed Forces who are buried in the UK tend to have succumbed to their
+wounds after being invalided back home, or they died from illness or accident
+while stationed here. Mary and Dougal were both local to the area, from families
+with roots deep in Moydart, so it would have been considered right and proper
+that they were buried here. The Green Isle is an ancient Christian site. Finan,
+an Irish monk, is thought to have arrived here in the 7th century. As a result,
+it became a holy place. It's very small. You could walk its perimeter in 15
+minutes, but you never do that. It's too rough and boggy. Ah, here's the first
+one, Robert Ross said. He'd spotted Private Mary MacDonald's grave. Mary died in
+1944 at the age of 23. The headstone is modern pink granite. I passed her former
+home on the drive here, a cottage called Kincara, with smoke coming from the
+chimney and pieces of driftwood woven into the fence. It was sad to think of her
+leaving that pretty house, never to return. She joined the Auxiliary Territorial
+Service, the women's branch of the army. How Mary lost her life on April 26th,
+1944 isn't certain, possibly tuberculosis or appendicitis while serving on an
+airbase. She was the youngest of five siblings, a Gaelic speaker and reputedly a
+great beauty. Her parents and brother John, all of whom she pre-deceased, share
+the same grave. The desire to be laid to rest on the island isn't simply because
+it's beautiful, but because it links you, body and soul, to an ancient past.
+This place may have been made holy by its association with a saint, but it is,
+in our time, sanctified by stories. Robert and I walked up over the top of the
+island and found the second grave. Dougald Grant lies almost directly beneath a
+rowan. The stone is modest, made of granite. Between carvings of an anchor and a
+cross is his name, age and date of death, May 23rd, 1916. He was a deckhand with
+the Royal Naval Reserve and died, aged 26, in Haslar Naval Hospital near
+Portsmouth from measles and pneumonia. His body would have made its long journey
+home by train from Portsmouth to Glenfinnan, where the coffin was loaded onto a
+little steamer and carried up Loch Shiel. Dougald's father, Peter, was a
+carpenter and made coffins. I wonder whether he made his sons. He could have had
+no idea, as he shaped the wood, that a century after Dougald's death, the grave
+would be tended by an organisation dedicated to remembrance. I joined Robert
+Ross by Grant's stone. He had scrubbed it with a stiff brush and was now
+repainting the letters. I was curious about all this effort. The dead of the
+World Wars died a long time ago. In many cases, it's likely that no family
+members visit the graves, yet the CWGC team dutifully work their way round them,
+cleaning and repairing. Why go to so much trouble? We do it for the guys on the
+ground, he said. You want to pay your respects. Being able to say to somebody,
+this is your relative's grave, and we've made sure you can read it, and it's
+clean and cared for, and even if you can't come and visit, we'll still go back.
+That's special. Richmond Castle, Yorkshire. May 19th, 1916. Three men are in the
+cell block. They're singing a hymn. One was a footballer and accounts clerk, the
+second a miner, the third a teacher and lay preacher. They're all prisoners now.
+Norman Goddy, Alfred Myers, John Hubert Brocklesby, known as Bert. They and
+thirteen of their fellows will come to be known as the Richmond Sixteen. They're
+conscientious objectors, conchies, cowards to many. They will not fight, and
+they won't do any sort of work that helps the fight. They're absolutists. For
+this, they've lost their freedom. Approximately 16,300 men expressed a
+conscientious objection to fighting in the First World War. 1,300 of them were
+absolutists. The group imprisoned at Richmond Castle were a mix of socialists
+and committed Christians. How to keep their spirits up? By singing and playing
+chess through a small hole between two cells. They also wrote on the walls. We
+know this because the writing is still there. The prison block is attached to
+the keep. There are eight solitary confinement cells over two storeys, each
+about nine feet long by six wide. Inside, the air smells of damp. Graffiti was
+everywhere. Written in pencil. Bible verses, sketches of loved ones, lines from
+Tennyson, a little pornography, scenes from war. There are more than 2,300
+inscriptions dating from the 19th century to around 1970. The best of it is by
+the conscientious objectors. The only war worth fighting is the class war. You
+might just as well try to dry a floor by throwing water on it as try to end this
+war by fighting. On May 29th, the group left Richmond Castle for Laivre and
+Boulogne, singing hymns. They knew they might be going to their deaths. The
+execution of the Richmond 16 would surely serve as a deterrent for those who
+thought to avoid combat. Among their number was Alfred Martlew. He worked as a
+clerk at the Roundtree Chocolate Factory in York and was a member of the
+Independent Labour Party. His pacifism was rooted in socialism. He believed, he
+said, in the brotherhood of man. Before visiting Richmond, I'd made contact with
+a relation of Alfred, his second cousin, the Reverend Andrew Martlew, who's a
+former British Army chaplain. He first visited the castle in 2003, shortly
+before deploying to Iraq. I went there in uniform and blagged my way into the
+cells, he recalled. I found it very moving indeed. Growing up, he hadn't known
+anything about the Conchi and the family, but he came to admire his relation and
+the other men who refused to serve. They were all incredibly brave, he said. I
+can't imagine the social pressure they were all under. There was no street in
+this country where there wasn't somebody who'd lost a son or a brother or a
+father. In France, Alfred and the others were court-martialed and sentenced to
+death, but the sentences were commuted to 10 years in prison with hard labour.
+The Prime Minister, Herbert Asquith, never comfortable with conscription in the
+first place, was unwilling to have his government sanction these executions.
+There was, however, a feeling that the men shouldn't escape entirely. Suffering
+was in the air, and why should they not breathe it? So, at the end of August
+1916, Alfred Martlew, along with other Conchiensi's objectors, was sent to work
+in a granite quarry at Dice, near Aberdeen. They slept in tents and worked
+breaking rocks. One young man died of pneumonia. A group photograph taken in the
+quarry is a portrait of exhaustion. Martlew is standing at the back, looking
+thin, tired and cold. It's possible to feel sympathy for these outcasts while
+acknowledging the greater hardships experienced by those who went to fight.
+Though the Flanders trenches were hell, the work camp sounds a sort of
+purgatory. When it closed at the end of October, Martlew was given other
+employment, but he became upset that the jobs he was being told to do had a
+military purpose. Feeling that the government had betrayed him, he went on the
+run. Back in York, where he'd lived and worked, he told his fiancée Annie that
+he was going to give himself up as a deserter. In a state of some distress, he
+gave her his money and watch. He was last seen alive on July 4th, 1917. Seven
+days later, the body of an unknown man was recovered from the River Ouse, near
+Bishopthorpe Palace. Alfred was identified the following day. He was 22. He lies
+in the churchyard of St Andrew's, Bishopthorpe, North Yorkshire, near the foot
+of a young oak. Placed on the earth by his headstone was a small wooden cross.
+His blood was shed as a result of the war, and his courage, though not the sort
+recognised in silences and gun salutes, was real. Age has not wearied Alfred,
+and the years have not condemned him. Quite the opposite. Almost a century after
+his passing, he seemed strong and admirable. Was he a hero? His relative Andrew
+is sure. Yes, he said, undoubtedly, without any qualification, yes, because his
+sort of courage required in the cold light of day and in the dark hours of the
+night that you do what you think is right. Alfred Marklue left no mark on the
+walls of his Richmond castle cell. I did, however, have a copy of his official
+notice of appeal, where he'd set down why he would neither fight nor do any work
+that would assist the fighting. His final words were written in a neat, steady
+hand. I am prepared to be myself sacrificed rather than be the means of
+sacrificing others. Music education in the UK has been in decline for years. If
+you're listening on web or mobile, this service is available to stream on BBC
+sounds.
