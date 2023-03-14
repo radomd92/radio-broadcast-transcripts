@@ -1,0 +1,731 @@
+TRANSCRIPTION: BBC4_AUDIO/2023-03-06-21H00M.MP3
+--------------------------------------------------------------------------------
+ Time! BBC News at 8 o'clock. Tributes have been paid to two women and a man who
+were found dead in a crashed car almost two days after they went missing. They
+were found in a vehicle which had come off a major road in Cardiff. Another
+woman and a man were taken to hospital with serious injuries. Police said they
+were supporting the families. Nellie Baird from BBC Wales is at the scene. Over
+the weekend, concerns were raised, appeals on social media for the five people.
+So Sophie Rousson, Eve Smith and Darcy Ross, three young women, and then two
+men, Rafael Jean and Shane Loughlin. They haven't been seen since around 2am on
+Saturday morning. Many people we've spoken to here have been concerned that
+perhaps they had been there for some time. The Metropolitan Police has
+apologised for missing opportunities to arrest one of their officers before he
+killed Sarah Everard. Wayne Cousins, who has since been dismissed from the
+force, was earlier sentenced to a further 19 months in prison for exposing
+himself to women on three occasions. He's already serving a whole life term.
+Downing Street has said it hopes to open more legal routes for asylum seekers
+once new laws to deter small boat crossings are in place. Under the new
+legislation, illegal migrants would be removed and banned from applying for
+British citizenship. Refugee charities have criticised the plans. A UN envoy to
+Afghanistan says restrictions imposed on women and girls by the Taliban may be a
+crime against humanity. In the report, Richard Bennett said the country's
+restrictions on women were having a devastating impact on the whole population.
+He said they were tantamount to gender apartheid. A parole board has heard that
+Charles Bronson, one of the UK's most violent offenders, would not cope with
+being released. The 70-year-old was convicted of armed robbery in 1974, aged 21,
+and has spent the majority of his life in prison since. The panel is still
+deciding if he can be released. BBC News. Hello, Greg James here, and I'm back
+with a brand new series of Rewinder. Can you believe? It is back again. We have
+access to the enormous BBC archive once again to unearth some hidden gems. If
+we're going to save Scobag, we'll get my pig. This week, find out what salad
+Kate Winslet cooked on Ready, Steady, Cook. Bit of an iceberg lettuce. Why were
+people complaining about oeuregala? Because we obviously had this problem of
+spoons bending in my wife's hand. And how could you win this prize? Good
+bouncing 16-pound hand. No, no, really. That's Rewinder with me, Greg James,
+this Saturday from 10.30 on Radio 4 and BBC Sounds. Now on Radio 4, the
+technology journalist Lara Lewington presents a documentary made with a helping
+hand from the artificial intelligence everyone's talking about, ChatGPT, and
+I'll let ChatGPT tell you more. This documentary is all about the clever
+computer that's changing the way we communicate and access information. Those
+words weren't written by a human. They were written by an artificial
+intelligence, an online service you've probably heard a lot about over recent
+months, ChatGPT. I am a computer program designed to process and understand
+natural language created by open AI. I've been trained on a vast amount of text
+data. When you type a question or statement to me, I analyze the words to
+generate a response. Think of it as super-powered predictive text. It works on
+the statistical probability of what words make sense to follow one another,
+resulting in something you could believe was written by a person. So whilst we
+delve into how this kind of technology is changing our world, maybe it can also
+help me make this documentary. Hi, I'm ChatGPT. I'm here to assist you with any
+questions or tasks you might have. This is the voice we've given the technology
+because it writes but doesn't speak. Well, we're making this documentary, so
+obviously I wanted to know what ChatGPT itself would think that I should say. So
+we asked it to write an introduction and here's what it came up with. Oh dear.
+Hey there techies, Lara Lewington here, your favorite technology journalist from
+BBC Click. I did not write this. I'm so sorry. Right, let's see what happens if
+I ask it for a more British sounding version. Good day, tech enthusiasts. That
+doesn't sound obviously British. I'm absolutely thrilled. Thrilled? OK, maybe
+that is a bit. For this new project, I've partnered with ChatGPT, a highly
+intelligent AI language model to delve into the forefront of artificial
+intelligence and explore its incredible capabilities. All sounds a bit too
+enthusiastic for me. I'd like a bit more balance. This is the BBC after all. So
+in my own words, I'm Lara Lewington. I'm passionate about AI from a very human
+perspective. The part that we should let it play in our lives, the decisions
+that we should be letting it make and crucially, how we feel about our
+interactions with machine rather than man. In my job presenting the BBC's
+technology show Click, I'm always looking to the future. So I've been mulling
+this over for years, but the emergence of ChatGPT has taken the AI debate
+mainstream. The ethical and practical decisions over what AI will do will affect
+us all. And just because we can do something doesn't mean we should. Right,
+ChatGPT, where do we start? How can I get my virtual producer to be genuinely
+helpful? You can read articles, watch videos and explore the OpenAI website to
+get a better understanding. I suppose that's actually what I'm doing now. Define
+the scope. I guess I need to give it a bit of a brief as to what it's for. So
+maybe I'll add that in a follow up question. Plan my approach. Script writing,
+filming, editing, review. This documentary isn't just about journalism. For
+creative writing, customer service, the way we communicate with our loved ones
+and in education, is this the moment it could all change? It's an extraordinary
+phenomena. It's burst on the scene. For the essay, less than a minute, I think.
+I think this is going to force the education system to rethink how we educate
+our young people. It's like a pencil and a piece of paper or Photoshop. It looks
+to me like AI will replace tasks, not jobs. The first time I used it, I wanted
+to ask it to write a letter to my husband to apologise for the fact that I've
+been grumpy as I had a toothache. And the letter that it came back with was
+extremely formal, like something that had been written about 70 years ago and
+just had some weird turns of phrase. My dearest husband, I want to take a moment
+to express my sincerest apologies for my recent grumpiness. I know I've not been
+myself and I'm deeply sorry for any inconvenience or hurt that my behaviour may
+have caused. Why would I apologise for the inconvenience of being grumpy? It's
+just a really weird word to use. At first, I was amazed. Then you start really
+thinking about its output, comparing it to our own words. And of course, it's
+not the same. But this is just the first version of a sophisticated kind of AI
+that's been open to us all. Anyone can test drive it and it'll just get better.
+The arrival of ChatGPT has provided delight and dilemmas aplenty. There are big
+ethical questions at play. One debate is whether a student opening up a website,
+typing in some instructions and submitting the results as their work is cheating
+or not. So at Stirling University, they've been experimenting. Hello. Oh, hey
+guys. Come on, take a seat. Thank you. Right, we're talking about ChatGPT today.
+That's Connor McEwan, a senior lecturer at Stirling University. OK, I've sent
+you this exercise. I've asked you to ask ChatGPT a question to see if it can
+answer if AIs can create art. And I want you to try and get it to produce about
+500 words. The fourth year digital media students work out what they're going to
+ask ChatGPT. They aren't cheating. This is their assignment. I'm going to ask
+ChatGPT to write an essay. This is Celine Grech. So please write an essay about
+the integration of AI and art. OK, let's send. So it's saying right now that
+artificial intelligence and art have been intertwined for decades. But the
+integration of AI and the creation of art has greatly accelerated over the last
+decade. In this essay, we will explore the various ways. It's as easy as that.
+And how quick? For the essay? Less than a minute, I think, didn't it? I mean,
+it's a whole lot of words as well. It's super detailed. Let's pause there.
+Celine has just done her assignment in about a minute. But who really did it?
+Where did ChatGPT get its information? Who should she credit? This takes me to
+Professor Sir Nigel Shugbolt at Oxford University's Institute of Ethics in AI.
+Well, I think the instant reaction was that this was cheating. But of course,
+maybe this is actually just moving with the times. Is it any different to taking
+a calculator into an exam? Many researchers, many students use it as a reference
+point. I think what we have to think is that the key thing is not to present the
+output of GPT as if it's your own work. One of the guiding principles I always
+use in AI, the ethics of AI, is a thing should say what it is and be what it
+says. So we're definitely going to need to regulate on the use in exam
+conditions or in formal assessment conditions. But in other areas, we can see
+these tools as enhancing or enriching a learning experience. It feels like we've
+been here before. I remember the big arguments that were around Wikipedia when
+it first came out. And articles couldn't possibly be as good as something as
+Encyclopedia Britannica, which had been so carefully curated. Over the years,
+the quality of Wikipedia has become one of the most trusted sources on the Web.
+Back at the seminar at Stirling University, Gregor Forbes is assessing ChatGPT's
+attempt at his essay. He's used the technology before, so he knows what to look
+out for. A sequence of references at the bottom. And if I take any of these
+links or try and look up any of these references, I'll find out that they don't
+exist. The person who wrote them didn't exist. It very often will just make
+things up that aren't true. This is something that happens constantly. It is
+very high tech, but it's not high tech enough that I think it's a perfect cheat.
+And really, I think the only person you're cheating is yourself if you don't do
+the work. For me, the most amazing thing about this technology is if you are a
+student struggling with writing for whatever reason, that can be stress,
+anxiety. You can be dealing with serious disabilities that prevent you from
+writing some barrier to access. Nothing is more terrifying than a blank page.
+And ChatGPT stops that from being a reality. Look, guys, thank you very much for
+everything in class today. I'll talk to you all later. When the students have
+gone, their lecturer, Connor, still has lecture planning to do. I need
+technological help, often just to get me past the blank page stage. So any
+lecture that I have written, anything longer than 500 words, it began with a
+template that ChatGPT helped me to write. So one way that it can really help
+teachers is by marking work and providing feedback. Former teacher Dan
+Fitzpatrick works on digital strategy for colleges in the northeast of England
+and writes about AI in education. So, for example, I'm doing it here with an
+English GCSE question. I've put the question in and the student answer and then
+the mark schemes grade it and tell me why you've given that grade. So I press
+enter and immediately it starts typing. And literally within a fraction of a
+second, I've got the grade. That was very quick. What do you think of the
+outcome? It works. This is one where I've actually got what the answer would be
+from the examiner and it gives the right answer. When you do this with human
+markers, you get more variation. OK, and in this case, the grade and the
+comments were the same as a human had given, give or take. Yeah, pretty much
+exactly the same. Wow. I think we're talking about something completely
+different here. We're not just talking about a new shiny toy. We're talking
+about something that is literally, as we speak, revolutionising pretty much
+every industry on the planet. If we bury our heads in the sand and we've seen
+educators and schools in Australia and New York and other places in America kind
+of ban this technology, I think we're just going to widen that digital gap. So
+students are using it, teachers and lecturers are using it. It's also making
+things up and we can't tell where it's got the information from if the sources
+are made up. The issues it raises in education are relevant to lots of other
+areas too, as I discussed with Professor Sir Nigel Shadbolt. But aside from
+writing essays, what should we let it do? Play doctor, financial advisor,
+friend? What sort of decisions do you think we're going to need to make and how
+do we make those decisions? In areas which really matter to us, we'll need to
+seriously ask ourselves, how does this system account for itself? How
+transparent can it be about the sources? So around issues of accountability and
+transparency, fairness and equity, all of the key ethical questions that concern
+us when we think about using AI, they're right at the centre, fore, square and
+centre in the use of GPT. Chat GPT, I need your help again. My producer fed the
+interview that I did with Nigel into the AI to ask it to choose the elements
+that it thought were the most interesting. And well, let's just say it didn't
+agree with us at all on which the best bits were. There's been a lot of talk
+about how Chat GPT can write books, marketing campaigns, plays, essays, films.
+So how about one of my favourite shows at the moment, Line of Duty. Can it write
+a scene? How about a conversation between Steve and Kate? Well, it's definitely
+laying it out like a script. What's going on, Steve? I think we might be on to
+something big with this one. Really? What have you got? It does sort of sound
+like them in their ongoing mission to uncover corruption and bring criminals to
+justice. It's pretty bland, but I think it's believable. Certainly
+superficially, I am impressed. But what does this mean for screenwriters? And
+can an AI really write to broadcast standards? Good evening, everyone. Welcome,
+welcome to how to co-write a screenplay with artificial intelligence. The very
+fact that there's an event in London about co-writing a screenplay with AI shows
+that even the most creative people are wondering what it means for them. It
+raises the same questions art created by AI has for years about what creativity
+is and whether it takes a human suffering or joy to create something that can
+then make us feel the intended response. Or maybe it doesn't matter as long as
+it's good. Stephen Fellows was hosting the event. He's a film analyst and script
+writer. So the idea of being a writer will shift and change as it did when
+computers came out and people didn't have to format their own scripts or
+spellcheck. But it's the same journey. Obviously, at the beginning, people can
+be quite worried and cynical, although obviously all these people turned up.
+Including Jane. At the moment, I'm a content designer. There's a huge interest
+in AI at the moment. So I'm here to find out how I could use AI to save time. So
+I've got my characters, I'm thinking, oh, I'm going to develop this into a
+really cool idea. So I'm really keen to see what happens to that room of writers
+over the next few months. How many of them will embrace it and start to use it?
+Jane has come away feeling reassured. I found the session interesting. You know,
+the examples that he came up with, I found were very derivative and generic.
+Yeah, I don't think filmmakers or content creators have a lot to be frightened
+of just yet. But yeah, I do think it's a useful tool to run your content through
+and to have a look at. Writers are going to have to change what it means to be a
+writer and what's special about them as a writer. And so rather than them having
+the advantage of, well, I have the software and I have the knowledge and I've
+learned all the rules of storytelling necessarily, it might be more about them
+being better selectors, curators, putting together the right ingredients rather
+than having to grow them themselves. It's like a pencil and a piece of paper or
+Photoshop. It looks to me like AI will replace tasks, not jobs. OK, I had a few
+tasks for you, ChatGPT. Let's look at interview questions you've come up with
+for me. Here are a few of the questions you could consider asking her. One of
+the concerns around AI is its potential to perpetuate bias or discrimination.
+How is this issue being addressed in the development and implementation of
+ChatGPT and what more can be done to mitigate these risks? It's a great
+question. I think it's a great question. I would have just asked it more
+conversationally. And I know the perfect person to ask. Assistant Professor Kate
+Rendenburg taught me some of what I know, and she studies the impact of AI on
+people at London School of Economics. A real concern about these large language
+models is that they're replicating all that bias and prejudice in ways that are
+really hard for us to detect. So there are some kind of cases where the system
+is just clearly outputting something that's problematic. It's racist, it's
+sexist. These problems have long existed in AI systems, but now more people are
+interacting with AI using ChatGPT, and that will only grow as more language
+models become available. So researchers have found that many of these models are
+what they call kind of anglo-centric. So say that I've asked, you know, a kind
+of large language model a question, what do I make for dinner? It's likely that
+I'll get an example recipe from an anglophone culture, say a roast. I won't get
+an example recipe from a non-anglophone culture. And those biases reach into so
+many aspects of AI. ChatGPT is trained on text created by us. So it carries
+human biases. Perhaps it could overcome that bias better than we can, though.
+After several months of having access to this technology, I can already see the
+huge impact of it not just being able to write, but also being able to read
+natural language this well. Maybe this could be a solution for the seemingly
+impossible job of policing social media. But at the same time, it could make
+spreading disinformation easier. And if it's to play therapist or write medical
+reports, some radiologists do see this being the future, it'll need regulation
+and certainty that it's saying the right thing. In our interview with ChatGPT,
+we asked it the classic job interview question, How do you see yourself in five
+years' time? From personalized virtual assistants to improved medical diagnosis,
+the potential applications of these powerful language models are virtually
+limitless, offering the possibility of a brighter, more efficient, and more
+connected future. Improving communication, enhancing customer service,
+revolutionizing education, streamlining business operations, improving access to
+information. So, Nigel, in the spirit of this, I've of course asked it to write
+some questions for you. So I'm going to read you one of them. How do you think
+ChatGPT can be leveraged to enhance human-machine interactions and improve
+customer service experiences? And the answer is they're going to be widely used
+because you can take GPT as is and further train it and refine it. Professor Sir
+Nigel Shadbolt. A company based in Ireland developing an online customer service
+chatbot with ChatGPT technology. Fergal Reid is the director of machine learning
+at Intercom. He's trialling it on me so I can see the difference it can make.
+I'm going to pretend I'm talking to my bank. As a customer, I won't necessarily
+know the difference, but it is changing things behind the scenes. OK, so I'm
+typing in I've lost my card. Please can I cancel it and order a new one? So I am
+now the support rep. I'm sort of like handling this conversation. I have many
+different conversations here. No problem. Sorry to hear that. I will send you a
+new one. So I've wrote like a short and snappy kind of shorthand version here.
+I'm just clicking a button here to expand this out. So again, this takes the new
+AI models that OpenAI have produced and it turns it into, Hi there, I'm sorry to
+hear that you're having a problem with your product. That's not quite right.
+It's not quite perfect. So it's like just going to delete your product and say,
+Hi, I'm sorry to hear you're having a problem. I apologize for any
+inconveniences caused. I'll get a replacement sent out to you right away. Is
+there anything else I can do for you? When I ask it how long my car's going to
+take to arrive, it does give me the information, but it also pretends to care.
+The AI gives me this slightly frustrating longer answer. I don't really want a
+full conversation. I just want the facts. That is a personal preference. Some
+people may enjoy it more, but generally, I think the benefit here is for the
+company more than the customer. I'm juggling several conversations. You are a
+busy person. And so the idea is that speeds up the support rep and helps them
+answer multiple questions at once. And then it also gets to the person who's
+asking the question, just their answer in a better, faster timeframe. What other
+areas do you think generative AI is really going to make a difference for? We
+think it's going to make a difference across many, many industries. Almost
+everything you can think of from things like banking, things like travel, things
+like utilities, like power companies, internet companies, there are so many
+different industries where people are writing text for a living. It can be made
+faster. It can be made more efficient. We may not even know what's human
+anymore. Some may embrace the fact that it's not a person. That's what I want to
+ask Kate Rendenberg from the London School of Economics about. There is another
+side to this. Some people may while away their evenings playing with chat GPT,
+having a bit of fun, but there are others who start to live this like an actual
+relationship. And there are platforms allowing people to do that. So what do you
+think about the relationships that people can have with AI? I think that people
+can have all kinds of helpful and productive relationships with AI, especially
+as they become more human. What these companies need to do is ensure that their
+products are doing precisely this, allowing people to have these productive
+relationships with AI systems. So here's one kind of example. You could imagine
+that I'm using a chat bot and I'm a highly anxious person. Many academics are.
+And so what's helpful for me in talking to this chat bot is that it's kind of
+reflecting my anxieties back at me. It's reflecting certain patterns of thought.
+And because it's doing that, I can kind of see these patterns of thought with a
+little more distance. And I might recognize, hey, I'm actually spiraling
+unhelpfully into thinking about something. And maybe I don't need to be doing
+that. So that's the kind of best case scenario. Of course, there's another more
+troubling scenario where you've got a chat bot. I give it the same inputs. It
+gives me the exact same kind of reaction. But just because of the kind of person
+I am, I think, aha, that's confirmation. I really ought to be worried about
+this. And let me keep talking to this chat bot and getting more and more
+worried. Do you think from a human perspective, it's healthy for an AI chat bot
+to act like a friend? So people have exhibited a kind of willingness to express
+things to chat bots that they might not express to another human being. So say
+that I use this chat bot as a friend. I use it to explore my kind of deep fears,
+my anxieties, my insecurities. And then I recognize them. I really have to face
+them. And I bring them to my human friends. And I start to talk about them. Or I
+bring them to my family or therapist or partner, to whomever. So we can think a
+lot of use cases where just given the wonderful neurodiversity and variety of
+people, actually, these systems will be quite helpful, quite human, quite
+friendly. Bot. There is a bot. I think we really need to consider the kind of
+vulnerabilities we create in people if they start relying on these systems as
+their only friend. And also the potential for these systems to be quite
+manipulative. For example, if the system suddenly tells you, please send 500
+pounds to this bank account in order for me to keep staying online. And, you
+know, I think we have real reason to worry about those vulnerabilities. Of
+course, all these chat bots are imperfect. They were built by humans. And it's
+only the beginning. Our online experiences will simply get better. Not to be
+cast into chat GPT's shadow, Google soon announced BARD, its large language AI
+model which is soon to soup up your Google search. It promises to provide easier
+to digest and more rounded responses. Meanwhile, the best known search engine no
+one was using, Microsoft Bing, has been powered by chat GPT for test users. As
+one of them, I can tell you that despite its rightful warnings to expect some
+mistakes and surprises right now, combine AI with search and you're really
+virtually talking. There's even a sense of pseudo warmth. I asked it to help me
+plan a workout. I want better abs and running daily isn't cutting it. It claimed
+to care about my fitness, providing a clear and sensible seeming plan with
+plenty of links. If only it could do the exercise for me. There have been
+reports of users pushing it to its limits, though, and it has not gone well. I
+guess the same can happen with humans, and Microsoft was able to rein it in. So
+chat GPT, what's your conclusion to all this? Overall, I believe that we are at
+a turning point in our use of AI and that these technologies will continue to
+shape the way we live and work in many different ways in the years to come. And
+this is the script that he wrote for me as a conclusion. With the ability to
+analyze and interpret vast amounts of information, chat GPT and other language
+models are poised to revolutionize nearly every aspect of our lives and usher in
+a new era of innovation and progress. My actual thoughts? Well, initially, I was
+blown away by what chat GPT could do. Then, when I tried it for practical
+purposes, well, I couldn't literally take its words. They had to be fact-
+checked, and I needed to make them sound like something that I'd say. But the
+potential here for this and its rivals in so many areas is absolutely huge, and
+this is just the start. I hope that the script lines I provided are helpful and
+meet your needs for your radio documentary on chat GPT. Thank you. You did, chat
+GPT. You helped. But I'm still figuring out my feelings for you because there is
+a lot to think about. When it comes to my job, though, am I worried about you
+and your rivals? Maybe I should be, but I'm actually excited about what I'm
+looking at. I'm excited about what I'm covering here. This is a huge step
+forward in something that's going to make an enormous difference in the years to
+come. So my excitement for that completely outweighs my concern that this could
+maybe be doing my job. A documentary by me, chat GPT, well, sort of, was
+produced with a lot of help from Fiona Wood. A lot of help from Fiona Walker and
+presented by the real Lara Lewington. The voice of chat GPT was thanks to
+another piece of tech called Descript. The documentary was produced by Novel for
+BBC Radio 4. Thank you, chat GPT. I'll be out of a job shortly. In a moment,
+Rosie Campbell asks, do the backgrounds of our politicians influence voters'
+choices at the ballot box? Meanwhile, tomorrow morning... Welcome to The Spock.
+In the midst of it, we're going to make decisions that are different than the
+decisions that we would make if we were looking from the outside in. Bold
+thinking for a better world. We struggle to recognise or remember that these
+inequalities come from somewhere. That sense of human connection can save a
+life. I'm Helen Lewis with a new series of Close-Up Conversations. More big
+thinkers with big ideas bidding to change our world. And hearing some of the
+personal reasons behind them. Probably one of the best decisions I've ever made
+in my life was making that step. The Spock starts tomorrow morning at 11 on BBC
+Radio 4 and BBC Sounds. And now on BBC Radio 4 Analysis, Rosie Campbell
+considers what really seems to matter to voters when they choose a candidate.
+Does your MP's background matter to you? I'm a first generation immigrant. My
+parents immigrated here. My mum's a pharmacist. At some point when I was a
+teenager, she bought her own pharmacy. She was also then a small business owner
+and I did all the accounts and the books. I started off as a university college
+lecturer and then I did some writing. And I was happy being a lecturer but I did
+feel I had a duty. When I saw what was happening to my own community about
+unemployment and poverty, I felt I had some duty to do something about it. When
+I was a poor kid growing up on a council estate, I didn't think I was poor. I
+was just like everyone else. It was just the life lot that you got. We had a
+garden full of vegetables, chickens at the bottom of the garden for the eggs.
+And that was our food bank. So if we were short on anything, we then went in the
+garden or the allotment and got the food out. Classic theories of representative
+democracy argued it's the representation of our ideas, not our personal
+characteristics, our age, gender, race or class, for example, that should
+matter. Current debates about the diversity of our politicians suggest many of
+us are interested in who our MPs are and that they represent us and our
+identity. But is that really true? I'm Rosie Campbell, Professor of Politics at
+King's College London, and in this programme we will explore whether MPs'
+personal backgrounds and history really are the most critical factors leading to
+good political representation. Am I looking for someone like me? What does
+academic research tell us about how much weight voters give candidates' personal
+stories? I asked Professor Maria Sobolewska from the University of Manchester.
+So I looked specifically at voters of minority ethnic origins, and what we have
+actually found in the 2010 election when we did a detailed study of this is that
+voters generally preferred politicians from the correct political party. So
+political party was much more important to them than the similarity in terms of
+how people looked. If somebody had the chance to vote for somebody from the same
+ethnic background as themselves, that person was from the wrong political party
+that would not have trumped the party choice. So party was definitely much more
+important. However, if you are stood in a very competitive seat, it's a three-
+way marginal, let's say, even a very small effect, 2% maybe vote loss, that of
+course can mean the difference between getting elected and not getting elected.
+However, if you are stood by your political party in a safe seat, even getting
+3% less vote than another candidate from that party would have gotten doesn't
+make any difference because your party's advantage in that seat is 15 or 20%. So
+this really is one of the reasons why it is so important that political parties
+put those underrepresented candidates in the safe seats, because this is really
+the only way they can break through their potential discrimination from the
+voters and get elected. You've reminded me of some work that I did with Olly
+Heath when we were looking at whether women voters are more likely to vote for
+women candidates. And what we found that there's only a really niche group of
+women who might do that because it's people who strongly identify as feminist
+might be pushed, as you've described, from supporting their preferred party to
+another party to support a woman. But we're very, very few people who would do
+that. Is that a similar pattern that you're seeing amongst ethnic minority
+voters? Absolutely. And I always think that it's a great simplification of our
+kind of decision-making at the polling station to say that we vote along some
+kind of identity lines. So one of the reasons why some of our social identities
+become more important for us in terms of how we vote is because there are
+political parties talking about those issues, campaigning on those issues, and
+making us aware of those identities when we are trying to choose how to vote.
+But of course we have many identities that are not kind of deemed important at
+the time of voting and we are not simply politically mobilised on. If Maria is
+right about the political mobilisation of identities, then perhaps I've been
+asking the wrong question. We're not looking for someone like me, but perhaps
+we're looking for someone like us. Yes, it is about groups. And I think this is
+why we use this word identity, because we do have people who we think are more
+like us and they are more in our in-group. Maria has thoroughly debunked the
+idea that we voters are simply drawn to politicians who look like ourselves or
+share our personal histories. Rather, it's the perspectives and values that we
+believe we share with people who've had similar life experiences that attract us
+to politicians like us. I asked Dr Mike Bankole, Lecturer in Politics at Royal
+Holloway, University of London, whether in his interviews with Black MPs he
+found that they felt they were better able to represent Black constituents.
+Look, we've made some big strides in politics. We've gone from a position where
+we had only four minority MPs elected for the first time in 1987. We've now got
+to a position where we have 67 minority MPs across three major parties in this
+country, or four major parties in the United Kingdom. So that's actually
+something that's pretty significant. But when I was speaking to people for my
+research, a lot of the work that minority MPs do to represent the interests of
+minorities goes, you know, it doesn't get reported in the news because a lot of
+it's constituency work. So Labour's minority MPs, a lot of them represent what
+we would call ethnically diverse constituencies. So they have almost an added
+onus to represent the interests of minorities. One MP, and I think it was a
+really powerful statement, said, it's my duty. And I think because a lot of
+minority MPs are backbench MPs, it's a certain Labour side of things. They have
+this scope to do this job, maybe a bit more than MPs who are frontbench shadow
+ministers or ministers on the Conservative side. The Windrush is a perfect
+example for those who don't know Windrush. You know, Windrush scandals was
+caused by government policies, which meant that members of the British Caribbean
+community were affected and were refused access to particular services in this
+country. And what that meant was that a lot of minority MPs who represent
+constituencies with British Caribbeans had to almost, you know, act on their
+behalf and try and get these constituents access to key services. And I spoke to
+an MP who is still fighting for one of their constituents who's being faced with
+threats of deportation because of the Windrush scandal. And this is an ongoing
+fight, by the way, the Windrush scandal hasn't just disappeared. And for the MPs
+involved, it's an emotional thing because they have links to these communities
+in some cases, and they can share the trauma these families are going through,
+because the MP I interviewed was a British Caribbean MP. So they felt that the
+trauma the family were going through, and there was almost a sense of that could
+have been me. So I think it is really, really central to a lot of minority MPs
+and their activity. They try to bring their understanding and knowledge of these
+communities into their casework. And Windrush is just another example of that.
+This is not to say white MPs didn't support Windrush cases, of course, but
+Mike's example of how some black politicians supported victims of the Windrush
+scandal shows us that who our MPs are can be important for good political
+representation, but only when our group memberships play a strong role in
+shaping our political attitudes through shared experiences. Rushanara Ali,
+Labour MP for Bethnal Green and Bow, backs this theory up. Hers is an ethnically
+diverse constituency where 37% of the population have a Bangladeshi heritage.
+She says that her constituents voted for her not just because of one aspect of
+her identity, but because there are multiple elements of her personal story that
+voters relate to. We all have multiple identities. In my case, I'm of working
+class background, who was the first in my family to go to university and to get
+elected into Parliament as the first person of British Bangladeshi heritage in
+Parliament and one of the first three Muslim women to have got elected into
+Parliament. The point is that, you know, I straddle, and many of us do, in terms
+of different backgrounds and different identities. It's not that if you're
+working class, then you can't be of colour. There are black and Asian people of
+working class background in this country. The important thing is that political
+parties need to reach out, encourage talent from all backgrounds. And need to do
+more to make sure that people from different professions can get into politics.
+Historically, we had people who came from manual jobs, having done manual jobs,
+who went into Parliament. It's really important that there's diversity in terms
+of the kinds of jobs people have done before they enter politics. Because,
+again, you bring those experiences, those insights, that can make a massive
+difference to what you then go on to do and how you're influenced and shaped by
+what you do. If I am looking for someone like me and I do a manual job, it may
+be hard to find that person in the UK Parliament. As Ruchinara says, there's
+been a significant decline in the proportion of MPs who held manual jobs before
+entering Parliament, down from nearly 16% in 1979 to just 3% in 2015. When my
+colleagues and I collected data after the 2019 general election, we couldn't
+find any MPs who'd held a manual job immediately prior to entering Parliament.
+And the only former minor we found was the Conservative MP for Ashfield, Lee
+Anderson. As Ruchinara was alluding to, there's been a growth in the proportion
+of MPs who were already politicians or working in politics before entering
+Parliament, up from 3% in 1979 to 17% in 2015. But in many cases, what job you
+do, who you are, is less important than the other ways in which a voter can
+connect with you. Ruchinara, again. I got the nomination in 2007 and although
+the Labour Party had made great strides in getting more women into Parliament,
+there were still big challenges across political parties. There remain, you
+know, about a third of Members of Parliament are women now. And also, even
+within my own party, there are huge barriers to women of minority ethnic
+backgrounds getting into Parliament. So I think that there was a real awareness
+of that. And not just among those who are of my background, among white middle
+class party members. And I had a lot of support from white middle class, as well
+as white working class members. And for white working class members in my
+constituency, the thing that they really loved was that I went to the local
+school, I grew up in the area, most of my education apart from university was in
+the borough. And they really liked, you know, they often would describe it as,
+you're one of our girls. You know, that's how some of the elders would describe
+it. They really liked that connection and they didn't see racial difference.
+They saw that I was part of the community. Lord Barwell, former Conservative
+Member of Parliament for Croydon Central and former Downing Street Chief of
+Staff to Theresa May, backs up the idea that someone from where I'm from does
+make a difference. In an individual constituency, you can never reflect the
+makeup of all your constituents. But being local, I think, does in a marginal
+seat, parties will tend to try and have a local candidate because they know it
+makes a bit of a difference on the ballot paper. And then I think in aggregate,
+voters do look at what the party's team looks like and what that tells them
+about that party and the extent to which people feel, well, I can identify with
+those people. So we shouldn't judge individual politicians in that sense, but
+the team as a whole tells you something about the party. And you as someone who
+was trying to secure as many votes as you possibly could for the Conservative
+Party thought this is worth doing at the margins. It's likely to make a
+difference. I wanted to represent the place where I was from. I wasn't
+particularly interested in being the MP for somewhere that I didn't know. And
+you kind of feel like you're a sort of hard lobbyist. Then to me, my passion for
+it was being the MP for Croydon. That's the place I've lived all my life. And
+that's why I wanted to do the job. But I definitely could tell you knocking on
+doors. And it was a marginal constituency that people would often say, I've seen
+you at the supermarket or, you know, your kids go to the same school. So that
+sense that people viewed you as someone from the place made a difference. Not
+for everybody, because obviously some people were definitely going to be Labour
+voters and some people were definitely Conservatives. But for the ones that were
+floating voters, I think it did make a difference to feel, well, this person
+catches the same trains as me, goes to the same hospital as me. Kids are at the
+same school. Those things make a difference. There's a considerable body of
+academic research showing that Rushanara and Lord Barwell are right. Candidates
+with strong local connections benefit from a small electoral advantage that
+could influence who wins in a marginal constituency. In fact, I was a co-author
+of a 2017 paper that shows that even the distance between the candidate's
+residential address and the voters home has an impact. Local matters in
+marginals. And if I'm looking for someone like me, does gender matter at the
+ballot box as much, more or less? 52% of the population are women, but currently
+women make up 35% of MPs. In 2021, my colleague Minna Cooper-Coles at King's
+College London wrote a review of the existing global evidence with the
+Westminster Foundation for Democracy. That shows that women policymakers are
+more likely to raise and champion issues that disproportionately affect women
+and the most vulnerable in society. And those that are given greater priority by
+women voters, such as health, education and welfare. Both the Liberal Democrats
+and the Labour Party have opted at various times for all women shortlists when
+selecting candidates. Christine Jardine is the Liberal Democrat MP for Edinburgh
+West and their spokesperson on the Cabinet Office, Women Equalities and
+Scotland. I was always, we don't need all women shortlists. I didn't need an all
+women shortlist to get selected in Gordon where I stood there. But I think
+gradually what brought us round to it was the fact that things weren't changing
+without all women shortlists. And then of course we had the election in 2015
+where we had eight male MPs. And that just was, for a party that prides itself
+on championing equality in all ways, that just was unacceptable. And I think
+that's what probably changed a lot of people's minds. So do you think that
+voters either are more likely to vote for a women candidate or are women voters
+more likely to vote for a women candidate or less likely? I don't think that's
+an issue anymore, to be absolutely honest. I, when I've been out knocking doors,
+nobody has ever said to me, I'm not going to vote for you because you're a
+woman. And nobody has ever said to me, I'm going to vote for you because you're
+a woman. What they ask me is what I'm going to stand for, what I'm going to do
+when I'm elected and what the party is going to do. That's what they care about.
+My gender, I don't think is important to them. So if we as individuals don't
+really mind whether our MPs are men or women, why does it matter that we should
+have, say, 50% of our MPs be women? Well, that comes back to what I said
+earlier. You have to, if you're going to represent people, you have to
+understand their issues. You have to understand how their lives are affected
+every day. So Parliament has to reflect, for me, what society looks like. You've
+described a situation where in your lifetime we've gone from very, very few
+women in Parliament to a much better level of representation. Has that changed
+anything in terms of the legislation that the Parliament has passed or the way
+Parliament operates? Oh, absolutely. Even in the five years I've been in
+Parliament, I've seen a change in the dynamic of how we talk about things. There
+are far more things that we talk about which are about equality generally. And I
+think it has a huge influence on the legislation that passes here and it will
+make a difference to future generations. That there were women, there were
+ethnic minorities, there were people from less able groups, all of these things.
+The more diverse we can make Parliament, then the more it can be, it can listen,
+it can hear what different groups within society are saying and actually take
+them on board. So although most voters aren't concerned whether their MP is a
+man or a woman, since there have been more women and people from ethnic
+minorities in Parliament, issues that were considered to be outside of the
+political arena, such as domestic violence, childcare and institutional racism,
+have become important areas for legislation. Of course, societal attitudes to
+domestic violence have changed. But there is an argument that the Domestic Abuse
+Act of 2021, with its historically wide range of what constitutes domestic
+abuse, would not have been enacted without diversity among politicians. Well I
+think the country's in a very bad state. For instance, you take a working man
+working all the week through and allow him just a packet of fags and a pint of
+beer, there's about 16 bub a week taxed on that alone. And it's not good enough,
+you mean? And it's not good enough, no. What's your solution for the present
+situation? Well I think they should cut it down a bit. That 1950 voter knows
+what's important to him. And the working man or woman is still an important part
+of the debate today. Social class no longer defines our attachment to political
+parties. But that doesn't mean that the class backgrounds of our politicians
+have ceased to matter altogether. Historically, Labour-supporting constituencies
+in the Midlands and the North of England, with strong working-class communities,
+have become key electoral battlegrounds, otherwise known as the Red Wall.
+Sebastian Payne is the director of the centre-right think tank Onward and the
+author of Broken Heartland, a journey through Labour's lost England. The Red
+Wall was the culmination of a disconnect between the Labour Party and many of
+its traditional voters that's been happening for many decades through de-
+industrialisation and the changing style of the Labour Party under Tony Blair.
+And when we got to the 2019 election, that was the moment that the umbilical
+cord between Labour and its traditional working-class heartland was broken. And
+that's been weakening for some time. But when it came to Brexit, where the
+Labour leadership was on the opposite side of its traditional heartlands, the
+figure of Jeremy Corbyn, who was anathema to the Red Wall, and the appeal of
+Boris Johnson, you saw about 40 or so constituencies, many of whom had never
+voted Conservative ever, most of them not since the Second World War, went
+Conservative for the first time that delivered Boris Johnson that extra large
+majority. I'm really interested in how the relationship between class and
+politics has changed over time. You've described that historically, working-
+class voters used to vote for the Labour Party in huge numbers and that that's
+changed. Some commentators say class isn't important in politics anymore. Do you
+think that's true? I think class is certainly not as important. And I'd point to
+the Boris Johnson being the fact of that, that he was an upper middle class
+individual. He went to Eton, Oxford, worked in very high levels of the British
+establishment. Yet he managed to win off the back of millions of working-class
+votes, which you would think would just be completely running away from someone
+like Boris Johnson. Yet, in fact, they actively embraced him. So that's why I
+think that shows why class is not the defining factor that it once was. If you
+went to anyone around the country, and I reckon this is still true today, and
+said, who would you like to have a pint with out of all political leaders, by
+far and away, Boris Johnson would be the top. I find that an interesting
+perspective because Nigel Farage always portrayed himself as someone you could
+have a pint with, although I believe he's actually really a wine drinker. And
+actually, Nigel Farage was very unpopular with women. Do you think women want to
+go and sit in the pub with Boris Johnson? There is obviously a different gender
+divide here, and I think this is actually a wider issue for the Conservative
+Party as well. Because I think, you know, when we look at issues with the
+childcare market, what have you, they are going to need to be resolved. And if
+you look at the 2019 election, it was clear that Boris Johnson was more popular
+with men than he was with women. Again, it's not a blanket thing you can say
+across the spectrum. But I imagine women who would be in the C2D social group
+would be more wanting and willing to have a pint with Boris Johnson than women
+in the ABC1 group. So you've really brought attention to the fact that place
+based identity has gained importance in politics. Why do you think that is? I
+mean, we used to have national swing. You know, things used to be pretty uniform
+across the country. Why do you think geography has become so important? I think,
+first of all, it's how the country has changed that geography, I think, has
+always been important. I don't think it's been misunderstood in many respects,
+but I think fundamentally it has risen in recent years because of the imbalance
+in the British economy. The other element is that we've been far too overly
+centralised as a country in terms of our of our politics and the way we do
+everything. Everything has been about Westminster and London. And what we saw in
+2016 with the Brexit referendum and in the politics as follow is a reassertion
+of trying to deal with those places that need a greater focus from central
+government. So I think it's a very good thing that place is now at the central
+of the political conversation. But we're still not where we need to be in the
+sense that we've still not got enough devolution. There's still far too much
+power in Westminster and Whitehall. And to deal with the big problems facing the
+country, that's why you have to focus it on local solutions with local leaders.
+So you've described how there are traditional conservatives and then perhaps
+those who don't fit that mould. And many of the MPs who the Conservative Party
+returned from the Red Wall perhaps weren't traditional conservatives. Has that
+had any consequences for the party at Westminster? The Conservative
+Parliamentary Party has become much broader in its opinion and its characters
+than it would have been otherwise. And part of that is the simple fact they've
+got a big majority. The Conservative Parliamentary Party has not been this big
+since 1987. So that's obviously going to create a different attitude towards it.
+Now, there are many voices in that. The most prominent one, of course, is Lee
+Anderson, the new deputy chairman of the Conservative Party, who imagining him
+10, 15 years ago would have been outside of the realms. I think it's an
+excellent thing the Conservative Party has got people like Lee Anderson in who
+can represent all different parts of the electoral coalition, because the
+Conservative Party strives to be a one nation party and to do that, you need to
+have people from all parts of the nation. What's so different about Lee
+Anderson? Lee Anderson talks his mind in a way that is very bracing. And for his
+supporters, they will say he's saying what no one else will say. He tells it
+like it is, all that sort of thing. His detractors will say, of which there are
+of course many on social media, will say that he is ill-informed. There was an
+excellent profile of Lee Anderson in the Times which highlighted about how much
+Lee Anderson is linked to place. I've spent a couple of days out and about with
+Lee Anderson in Ashfield, in his constituency in the East Midlands, and he gets
+that place. He knows these people. He knows their issues. And he sees it as his
+aim to represent their voice in Westminster. And his slogan is, from the pits to
+Parliament. That used to be the Labour Party slogan. And the fact he's
+representing the Tories shows how much has changed since 2016. As Sebastian
+says, social class is no longer a reliable predictor of party support. Lord
+Barwell thinks the identity of someone like me can only get you so far. You have
+to have a policy for someone like me as well. I think that the biggest factor in
+it is the housing situation in this country. So I've just passed 50, so I'm a
+few years older than you. But I was probably the last generation where you could
+just about, with your partner, on a normal salary, just about get on the housing
+ladder. And now, unless you get some incredible job in the city or you inherit
+some wealth from family members, it's virtually impossible for people on
+ordinary salaries in their 20s to get into home ownership. And that's a real
+challenge for the Conservative Party, because if you're basically selling people
+a sort of free market ownership society, and actually most of them haven't got
+any way of getting into that, then you're going to really struggle to appeal to
+people. Now, there are other things to it as well. I think Brexit is a factor
+because there's a clear age skew on views on Brexit. But I think that housing
+thing is definitely a part of it. If the Conservative Party wants to tackle that
+age challenge it's got, then it's going to have to really think about what it
+has to say about housing, what it has to say about childcare. So it's got a
+compelling role. It's not that there aren't young people who are sort of centre
+right in their views on the economy. But the Conservative Party hasn't got a
+policy offering at the moment that is compelling to people at that age. It comes
+back to economics, really, and policy and material things more than identity. As
+we've discussed earlier, identity is a factor. But ultimately, what drives most
+of how most of us vote is, do we think the person with that rosette on shares
+our values and has got some good ideas for what to do about the country? Lord
+Barwell has confirmed that age is now the most significant social cleavage
+influencing how we vote. But younger voters aren't necessarily drawn to younger
+politicians. Instead, liberal values and material concerns about housing and the
+cost of childcare are driving the generational political divide. Demands for
+working class representation have not gone away, but they're enmeshed with local
+identities. Questions of social representation will matter at the next general
+election, because although who our MPs are is not the main driver of vote
+choice, having a more diverse House of Commons does make a difference to the
+kinds of legislation that are passed. Strategically securing enough marginal
+seats to form a government at the next general election may well require a
+careful balancing of the personnel of politics, ensuring that our politicians
+reflect contemporary Britain to gain the extra votes needed to get over the
+line. Analysis was presented by Rosie Campbell and produced by Vicki Broadbent.
+After the news here on BBC Radio 4, Philip Ball tells the story of Galileo's
+lost letter and questions how he challenged the church in Science Stories. BBC
+Sounds. Seven years ago, I was filming East London Mosque when the story broke.
+The three schoolgirls from the area had gone missing. They were heading to Syria
+to join the Islamic State group. Breaking news this morning, three British
+schoolgirls are reportedly missing. Shamima Begum was the only one of the girls
+to emerge from the ashes of the so-called caliphate. I've retraced her steps
+from the UK through Turkey and into Syria to find people who knew her and to
+investigate the truth of her story. What do you think people think of you? As a
+danger, as a risk, as a potential risk. From BBC Radio 4, the Shamima Begum
+story, Series 2 of I'm Not a Monster.
