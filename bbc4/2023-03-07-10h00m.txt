@@ -1,0 +1,743 @@
+TRANSCRIPTION: BBC4_AUDIO/2023-03-07-10H00M.MP3
+--------------------------------------------------------------------------------
+ I'm Macadam and Tom Fielden, studio director, Shona O'Donoghue, from Nick and
+from me. Good morning. BBC News at nine o'clock. An organisation which protects
+the rights of asylum seekers has said legislation being introduced by the
+government today to try to stop people crossing the channel in small boats
+appears to be unlawful. The measures would place a duty on ministers to remove
+anyone who enters the UK by an illegal route. The Home Secretary, Suella
+Braverman, said the bill would push the boundaries of international law. The
+director of the European Council on Refugees and Exiles, Catherine Woollard,
+told Today it went beyond that. We should note that it's not illegal under
+international law to cross a border to seek protection. What does look clearly
+unlawful are the proposals that are coming today. And the Refugee Convention
+explicitly prohibits penalising people based on the manner of their arrival. And
+that's because most refugees have no choice about how they reach a place of
+safety. WhatsApp messages leaked to the Daily Telegraph suggest the former
+Health Secretary, Matt Hancock, supported the idea of blocking funding for a
+disability centre in a Conservative MP's constituency to pressurise him into
+voting to extend Covid restrictions. A spokesperson for Mr Hancock has insisted
+it never happened. The former Conservative chairman, Sir Jake Berry, said such
+an idea was an absolute disgrace. I just think if you look at the issue that
+they were proposing to use here, it's beyond contempt. Look, this won't be the
+worst thing that happened in the whole of the Covid pandemic. We had an
+appalling loss of life and tragedy. But I think for parents who have children,
+the idea that this would be used as a weapon, I think it just crosses the line.
+Talks are beginning this morning aimed at averting further NHS strikes in
+England. The Health Secretary, Steve Barclay, is meeting unions representing
+nurses, ambulance workers, physiotherapists and midwives, who all have put
+industrial action on hold. A strike by junior doctors is planned for next week.
+The bakery chain Gregg's says sales rose by almost a quarter last year to £1.5
+billion. The company says customers struggling with the rising cost of living
+are relying more on low-cost meals. BBC News. Later this morning on Radio 4, in
+a new series, the saxophonist Soweto Kinch will be looking at music education in
+the UK. And as he'll be explaining, with children's access to free instrumental
+tuition increasingly a thing of the past, and music appearing to be less of a
+priority in schools, it all begs the question, where will the musicians of
+tomorrow come from? That's Rethinking Music at half past 11. And for a
+celebration of the sheer joy and power of music, do have a listen to Add to
+Playlist, Radio 4's award-winning series. It's all about deconstructing musical
+compositions to understand how they've been put together and discovering what
+they have in common with other pieces of music. You'll find that on BBC Sounds.
+Now though on Radio 4, it's time for the Life Scientific. Here's Jim Al-Khalili.
+Basically, I like breaking things. Not my words, but those of today's guest, an
+engineer whose fascination with metals and skill for handling both research
+projects and people took her from academia to the aerospace and marine
+industries to the House of Lords. Julia King began her career as an academic and
+spent 15 years happily investigating the structure and strength of materials,
+specifically alloys. She says there's something brilliant about loading a big
+lump of metal into a machine and watching it go bang. Her work is a great
+example of that. Her work on the properties of alloys used in large engines,
+like those in aircraft, eventually led to Julia leaving academia and joining
+Rolls-Royce. A decade later, she made the move back to university life, taking
+on senior positions at Imperial College, then Aston University. And it was
+around then that she was approached by the government to look at the UK's
+transport sector. Her report, The King Review, published in 2008, made waves for
+its assertion that it was entirely possible for the UK to decarbonise road
+transport within 25 years. So just a decade away from now. In 2015, she became a
+crossbench member of the House of Lords, where she currently chairs its Science
+and Technology Committee. She also sits on the UK's Climate Change Committee,
+assessing government plans on how we can best adapt to our changing world.
+Professor Dame Julia King, Baroness Brown of Cambridge, welcome to The Life
+Scientific. Thank you. It's lovely to be here. Well, I mentioned the
+introduction. You've had an incredibly varied career, moving from academia to
+industry, back to academia, and then to the House of Lords. If it's not an
+unfair question, where would you say you felt most at home? Gosh, it's an
+impossible question, actually. I felt most at home in everywhere I've been, I
+think, except that like quite a lot of women and actually quite a lot of men I
+meet, I've always had imposter syndrome, which is that I don't quite believe I
+deserve to be here. And you need really nice people around you who remind you
+that actually they think you're doing quite a good job. Julia, if you have
+imposter syndrome, I think there's no hope for the rest of humanity. I alluded
+to the power of science and engineering in tackling the world's problems. Well,
+just recently, your Science and Technology Committee issued a report warning
+that the government's ambitions for the UK to become a science and technology
+superpower by 2030 were in danger of becoming an empty slogan. Why do you say
+that? Well, one of the very important parts of that is simply the shortage of
+scientists and engineers we have in the UK. All of the firms I talk to are
+crying out for more scientists and engineers at every level, at technician
+level, at graduate level. But actually, I was with a whole lot of startup
+companies earlier this week, and they were all saying, well, we'd like to be
+employing more PhDs, but we just can't find them. And that, for me, is a real
+crisis. We've got to persuade young people in the UK that there are really
+brilliant, exciting careers in science and engineering, and we've got to
+persuade them to stick at science at school so they can go on and do that,
+whether it's through apprentice routes or through graduate routes. And we know
+that for young people from deprived backgrounds, we know that actually having
+qualifications in science is one of the most important routes to social
+mobility. So we have really got to address this issue in schools. We can't be a
+science and technology superpower without the workforce to deliver that. Well,
+Julia King, let's go back, explore your childhood, your education, see where it
+all started. You grew up in London in the 1960s, but your parents split up when
+you were very young. Yes. So I was brought up by my mother and my brother lived
+with my father, and I used to see him. It was a very friendly situation. But it
+meant that I gravitated to being the person in the house who mended things. So
+my mother was very artistic. She wanted to be an actress. She was a linguist. I
+gather she was a fantastic dressmaker as well, and that's something that she
+taught you. She was a very enthusiastic dressmaker and brilliant at finding
+wonderful remnants in shops. And I did an enormous amount of dressmaking. And
+actually, it's kind of really interesting when I got to university and you start
+learning about composite materials, and you start looking at how the properties
+of materials vary with direction. And of course, you know, dressmaking exploits
+that, you know, those beautiful bias cut dresses of the 1920s and 30s,
+exploiting the fact that on the diagonal, the fabric has a much lower modulus,
+and so will stretch much more. A property that we now exploit, of course, when
+we build composite structures, those we exploit those different properties along
+and across the fibers. And actually, when I visited quite recently the Siemens
+turbine blade factory in Hull, where they make the enormous blades that go on
+the offshore wind turbines, there are men and women making these blades by
+laying up the pieces of composite. And I mean, it looks just like laying the
+pattern onto a piece of fabric to make a dress, you know. So these are skills
+that you'd be surprised where you might find use for these skills in later life.
+Well, you attended a state grammar school for girls in Hammersmith. What sort of
+student were you? Oh, I was very swotty. I loved school. And I was able to spend
+a long time in both the physics and the chemistry labs, really right through
+school, and do things kind of do things beyond what we were actually learning
+about, you know, I was given a fair amount of freedom. We had absolutely
+brilliant physics and chemistry teachers. Given that you then went on to a
+career in engineering, I understand that when you're planning what to study at
+university, engineering as a subject as a discipline wasn't even mentioned at
+school. No, it was a very, very good, but very traditional girl's school. And I
+don't think anybody thought girls would go and study engineering. So no, they
+were very keen. I went to study sort of natural sciences or physics or
+chemistry, but I don't think engineering ever got a mention. Well, that's what
+you ended up doing. You went to Cambridge and you studied natural sciences
+there. And it was when you started your PhD, Julia King, that you were able to
+really explore this growing fascination with metals, specifically alloys,
+combinations of different materials, including one or more metals that give them
+useful properties. Of course, alloys have shaped human civilization throughout
+history, from bronze to steel to cast iron. Is that something that appeals to
+you, just how versatile these materials are? How versatile they are? Absolutely.
+I mean, steel is just such an important material from so many things around us,
+from the humble paperclip to many parts of your car to the structures of
+buildings to, as I say, the critical to our energy system. It's around us and it
+can be used in so many different forms. It can be quite soft and very easy to
+deform. It can be incredibly strong, depending on what alloying elements we put
+into it, depending on how we work it, how we deform it as we're changing its
+shape, depending on how we treat it thermally. We can get all of these different
+microstructures, all of these different combinations of properties in basically
+iron with a small quantity of other elements added to it. I just think that's
+sort of brilliant. It offers such extraordinary excitement and prospects to me.
+And your PhD work specifically was about stresses and fractures in metals. And I
+think you used the example of a pressure vessel for a nuclear reactor. Yes, I
+was looking at the kind of steels we might use for reactor pressure vessels for
+what was then the next generation of nuclear reactors. And obviously you're
+particularly interested in safety. It's hugely important. There are layers and
+layers of safety in a nuclear reactor, but the pressure vessel is one of those
+layers of safety. And the walls of a pressure vessel can be around about a metre
+thick. So you've got these huge, thick steel vessels. And of course they're
+inspected to see whether there are defects within the material. But you have to
+make assumptions. There may be quite big defects in these very thick vessel
+walls. And you need to know that if there's an emergency shutdown, for example,
+with sudden shocks to the thermal shocks and loading on the vessel, those
+defects are not going to cause the vessel to fracture and for you to lose that
+critical layer of safety in your nuclear reactor. So I was looking at how these
+materials might embrittle in service and how that would reduce their
+performance, for example, in some extreme situations. Well, that work led to a
+fellowship with Rolls-Royce and the start of a relationship that would then span
+decades. But you started out working on plane engines, more specifically looking
+at the detailed microscopic structure of metals to see what extreme conditions
+they could withstand, how to manage any cracks that might appear in those
+engines. That's rather different, something else that you don't want to fail on
+you. Yes, the same, in a way, the same kind of thing, the relationship between
+the properties you get and what we call the microstructure of the metal, but
+this time in nickel-based alloys and the nickel-based alloys that are used in
+the turbine part of the gas turbine. So where the hot gas comes out of the
+combustor, it comes out over the turbine blades, but the turbine blades are held
+on by something called the turbine disc. That's made of a nickel-based alloy. At
+takeoff, that can be rotating at faster than 10,000 rpm, and so that sees very
+significant alternating loading, loading that goes up and down, and that's the
+kind of loading we call fatigue loading. And things can fail in fatigue at much
+lower loads than they do than if you just try and pull them in tension. You
+know, I mean, the typical example is the paper clip. If you just try and pull a
+paper clip, you can't break it. But if you do some fairly extreme fatigue
+loading on it by bending it backwards and forwards, then you can make it break.
+Now, that's a rather extreme demonstration of fatigue, but actually if you have
+very high frequencies, then quite small load ranges can start to grow cracks,
+and those cracks can then grow until something fails catastrophically, and
+that's absolutely something you have to design aero engine components,
+particularly the discs. You have to design them to make sure that doesn't happen
+during service, and you've got to be able to demonstrate to the safety
+authorities that you've done your design to absolutely huge safety factors to
+make sure people will be safe, and actually the performance of engines in
+service shows that indeed that is the case. But as we're trying to reduce the
+amount of fuel engines used for the environment, but also to make operating
+airlines cheaper, we want to make the discs lighter, we'd like to make them
+potentially thinner or smaller, then we're pushing up the loads that we're
+putting on those discs, and the danger is that smaller and smaller defects can
+initiate the cracks that could cause failure. So you need to make sure you
+understand how those cracks grow, but also how can you optimize the
+microstructure of those discs to be resistant to the growth of those cracks, and
+I spent a lot of my time looking at how we optimize microstructures to get the
+very best performance out of these materials and to make them as safe as
+possible. So how do you go about improving the structural quality of these
+materials? Are you adding extra elements, chemical elements, into the material
+to make it less likely to fatigue? Absolutely, but it's not just the chemical
+elements. Very importantly, it's also the structure of the grains and indeed to
+some extent the grain boundaries. And one of the interesting areas that I spent
+a lot of time looking at was that in looking at how things fracture, it's an
+area we call fracture mechanics, we tend to look at how things fracture when the
+size of the defect or the size of the crack is large compared to the size of the
+microstructural features, so particularly the grains. So if the tip of a crack
+is sampling a lot of grains, then it kind of sees the average of the material.
+And there, if you're looking at fatigue, then in nickel-based alloys what you
+tend to see is that you can make cracks grow particularly slowly if the grains
+are very big, and that's actually because of the way nickel-based alloys, with
+the precipitates they have in them, the way they deform, means you get very
+angular growth through the different grains and that inhibits growth. But
+actually when you're moving to higher and higher stresses because you're wanting
+to get better fuel efficiency and things, you start to have to worry about
+defects that are of the same size as the grain or in fact sometimes even
+smaller. And then the frustrating thing is that those defects grow faster if the
+grains are large and slower if the grains are small, so they behave exactly the
+opposite way to long cracks. So if you're trying to optimise a microstructure
+for them, then you may actually need to... one of the microstructures we came up
+with was something we called a necklace microstructure, where we managed to get
+thermal treatments that would give us a large grain with a necklace of small
+grains around it. So you would actually get reasonably slow growth if you had a
+long crack, but actually also the necklace grains would inhibit the growth of
+small cracks. So kind of getting a kind of compromise. Best of both worlds. Best
+of both worlds, absolutely. Well there you were, sponsored by industry, but
+working as a young researcher at Cambridge. Then in 1980 you left for the
+University of Nottingham to take up a lectureship, and after seven years at
+Nottingham you went back to Cambridge. But in 1994 you made a jump, a big jump,
+from academia to industry, joining your old friends at Rolls-Royce. So you were
+initially head of materials with the aerospace group. Was that a difficult
+decision to make, to leave university life, going to industry? I don't think it
+was for me really. I think I'd always been, in telling my students and my
+research students, that it was really good to be doing research that had a
+proper application, that to be taking the science and seeing it make a
+difference, and that meant seeing industry use it. So I kind of felt that I'd
+been advising everybody that that was a good idea, and I ought to go and find
+that out properly for myself. But I did have one or two colleagues who thought
+it was a... One very senior colleague actually wrote me a note saying he thought
+I'd taken the poison chalice. I never quite worked out what he meant by that,
+but I think it was something he obviously personally would have felt rather
+anxious about doing. There is that attitude in academia, isn't there, that if
+you go out into industry and apply your science and engineering in industry,
+somehow you've moved across to the dark side. Yeah, moved across to the dark,
+absolutely. But one of the things I'm really passionate about now is that I
+think we need much more porosity between academia and industry, and indeed
+between academia and policy and things, that it's so beneficial if people have a
+chance to work in different environments and to understand the different
+pressures, the different time scales, and indeed to understand how challenging
+it can sometimes be in industry to apply what seem to be brilliant ideas when
+you're in academia, because they don't fit into the way things operate, or they
+challenge huge investments in systems that are already there. So, you know,
+making sure our research can be used is just so much better if people have
+experience of different environments. So I would like to see far more programmes
+that enable staff to move. Well, certainly for you, the transitions seem to be
+very smooth, and it sounds like you were promoted through the Rolls-Royce ranks
+pretty rapidly, picking up an ever wider remit. Yes, and the good thing about
+moving into being Head of Materials at Rolls-Royce is that, you know, I didn't
+know how Rolls-Royce worked, I did know a lot about materials, and you gain
+respect very quickly for being, you know, for knowing about your subject. Well,
+you left Rolls-Royce and you initially joined the Institute of Physics as CEO.
+Now, this is the learned society, the professional body of physicists in the UK
+and Ireland. In fact, that's where I first met you, I think. It is, yes. Going
+back 20 years. And it's there at the IOP that you take up the challenge of
+lobbying the government to address the lack of physics teachers at schools and
+to improve the physics curriculum. Do you feel you made headway? I certainly
+think we did. I think you quite often hear reference back to the research we did
+at IOP in those days, which looked at the number of physics teachers in schools
+across the country, and in particular, the number of physics teachers qualified
+to degree level teaching physics. And I can't remember what the data were. But,
+you know, I think it was the first time we'd shown that on typically a private
+school had, you know, something like four or five degree qualified teachers
+teaching physics, and a state school was lucky if it had two with, you know,
+with much larger numbers of pupils. So looking at the real shortage of physics
+teachers in the state sector, and the real impact that was having on both
+opportunity for young people in the state sector, but also, of course, on how
+many scientists and engineers we were actually training in the UK. It's
+interesting, isn't it? Because for a lot of people, they think, well, why
+physics teachers? You know, there wasn't there isn't the shortage in the same
+way of chemistry or biology teachers. Is it because people with physics degrees
+are graduating and going off into industry? Or is it just not enough people
+studying physics at university? Well, the physics teacher problem we have today,
+I think almost even worse than we had in those days, is because we're not
+getting enough people studying physics at university. And the government has
+been been missing its targets for recruiting physics teachers by such a long
+way. It's terrifying in recent years. Well, just a couple of years later, you
+went back to university life as principal of engineering at Imperial College
+London, and then as vice chancellor of Aston University, which is a role that
+you stayed in for 10 years. That's that's good going back to university is one
+thing, but this is a senior managerial role. How did you find that? Well, first
+of all, Imperial was great. It was incredibly stimulating. I mean, the staff and
+the students are absolutely stunningly good and were very, in many ways, very
+exciting to work with. Some of them were very awkward as well. You know, it was
+exciting to see the work they were doing. And having done that for a couple of
+years, I really got the bug and thought, well, it's great running a faculty, but
+I'd really like to run my own university because there are things, you know,
+there are things about how the university operates that I'd like to be in
+control of, because I think some of them we could do, we could do a bit better.
+So and Aston University, when I went to see it, there was just something about
+it that pulled at some heartstrings, I think, because it was a university that I
+felt had rather lost its confidence in some ways and was sort of veering towards
+focusing on teaching, whereas actually it had some real strength in research.
+So, for example, it has a brilliant photonics group. It has some excellent work
+on in the climate change area in sustainable energy. It has a very good business
+school. It had a number of key areas where the research needed building up. But
+it also appealed to me because we were able to take students from a whole range
+of less advantaged communities and give them a real opportunity, you know, to go
+out and get good jobs and get into that social mobility that we need around so
+much of the UK. And that part of it I'm really passionate about as well. Now,
+then, Julia King, around the time that you take up this role with Aston
+University, you're also approached by the UK government to conduct a review into
+how to decarbonise the transport sector. The hugely influential Stern review on
+climate change had just been published, led by the economist Nicola Stern, which
+essentially said our approach to climate change wasn't working and we needed to
+look at how each of the major economic sectors could contribute. Do you remember
+being asked to take on this review of the transport sector? Yes, it was one of
+those telephone calls you never expect to get. So it was hugely exciting. So it
+was, oh gosh, yes, of course I'd like to do that. Well, the report, known as the
+King review of low carbon cars, was launched in 2007, published in full in 2008.
+And it did have a big impact. But I mean, here we are 15 years later. I mean, I
+know, you know, electric vehicles are becoming more and more popular. But other
+things like hydrogen fuel cells probably haven't taken off in the way we might
+have hoped. I mean, do you still think this target, 2033, so 10 years from now,
+is still a realistic one? I do. And it's been interesting to see, you know, how,
+in a way, how the fact that the technology and the cost of technology and
+batteries has come on so fast, much faster, costs of batteries have come down
+much faster than we thought they would at the time of the King review, and have
+now made that really the dominant technology for light duty vehicles. But I
+think, you know, there will still be a role, potentially, for hydrogen in
+specialist vehicles and vehicles with different duties, vehicles that have to go
+a very long way. And of course, it really also is rather crucial that we don't
+just end up with one low carbon vehicle technology. Because the problem we have
+now, part of the problem with climate change, is that, you know, we've got all
+of these cars, and they all use fossil fuels. By the time we get to 2050, we may
+have not just the less than a billion cars we have in the world today, we may
+have two billion cars in the world. We don't want them all needing to use
+lithium ion batteries. Otherwise, we just create the same kinds of problems
+again. So I think, you know, that we do want to be encouraging multiple
+technologies, and some of them may be more relevant in different parts of the
+world than others. Clearly, this interaction with government, with science and
+engineering policy must have whetted your appetite, because in 2015, you became
+a crossbench peer, Baroness Brown of Cambridge. Yes, it's a great place. I mean,
+you meet some really fascinating people. And of course, you get a chance to
+comment on legislation, because we are a revising chamber that we're there to
+make legislation better, to ask the government to think again, not to not to
+disagree permanently with the government that the voters have voted in, because
+we're an unelected house, but to try and make sure that legislation doesn't have
+unintended consequences and things. And of course, you look at the House of
+Commons, and there's probably a handful now of people with science or
+engineering backgrounds in there. I did a quick tot up and so it won't be the
+right number of my colleagues just on the crossbenches in the House of Lords.
+And I think there must be around 20 of us who are scientists, engineers or
+medics. So there's a real concentration of science and engineering and in the
+House of Lords that you just don't get in the elected house. And that's why I
+think there is something important about the House of Lords. It does mean we
+have the chance to make sure that scientists and engineers have a real look at
+legislation, and a real think about the implications of it. And I think that's
+really important. Well, we've talked a little bit about your interest in
+addressing climate change through science. And today you sit on the UK's
+independent Climate Change Committee, as well as chairing its subcommittee on
+adaptation. What exactly do those roles involve? Well, I was on the Climate
+Change Committee, which in the legislation is the committee that looks at
+climate change mitigation, which means reducing our emissions, reducing our
+greenhouse gas emissions. I was on that from when it started until the beginning
+of 2020. And I now don't sit on that, but I do chair the other committee that's
+part of the Climate Change Committee that the legislation introduced, which is
+the Adaptation Committee. And that looks at the risk that the changing climate
+poses to us and how well prepared we are for that in the UK. So it's more than
+aiming for achieving net zero, even if there's a question mark on whether we
+will achieve that. But even if we do, we need to be ready. And society and
+industry, we have to have put in place these adaptations. Absolutely. I think
+net zero is hugely important and absolutely essential. But I think people have
+slightly got the idea that if we can get to net zero by 2050 globally, then we
+don't have to worry. That's the problem solved. And what we need to remember is
+the climate goes on changing until we stop putting greenhouse gases into the
+atmosphere. And so, you know, the climate is going to go on changing at least to
+2050, even if we're on this path to net zero. And it'll be much worse if we're
+not. So it's not just about doing the mitigation, the reducing the emissions, we
+must mitigate and we must adapt as well. Is there sufficient understanding and
+acceptance of all this among policymakers, do you think? I think it's beginning
+to come. Whereas I felt that the Adaptation Committee was a bit of a lone voice
+in the past few years, trying to say to the government, this is really
+important. I have felt the last the last sort of 18 months or so, we're seeing a
+lot of people, National Infrastructure Commission, others coming in and saying,
+look, this is a real issue we've got to deal with. And of course, it's a very
+important issue to deal with, as we make the changes we need to achieve net
+zero, because we need to do things like double or even treble the size of our
+electricity system by 2050. Because we're going to be very dependent on
+electricity to decarbonize our society. So we're going to be hugely dependent on
+electricity, we've got to make sure we have an electricity system that in the
+extreme weather conditions we may get in 2050, doesn't leave a million people in
+the north of England and Scotland without electricity for a week, because their
+cars will run on electricity, their heating will run on electricity, their
+communications will be reliant on electricity, you know, their lives will be
+reliant on electricity, a week without it won't be an acceptable situation for
+them. So we're gonna make sure we're designing our infrastructure. I mean, it
+isn't even working properly in today's climate, it's got to work properly in the
+climate of 2050. Well, it's been a real pleasure. Dame Julia King, thank you
+very much for sharing your Life Scientific. Thank you. The Life Scientific was
+presented by Jim Al-Khalili and produced by Lucy Taylor. Jim's guest was
+Professor Dame Julia King. Now on Radio 4, it's One to One. My name is Susie
+Rack. I'm a women's football writer for The Guardian and author, but in a
+previous life, long before I had ever realised that football journalism was even
+an option available to me, I dreamt of becoming an architect. A love of
+buildings and their impact developed when I was eight years old and a student
+teacher had my class designing and making models of our dream homes. I had spent
+all my life up till that point in our little two bedroom council flat in Hoxton,
+used to broken lifts and piss stained stairwells and suddenly the world of
+design and its potential was opened up to me. I went on to study architecture at
+university and then pivoted to my long term love in sport. I've always been
+interested in society and class and how things can be improved for ordinary
+people and both of my passions, despite how different they are, architecture and
+football, have given me ways of engaging with those conversations in ways I
+never would have imagined. My guest today is Professor Loretta Lees, who is
+Director of the Initiative on Cities at Boston University. So Loretta, exactly
+what does that mean? What do you do? Hi, so I'm actually just here for the last
+five months. I lived in London for 25 years in Archway in Islington. Basically
+what I do is I pull together all of the urban research that's done across Boston
+University and connect it also to policy and practice. Amazing, and what got you
+interested in these kind of areas and this topic of design and gentrification
+and council housing? I was born in Manchester and lived in council housing after
+I was born. Then I moved into a kind of two up, two down in Carrbrook in Mosley,
+just outside Manchester. Then kind of moved to a suburban, Bradbury Green, just
+outside Stockport. Then my parents separated and I moved to Northern Ireland and
+was homeless in Belfast and kind of lived with an aunt for I think 18 months.
+Then moved into council housing again. So I've lived in lots of different kinds
+of housing. And I think both the housing itself and my experience of living in
+different tenures over time really kind of got me interested in this and
+particularly in social justice issues around it. Yeah, I think that's very
+similar to my journey in that, you know, having grown up on a council estate and
+living in a little two bedroom council flat with my mum, my dad and my sister
+really impacted the way I look at the world, look at society, look at what
+design can do for the way people feel and how buildings can foster communities
+all grew from the estate and the experience of growing up there. Beyond, you
+know, obviously having an interest in it, what made you want to dedicate your
+life to researching it? When I was about 14, 15, we moved to Belfast, Northern
+Ireland, because my mum was Northern Irish when my parents separated. And we
+lived at my aunt's house for the first 18 months before we finally got council
+property. But when I was at school, I was doing an A-level history of art option
+called Design for Living, which is all about the lived experience of modernist
+council high rises. As part of my geography A-level project, which was around
+regeneration, I decided to look at, I think there was like five or six council
+tower blocks in the new lodge area of inner Belfast, which was very pro IRA,
+very Catholic. Now, I had an English accent, so I could not go into those high
+rises to do the research. So I had to give chocolates to a friend of mine in my
+class who actually lived in them to go in and do the survey. And I did a survey
+on space, on defensible space, which I was really interested in. So they went in
+and looked at how people felt about streets in the sky, elevators, the kind of
+communal spaces around their blocks, and thinking about what is this
+relationship people have with the built environment. And even though this was a
+really low income, quite problematic in many ways, it was part of the kind of
+segregation and ghettoization that was going on in Belfast at the time, they
+enjoyed their space. And they liked being up high, they liked being able to look
+out over Belfast, their children played in the streets in the sky, as they call
+them. So, you know, that got me interested in a whole host of things that I
+subsequently went into as a career. And can you explain what defensible space
+is? Because I think I've heard of it before, as someone who studied
+architecture, but not many people may have. It was a term that was coined by an
+architect planner called Oscar Newman in the US. And basically, defensible space
+is a residential environment whose physical characteristics, for example, its
+building layout, its site plan, function to allow inhabitants themselves to be
+the kind of key agents of their own security. And in many ways, it comes from
+the urbanist Jane Jacobs idea of eyes on the street, that, you know, mothers
+looking out of their Greenwich Village apartment blocks, their children playing
+down on the street and feeling secure in the knowledge that they can kind of
+look after their children. The idea was brought from the US to the UK and
+utilised by the geographer Alice Coleman in the 1980s, to argue that big council
+tower blocks in the UK didn't have defensible space. And that's why they had
+criminality, social malaise, graffiti, dog poo, urine in the lifts, that kind of
+thing. So in other words, a kind of quite environmentally determined notion that
+the design of these modernist high rises was depleting defensible space and
+creating the problems in it. And like, say you, like me, spent time living on
+council estates when you were younger, like, what was your own experience of
+that sense of community and the positives of estate life, as well as the
+difficulties of it too? You know, when I was younger, council housing was very
+community based, people were kind of working class communities, everybody was
+kind of in it together. But then I remember going in the mid 1970s to visit my
+grandfather's brother who lived in one of the new council tower blocks in
+Salford, which had been, you know, kind of replaced the traditional terrace
+street slums. And I had a similar experience to you, you started this
+conversation, you know, I remember avidly the smell of urine in the lift. I
+remember the lift didn't work, so we had to walk up 10 floors. I remember
+walking into his flat, he was disabled, he was an alcoholic, but it literally,
+the smell of urine and just everything was overpowering to me as a eight or nine
+year old. And in my mind, then that was a failed example of council housing and
+what it was doing for this person. So in the early days, council housing was
+amazing, lots of space, beautiful communal gardens, you know, kind of
+neighbourhood shops, all sorts of stuff. I think that's the key, isn't it? Well,
+it's the key for me anyway, is that investment and looking after those spaces
+significantly improves the environment. You know, I think back to my council
+flat and the windows needed to be redone for a very, very long time. They were
+sort of flaking away, letting in damp, weren't maintained well. The lift was
+often broken when it was repaired, it was always sort of a temporary thing. All
+of the little aspects like that, that just make you enjoy the space around you.
+But I still loved every second of living on that estate. When you were talking
+about visiting your grandpa's brother and how it smelled and things like that, I
+almost reflect semi-fondly on those aspects of my childhood because I loved
+estate life so much. I mean, obviously it would have been nicer if those things
+weren't there. But the fact that we could go, you know, as quite young children,
+walk down into the playground that all of the balconies looked onto and play
+football and, you know, go on the swings, till quite late into the evening
+whilst our parents could just keep an eye out the window, was quite liberating,
+really. It actually gave us a lot more freedom than we potentially would have on
+a street with cars going past and things. And in many ways, you know, kids on
+council estates were very privileged because kids in kind of, you know, rows of
+terraced houses or even suburban houses didn't have that kind of facility. And,
+you know, it was all embroiled with social welfare and public health and all of
+that stuff that kind of was really important in how the design of public housing
+was in the 60s and 70s. But a lot of that has now dissipated. Having gone from
+council estate life as a child, to like into my teens, to then private renting,
+to now like owning a small home myself, like I've very much felt like whenever
+I've lived somewhere newer, whenever I've lived in, say, a new build flat, for
+example, renting, the space is like incomparable to the space we had in our
+council flat, you know, in terms of like storage space and separated living
+areas and kitchen area and all that kind of stuff. And the bedroom sizes all
+feel a lot smaller now than they did back in the council flat. But it almost
+feels like we're going back a step and moving back towards overcrowding and
+tighter spaces and things. Not only are they building higher and more densely,
+the internal spaces of the individual apartments and homes are much smaller.
+But, you know, back in the kind of early days of the building of big council
+estates in London and actually across the UK, space standards were really
+important. It was all about letting light and air in. It was about part of the
+kind of modernist architectural hygienist agenda, which was related to public
+health and other stuff. And, you know, people who lived in slums didn't have
+that kind of access to air and light, and they got it by moving into these new
+developments. How much can space actually impact us? I've only been in the US
+five months now. And just the sense of space here mentally, it's just everything
+is just so much bigger. And it feels more liberating. I go back to London,
+everything's tighter, including, you know, inside people's residential
+properties, unless you're very wealthy. And space is not simply this kind of
+abstract thing. It's the relationship between an individual body and other
+bodies in that space and what's going on around it. So when you think of space,
+you can also think about your individual apartment, but then think about the
+neighbourhood outside. So how those spaces themselves are interlinked and how
+they play out and how they make you feel and belong. Yeah, and I think people
+don't necessarily spend enough time looking at the built environment around them
+and how it's engineering society a little bit and is being used to engineer
+society a little bit. You know, I think about when I go to football matches in
+some of the big men's stadiums, because I mainly cover women's football, there's
+fewer toilets for women and things like that, that just create an environment
+that make you think you're not welcome here and how spaces can be used to
+engineer that feeling of not feeling welcome. But then people just don't notice
+it. People just don't realise that that is what is causing the feelings that
+they're feeling at times. Yeah, I mean, there's some great work done by a
+feminist collective in the 1970s called Matrix, who did a whole pile of work
+about how architecture was male dominated and developed a kind of city for men,
+not women. And I remember looking at the book and then I realised that the front
+cover was actually the archway underpass that used to go under the road, the A1,
+near to where I live. That was a dark, forbidding space that went under the road
+and then had loads of steps down and loads of steps up. And you know, their
+argument was a woman with a buggy with a child in it just could not access or
+utilise that space. Also, it was creepy, it was dark. And of course, now it's
+been blocked off. It's not just about the four walls, but like the way a path is
+lit through a park can have a significant impact on the way you feel safe and
+the way you move around space, right? Like, I was walking my son back from after
+school activity, I generally will not go through the middle of the park, which
+is the quickest route home because halfway down the lighting stops. So I will
+generally walk around the side streets, the longer route to take him home, just
+because it doesn't feel particularly safe, yet it's not the fastest route for us
+to get home. And that's the kind of environmental psychology, it takes us back
+to defensible space. And you've just explained it quite well, you know, a space
+that's ill lit, and feels threatening, you're not going to utilise it, you're
+going to avoid it. How have both your studies, but then also your experience of
+growing up in various council flats or houses shaped you as a person? I mean,
+I've always, even as a small child, had a kind of interesting kind of social
+justice on around cities, which I think was just me, it may also be that my mum
+was a health visitor. You know, when during the school holidays, she had no
+childcare, she used to leave us with people in families in council estates, and
+then give them money. And it was her way of contributing to their household
+income, without offending them that she was giving them money, because she felt
+that they were so poor, that they were struggling to sustain themselves. So I
+spent a lot of time playing with other kids on other council estates, and got a
+real sense of the differences of different types of populations and groups on
+council estates, which has kind of stuck with me. So I think both the kind of
+sociology and geography of council estates is absolutely fascinating. But of
+course, we're in a situation now where council estates are disappearing.
+Loretta, thank you so much for your time. I really appreciate you chatting to
+me. Thanks, Sue. It was lovely to talk to you. And I'll hopefully see you in
+London at some stage. One to One was presented by Susie Rack and the producer
+was Caitlin Hobbs. It was a BBC Audio production for Radio 4. Music education in
+the UK has been in decline for years. We've actually seen an overall decrease in
+the number of schools that are offering those qualifications. It's decreased by
+about 35% over the last 10 years. But music plays an important part in our
+lives, from the classroom. It's very good for the emotional well-being of
+children. To the economy. We want to be doing as well as we possibly can do,
+because this island exports so much music across the whole of the world. I'm
+Soweto Kinch, a musician, and I'm finding out what needs to be done to keep UK
+music alive. Rethinking Music on Radio 4 and BBC Sounds starts this morning at
+11.30. On Radio 4 Longwave, the Daily Service is just getting underway. Here on
+FM, we continue Dasher Kippers, Travellers to Unimaginable Lands, a series of
+case studies that blend science with lived experience to explore dementia. The
+reader is Teresa Gallagher. In Greenwich Village, along one of the pleasant
+streets that converge near the Jefferson Market Garden, there's a small Italian
+restaurant, intimate, dimly lit, with red and white checked tablecloths and
+candles in the Chianti bottles. Sometimes, after work, Elizabeth Horne would
+meet her husband Mitch for a cocktail and dinner. Elizabeth Horne would be the
+host of the evening. Elizabeth would usually arrive to find Mitch highball in
+hand and joking with a waiter. They'd kiss and she'd order a tancaré and tonic.
+They had been friends before becoming romantically involved and bantered back
+and forth without missing a beat. Anyone looking at their table might well have
+envied them, never suspecting that Elizabeth dreaded these pleasant get-
+togethers and their aftermath. Elizabeth, a tall, elegant woman in her late 50s,
+talks about those evenings in a composed, confiding tone, which only makes her
+story more uncanny. Because once the meal was over, Mitch would invariably give
+her a wary, skeptical look and say, now you'll go to your place and I'll go to
+mine. Hearing these words, Elizabeth would nod meekly, duck into the bathroom,
+take off her heels, put on a pair of sneakers, and run out. She'd cross the
+street and wait for Mitch to emerge, making sure he was headed in the right
+direction. It always struck her how normal Mitch appeared, casually strolling
+along in his sport jacket and Rolling Stones t-shirt, looking pretty much like
+the man she had fallen in love with. It was herself she barely recognized, the
+nervous, frazzled woman hiding behind lampposts, following a man who looked so
+at ease in the world. Then, with a burst of speed, she managed to get back to
+their apartment a few minutes before he did. Arriving home, Mitch always gave
+her the same cheerful greeting, hey honey, how are you? He had already forgotten
+their rendezvous. The nightmare would officially begin after Mitch had made
+himself comfortable. Without any warning, he'd look up from a magazine or the
+TV, stare at Elizabeth, and ask her to leave. Calmly at first, he'd order her
+out of her own home. When she tried to convince him that she was home, he'd
+scoff, how could it be her home when he lived there? Although he sensed that
+they knew each other, he had forgotten they were married. Moreover, he felt
+threatened by her presence. In the early stages of the disease, Elizabeth had
+refused to give in. She'd point to things in the apartment and remind him where
+they came from. Look, she'd say, our wedding picture, see? Unfazed, Mitch would
+reply, yeah, you must have planted it there. Nothing she said did any good. When
+patients have an answer for everything, caregivers get caught in a loop. It's
+surprisingly hard not to be goaded by a patient's responses. Even if the answers
+are nonsensical, the patient's ability to provide them suggests that we are
+still dealing with a functional mind. Indeed, that part of the mind which helps
+patients produce a steady stream of answers remains intact. It was this part,
+what the neuroscientist Michael Gazzaniga has termed the left brain interpreter,
+that Mitch was now leaning on. The interpreter is an unconscious process
+responsible for sweeping inconsistencies and confusion under the rug. Although
+we rely on facts and logic in our daily lives, we tend to massage them when they
+fail to conform to our expectations. We see the same process in our visual
+system. When the visual interpreter falls for optical illusions or smooths over
+visual glitches, it does so in accordance with certain preconceptions.
+Similarly, our left brain interpreter fills in cognitive blind spots, hiccups,
+ambiguities, and gaps. Thus, the dementia patient will blame the aid for
+misplacing a purse or insist that people are conspiring against them. When they
+feel internal discord, their unconscious mind searches for an external source,
+and this source gives shape to their paranoia. So when Mitch was confronted by
+the wedding photo, evidence that Elizabeth was his wife, which contradicted his
+impression that she was someone else, his left brain interpreter found
+explanations for that evidence, for instance, that it had been planted in his
+apartment. The mind's propensity to create believable narratives is all too
+human. In a 1962 study, Stanley Schachter and Jerry Singer administered a
+synthetic hormone to their subjects. The hormone narrows blood vessels and can
+produce anxiety, shakiness, and sweating. Some participants were informed that
+they had been given a vitamin that had no side effects. The others were told
+that the pill could produce a racing heart, tremors, and flushing. Those who
+knew about the possible side effects immediately attributed their discomfort to
+the drug. Those unaware experienced agitation and blamed their environment, even
+thinking that the other participants were responsible. This need to ascertain
+cause and effect is yet another function of the left brain interpreter, and it
+plays out in many ways. We'll twist facts, defend misconceptions, and opt to
+believe whatever makes sense of what's happening around us. Sadly, caregivers
+like Elizabeth must contend with people who are simultaneously lucid and
+confused, impaired yet oddly nimble, themselves and yet not themselves. And much
+like their patients, such caregivers do not take this confusion lying down.
+After all, the healthy mind also abhors inconsistencies, contradictions, and
+ambiguity, which of course is what dementia disorders regularly throw at them.
+In effect, patient and caregiver are locked in a battle, each one determined to
+fend off the chaos the other one represents. So the more desperate Elizabeth
+sounded as she tried to convince him she was his wife, the angrier Mitch became,
+as if he was the one indulging a delusional person. Some evenings, he flew into
+a rage, grabbed her by the neck like a stray cat, and pushed her out the front
+door. And there she'd sit all night in the hallway. Soon, her exile became
+almost a nightly routine, she took to carrying a spare key in her pocket and
+would let herself in when she thought Mitch had fallen asleep. Telling me all
+this, Elizabeth added, people always ask about the patient. How is Mitch? How is
+he doing? Let me tell you something, the patient is fine. It's the caregiver
+who's going crazy. During one of their nightly battles, Mitch made good on his
+threat to call the police. He dialed 911 and claimed that a strange woman was in
+his apartment. Twenty minutes later, two cops arrived to find an incensed Mitch
+and a sobbing Elizabeth, at which point something totally unexpected happened.
+Mitch became Mitch again, Elizabeth told me. How so? I asked. He suddenly
+remembered me. After the police left, Elizabeth realized that social stimulation
+reminded Mitch of who she was. Human interaction had washed away the agitation
+in his body and the chaos in his mind, thus leaving the left brain interpreter
+with no discord to interpret. And because Mitch seemed to know her when people
+were around, their friends initially didn't understand what Elizabeth was going
+through. This in turn made her worry that people thought she was exaggerating
+her husband's dementia, since he seemed so normal in company. At one of our
+first meetings, Elizabeth remembered her particularly harrowing confrontation.
+Instead of throwing her out, Mitch had suddenly relaxed and turned on the TV. He
+flipped through the channels but stopped at the opening credits to Dr. Zhivago
+and hearing Lara's theme, reached out for her hand. Imagine, she said to me, we
+were holding hands. I pictured them together sitting on a couch as romantic
+music filled the air, a scene that would be touching if I didn't consider what
+such moments did to her. I was like an abused woman, she told me, always on
+edge. I never knew which side of him was going to come out. It was the
+perpetuation of the sweet Mitch that kept her off balance. Because alongside the
+man who didn't recognize her was the man who might stroke her hair and ask how
+she put up with him. Alongside the man who threw her out the door was the man
+who made a video for their anniversary in which he confessed how lost he'd be
+without her. If that Mitch did not exist, if Elizabeth had had only the
+delusional Mitch in her life, she would have had less to contend with. Instead,
+her brain was badgered by inconsistency and uncertainty. Early in our
+development, we attribute to other people a permanent deep down self. And though
+our understanding of people becomes more complex as we grow older, our belief in
+a true or real self persists. The reason that Elizabeth kept arguing with Mitch
+is that she was appealing to the real Mitch, the good Mitch, the one still in
+there, who in the past would have come to her aid. For caregivers, the idea of a
+real self can be a double-edged sword. If on the one hand, it encourages us to
+argue with afflicted loved ones in the hope of breaking through to their real
+selves, it can be a source of great frustration. If on the other hand, we start
+to doubt the existence of an essential self, how can we account for the person
+we're caring for? Who is it that we are suffering and sacrificing for? Seeing
+continuity in people is entirely natural and real or not, the idea of an
+essential self has valuable, even practical, applications. If we weren't built
+to believe that other people have essential selves, it would be too easy to
+become disconnected from family and friends. Nowadays, Mitch is much calmer, his
+confusion has ebbed along with his cognitive capacity, and so is Elizabeth. Even
+so, at our last meeting, Elizabeth told me that he can still on occasion become
+upset. One day when Mitch was filling in a coloring book, something he
+previously would have found beneath him, he looked up and said, I think there's
+something wrong with me. Well, honey, Elizabeth said gently, you have something
+called Alzheimer's and that's okay, I'm here for you. Mitch furrowed his brow.
+No, that's not it, I don't have that, why would you even say that? Elizabeth
+immediately retreated from the statement. I felt awful getting him agitated like
+that, she told me. It's hard to resist, I said, you were trying to give your
+husband permission to feel confusion by explaining the source. Yes, she said,
+that's true, but you're giving me too much credit, I just wanted him to get it
+so both of us would know, so we could be in on it together. In on it together. I
+nodded. For a moment she believed she had glimpsed the old Mitch, the true
+Mitch, so she had confided in him in the way she had in the past, thinking he'd
+understand. But the moment passed and she reprimanded herself for forgetting the
+lessons the disease had taught her. As she talked about it, her eyes began to
+well up and I thought she was going to acknowledge, as so many caregivers do,
+how hard and lonely it was to take care of her husband, how there was a part of
+her that wished it would end. What she said took me aback. You know, I'm very
+grateful for this experience in a way. Don't get me wrong, it's a terrible
+disease and I wouldn't wish it on anyone, but I've learned a lot about myself.
+I've learned about my limitations and I guess I've learned I can survive. I have
+more patience than I thought. I didn't expect to, but I've learned there's still
+love and love doesn't go away. Alzheimer's can't take it away. So Travellers to
+Unimaginable Lands by Dasha Kipper continues tomorrow when we delve into the
+impact of delusions on caregivers. It was read by Teresa Gallagher and abridged
+by Christine Entwistle. The producer is Kirsty Williams. Welcome to The Spark. I
+feel like the monkeys are juggling chainsaws. They're juggling flaming torches,
+but they could just as well be juggling chainsaws. The monkeys might be
+hypothetical, but the issues are real. Part of what we need to be well is a
+world that we can feel that we belong to. I'm Helen Lewis, back with a new
+series of big conversations, talking to people who bring radical new thinking to
+vital questions like when to quit, social prescribing, scientific fraud and
+preventing suicide. Small acts of reaching out, small acts of interrupting those
+thoughts could be life-saving. The Spark, this morning at 11 on BBC Radio 4 and
+BBC.
