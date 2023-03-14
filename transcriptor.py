@@ -33,7 +33,7 @@ def main():
     file_paths = sys.argv[2:]
     print(language, file_paths)
     
-    model_name='large'
+    model_name='large-v2'
     #model_name='small.en'
     t0 = time.time()
     print(f"[{time.time() - t0}] Loading model...")
