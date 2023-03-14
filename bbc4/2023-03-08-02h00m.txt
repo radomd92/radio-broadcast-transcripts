@@ -1,0 +1,694 @@
+TRANSCRIPTION: BBC4_AUDIO/2023-03-08-02H00M.MP3
+--------------------------------------------------------------------------------
+ It's one o'clock GMT. Hello, I'm Rahul Tandon and this is Business Matters here
+on the BBC World Service. Today we're live in the United States and India.
+Coming up, an important moment for the global economy. The latest economic data
+have come in stronger than expected, which suggests that the ultimate level of
+interest rates is likely to be higher than previously anticipated. That of
+course is the chairman of the US Federal Reserve, Jerome Powell, saying interest
+rates will have to continue to rise for longer than expected. What will that
+mean for the world's largest economy? We'll hear from one of its top economists.
+And more trouble for TikTok. Could it soon be banned in the United States? And
+speaking of trouble, Elon Musk tweets are once again affecting the value of his
+company. Twitter right now, it's got a degree of toxicity to it. We'll hear from
+a former Twitter vice president. That's Business Matters here on the BBC. First
+though, the latest BBC News. I'm Stuart Macintosh with the BBC News. Hello.
+Protests in the Georgian capital Tbilisi against a controversial foreign agent
+law have continued late into the night. Hundreds of people gathered outside the
+parliament building where police used water cannon and tear gas to try to
+disperse them. Raihan Dimitri reports from Tbilisi. The protest broke out on
+Tuesday evening after lawmakers from the governing Georgian Dream Party approved
+the first reading of a foreign agents bill. It would require non-governmental
+and independent media organisations who receive more than 20% of their funding
+from abroad to declare themselves as foreign agents. The opposition says it's a
+Russian-style law that would stigmatise and clamp down on Georgia's vibrant
+civil society and free press. The UN Refugee Agency has called on lawmakers here
+in Britain to reconsider draft laws that would detain and deport people arriving
+by boat to claim asylum. A spokesperson for the UNHCR said the measures violated
+both the letter and the spirit of the refugees convention. The British
+government says the legislation is the only way to deter people making the
+journey by sea. From Geneva, here's Imogen Fowkes. The UN Refugee Agency is
+still studying the UK's new legislation but says it has profound concerns. At
+first sight the proposals look, the agency said, like an asylum ban which would
+violate the UN Convention on Refugees. The convention, which the UK was a key
+founder of, says everyone seeking protection has a right to have their claim for
+asylum heard, even if they have arrived illegally. Denying that right would
+undermine the very purpose of the convention, the refugee agency said. The White
+House says it supports a bipartisan bill in Congress that will give President
+Biden new powers to ban the Chinese-owned app TikTok and other foreign
+technologies that could pose security threats. Our North America technology
+correspondent James Clayton reports. TikTok has experienced this all before. In
+2020 the company came close to being banned in the US by President Trump. But if
+they thought that Joe Biden's presidency would be more amenable towards the
+company, they thought wrong. TikTok has been able to do the seemingly impossible
+in times of political polarisation in the US, unite both the Democrats and the
+Republicans. The cross-party bill will give the US government powers to ban
+TikTok and other technologies they believe pose national security risks. Five
+women have sued the American state of Texas, saying they were denied abortions
+even though their lives were in danger. The lawsuit follows a US Supreme Court
+ruling last year that removed constitutional protection for abortion rights. The
+women want the state to clarify that doctors can provide abortions in cases
+where continuing the pregnancy is unsafe. World News from the BBC. President
+Zelensky's adviser, Mikhailo Podolyak, has said Ukraine was absolutely not
+involved in the sabotage attacks last year that severed Nord Stream gas
+pipelines in the Baltic. Earlier, a report by the New York Times suggested a
+pro-Ukrainian group was responsible for the attacks. The report cited anonymous
+US intelligence officials who were said to have stressed that they'd seen no
+evidence that the Ukrainian government itself was involved. Israeli forces have
+killed at least six Palestinians in a raid on Jenin in the occupied West Bank.
+The Israeli military says one of the dead is a militant suspected of killing two
+Jewish settlers in Huara last week. Palestinian health workers said 16 others
+were injured in the fighting. Cyclone Freddy is expected to make landfall again
+in Mozambique later this week after it struck Madagascar for a second time on
+Monday, bringing strong winds and torrential rain. Madagascar's government says
+eight people were killed. Scientists here in Britain have found that bumblebees
+learn to solve puzzles by watching their more experienced peers. The researchers
+said their study showed that the insects were intelligent and that not only
+instinct but also social learning play a large role in societies of bees, ants
+and wasps. Charles Haverland reports. The experts devised a puzzle box that
+could be opened using either a blue tab or a red tab to access a sugar reward
+inside. They trained groups of so-called demonstrator bumblebees to open the box
+using one of the two methods, watched by a set of observer bees. When the
+observers tackled the task, 98% of the time they used the method they had
+witnessed, even after discovering the alternative option. The bees therefore
+learned this behaviour socially, not through discovery. The scientists' broader
+conclusion is that innovations can spread like social media memes through insect
+colonies and they can respond quickly to new environmental challenges. And
+that's the BBC News. Hello and welcome to Business Matters here on the BBC World
+Service. I'm Rahul Tandon. Hope you are all well. Coming up on the programme
+today, will the US Senate tame TikTok? The Chinese Communist Party has proven
+over the last few years that is willing to lie about just about everything.
+We're going to hear from TikTok's head of public policy for the Americas. I
+think it's unfortunate if we become a pawn in a larger geopolitical debate or
+crisis. And we're going to tell you about the most successful film in the
+history of Bollywood cinema, probably Indian cinema as well. I'll be joined
+throughout the programme by two guys on opposite sides of the world from San
+Francisco's Bay Area. We have Alison von Diggelen, host of Fresh Dialogues,
+based of course in the heart of Silicon Valley. Lots of tech news coming up on
+the programme, Alison. But it is Wednesday morning here. I know it's Tuesday
+where you are at the moment, but Wednesday means it's International Women's Day.
+And I just wanted to ask you a question. When you're around in the tech world,
+are you seeing more women in senior positions yet? It's a perennial problem in
+Silicon Valley. We have some substantial high profile females in tech, but not
+enough of them. And the pipeline is and continues to be an issue. Not enough
+females are doing the prerequisites to get into tech. And something really has
+to change. A lot of efforts are being made, but not enough progress has been
+made. We're also joined by Jyothi Malhotra, editor of the National Strategic
+Affairs at the print website. Always a pleasure to have you on the programme.
+We're seeing Indian CEOs really coming into the US and taking up those big
+companies. Are we seeing more female CEOs being able to do that? I think more
+and more of that is happening, Rahul, in India. I think, unfortunately, a lot of
+these women CEOs are also daughters and wives of their more sort of successful
+partners and fathers and things. But yes, there is, I think, especially in the
+younger generation, many more women coming up and doing much better. Well, that
+is good news on International Women's Day. But let's hope that that progress
+continues to speed up. We're going to start the programme by talking about
+something we like to talk about quite a lot, that of course, are interest rates.
+What happens to them in the world's largest economy, the US, has a huge impact,
+not just there, but also on the global economy. So when the Chairman of the
+Federal Reserve, the US Bank, speaks, people around the world listen very
+carefully. And Jerome Powell was speaking in the US Senate on Tuesday. In light
+of the cumulative tightening of monetary policy and the lags with which monetary
+policy affects economic activity and inflation, the Committee slowed the pace of
+interest rate increases over its past two meetings. Although inflation has been
+moderating in recent months, the process of getting inflation back down to 2%
+has a long way to go and is likely to be bumpy. As I mentioned, the latest
+economic data have come in stronger than expected, which suggests that the
+ultimate level of interest rates is likely to be higher than previously
+anticipated. If the totality of the data were to indicate that 50% of the
+world's interest rates are going to be higher than the previous year, and the
+totality of the data were to indicate that faster tightening is warranted, we'd
+be prepared to increase the pace of rate hikes. Someone else who was in the
+Senate on Tuesday was Mark Zende, Chief Economist of Moody's Analytics. I think
+expectations before today would be maybe two more rate hikes, a quarter point
+for each hike. Now at least three, maybe four rate hikes. So instead of the
+federal funds rate, which is settling just north of 5%, it'll be probably closer
+to five and a half. But broadly speaking, he was, as people in the bond market
+say, quite hawkish, sending a pretty strong signal that he thinks the Fed needs
+to do a lot more work here, raise rates more, keep them up for longer, to rein
+in growth and quell inflation. If these rate rises continue for longer than
+expected, is it inevitable that the US economy moves into recession? No, I don't
+think so. I mean, I think the US economy is incredibly resilient. You know,
+given these kind of strong fundamentals, I think the economy can weather higher
+interest rates. But it's gonna be tricky. I mean, I don't want to be Pollyannish
+here. I mean, I think under any scenario, it's going to be, you know, a
+difficult 12 to 18 months. But I don't know, I don't think it's inevitable. I
+think we've got a fighting chance to navigate through without an outright
+recession. Can we talk about your appearance in the Senate? A lot of talk about
+the debt ceiling in the US, the amount of money it can borrow, its borrowing
+limit, if that isn't raised, could we see the US moving into recession? And then
+we're talking about a lot of job losses? Yes, if we breach the debt limit, if
+the Treasury, if we get to a place where the Treasury runs out of cash, and
+that's possible at the moment, because the Democrats and the Republicans can't
+agree on this. Yeah, no, that's absolutely true. I mean, they've got to, they
+got to sign on the dotted line, pass a piece of legislation, increasing it,
+suspending it, or, you know, I would prefer just getting rid of it altogether.
+But, but yeah, they got to do that. And we don't know precisely what the date
+the date is for when they run out, the Treasury runs out of cash and can't pay
+everyone on time. But my, my, my sense is, it's probably going to be about mid
+August. So we need to see Republicans and Democrats come together and, you know,
+agree to raise the debt limit. And you're right, if they don't, and we breach
+and someone doesn't get paid, then yeah, that at that point, we're going in,
+there's there's just no way. And by the way, we're going to be taking everyone
+with us, it's going to be a real mess around the world. If that does happen, 7
+million jobs could be lost. The darkest scenario is the Treasury can't pay
+everyone on time. And that continues on for a while through, you know, into at
+least four or five, six weeks. If that happens, if that's the scenario, then
+yeah, the recession that's dead ahead is going to be incredibly serious. And US
+could lose 7 million jobs unemployment, get back to 8. Just for context, the US
+unemployment rate today is 3.4%. So it gives you a sense of magnitude. So yeah,
+I mean, under the darkest scenarios, this is this is pretty dark. But, but
+Rahul, let me just say, you know, the debt limit has been in place for 100 years
+plus. And you know, we've had this, we've gone down this path many, many times
+before, brinkmanship, back and forth, Sturm and Drang, and at the end of all of
+it, you know, lawmakers do come together. So I still expect that with a high
+probability. But, you know, I do think we need to consider the alternatives.
+Mark Zandi, the chief economist of Moody Analytics, a man that many people say
+the Biden administration listened to more than any other economist in the US at
+this particular point in time, Alison, a lot to digest about the state of the US
+economy, those interest rate rises, not unexpected, but an indication of the
+sort of confusing state of the US economy. Many people thought that by now, with
+those interest rate hikes, the economy would be cooling down a bit. It's not.
+No, it's certainly not. And these increases in interest rates have an outsized
+impact on the tech industry. It's more reliant on outside funding than other
+industries. And listeners might be surprised to learn that there's a knock on
+effect to employees, those that have kept their jobs in tech. Stock price
+fluctuations impact compensation a lot because a lot of tech compensation is in
+stock grants. For example, you know, let's talk, let's give your typical 30 year
+old software engineer, she may have half of her compensation in stock grants. So
+when that stock price reacts to interest rates going up, or just the worry that
+interest rates will go up, she gets a major pay cut. So that is something to
+consider. Yeah, I think it's interesting, isn't it, because the US is the
+world's biggest economy, what happens there impacts every single part of the
+world. And people will be looking at this in places like India, and worrying
+about the dollar strengthening and making imports more expensive. Oh, yes,
+absolutely. Rahul, it's very closely watched, as you know, what happened,
+though, is that the speech has come exactly when the holy holidays beginning. So
+I think, you know, it is International Women's Day, as you all know, across the
+world, but it's also a big festival in India today. And so I think the speech is
+going to get about 24 hours of sort of sleepy time before India wakes up on
+Thursday and reacts to the speech. But you're absolutely right. And on the
+economy, I think two or three things are happening. First of all, the Reserve
+Bank, which is India's central bank has said that the economy is doing better
+than expected coming off COVID. More than 6% in terms of growth. But I think
+because the Fed has been a little uneven in December, if you remember back in
+December, the expectations and inflation weren't as they are now. So it has been
+to the impact on the Indian economy is also quite uneven. So the overall growth
+rate and Raghuram Rajan, India's sort of well known former central banker has
+warned that the average annual growth yield could be just like 3%. And he's
+referred to this very famous sentence, it's called the Hindu rate of growth,
+which to your international audiences may make no sense. But it basically means
+that the Indian economy will sort of grow only between three and 4%, which is a
+huge source of worry. So yes, there will be a lot of interest as we go off, but
+that's only 24 hours from now. Yeah, three or 4%. I think a lot of countries in
+the world, Alison would love to have three or 4% growth at the moment, but it
+doesn't create enough jobs. And then your final point from you, Alison, on this,
+just give us a sense of what it's like in Silicon Valley at the moment. We
+talked so much, don't we, about these job losses in the tech industry. We're
+going to come on to this a little bit later in a second, Elon Musk, as well. You
+know, when you're moving around at the moment, is there a real sense of fear
+amongst tech workers that they could get fired tomorrow as well? Yes, this
+latest round of job cuts has really spooked a lot of people because it wasn't
+just the last in get fired, it was at all levels. It doesn't matter how senior
+you are. So I think that rattled quite a lot of the tech community here. Right,
+we're going to move on and talk about the festival that Jyoti was talking about
+just a few minutes ago. Jyoti, you want to explain what that song is, why it's
+so popular at this time of year in India? Well, that's because, Rahul, like I
+just said, you know, we are into, it's early morning here in India and in a few
+hours from now, the whole country, especially across North India, is going to be
+completely taken over by colour and, you know, sort of water, watercolour and
+everybody's going to be playing the festival of Holi, which is that the whole
+sort of, you know, there's a lot of sort of drink and dance and colour and
+basically it's just one big holiday. You know what, you're making me, you're
+reminding me of how much I miss India on a day like this, because everybody will
+just sort of run around and, you know, you'll put colours on people and throw
+things over people. It's a sort of a day where everything goes. But what about
+the business side of this? Is it a day, you know, we obviously have Diwali, we
+have Eid in India, which are big festivals for Hindus and Muslims respectively,
+where we know a lot more spending takes place. Does it happen with Holi as well?
+Are we seeing that more and more? It absolutely happens with Holi, not compared
+to what happens with Diwali, which is later in the year, but Holi is also a big
+festival. And a couple of other things are happening, Rahul. You know, ever
+since a lot of Chinese products were banned in India, you know, going off the
+border problem that we've had, that India has had with China in the last couple
+of years, well, almost three years now. So a lot of Chinese products have been
+banned, which means that the market has really boomed with Indian made goods. So
+Indian manufacturers are doing much better. And by several estimates, about 50
+or $60 million worth of sales will happen in this long extended Holi weekend. So
+not just colour and, you know, water guns and you know, that sort of small
+stuff, but even like big sales, the e commerce giants, Amazon, Flipkart, they're
+all, you know, sales are sort of everywhere. So it's one big party, Rahul, as
+you know. And yes, so there's a lot of sort of money management type of stuff
+also sloshing around. So yeah, but I think at the bottom of the, the bottom line
+is that people are not just having fun, but people are spending, big spending is
+happening in the markets. But that happens, Alison, doesn't it? When you have
+fun, you're in a good mood. So you don't mind shelling out a little bit more.
+You know, we used to have this terrace in Kolkata, where we were and the whole
+family would get together on Holi, you know, cousins, nieces, nephews, and we
+basically just chuck colours all over us and basically chuck colours at anybody
+who went past. But festivals, we have it, I suppose, with Halloween, Christmas,
+with all sorts of other things are becoming an important part, Alison, of many
+countries' economies. Absolutely. Mother's Day is coming up in May. Oh, don't
+remind me. In the United States, not March. There's March here, isn't there?
+It's May in the US. It is March in the UK and I think May almost everywhere else
+in the world. But last year, despite the anticipation of recession and people
+tightening their belts, I think it made a new record. They're saying $32 billion
+were spent. Wow. And 90% of American adults celebrate Mother's Day with
+jewellery, flowers, and gifts of experience are popular, you know, like treating
+your mum to a concert or a day out somewhere. Well, you know, I'm missing
+Mother's Day this year. It's coming up in a couple of weeks' time and my mum has
+already asked me to compensate her with a bigger present than normal. And since
+I don't get her anything most years, it's really not very hard to do. Right,
+we're going to move away from Mother's Day because I'm beginning to feel quite
+guilty about it at the moment. And we're going to talk about US-China relations
+once again, because they are really been up there dominating the news headlines
+over the last few days. Of course, that important gathering taking place in
+China. There was a rare outbreak of bipartisanship in the US. Congress is a
+group of Democratic and Republican senators introduced a new piece of
+legislation designed to protect national security that could in effect allow the
+US government to ban the Chinese-owned app TikTok. There is growing concern in
+the United States that the social media company could share users' sensitive
+information with the authorities in Beijing. The authorities in Beijing say
+that's not the case. The Republican Senator John Thune is one of the bill's co-
+sponsors. The Chinese Communist Party has proven over the last few years that is
+willing to lie about just about everything. It's safe to assume that if the CCP
+is willing to lie about its spy balloon and cover up the origins of the worst
+pandemic in 100 years, they'll lie about using TikTok to spy on American
+citizens. It's high time we address this issue. I think this legislation goes
+about it in the right way to get something on the President's desk and start to
+attack this problem. Before that happened, that sort of unison of the Democrats
+and the Republicans, Michael Beckerman spoke to the BBC. He's the TikTok's head
+of public policy for the Americas. We understand the concerns. It's on us to
+make sure that we go above and beyond. But the concerns on national security,
+the concerns on data going to China or other countries is not unique to TikTok.
+But we understand because of our growth and where we sit and the origins of the
+company that we have a higher level of security. And that's why we're getting so
+much scrutiny. And that's why we're going above and beyond these systems that
+we're building around the world. It would be hard to deny that we're caught up
+in those very broad geopolitics that really have nothing to do with us. I think
+it's unfortunate if we become a pawn in a larger geopolitical debate or crisis.
+Michael Beckerman, the TikTok's head of public policy for the Americas. You are
+there in Silicon Valley, Alison, at the heart of the tech industry. Does this
+feel different to 2020 when President Trump wanted TikTok banned or at least its
+US arms sold to a US company? Well, I think it's yes and I think there are a lot
+of influences at play. I think there may be some truth to the security risk
+TikTok poses. If we remember Huawei, the cell phone company, it was found to be
+building spy systems into its networks. So I think the bottom line is just
+because we're a bit paranoid about the Chinese doesn't mean they're not out to
+get us. But I think also part of it is it's a tit for tat against China for
+banning Facebook, Google, Amazon, etc. And I think the politicians are just fed
+up playing whack-a-mole. They don't want to just ban TikTok. This bill isn't
+just about banning TikTok. TikTok's not even mentioned in the bill. What they
+want are wider powers. But it's interesting to know that the Commerce Secretary
+Gina Raimondi, if this bill passes, she'll have the power to deal with these
+perceived threats. But she's already gone on record to say that a complete ban
+of TikTok would be political suicide. So it gives you food for thought. I mean,
+there could be some protectionism involved in this too, an attempt to stifle
+foreign competition from China. But it's a complicated matter. And we don't have
+all the facts. No, we don't at this particular point in time. Jodhpur, you're in
+a country which of course has taken action against TikTok already, hasn't it?
+That's right, Rahul. India banned TikTok and actually over in the last couple of
+years, over 200 Chinese apps. But the TikTok ban was quite significant and sort
+of made several waves because this happened in the wake of the Chinese, you
+know, we have a border problem with China. And this happened nearly three years
+ago. And the Indian government accuses China of sort of entering India's
+territory. Now, those conversations are still on. But at the moment, when India
+banned TikTok about two and a half years ago, there were over 200 million users
+of TikTok in India. So a huge sort of consumption of TikTok was taking place in
+India. But I think there has been a lot of support, public support as well, for
+the government's decision to ban TikTok because of the border row that India is
+continuing to have with China. Yeah, I remember. So because of the sort of
+nationalism questions. But having said that, there is a lot of concern about
+alleged surveillance and, you know, stuff like that. So I think the Indian
+government's decision has had a lot of support. I remember when this happened,
+actually, because my niece, who was a big TikTok user, called me up and said,
+they're banning TikTok. I'm going to have to leave the country. She is still
+there and she managed to survive somehow or the other. I was interested, Alison,
+when you said political suicide to ban TikTok, because there's no doubt, isn't
+there, the president, the former president, Donald Trump, who wants to be
+president again, is going to raise this issue during his campaign. And I'm sure
+we'll say he's going to ban TikTok. Yes, I think it's, you know, I think the
+bottom line is all these politicians want to be seen to be doing something, you
+know, punching China on the nose. Is that popular in the US? Would that give
+similar support to what Jyothi talked about in India, where there's huge public
+support for the decision to ban TikTok? I think in some, probably in the
+majority, yes. But I think, you know, there will be people like your niece who
+are just up in arms about this. But as you say, there are plenty of other
+options for young people. But I think another aspect, you know, as a parent, I
+think the claim that apps like this are rotting the minds of our youth
+definitely has some credibility. But it's not just TikTok, other apps like
+YouTube Shorts, Instagram, they're getting young people addicted to these time
+wasting, mind numbing activities that shorten their attention span and distract
+them from getting important things like school and college work done. But you
+know what, I need to put you on the phone to my daughter. I think if you could
+repeat that to her, I would be extremely, I would be very grateful. For a small
+fee. Jyothi, just briefly, as we come up towards the news, of course, this is a
+week where we've seen, you know, very strong statements from President Xi,
+unheard of when it comes to the US. What have India made of what President Xi
+has had to say? India hasn't said very much publicly. Everybody's watching the
+Chinese, the meeting, that's the gathering that's taking place in China as we
+speak. But publicly, there's been absolutely no comment. You do know that last
+week in Delhi, there was a G20 foreign ministers meeting where the Chinese
+foreign minister was in Delhi, Xin Gang. And I think he was sort of
+diplomatically told off that the border conflict with India, which is, which
+sort of is on top of everybody's mind, and that must be resolved, and not sort
+of pushed on the back burner. So yes, we watch what happens in China carefully.
+But then we hold, you know, hold our punches and, and don't let the rest of the
+world know exactly what we're doing. There we go. I'm going to send Alison my
+daughter's number while we have a break. We'll be back very soon. 930 and 20
+GMT. We're talking about the most successful Bollywood film ever. The White
+House says it supports a bill in Congress that will give President Biden powers
+to ban the Chinese-owned app TikTok as a security threat. The legislation has
+bipartisan support in the Senate. Five women have sued the American state of
+Texas, saying they were denied abortions even though their lives were in danger.
+Texas has an abortion ban but allows terminations in an emergency. President
+Zelensky's advisor, Mikhailo Podolyak, has said Ukraine was absolutely not
+involved in the sabotage attacks last year that severed Nord Stream gas
+pipelines in the Baltic. Earlier, a report by the New York Times suggested a
+pro-Ukrainian group was responsible. Cyclone Freddie is expected to make
+landfall again in Mozambique later this week after it struck Madagascar for a
+second time on Monday, bringing strong winds and torrential rain. Madagascar's
+government says eight people were killed and more than 1,000 homes were
+destroyed. Scientists here in Britain have found that bumblebees learn to solve
+puzzles by watching their more experienced peers. Experts from Queen Mary
+University of London trained a set of bees to open a puzzle box containing a
+sugar reward. These bees then passed on the knowledge to others in their
+colonies. BBC News. You're listening to Business Matters here on the BBC World
+Service. We have Jothi in Delhi getting ready to celebrate the Festival of Holi,
+one of my personal favourites, I have to say. And of course we've got Alison
+there in Silicon Valley in California. We're going to talk, Alison, about Elon
+Musk. Give us a sense in Silicon Valley. How is he viewed? The tech man who's
+become a billionaire. Is he still seen as a hero? Are people just getting a bit
+fed up of him now? Well, he still has some loyal fans that doesn't matter what
+he says on Twitter, they will just support him through and through. But it seems
+to me that, you know, he's really taken a step in the very dark direction this
+week. I feel like since he bought Twitter, he's removed what little small filter
+he had before. We've now got this unfettered portal to his brain and it's not a
+pretty sight. But I think to back up, I mean, what's really made Musk a fearless
+and groundbreaking innovator is the same trait that makes him a heartless boss
+and a dangerous provocateur. He's an audacious rule breaker and has no respect
+for society's conventions or common decency. So I think there are a few people
+that are defending him right now. I mean, I think like the cancel culture, you
+know, we can still say Michael Jackson was an incredible musician. And I think
+Elon Musk will always go down in history as an incredible innovator. But I
+think, you know, he is he's really flirting with serious danger now. Well, let's
+let's pick up on his flirting with serious danger because of his latest bad
+press. And there has been a lot of it, as Alison said, that came when a Twitter
+employee who was suddenly locked out of his work computer had to tweet Elon Musk
+to find out whether he had been fired. Our technology reporter Shiona McCullen
+picks up the story. Now what's happened is we're seeing a really human side to
+one of these layoffs. So we've got this employee, Hallie Thorlifson. He was
+locked out of his computer a week and a half ago. He decided to then take to
+Twitter to ask Elon Musk directly, you know, have I been sacked? What's
+happening here? And this has ended up with this very public exchange on the
+platform between the two of them, which has since gone viral. Several follow up
+questions from from Mr. Musk. Mr. Thorlifson, you know, outlines what things
+he's done at Twitter, what his job involves. And Mr. Musk then saying two
+laughing emojis and that's it. And then confirming, you know, he had lost his
+job. There were some extraordinary tweets, Jyoti, in this particular exchange by
+Elon Musk. He said that his former employee didn't do any work. Then it emerged
+that his former employee actually had muscular dystrophy, obviously a condition
+which makes it difficult to work at times. Elon Musk has now apologized, saying
+he's spoken to his former employee on a video call. He said, I'd like to
+apologize to Hallie for my misunderstanding of the situation was based on things
+I was told that were untrue or in some cases true, but not meaningful. He is now
+considering remaining at Twitter. We're going to hear from somebody who knows
+Twitter very well in a second, Jyoti. But what have you made of this, the way
+that, you know, the man running one of the world's best known companies is
+behaving with one of his former employees, maybe coming back to work now so
+publicly? It's a complete shock. I mean, it's completely ridiculous the manner
+in which this whole thing has unfolded, even if he didn't know that his own
+employee had a health condition. And that's not that's, of course, very much
+part of the problem. But that is secondary to me. You cannot talk like this,
+especially on an open social media platform. What kind of leadership does this
+demonstrate? Terrible. And, you know, for somebody as rich as him, for somebody
+as as like Alison said, is, you know, is an incredible innovator. But this is
+it's really shocking. And Twitter is a is an open platform that that is so
+useful for people like us, especially in journalism, is you get so much
+information. But for us to use, you know, to you to participate in a sense and
+platform like this, where the leader of that of that company behaves so badly. I
+mean, I think if it was anybody else, if he was not the owner of the company, I
+think he should have been sacked right now. Well, he's done that to a lot of his
+own employees. Let's pick up on some of the points that Jyoti made there. I've
+been speaking to Bruce Daisley, who's a former Twitter vice president. It's
+remarkable, isn't it? It's difficult to think of a comparison of someone who
+sets about trying to humiliate someone. It's just remarkable to witness some of
+the things going on, because it just appears that Musk really has no off switch
+and doesn't appear to have anyone giving him advice about things that might not
+necessarily play well. A lot of people think that famous people like Elon Musk,
+even though he owns the company, would have an army of people working under him
+who probably deal with his Twitter account. That clearly doesn't seem to be the
+case. He just seems to respond whenever he feels like it with whatever he wants
+to say. I was fortunate to chat to some of my former Twitter colleagues, some of
+whom have been fired by Musk. Some of them described to me situations where
+he'll be sitting in a meeting room and he'll think of a tweet and he'll ask the
+people in the room whether he should tweet it. And one of my colleagues who
+ended up being fired by Musk said to me that generally, broadly a consensus in
+the room that no one likes to say no to him. Anyone who's survived and has got
+any tenure under the billionaire seems to have learned that it's best not to
+disagree with him. So Musk has just lived in this bubble for so long now that
+his instincts about what is right and wrong have started to fail him to some
+extent, because he's not necessarily in touch with what real people think. The
+difference I suppose here from his other businesses, whether we're talking about
+SpaceX or Tesla, even though at times he was in the public domain, he wasn't in
+the public domain as much as he is now, was he? That's right. And you know, and
+Tesla, because it was initially a challenger, any publicity was good publicity.
+He used to boast that he'd never spent a penny on marketing of Tesla. Do you
+think he still believes that? It's really interesting, the response of the
+markets to his Tesla product day last week. And I think the general response was
+that the stock fell after he'd completed it. The interesting thing about this is
+that Tesla has what Twitter doesn't have. It has a listed price. It has,
+effectively, the stock market can act like an opinion poll. It can act like a
+voting system on what they think of his decisions. Twitter doesn't have that.
+Yeah, Twitter, of course, private at the moment. Final question to you. When you
+act in the way that he has done with this former employee of his, that is going
+to put some advertisers off from being involved in your company. These decisions
+he's making will have financial implications, won't they? Yeah, most definitely.
+There was reporting from his own accounts. He told a Twitter Spaces session a
+month or two ago that revenue was down about 40%. To put that into real terms,
+the annual revenue last year of Twitter was around $5 billion. So effectively,
+he's saying that the revenue is on track to deliver about $3 billion. And this
+is exactly the reason why, because advertisers broadly ask themselves the
+question, do I want to be associated with the place that I advertise? And
+Twitter right now, it's got a degree of toxicity to it. And so advertisers will
+be thinking, I've got no shortage of options of where I could advertise. Maybe
+I'll just pause for the moment and come back and spend in the next cycle. Bruce
+Daisley there, who was a high ranking official at Twitter. Alison, he has
+apologised, of course. But let me give you a couple of headlines that have come
+in in the past few hours. It seems that the Federal Trade Commission in the US
+has demanded that Twitter turn over internal communications related to its
+owner, Elon Musk. The EU is telling Elon Musk here on Wednesday morning to hire
+more staff to moderate Twitter. The simple fact is that since he's taken over
+it, a lot of analysts say that the company is probably valued at about a quarter
+of the price that he paid for it. I mean, all his actions are actually
+destroying his own company's value, aren't they, every single day? It seems to
+be, yes. And yet today, Elon Musk went on a live stream interview at the Morgan
+Stanley Conference. I didn't see that, but I heard some reports of it that he is
+pushing out new features on Twitter. And he's he's talking, he's he's claiming
+that the number of advertisers is on the upswing. And, you know, as much as I
+mean, I share Jyoti's abhorrence for what he did to this Icelandic entrepreneur,
+former Twitter employee. But there's in the past, naysayers against Elon Musk
+have been proven wrong time and time again. So there is as much as I disapprove
+of his behaviour, there is a small part of me that says maybe he can turn
+Twitter around. I think as every day goes by and he keeps shooting himself in
+the foot by these toxic messages with people, I think the chances are slimmer
+and slimmer. But I think there still is a chance that, you know, anyone can turn
+Twitter around is Elon Musk. Well, there we go. Alison, you know, this
+particular industry very well. Let's see what happens. I'm sure Elon Musk will
+pop up in a few conversations now and then here on Business Matters. Let's go
+back to Jyoti's part of the world now, South Asia, because for the last year or
+so, across our coverage here on World Service Business Programmes, we've been
+hearing some grim stories about life in Sri Lanka, the economic crisis there
+that's affected just about everybody in the country, millions of people
+struggling to get access to food, fuel and medicine. Here's a watchmaker in
+Colombo that we spoke to last week here on our business programmes. And the
+country is going from bad to worse. We are all suffering. We all. Now the
+business has gone down. We are only depending on those foreigners to give us
+help. We are worse than beggars now. Land of beggars. We have become a land of
+beggars. It's a shame. As a Sri Lankan, I'm ashamed. The begging he was
+referring to there was this bailout of 2.9 million dollars from the
+International Monetary Fund that Sri Lanka would get there. But that was
+dependent on restructuring some of its quite considerable debts, particularly
+ones with China, India and Japan. Well, it looks possible that that will now
+happen. Shantidev Rajan has been negotiating on behalf of the Sri Lankan
+government, and he told me that with everything in place, he expects the IMF to
+ratify this deal on the 20th of March. The funds will be approved. But the other
+thing that the IMF wanted was this financing assurance from the official
+creditors, because that means that they will proceed to negotiate in good faith.
+What will this mean for Sri Lanka? We have spoken with you. We have spoken to
+others in Sri Lanka. This is a country that is still in a perilous financial
+position. Is this the beginning of moving away from that position? It'll mean a
+lot in terms of alleviating the shortages and the current uncertainty around the
+economic situation. Sri Lanka has been in a deep recession, I would say. Growth
+last year was negative 9 percent, the second lowest growth next to Ukraine. The
+money, as well as the confidence, will help alleviate some of that. That will
+enable Sri Lanka to start exporting again, as well as stimulate the local
+economy and businesses. It still has a long way to go to resume rapid economic
+growth. Our listeners will look at this, and it's not just about the $2.9
+billion that Sri Lanka can get from the IMF. This can open up further funding,
+both from institutions like the World Bank, but also maybe the private sector as
+well. That's right. It's like a seal of confidence, and that gives investors a
+lot of confidence. And so I think we can see some foreign direct investment and
+other kinds of external finance coming into the country. You've been involved in
+the process here right from the start. How difficult has it been to sit down
+with countries and try and get them to at least agree to look at restructuring
+this debt? Well, I don't think it's that difficult to get them to sit down and
+agree because they all saw the handwriting on the wall. But it's taken longer
+than people thought the whole process, hasn't it? It's taken longer, I would
+say, for two reasons. One is that the reforms were politically difficult because
+the economy was in a recession with high inflation at the same time. The economy
+was tumbling down and inflation was about 50 percent. We're talking about
+increasing taxes and cutting subsidies. That's a painful reform in those
+circumstances, but they did it. So I think six to nine months is not
+unreasonable to get there for that. Shantanu has been involved in those
+negotiations, been speaking to us regularly here on our business programs.
+Another thing that he said to me, which I found fascinating, was that one of the
+other big factors that has delayed the restructuring of debt, which means it's
+taken longer for Sri Lanka to be able to get close to accessing this money, was
+the political tensions between the US and China. And that actually, you know,
+because they're at loggerheads with each other, that means that countries like
+Sri Lanka get tied up in that as well. And we could see that affecting other
+countries as well. Let's take Pakistan. Rahul, even if there is tension between
+US and China around South Asia, and you mentioned Pakistan, so you have two
+countries now, Pakistan and Sri Lanka, and I'm not going to say Nepal or
+Bangladesh right now. So let's just focus on Sri Lanka. Even if there is tension
+between the US and China, why should China delay the promise of lending or of
+assuring Sri Lanka that it will lend money to Sri Lanka so that the IMF can get
+its bailout package sooner than later? I mean, I think that's really horrifying
+for the Chinese to hold this sort of blackmail over Sri Lanka's head, because it
+has tensions with a third country. Of course, these tensions are apparent for
+all of us here in South Asia. The Chinese are expanding their sphere of
+influence very aggressively here in South Asia. India also has huge problems
+with it. I referred earlier to this border conflict that we have with China, but
+that's not the point. I think when this crisis happened in Sri Lanka, and it's
+about a whole year old, as you know, the anniversary of the so-called Aragalya
+or the, within quotes, the revolution, which is the word in Sinhala, is coming
+around. Now, this crisis has been around and the IMF concedes that Sri Lanka has
+been waiting for six months for China to say yes or no, or maybe. And India, and
+I have to say for my country, at least this time around, right from the start
+has been very, very supportive of what's been happening in Sri Lanka, whether in
+terms of exporting or sending, you know, fuel, medicines, just sort of stuff.
+India moved quickly. But a point to you on this, Jyoti, is, you know, we can
+look there and talk about who should have been restructuring debt quicker or
+not. But it is the Sri Lankans themselves who got themselves into this mess,
+didn't they, under the Rajapaksas? Of course they did. And I think they concede
+that. Listen, Gautam Bhai, Rajapaksa is not the cleanest of politicians across
+the world. We have to learn to live, not, sorry, let me say that again. We have
+to live with the crackpots in our own part of the world. The Sri Lankans will
+punish him. They have already. He's been ousted. The people have... But the
+damage to the economy is huge, isn't it? Even if they punish him. They've been
+saying, yes, this was a country that, you know, was one of the economic success
+stories of Asia. No, no, that's fine, Rahul. But the fact is that if China wants
+otherwise to expand its influence in Sri Lanka, then it jolly well also assure
+this country, as well as the IMF, international bodies, that it will help. Now,
+for China not to do that is, I think, a complete abdication of its neighbourly
+duties. And that's OK. Then countries like India will step in, supported by the
+US. So then this great power rivalry will only be accentuated. Alison, one of
+the problems that countries like Sri Lanka face, Pakistan faces, is this rising
+strength of the US dollar. And we go back to where we started. Jeroen Powell
+will be giving more evidence in Congress on Wednesday. But a strengthening of
+those interest rates means the US dollar is going to get stronger. That is bad
+news for many countries across the world. Yes, absolutely. It's going to
+increase their borrowing costs and increase the cost of doing business. But I
+think the point that I was focusing in on in this story is China's role, as
+Jyoti said, as a global lender. It's grown dramatically over the past decade.
+It's the biggest lender now. Yes. Sri Lanka is just one of the countries. And I
+think the powers that be in America, the United States, will be looking at its
+global influence, which is going to be rising in a similar fashion. But that is
+just the nature, Alison, isn't it, of the changing world that we live in. We
+have now, we discussed this on the programme, you know, yesterday night. But for
+the first time, the US has a challenger, not just militarily like the Soviet
+Union was, but economically in the form of China. And countries, many of them
+across Africa, will go to China for money because it doesn't put in place some
+of the conditions that the IMF and the World Bank put in place. Yes. And it's
+also going to impose its rule of law, which, you know, if we look at some of the
+the dastardly things that China has been up to, it's very concerning, you know,
+for people that believe in, you know, freedom of speech and democracy. It's a
+very concerning progression. I think a lot of people would agree with you on
+that. But when you speak to some of these countries who've taken the money, they
+will tell you that, look, OK, you know, we take on board those concerns, but
+we've been in debt for generations to the IMF. And it's time that we tried
+something else. Yes. And they have every right to do so. And it just begs the
+question, you know, can the IMF, the United Nations, can the United States do
+more to help countries in dire straits like Sri Lanka? If they can help
+economically, they can help, you know, by rule of law as well, right? Spreading
+democracy, true democracy, rather than, you know, China's way of doing business.
+Jyoti, briefly, very, very difficult times across the border in terms of
+politically and economically in Pakistan. India must be worried about both those
+things. Rahul, quickly to your question earlier to Alison. Yes, China has every
+right to demand that if it lends money to countries, then they should do what
+China asks them to do. That's fine. But you don't hold a sword over somebody's,
+you know, over somebody's head and say, listen, you better fall in line. You
+better abide by all the not just economic conditions that we've posed, but also
+otherwise, which means keep India out, keep the Americans out, keep whoever else
+that we don't like out. So that's fine. And we've also seen that the Belt and
+Road Initiative that the Chinese have laid out, you know, it's the largest sort
+of highway, if you like, of goods, services, tech, everything across the world.
+And they poured in enormous amounts of money. But watch two countries in the
+South Asian space, Pakistan and Sri Lanka. There is such antipathy growing
+towards China in both these countries. I know both these countries fairly well,
+especially Pakistan. The conditions they put, you know, when you have Chinese
+investment in Pakistan, they bring their own labor. A lot of it is prison labor.
+That's not my problem. But they bring their own labor to work in Pakistan, which
+basically means that Pakistanis do not work in these in these enterprises.
+Second of all, they, you know, they basically carve out these little zones,
+these economic zones, which separate them from the rest of the country. So
+there's no integration. It's just such a purely black and white financial type
+of relationship with the politics thrown in, which is that you become my client
+state. And that's exactly what Pakistan has become. Well, let us see what
+happens. We are, I'm sure, going to see more countries going to China. China's
+own economic growth slowing down. It'll be interesting to see how that affects
+its investment in other parts of the world. Let's turn to our final story. Now,
+one that I've been looking forward to, the Bollywood film, Pathan, which I have
+seen, has become India's biggest box office Hindi film ever. The action thriller
+features Bollywood icon Shah Rukh Khan, along with other A-list actors like
+Deepak Ghandapadukone and John Abraham. It broke the record of Baobali 2, which
+was a Tamil film, and it has made over 125 million dollars worldwide. Nasser
+Hanif looks at the success of the movie despite some early controversies. After
+four years out, Shah Rukh Khan's spy thriller was set for a grand return to the
+big screen. Then we got the controversy. Shah Rukh Khan's new film, Pathan, is
+releasing next month, and the Madhya Pradesh Home Minister has already
+threatened to block its release in the state because he has a problem with the
+orange color of Deepika Padukone's swimsuit. He said that the song contained a
+contaminated mindset, amongst other things. Protests followed in several Indian
+states. Now, saffron is a color that's associated with the Hindu faith, and some
+felt it was under attack. Speaking shortly after its release, Shah Rukh Khan,
+the star actor, called for calm, especially on social media. The tide turned as
+the film released in nearly 800 screens worldwide. A massive opening for a
+Bollywood film. Here's Shah Rukh Khan again. Praise for the film led to a record
+number of advanced screenings. Bollywood was in need of a super hit, and the
+story of a suave Indian spy on a mission to stop a group of terrorists from
+attacking India was bringing in the crowds. Film trade analyst Komal Natha
+there. He says the movie was also very important for Khan too. And so, despite
+the early setbacks, Bataan is now a record-breaking super hit around the globe.
+Jyoti, have you seen it? Do you like it? Of course. What kind of question is
+that? I loved it. I agree. I took my 92-year-old mother to see it. Did you? Did
+she like it? Yes, of course. And people were sort of dancing in their seats and
+whistling. I mean, listen, this is Shah Rukh Khan, and I'm a hard-boiled,
+weather-beaten journalist, but you know, his voice is just something else. I
+mean, I'm not surprised at all that this movie has done so well, but there are
+two or three reasons as well, Rahul. One of them is, and nobody has voiced this,
+we don't talk about these things publicly, but when his son was thrown into jail
+for 23 days last year, allegedly because he was carrying weed, which was never
+proven, the whole country was out there in support of Shah Rukh Khan. So I think
+a lot of people are also responding to him as parents, as, you know, for his
+son, Aryan. I mean, that's one part of it. But listen, over and above, there is
+Shah Rukh. There's only one star in the world today, and that's him. Wow, I tell
+you what, you know what, I've never heard you get so excited about any
+particular specific topic on this programme. Now, Alison, I know you've probably
+not seen this film. Can I strongly recommend that you go and see it? It's proper
+Bollywood masala film. It's got action. It's got romance. There's no story.
+There's no plot line. Nothing. No, but don't put her off. Are you going to go
+and see it? Next time you come on, we're going to get you to report on it.
+Forget the Oscars. Go and see Bhutan. Well, my movie recommendation is Tar with
+Cate Blanchett. Now, there is a movie star. Highly recommend. She's amazing.
+Yeah, she is. She is. But I think, to be honest with you, Jyothi, your 92 year
+old mother, she's going to prefer Bhutan to Tar. What do you think? Oh, any day,
+any day. And the story is so South Asian. You have a Pakistani ISI agent, which
+is their spy. And she's this gorgeous Deepika Padukone. She is absolutely
+stunning. But we're not going to let you give away the plot. That is it for this
+edition of Business Facts. If you are using an internet radio or smart speaker
+and hearing this message, please contact the manufacturer. If you're listening
+on web or mobile, this service is available to stream on BBC Sounds. Going
+through the letters from soldiers at the front was a complete carelessness of
+their own lives. You know, hello, Mama. Hello, Papa. I'm going to go.
