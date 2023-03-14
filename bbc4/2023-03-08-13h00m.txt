@@ -1,0 +1,772 @@
+TRANSCRIPTION: BBC4_AUDIO/2023-03-08-13H00M.MP3
+--------------------------------------------------------------------------------
+ to moneybox at bbc.co.uk, include your phone number if you can and listen today
+at three o'clock. BBC News at midday. The Home Secretary, Swela Braverman, has
+insisted that her new asylum plans are legal and will see the number of small
+boats crossing the channel fall dramatically. Under the proposals, anyone found
+to have entered the country illegally will be removed from the UK within 28 days
+and blocked from returning in the future. The UN's refugee agency said it would,
+in effect, create an asylum ban. Ms Braverman said up to 80,000 people could
+arrive by illegal routes this year and the steps she was taking were bold and
+forward-leaning. They will ensure that people who come here illegally, who jump
+the queue, who break our laws in doing so, won't have a right to settlement in
+the United Kingdom and it will enable, in fact, impose a duty on the Secretary
+of State to remove people who fall under our scheme. These are necessary and
+compassionate measures that we need to take to stop the boats. Swela Braverman
+has also said she's very disappointed by the comments by the BBC presenter Gary
+Lineker after he tweeted that the plan to tackle the small boat crossings was an
+immeasurably cruel policy. The Home Secretary invited the Match of the Day host
+to visit England's ports, saying he should see what communities are feeling
+about the issue. The BBC says it will have a frank conversation with the
+presenter about his use of social media. The UN Secretary-General António
+Guterres is in Kiev for talks with President Zelensky about how to extend a deal
+allowing the export of Ukrainian grain via the Black Sea. The United Nations and
+Turkey brokered the agreement with Russia last year, but it's due to expire in
+10 days' time. Ukraine has denied involvement in last year's sabotage attacks on
+the Nord Stream pipelines, which brings gas from Russia to Europe. The New York
+Times has suggested a pro-Ukrainian group was responsible for the attacks.
+Investigators in Germany have revealed they searched a ship seven weeks ago
+suspected of transporting the explosives used in the incident. German
+prosecutors say they're still investigating the identities of the perpetrators.
+Speaking as he arrived at an EU meeting in Stockholm, Ukraine's Defence Minister
+Olexy Reznikov said his government had nothing to do with the sabotage. For me
+it's a little bit strange story because this story is nothing with us and I
+think that investigation of official authorities will describe every detail.
+It's like a compliment for our special forces but this is not our activity.
+Large numbers of public sector and transport workers are on strike in Greece as
+anger continues over last week's train crash which killed 57 people. Police say
+more than 50,000 people have taken to the streets in protest. Our Europe
+regional editor Danny Abrahad reports. Greece's worst ever train disaster has
+catalyzed a sense of anger over years of underinvestment and systemic failings
+in the rail network and beyond. Teachers, health workers, bus drivers and ferry
+crews are among those joining rail workers who've been staging strikes since the
+accident demanding safety improvements. Further protest rallies are also taking
+place. All this with an election imminent. Greece's centre-right government is
+scrabbling to assuage public rage and assure citizens that the rail system will
+be made safe. Last night was the coldest night of the year so far with
+temperatures in the highlands dropping to below minus 15 Celsius. The Met Office
+has issued yellow weather warnings across the UK for snow and ice until the
+weekend saying power cuts are likely. Travellers have been warned to prepare for
+disruption. Bristol Airport has reopened in the past hour after being forced to
+close this morning due to snow on the runway. The England football captain Leah
+Williamson has welcomed a new 600 million pound package of funding for girls'
+sport. After winning the Euros last year the entire Lionesses squad wrote to the
+government urging them to open the doors to football for more young girls.
+Schools in England will be required to offer the same access to sport as boys
+and deliver a minimum of two hours of physical education per week. BBC News.
+This is BBC Radio 4. Greg James will be back with us on Saturday morning heading
+into the BBC archives to extract some prime audio cuts. This week he'll head
+back 50 years when Uri Geller became a TV and radio sensation. Greg has
+unearthed some fascinating audio and a few intriguing letters, one concerning an
+electric clock that stopped. A rewinder is on Saturday at 10.30. But now back to
+this afternoon and it's time for you and yours with Winifred Robinson. Hello,
+welcome to Radio 4's consumer programme. Today this is a really pin back your
+ears and listen edition courtesy of our investigator Shari Vahl. Now Shari's
+cracked some complex dodges in her time, all of them damaging to ordinary
+people, but today you're going to hear a really big one. It's about a new
+generation of ticket touts and the devastating new software that they're using.
+Shari Vahl has got right to the heart of it and what she has found is being
+raised in the House of Commons right now at Prime Minister's Questions. If you
+want to get in touch with us as you listen, here's how. Email us youandyours at
+bbc.co.uk or tweet us hashtag youandyours or send text messages to 84844. If you
+tried to get tickets for the Eurovision show in Liverpool in May, you were
+almost certainly disappointed. They went on sale yesterday lunchtime on
+Ticketmaster. 6,000 tickets for the grand final sold out within 36 minutes.
+Tickets for the rehearsals and semi-finals, there were about 64,000 of them,
+they were gone within the hour. The chances of ordinary fans getting hold of
+those tickets were vanishingly small. A new generation of ticket touts had been
+preparing to snap up thousands of them by using software that jumps the online
+queue. Our reporter Shari Vahl can tell us more about it. I mean software that
+jumps the queue, that's awful isn't it? Yes and so you have to imagine that
+you're standing in a long queue of fans outside a stadium waiting for the ticket
+window to open for the hottest show in town the excitement is building. Now just
+for a moment, forget online, forget new tech, think old school. The queue snakes
+around the stadium with thousands waiting in good happy cheerful order to buy
+their four tickets or whatever the allocation is. Now imagine dozens of people
+sailing past you barging their way into the front of the queue and not only
+that, they bring hundreds of their mates to stand behind them and push you
+backwards further and further away from the front of the queue to the point that
+almost all of the tickets are gone before you even get to the window. Now in the
+real world you'd call security or you'd call the police but this is happening in
+the cyber world every day. These tickets are gone in seconds and almost
+instantly listed for sale elsewhere at many many times the face value price and
+that's what's happening right now when tickets for hot acts like Beyonce or Ed
+Sheeran go on sale and it happened yesterday with the tickets for Eurovision and
+it's why you probably didn't get a ticket if you tried. So touts have always
+found ways to get tickets first Shari but this is different. Yeah they have.
+Some tickets never go on sale, they're given to artists or promoters or
+commercial partners and they sell them on a higher price. Now in the past some
+touts have used robots that phone in for them when tickets are released but this
+is different. This is software that can penetrate the online queuing system for
+tickets and that was what was happening here. These touts were effectively
+pushing the public backwards down the online queue and shutting them out of
+ticket sales. Now I know you've been investigating this for months now because
+every now and again in the office you shout out aha and it's about these
+tickets. Did you know that it was going to happen with the Eurovision tickets
+yesterday? Did you know that for sure? Not for definite but I strongly suspected
+it would because I started investigating this after a tip-off from a man called
+Reg Walker. Now he's a ticket security expert and he's been helping me with
+stories about ticket touts for about 15 years and he had a tip-off and you won't
+believe this but it's true. He had a tip-off from an old style tout. They told
+him about a group of kids who were popping up online using new queue jumping
+software. Are they really kids? They're really kids. Some of them are really
+young. They're really bright, they're literate and they have eyes on profit or
+as they describe it return on investment. Now they're very good at writing
+computer code and they talk openly about what they do on the internet and I've
+watched one lad who is 17 happily describing how he uses this software that he's
+written to get in front of as many people as possible as in the queue. So Shari
+what happened yesterday then with those Eurovision tickets? Well we think about
+65,000 tickets went on sale at midday yesterday just as you were presenting call
+you and yours. Yeah I had excitement of my own. Yes you did. Eurovision will be
+a huge international event this time because Ukraine won it last year and it
+should have been held there. So I put this report together as the ticket sales
+went live starting with a reminder of how big Eurovision was in the 60s. I
+remember that. So do I. BBC television nine o'clock. Good evening ladies and
+gentlemen on behalf of the BBC together we can all join in welcoming the star
+artists who are here in London tonight. Perhaps something like 400 million
+people could be watching at this moment. Ukraine won the Eurovision final last
+year and because of the Russian invasion the UK offered to host it for them this
+year and a competition was launched for cities who wanted to host it. Liverpool.
+Good morning it's eight o'clock on Tuesday the 7th of March. The headlines this
+morning. Tickets for the Eurovision song contest go on sale this lunchtime with
+fans able to attend nine shows during the week of the competition in Liverpool.
+At midday large numbers of fans across Europe will be waiting online for one of
+the most in-demand tickets in the world. Never mind midday the excitement at the
+thought of actually being inside the 11,000 seater M&S arena on the banks of the
+Mersey started a lot earlier than that. Right it's 10.45 it's Tuesday the launch
+goes in an hour and 15 minutes and I've been going on the Ticketmaster site and
+it tells me sorry there are no currently no upcoming events and it's been saying
+that for days actually and then all of a sudden it changed and it says important
+info. It's changed just a moment ago. Eurovision 2023 general sales for
+Eurovision events start at 12 o'clock today. You can expect to see the events
+listed here just after 10.45 so here we go we're waiting. Brilliant. I'm looking
+at the Ticketmaster website now it's 11am. We asked Scott from Glasgow, Gina
+from Bristol and Ed from Liverpool to record themselves whilst like me they
+tried to buy Eurovision tickets. Okay it's got a countdown clock at the moment.
+If I select see the Saturday night if I'm in a queue only for the Saturday night
+show I might not get anything because that'd be really really busy or if I click
+and see a semi-final will there be more likely to get a ticket? I've got to work
+out those tactics. So I've just checked the Ticketmaster website, countdown
+live, I'm going to go for a live semi-final. I'm not too sure I can get into the
+final but that's what I'm going to go and try and get into. Okay so it's about
+quarter to 12 and it's all starting. I'm on the Ticketmaster website and it says
+I've joined a waiting room so I'm hoping that I'll be let in soon to buy some
+tickets. Fingers crossed, oh my goodness this is nerve-wracking. Of course
+people may have different tactics here and people may have 15 different devices
+open with different accounts so that may get them around it but I'm just going
+to stick one trusty laptop and go for a realistic game. So I'm going to go for a
+realistic game. I'm just going to stick one trusty laptop and go for a realistic
+show I think. But what Gina, Scott and Ed don't know is they're competing for
+tickets with groups of people who aren't using one trusty laptop to sit in the
+queue but are using special software which provides them with hundreds and
+hundreds of places in the queue in front of me, Gina, Scott and Ed and tens of
+thousands of other ordinary fans. Okay it's saying one minute left, I'm
+sweating, oh my god, oh wish me luck. I just tried a sneaky thing there and
+tried to open another tab to see if it would allow me to join a waiting room for
+more than one show but no it's not that daft so semi-final will wait on then.
+The waiting room has now gone live so I've refreshed my screen and I am now in
+the waiting room which is quite exciting. Seeing a lot of screenshots of people
+claiming there's an internal server error when they try and get into
+Ticketmaster which is unnerving. I'm still sitting in the waiting room with
+three minutes left apparently waiting to see if something happens. One of these
+groups is called the Golden Circle. The Golden Circle is a group formed
+specifically to provide software so members can get to the tickets first. Not so
+they can go to the show but so they can sell the tickets on at inflated prices.
+They call it return on investment or profit. Josh Silverman is 34 and he runs
+the Golden Circle. It's a secret society and Reg Walker and I have found a way
+of watching what Josh Silverman does. Welcome to the Golden Circle. I'm Josh one
+of the co-founders and in this video I'm going to be taking you through our
+server but first and foremost I need to introduce you to the tiers of membership
+that you're going to see inside the circle. So at tier one this is where you're
+going to be getting the main calls and the low risk calls. This does not mean
+low profit it's still going to be a higher return on investment but it's going
+to be the big acts the big events so we know you are going to take a profit
+home. Josh Silverman and his colleagues charge £99 a month for a subscription to
+the Golden Circle and for that its members get guidance on how to use the
+software. It's known as a queue pass. A queue pass is a piece of computer code
+which members use to manipulate the queuing systems used by companies like
+Ticketmaster. So you now have access to Golden software and tools. Golden
+software is a queue handler so imagine you have a few hundred people in the
+queue for you when Ticketmaster releases an event that has 20,000 people in the
+waiting room. The software tries to put you right into the front and generally
+gets a load of people through for you. It will then send a URL to your Discord
+where you can then go to cart the tickets and check out. Carting is another word
+for putting something in your online basket. You and I would do it by clicking
+on a mouse. The Golden Circle software does it for ticket tarts automatically.
+We also run this ourselves so if you didn't have the time let's say for a couple
+of days to go on to pre-sale because life or your wife or husband got in the way
+we'll ensure that we have a bank of codes for you to use so that you are not
+left behind. Now at tier three you reach our power seller phase. We can't really
+go into much detail on this because a lot of the stuff that we do here is very
+secretive. Not because it's illegal because we do follow all UK consumer laws
+but we want to keep this very low key because a lot of this stuff no one else is
+doing so we do not want this going outside of the server. But trust me it's only
+going to benefit you and this can help you make this more of a career and not
+just a side hustle. Okay it says you are now in the queue 2,000 plus people
+ahead of you. Oh my god 2,000 plus. How many is that? It could be 40,000. Oh my
+goodness. Oh my goodness. Oh I can't take it. It's nerve-wracking. Back in now
+I've got 2,000 people ahead of me so I've not got strong hopes for getting some
+tickets for the show. Oh we have movement there's there are 966 people ahead of
+me in the queue apparently. Okay let's see how this goes. So that was some of
+our listeners waiting to see if they could get tickets right at the end there.
+Josh Silverman then who runs this thing the Golden Circle. How did you find him
+you know just selling his services on the internet like that? I can't tell you.
+I can't tell you that. I can't tell you because it's come from a source and
+basically if I told you I'd have to shoot you. Okay. So Josh Silverman asked me
+the same question actually. So you've spoken to him? Oh yeah I've had lengthy
+conversations with Josh. He's really nice. We had a good old chat yesterday.
+He's 34 and he lives in London and I tracked him down and I called him and he
+told me on the phone yesterday that he's been involved in this idea of using
+these bot software. They're called bots to jump queues for about 10 years and he
+told me previously he used this software to buy trainers to sell on. Some
+trainers are made in limited numbers and they trade for thousands of pounds
+above the face value and groups like the Golden Circle realised that they could
+jump queues waiting online to buy new editions of trainers and then sell them on
+at a huge profit elsewhere. So during the lockdown trainer trading or sneaker
+reselling was huge. There were no tickets of course. There's a fantastic podcast
+on BBC Sounds actually called Sneakonomics which explains this kind of trade in
+detail and it's extraordinary. Now the whole system of buying something cheap
+and then selling it expensive has coined the name arbitrage and that's what Josh
+Silverman and loads of other people using or writing or licensing the use of
+these bots to jump queues and buy tickets or whatever say they're doing. Simply
+taking advantage of the price difference in two different markets to make a
+profit. Now in that sale pitch that he was doing online that you recorded he
+said and I'm quoting now because I wrote it down as I was listening, we follow
+all UK consumer laws but wasn't the use of bots to buy up loads of tickets,
+wasn't that banned by law in 2017 and wasn't the law you know that bit of the
+law just intended to stop Taos? Well that's a really good question actually.
+I've asked a lot of people about the use of this queue jumping software, the
+bots, could it be legal? I asked Josh Silverman when I spoke to him on the phone
+last night and he said it's a grey area. I've asked the Department of Culture,
+Media and Sport, I've asked the police, I've asked National Trading Standards,
+I've even asked the National Cyber Security Centre which is part of GCHQ and I
+cannot get a straight answer. This is as far as I got. It's illegal to use
+software to buy more than the ticket limit allowed by the promoter or the venue
+and that's in the wording of the Digital Economy Act of 2017 that you mentioned.
+Now this software is being used to buy small numbers of tickets each time it
+would appear and that would be Josh Silverman's grey area. Venues allow you to
+buy small numbers of tickets so that one person can buy them for a group of
+friends or their family. So the new legislation anyway that outlaws these bots,
+we've reported on this in the past, that isn't policed very hard is it? No there
+was a prosecution, there was a big prosecution actually in 2020. Peter Hunter
+and David Smith did go to jail for a large number of years but it was the first
+UK prosecution for large-scale ticket fraud and they used multiple identities
+and these computer bots to harvest thousands of tickets for major events and
+they went on to sell those tickets for about 26 million pounds. They used 290
+email addresses to hide their bulk buying and Trading Standards brought that
+prosecution but they told me that that was a one-off and it was specially funded
+and they don't have the resources to do any more. So in the real world then does
+that mean that whatever the law says mostly touts are left uninterrupted and now
+they've got this brand new software that jumps the queues? Yeah Josh Silverman
+and the Golden Circle are proud about this. They declare how much profit their
+members take on make on tickets and you heard him say in that clip that he wants
+people to make this their career and not just have it as a side hustle. So
+there's no one trying to stop them? Well the people who make computer software,
+the queuing software that for example Ticketmaster uses, lots of other
+organisations like parts of Tokyo City Council, they are trying to stop it.
+They're called Q-It. Now I spoke to Q-It and I asked them how they feel about
+the groups of these ticket touts attacking their systems to jump the queues and
+they told me for them it's a constant battle against the bot makers like Golden
+Circle and others. Q-It said that they change their systems and then minutes
+later the bot makers change theirs and on it goes it's a war of attrition. Now I
+know that you sat with some heavyweight experts on this yesterday in a studio
+off the you and yours office as the tickets for Eurovision went on sale and I
+was on air doing Call You and Yours and I know that you tried to buy some
+tickets yourself? Yeah I was with some pretty impressive people. There's Reg
+Walker, the security consultant who tipped me off about this whole thing and he
+was working with me remotely. At the same time we were watching on one screen
+the activities of Josh Silverman's group Golden Circle, on another screen I was
+in the queue for Eurovision tickets myself. Now with me in person in the studio
+were two people whose job it is to fight these bots. They're Matthew Gracie-
+McMinn and Danny Middleton-Wren and they're from a company called Netasea. Danny
+was also queuing for Eurovision tickets with me and then you came in and joined
+us when yesterday's programme was over. Matt can I just introduce you to Reg?
+You tell Reg what you do. So I run the CTI team. I've already seen your website.
+So we know that the touts have an advantage over me because I've only got my
+iPad here and my phone there. So tell me what the touts are doing that will give
+them massive advantage over me. So what they're essentially doing is barging
+into the queue, they're getting hundreds of people, think of them as hundreds of
+friends, they're essentially getting hundreds of computers and just barging into
+the queue right at the front to try and get in there first and then buy up all
+the tickets. And they can create all, because it's all digital, they can create
+these sort of imaginary people to barge into this imaginary queue and that's
+essentially all they're doing. And of course they're not just competing with you
+and me, aren't trying to buy the tickets ourselves, they're competing with each
+other to get as many people into that queue as possible. And the risk of course
+is if you've got too many people rushing into the queue everyone bangs heads and
+they all fall over unconscious. And essentially that might be what's going on
+now because 500 dash internal server error is essentially what you're saying,
+too many people trying to get into the queue at once. Potentially yes. So not
+only have we got people like me and Danny here trying to buy tickets for real
+because we want to go to the concerts, the touts who don't want to go to the
+concerts, who are only interested in profit, are there. So say you've got one
+person who's a tout, how many people is that one tout pretending to be? How much
+processing power have they got on their computer at the end of the day? They can
+do, my simple laptop in tests that we ran against a fake site could generate
+thousands of people essentially. And that is a small laptop I use for taking to
+conferences so it's designed to fit into a small underarm bag. So you with your
+laptop under your arm can pretend to be thousands of people barging into the
+queue in front of me, pushing me essentially to the back of the queue. Yep and
+we have seen attackers using cloud services, cloud servers, so not just like
+your home desktop computer but the big, imagine the big server racks you see in
+movies that hackers have. They're hiring those off cloud computing companies and
+firing all of that power into this. So I don't stand a chance? Not really, no,
+no, not unless you have a very big server and the same tools that they do and
+want to do exactly the same thing. So it's an arms race? It is literally an arms
+race, yes, yeah. It's now eight minutes past 12 and I am still 2000 plus in the
+queue and what about you Dani, where are you? One is on 1499 and that's moving
+along quite quickly. What date is that though for? The 9th of May, Tuesday the
+9th. Okay that's Tuesday. And the other one for Monday the 8th of May is still
+on 2000 plus but my queue gauge is moving. Yes my queue gauge is moving so I
+don't actually know, although it says there are 2000 plus people ahead of me, I
+don't actually know how many plus 2000 there are ahead of me and I suspect
+judging by the size of that bar underneath there are quite a lot and a lot of
+them are touts trying to get tickets ahead of me and I'm still 2000 plus and
+Dani's 12, 1300 in one queue, 1310 in one queue and 2000 plus in the other queue
+for different dates. That's really serious, it means you can't trust your place
+in the queue at all. No, not at all. It's a myth. What you're looking at and
+what the ticket companies will see is it will look like tens if not a hundred
+thousand people in the queue when in fact most of those are not people, they are
+electronic placeholders that just sit there and then you can use a link to that
+placeholder and then you push in the queue in front of everyone else. What's
+interesting is we're getting some positive results here as well, it says looks
+like seated worked, another one's using a non-queue link which means they bypass
+the queue altogether. Just to show you this one, this shows that their bots
+work, can't hold waiting so it's carted two tickets. So someone has pushed in
+front of Julia who was 30 second in the queue. This is a tout who's used a bot,
+used queue bypass software and is now using a bot to grab the ticket, it's now
+carted, i.e. it's in your basket and you can now pay for those tickets and then
+you're out. You can very clearly see there, seated AIO bot today at 12.08, four
+minutes ago. And what's AIO? Seated AIO is the name of a particular bot that you
+can lease for £150 a month. AIO I believe stands for all-in-one usually? Yeah,
+it's carting software so basically it grabs what you want and then shoves it in
+the cart. So in other words you click and it does it for you, it does every
+step, if it's all-in-one it does every step, it gets in the queue, it buys the
+ticket because you've set it up beforehand, it bungs it in the basket and then
+you would go through the purchase. So as quick as that. Lucky Botter says, I
+think he means seated carted and then the same guy says yeah seated cooking. So
+he's getting, this particular tout in this group is very clearly getting seated
+tickets. So basically what they're saying is there's a lot of people making good
+profit on Eurovision at the moment. There's one here who says semi-final since
+20 minutes ago, that was last time I carted for live shows. Yeah, so carting
+means he's actually managed to get through the queue, grab tickets, put them in
+the cart and it means he can check out with them. So Winifred Robertson has come
+into the studio, you've just come off Call You and Yours, how was it? It was
+good. So 12 o'clock whilst you were on air we got into the queue and you can see
+here I'm still in the queue, it's four minutes past one. I am waiting for over
+an hour. Waiting for over an hour. There are more than 2,000 people ahead of me
+in the queue. Now Dani over there, she was able to get to the front of the queue
+amazingly, but I'm going for Saturday night, the grand final of Eurovision and
+Dani was going for Monday and Tuesday. By the time Dani got there and what time
+was it about 20 minutes past 12? Yeah, one was 20 past and one was 22. All the
+tickets were sold out. In 20 minutes? Yes, but let me show you for the grand
+final, where's the mouse? It's gone. So this is Viagogo, this is the Saturday
+grand final. The thing that you were queuing for? The thing that I was queuing
+for and there is a ticket and if I want it I can have it, but look at the price.
+£11,800. Yeah, £11,800. Amazing isn't it? On Viagogo. On Viagogo that was and
+there were loads and loads for well over thousands. Now Ticketmaster told the
+BBC yesterday that a very small number of fans experienced issues accessing the
+queue for tickets online. Well we've put part of that top team that you just
+heard together again now live, Reg Walker, the cyber security expert who gave
+you the original tip-off and Matthew Gracie-McMinn, head of threat research at
+Netasea, that company that tries to fight these bots. So welcome to you both and
+Matt if I could start with you. I know this is what you do, try to stop these
+people, so how big would you say is what we're seeing just at the moment? How
+many groups are there doing what this golden circle does? It is nearly
+impossible to quantify the number of groups doing this. There are groups that
+are quite open and public about what they're doing and there are those that are
+quite secretive. I've got a pretty large team for the sort of company that the
+industry I work in and we simply cannot track all of them. There are too many?
+There are just simply too many and they're not just located in the UK. Bear in
+mind the internet is global, it's very easy as well to do what's called proxying
+and send your connections and make them look like they're coming from another
+place. So we often and quite frankly very regularly see people from other
+countries all over the world launch these attacks and look like they're coming
+from the United Kingdom. So it's very, very hard for us to track these groups
+who may be speaking in other languages, who may as well also be positioned in
+vastly different geographic locations and using vastly different communication
+systems and so forth and trying not to reveal themselves. Nonetheless, I would
+hazard a guess that there are dozens and dozens and dozens of these in the UK
+alone going into the hundreds globally. So of those dozens and dozens, how big a
+player would Golden Circle be in this marketplace? So the marketplace itself is
+quite interesting. It's not just a marketplace, I prefer to think of it as an
+environment. Tickets, attacks on tickets, ticket scalping, ticket touting, that
+sort of thing is one small corner of this overarching ecosystem that includes
+other things such as attacks on online stores to take over accounts and steal
+credit card information, attacks on streaming services to take over accounts so
+you can use someone else's media accounts to watch things, and all sorts of
+other various fraudulent services. And they all use bots. And what we actually
+saw over lockdown was the groups who were using ticket scalping bots then moved
+to other products. There weren't any events, as Shari was saying earlier,
+there's no events, they have to move on to other products, other topics, and so
+forth. So they started targeting things like video game consoles, trainers, gym
+equipment, and one that did catch my team completely out of the blue was heated
+toilet seats were targeted. Well that's interesting, I suppose we had to be
+comfortable, didn't we, in the lockdowns. It feels really, really unfair. Let's
+just stick with this business of jumping the queue for tickets using this
+software. We heard Josh Silverman tell people that it is within consumer law. Do
+you think it's legal? I'm not a lawyer so it's very hard for me to say, but my
+belief is, as Josh said, there's a very big grey area there. The Computer Misuse
+Act is quite old now, it's not really up to date, it's not really equipped to
+deal with modern day computing. What about that newer act, the one from 2017?
+Again, one of the big problems legislation has is it's often quite slow to come
+into force. And it has to be tested in court, doesn't it? It does, yes. So you
+end up with these issues of trying to get it enforced and then of course it's
+one thing to enforce it in UK courts. As I mentioned, many of these groups are
+international. How do you enforce it against people in other countries that may
+not have extradition treaties or good relationships with the United Kingdom? Reg
+Walker, you've been working for years and years trying to combat ticket touts,
+all kinds of ticket touts. Now Josh Silverman talks about recruiting what he
+calls power sellers. If you just listen to him now, he's talking about that on
+those secret videos. We'll also keep you up to date with what the resale price
+is looking like with previous analytics, previous events and current sold prices
+that most people do not have access to. And then lastly, a justification on
+exactly why we called this artist, why we think the risk category is where it is
+and what we think is going to happen. And again, just to really reiterate, this
+is done with analytics, previous sales and loads of different history behind the
+artist. Unless you are a six-figure seller on these platforms, you do not get
+access to this data. So this is where we really shine through against most other
+groups that are trying to do something like this. If you are in tier one, you
+will have a fortnightly call with either myself or another staff member or maybe
+a few of us together. So Reg Walker, how significant do you think this
+development is, this software that can jump the queue for you online? First
+thing I'd like to do is a big thank you to our intelligent sources that enabled
+us to work with you and Shari to expose this. Yes, well done. This group in
+particular is incredibly well structured, very well organized. It does have a
+tout sitting behind this who provides the data analytics and the number of
+coders that work in real time. And to give you an example of the impact that
+this group can have, we sat there watching them on Eurovision yesterday and they
+were certainly having trouble using their software to initially get through the
+changes that Ticketmaster had made in its system. Yeah, that's so sad, isn't it?
+They tried to stop it. Yeah, they did, but with limited success. We saw by 12
+minutes past 12 that these coders operating in real time. So while they're
+hammering the system and causing the servers to hang and keeping genuine fans
+out, they were updating their bots and by 12.12 their bots were working. And we
+saw one of this group get through with 10 separate accounts and able to purchase
+tickets. Can I ask you then what I've just asked Matt? Do you think that what
+they're doing is legal? No, no. I think it's too narrow to look at this in terms
+of the Computer Crimes Act, which is a very old piece of legislation. But even
+in that, it states that if you alter the way somebody else's system works, you
+commit an offence. What you have here are fraud offences, where you have people
+fraudulently reducing the number of tickets available to the public at face
+value. You have the use of multiple accounts, multiple identities. And we've
+seen this firsthand within this group of people openly talking about multiple
+accounts, multiple identities, like Eurovision yesterday, where one stated that
+he'd used 10 accounts and got through on 10 accounts. So no, none of this is
+legal. Reg, what happens when people buy these tickets though from the secondary
+sites like Viagogo and turn up at the venues? Because it's standard now, isn't
+it, that if you buy a bunch of tickets and you are allowed to buy a small bunch
+of tickets, the person whose card was used to buy the tickets has to go through
+the turnstile. Yes, we saw some evidence yesterday where this group were talking
+about instructions from Viagogo that if they bought four tickets, they had to
+use one themselves to walk the three people that they'd sold tickets to into the
+venue. So these are effectively what they call walkers. Now, this may be the
+touts themselves, or it may be that they'll simply send their ID up to their
+cards up to somebody else who will charge them a fee to walk these people in.
+But what that inevitably leads to sometimes, if you've got a walker that's
+taking three, four, five groups in, each time that person has to use a ticket
+and that leaves an empty seat in the venue because they have to come back out
+and walk the next group in, which isn't good. Yes, mad, mad. Matt, just very
+briefly, if you would, given how quickly they're overcoming, you know, it's your
+job to put the hurdles there, to help companies put the hurdles there, so these
+people can't use their software. How quickly they managed to overcome it
+yesterday is the only answer to just stop the secondary selling of tickets in
+the way that some countries have done. That's certainly an answer. I don't know
+how easy that will be to actually implement or how popular that would prove with
+the public. Another alternative is machine learning algorithms on the
+technological defences. A lot of the defences are very static and new advances
+in machine learning and artificial intelligence allow you to create much more
+dynamic defences that can react in real time to changing attack patterns. That
+can offer a very good solution. Well, that's very interesting. That's a
+programme for another day. Matt, Gracie McMinn and Reg Walker, thanks both. So,
+Shari, let's talk about those listeners then, those ordinary people trying to
+get tickets. We had Scott, Gina and Ed. They recorded themselves yesterday as
+the tickets went live, trying to buy them. How did they get on? Well, it was
+nerve-wracking. I'll tell you what, they had a really, really roller coaster
+ride and they recorded themselves doing it and here they are. Thanks for your
+patience. It's almost your turn. It may be happening. All the details are in.
+Sit tight. We're securing your tickets. You're in, apparently. It's a miracle.
+Wow. So, that was relatively seamless. Your order is complete. You're going to
+Eurovision Song Contest Semi-Final One. I'm in and it looks like all that's
+available is hospitality, which is quite a bit at my price range, unfortunately.
+And the confirmation email is in. So, that seems to be promising. Oh my God, I
+think I've got one, but it's only letting me buy one. So, I have to now go back
+in and try and get another one for my friend. But yeah, it'll only let you buy
+one at a time, but it looks like I've got one. So, Shari, two of them, Gina and
+Scott, they at least got tickets. I didn't get a ticket at all. So, the queue
+jumping didn't stop Gina and Scott, did it? No, but Gina wanted a £30 ticket and
+the only one she could get was a £380 standing up ticket. So, the bot users buy
+up the cheaper tickets because, of course, there's more profit when they resell
+them. Now, Scott didn't really mind what he paid. He was delighted. He spent
+£200 a ticket, so £400 overall. Do we know then how many of the Eurovision
+tickets were snapped up by touch yesterday? No, we have absolutely no idea at
+this stage, but we may be able to find out that later as time moves on. And we
+were watching in real time the Golden Circle succeeding in getting tickets quite
+frequently. And as Matt said, they're not even big players in this, although
+they want to be. Now, the impact on people who really genuinely love Eurovision
+and didn't get tickets has been significant. This is Andrew. He runs a
+Eurovision podcast called Eurobliss, and he has 5,000 listeners. And he spoke to
+me yesterday just after he realised that all the tickets had been sold. I don't
+know anybody who got a ticket for any of the nine shows. And I've got a huge
+lifelong circle of friends who have been pinging me all morning going, have you
+got a ticket? Where are you in the queue? This kind of thing. Which show are you
+going for? And I don't know anyone who's got a ticket. And how many of your
+wider circle do you think were going for them? Well, I've got 5,000 followers on
+Mixcloud. And I haven't had one email or one text message or anything from
+anybody saying they got any tickets to any of the shows. And how was your effort
+to get tickets for the shows today? We had the laptop, the iPad, two phones in
+our hotel room, and one of them clearly was actually working. The little blue
+line was going across the screen very, very slowly. It took about an hour and a
+half to get to the front of the queue. And then we got to the front of the queue
+for the family show, and there was just nothing available. During that time, we
+were on Twitter, and Twitter was telling us quite loudly that there was no
+tickets available. So, we just sort of persevered with the queue and knew at the
+end of the day that we weren't going to get anything, and we didn't. And we can
+show that these tickets are for sale on the secondary websites. How do you feel
+about the fact that you've been unable to get tickets, whilst people who are
+only buying them to make a profit have been able to get tickets? This isn't
+going to happen ever again, probably in my lifetime. So, it's like very, very,
+very distressing. I can deal with it because I did my best, and we were all here
+doing our thing. But at the same time, I'm absolutely gutted. And it's not just
+me, it's all my friends. So, that's Andrew with lots of listeners just emailing
+in, all popping up on my screen, just as we've been on air with similar real
+deep disappointment. This morning, we went to a long time campaigner against
+touting with what Shari has found. Stuart Galbraith is the chief executive of
+Kilimanjaro Live. It's one of the UK's largest event promoters. He's Ed
+Sheeran's promoter. Would you tell us then, what you make of the evidence that
+Shari Vahl and Reg Walker have revealed about these groups of people, including
+this group, the Golden Circle, who pay for access to software that targets the
+queuing systems for concerts and events like Eurovision, but Ed Sheeran too?
+We've long known that 90% of the touted tickets in the UK are controlled by a
+group of perhaps as few as 10 or 20 power sellers. And certainly for the last
+two years, we've very much been targeting those power sellers in an effort to
+restrict the number of tickets that they can get. What's the impact on fans? I
+mean, they argue, the people who do this, that they're just taking advantage of
+a marketplace in which some people are willing to pay way, way over the odds for
+something with a relatively low face value. Well, I mean, I think the argument
+that they're providing a public service really just fall flat because they're
+selling tickets at inflated prices when customers could quite legitimately be
+buying them at face value in many, many cases. When you look at what they're
+doing, their defence would be that the way the legislation's been framed is that
+it outlaws the use of bots to buy vast numbers of tickets. What these people are
+doing is buying their tickets in very small batches in the quantities that the
+venues allow, because venues allow you to buy a few tickets, don't they? So that
+you can buy for a small party or a group of family or friends. That's what
+they're doing. Yes, but the venues invariably are carrying out requests and
+instructions that come from the producer or the promoter of the event and in
+turn, therefore, the artist. If an event is set up carefully, you can actually
+apply terms and conditions to the ticket purchase that prevent it from being
+resold and the breach of those terms and conditions, therefore, tickets can be
+cancelled if we can find out who the people are and the tickets that they have.
+What will probably happen with these tickets that are bought using this queue
+jumping software is that the touts themselves will have to walk people through
+the barriers, something they've done for years, where tickets are attached to a
+single person's identity and the card they used, and then they'll just leave
+seats empty. So after all that queuing and demand and people paying thousands
+and thousands of pounds, artists will look out and see empty seats. Yes,
+unfortunately, that's also a negative impact on the fans and indeed, obviously,
+the artists and the venues themselves, because if touts can't shift their
+tickets at the inflated price that they want, invariably, they won't drop the
+ticket price because it then spoils their marketplace. And so by definition,
+therefore, not all the tickets that are purchased in bulk actually then get sold
+to customers. And there's always a proportion that are left unused. The
+secondary selling site, Viagogo, is the biggest reselling site in the world.
+It's told us many, many times before that it's doing nothing wrong and that by
+just providing a marketplace for people who can't go to a concert when they've
+bought tickets is not wrong. What do you say to that? What they are doing,
+they're allowing power sellers to use their platform with a court order that the
+CMA got against them some three to four years ago. That's the regulator, the
+Competition and Markets Authority. Correct, yes. And what it does allow us to do
+under that court order is we can then write to Viagogo when we see tickets that
+are illegally advertised and ask them to take them down. And invariably they do
+because they have to do so to comply with the court order. But that's a big job
+for you. Yes, it is. We have one now retained member of staff and that is all
+that they do. You are currently selling a pre-booking of Ed Sheeran's new album
+and with that purchase comes a kind of right, doesn't it, to get into the
+concerts. Now that's live at the moment and we know that these people with these
+queue jumping softwares are jumping the queue to pre-book that album. How does
+that make you feel? It makes us feel very frustrated because not only have we
+written in advance to all of the power sellers because we actually know who most
+of them are, we've also written to Viagogo and so the game of cat and mouse for
+us will start within the next 24 hours so that once we start to see tickets
+listed on Viagogo, we will be writing to Viagogo informing them that they're
+being listed against our terms and conditions and demanding that they take the
+advertising down. So if you have a lot of money to spend and you're tempted to
+buy an Ed Sheeran ticket on the secondary sales market, you would say don't?
+We'll try and stop you getting in? Yes, absolutely. And indeed, Ed is one of the
+clients that we work with that has particularly strong views that he wants his
+customers to attend the shows paying the face value of the ticket that we have
+advertised. And so we have now a long-standing policy with Ed's concerts that
+any tickets that we do see that we can identify will be cancelled and then re-
+put back into the system to be sold at face value. So anyone that buys a
+secondary ticket does so in breach of the terms and conditions and therefore
+risks not having access to the concert because that ticket will be cancelled.
+That's Stuart Galbraith. Well, yesterday I spoke to a politician who's done a
+lot of work to try to stop ticket touting online, the mass harvesting of tickets
+in that way. He's Kevin Brennan, the Labour MP for Cardiff West. He's on the
+House of Commons Select Committee for Culture, Media and Sport. And that
+committee's investigated ticket touting and it was its recommendations that led
+to the change in the law that we've been talking about. There were amendments
+introduced in the Digital Economy Act, which passed in 2017, which was meant to
+stop the bulk purchasing of tickets from the primary market for resale at a
+profit using bots and jump in the queue and so on. But I felt at the time that
+not strong enough provision was taken and people are either finding ways around
+it and claiming that what they're doing is legal or they are doing things which
+may well prove to be illegal. And we've also had companies like Viagogo who have
+been the subject of investigations and sanctions from the Competition and
+Markets Authority but are still operating and reselling tickets at vastly
+inflated prices, which they shouldn't really have hold of. What more can
+Parliament do about it? I'd like to see stronger measures taken to actually
+outlaw the practice of reselling on tickets at highly inflated prices beyond the
+face value. It's become the general practice these days that it's almost
+impossible for a genuine fan or consumer to obtain a ticket at the advertised
+face value price. And I think there should be a limit on what can be added if a
+ticket is sold in a secondary market. But what shouldn't happen is that prices
+should be allowed to be inflated to absolutely extortionate levels, which are
+just often putting money into the pocket of people who are not the artists or
+not the venues and so on, but are people who are simply in this business to tout
+tickets. Now just as we're speaking right this minute, so it is now Tuesday
+afternoon at ten past two on the Viagogo website, there is a ticket for sale at
+£8,849. Now if you tap on the face value of that ticket, it was £380. Yes, and
+so if you were somebody who had access to this software, you wouldn't have to
+have too many tickets in order to make quite a large sum of money. If you're
+making thousands of pounds profit on each ticket, people have become very
+sophisticated. This is not just, you know, the guy on the corner who's got a
+couple of tickets in his pockets. These are people using sophisticated software,
+changing all the time to try and get around the systems that are in place for
+the sale of tickets in order to exploit the system in this way and to bump
+genuine fans and consumers from the front of the queue to the back of the queue
+and take the tickets and resell them at a profit. Now what's interesting about
+this one, this particular seller, is that there are two tickets for sale and on
+one of those tickets it says meeting up with the seller, that you must meet with
+the seller, because they're using a loophole in the rules which says that you
+can buy tickets as a gift, providing that the person who purchased the ticket is
+with the party. So what will happen on the night is that a lot of these touts
+will walk groups of people through the barriers and then come out and there'll
+actually be tickets that are empty for something that people genuinely really
+wanted to see and were very excited about. And that's really shocking in and of
+itself and we've seen that if there isn't proper protection for tickets that it
+can end in tragedy as recently happened at the Brixton Academy at a gig there.
+So it's, you know, a matter of pretty outrageous practice that's ripping people
+off who are genuine fans, but it also can end up being dangerous. So I think
+there's a real need for much stronger action to be taken by government over
+this. Because really when you think about it, there are going to be computer
+programs that can get around anything, aren't there? So maybe your thought is
+then that you just ban the secondary sale of tickets at anything other than face
+value in the way they have done in some other countries? Personally, that is my
+view. I don't think you'll entirely, you know, deal with this problem until you
+make it clear that it is illegal. Because if you watch the videos of people who
+organize these harvesting practices, they are continually saying that, you know,
+what we're doing is frowned upon. It's not very popular with the people, but it
+isn't illegal technically. And they're looking at ways all the times you say to
+find loopholes that they can exploit. I think it would be much simpler if we
+said you advertise a ticket at a price and then if you want to resell it, you
+can't recover more than the administrative costs of doing so. What you can't do
+is use your superior knowledge of the technology in order to jump the queue and
+take tickets which should really be in the hands of fans who are genuine, who
+want to attend the event and should be able to do so at the price advertised.
+What's happened in other countries like Ireland then where it is banned? That's
+what's happened in Ireland and as I understand it, you know, that it's working
+reasonably well. There's always going to be problems. You know, people will
+always try and get around systems and so on. And there's a relatively new
+problem in the entertainment industry where in a way the industry itself is
+starting to tout its own tickets by using something, you know, called dynamic
+pricing or surge pricing. Effectively, you know, they're putting up the price of
+their own tickets. Well, anything of that kind, I think, should not be permitted
+in my view. I think everything should be transparent about this and we should be
+absolutely clear that if a ticket's advertised at a price, that's the price that
+you should be able to purchase it at. So as a politician who takes an interest
+in these matters, you said that you're shocked and saddened by what Shari Fahl
+has found. What will you be doing next? Well, I'm on the Culture, Media, Sports
+Select Committee and I'm certainly going to be encouraging my colleagues to take
+a fresh look at this because technology has moved on and clearly the problem
+hasn't been solved. And will you be raising it at Prime Minister's Questions?
+Yes, I'll be raising this at Prime Minister's Questions because I do think the
+government need to act and need to commit themselves to ensuring that fans get a
+fair deal. That was Kevin Brennan MP yesterday and just while we've been on air,
+he has raised what Shari Fahl has uncovered in the House of Commons during Prime
+Minister's Questions. BBC Radio 4's You and Yours have exposed Q-Jump-In online
+touts who've been buying up Eurovision tickets and putting them on sale for
+thousands of pounds on dodgy sites like Viagogo. In this year when we are
+hosting Eurovision on behalf of war-ravaged Ukraine, this latest example of
+rampant rip-off culture in Tory Britain is particularly, particularly,
+particularly despicable. Why hasn't his government done more to support genuine
+fans over the rip-off merchants, the spribs and the ticket touts? Well Mr
+Speaker, actually we will continue, we have put in place measures to combat
+ticket touting. I'm happy to look at the documentary that he mentioned and make
+sure that we're doing everything we can do and I'll talk to the Home Secretary
+about it but more generally it is a source of enormous pride for us to host
+Eurovision. I know it's something that everyone is looking forward to and we
+should ensure that there is as broad as possible access to seeing that and we'll
+do everything we can to make sure that that happens. So that was the Prime
+Minister a few minutes ago, Shari, promising that he will listen to this
+programme. I wonder if he'll have time anyway, the intent's there. What will you
+do next? What happens now with what you've discovered for you? Well one of the
+things you mentioned just now was dynamic pricing. Actually it was Kevin Brennan
+who mentioned dynamic pricing. I just want to explain what that is. The primary
+ticket sellers like Ticketmaster are using this thing called dynamic pricing. So
+if you think about when you want to go for a flight, if you book a flight early
+you get a cheaper ticket. And rail tickets. And rail tickets, yeah. So they're
+using that in these tickets for events. Now the thing is of course if you've got
+queue jumping software you get in much more quickly so you get the cheaper
+tickets. Oh so it'll be everywhere? Yeah but the touts get the tickets earlier
+because they've got queue jumping software. I want to find out for definite if
+any of this is legal. Shari Val, thank you so much and congratulations on what
+you've managed to do. Thank you. Well something else we were going to have a
+look at, we're definitely going to have a look at in the future, that we want
+your help with is this. On Radio 4 and 5 Live we're going to take an in-depth
+look at rented housing and all the problems that surround it. We want to hear
+your stories so that we can build up a picture from you about the current state
+of the UK rental market. If you're a tenant tell us what impact the cost of
+renting is having on you. If something goes wrong is it dealt with for you. If
+you're a landlord get in touch tell us about the pressures that you are under.
+If you're looking for somewhere to rent how easy is that? We'll be assigning our
+best journalist to investigate some of your stories and then you can hear them
+all as part of Rental Health, the Rental Health Project at the end of March, so
+that's the end of this month. Do get involved please in our big conversation
+about renting. Email us youandyours at bbc.co.uk. We're out of time again today.
+On the programme tomorrow our gap finder is Michelle Feeney. She has set up a
+British perfume company, it's called Floral Street and then it's Sliced Bread
+and this week Greg Foot will be investigating whether natural sleep aids like
+herbal teas, tablets and oil source sprays can really help people drift off. So
+that's tomorrow. Thank you for all the emails and messages that you've been
+sending while the programme has been going on. Shari Vahl is going to take
+another look at this whole problem really soon. Thanks for listening today. You
+and Yours was produced by Kevin Mosley. The studio managers were Amy Brennan and
+Colin Sutton. Time for a check on the snow and the rest of the weather and
+keeping warm in the studio is Thomas Schabenacker. I certainly am just about. It
+was different this morning though. It really has been a very wintry mix so far
+across more southern parts of the UK. Tomorrow the snow will affect more
+northern parts of the country. But let's concentrate on the here and now because
+of course many of us have actually not had the snow at all. In fact the closer
+you are to the south coast of England the wetter it's been. The snow has been
+generally north of the M4 although we have had some snow around Dartmoor and
+Exmoor as well. But I think through the course of at least the rest of today the
+snow will be concentrated more across parts of Wales, the Midlands and it should
+actually peter out as we go through the course of this evening. It may clip some
+southern counties, perhaps areas to the north of the M4, perhaps north London as
+well come the evening. But I think generally speaking the further south you are
+it's more likely to be rain. And of course it's a cold day where it's snowing,
+drizzling, it's just a few degrees above freezing. Totally different story
+further north across the country. In fact across Northern Ireland and Scotland
+we've had some sunny spells so far and at the moment it's actually not bad at
+all in Northern Ireland. The southwest of Scotland the sun's out but it is on
+the chilly side. Last night was really really cold in the North Highlands
+temperatures dipped to minus 15.4 degrees Celsius. Such is the cold air from the
+Arctic. So what can we expect then tonight and into tomorrow? Well snow is on
+the way. It should reach northern parts of Wales early hours of the morning then
+spread into north-western England and snow will affect the Pennines and
+generally northern England probably from about the Peak District northwards.
+Could be a lot of snow come the end of the day tomorrow across the higher ground
+possibly as much as 20 to 40 centimetres but for most of us a lot less than
+that. Keep track of the weather and take care. Thanks Thomas. We'll try to do
+that. I've got my thermals on. Now it's time to look ahead to Friday with Andrea
+Catherwood. Radio 4's feedback airs your thoughts and questions on BBC radio
+programmes. It made it impossible to not stop and listen to it thoroughly. I
+don't think the BBC should be assuming everybody in the country feels like that.
+We take you behind the scenes of how programmes get made. I absolutely agree
+there's always a balance to strike. And we hold the BBC to account on your
+behalf on the biggest stories of the day. You fail by not covering and
+explaining the issues for the public. Join me Andrea Catherwood for a new series
+of feedback starting this Friday afternoon at 4.30 on Radio 4 and BBC Sounds on
+92 to 95 FM 192.
